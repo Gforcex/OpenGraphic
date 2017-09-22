@@ -2,16 +2,23 @@
 Graphic Engine &amp; Game Engine open source list！
 
 ## Engine
-* [Klayag](https://github.com/gongminmin/KlayGE)
-* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
-* [XLE](https://github.com/xlgames-inc/XLE)
-* [oryol](https://github.com/floooh/oryol)
-* [WickedEngine](https://github.com/turanszkij/WickedEngine)
+* [Lumberyard](https://github.com/aws/lumberyard)
+* [Klayag](https://github.com/gongminmin/KlayGE)
 * [BRE12](https://github.com/nbertoa/BRE12)
-* [xenko](https://github.com/SiliconStudio/xenko)
-* [bgfx](https://github.com/bkaradzic/bgfx)
+* [WickedEngine](https://github.com/turanszkij/WickedEngine)
+* [XLE](https://github.com/xlgames-inc/XLE)
+* [BRE12](https://github.com/nbertoa/BRE12)
+* [xenko](https://github.com/SiliconStudio/xenko) -Enlighten's company
+* [bgfx](https://github.com/bkaradzic/bgfx) -Orthodox C++ coding style and like OpenGL APIs 
+* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+* [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
+* [armory](https://github.com/armory3d/armory)  -3D Game Engine for Blender 
+* [cesium](https://github.com/AnalyticalGraphicsInc/cesium)
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [gkEngine](https://github.com/gameknife/gkEngine)
+* [OpenSWR](http://openswr.org/)  - soft renderer
 
 ## Nature
 #### Water
