@@ -24,6 +24,11 @@ Graphic Engine &amp; Game Engine open source list！
 #### Water
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)
 #### Snow
+* [SnowSimulation](https://github.com/hubi037/SnowSimulation)
+* [UnrealSnow](https://github.com/bneukom/UnrealSnow)
+* [Snowshader](https://github.com/RenV123/Snowshader)
+* [snow](https://github.com/Azmisov/snow)
+
 #### Sand
 #### Grass
 #### Tree
@@ -33,13 +38,24 @@ Graphic Engine &amp; Game Engine open source list！
 #### Skin
 #### Eye
 #### Hair
+* [TressFX](https://github.com/GPUOpen-Effects/TressFX)
+
 #### Colth
 
 ## GI
 #### SVO
+* [](https://github.com/kbladin/Voxel_Cone_Tracing)
+* [](https://github.com/Cigg/Voxel-Cone-Tracing)
+* [](https://github.com/domme/VoxelConeTracing)
+
 #### LPV
+* [](https://github.com/djbozkosz/Light-Propagation-Volumes)
+
+#### PRT
+* [](https://github.com/pramanc/precomputed-radiance-transfer)
 #### PhotonMapping
 #### Reflection
+* [kode80SSR](https://github.com/kode80/kode80SSR)
 #### Caustic
 #### Shadow
 #### AO
@@ -48,3 +64,48 @@ Graphic Engine &amp; Game Engine open source list！
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
 
 ## Ray Trace
+* [embree](https://github.com/embree/embree)
+* [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK)
+
+## Soft Renderer
+* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa)
+
+## PBR
+* [brdf](https://github.com/wdas/brdf)
+* [IBLBaker](https://github.com/derkreature/IBLBaker)
+
+## RayMarch
+* [ray-march](https://github.com/lightbits/ray-march)
+
+## SDF
+* [distancefield-unity](https://github.com/kvantetore/distancefield-unity)
+* [Typogenic](https://github.com/Chman/Typogenic)
+* [SDF](https://github.com/memononen/SDF)
+
+## Math
+* [MathGeoLib](https://github.com/juj/MathGeoLib)
+* [dyn4j](https://github.com/wnbittle/dyn4j)
+* [sh-lib](https://github.com/andrewwillmott/sh-lib)
+* [spherical-harmonics](https://github.com/google/spherical-harmonics)
+* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+* [DirectXMath](https://github.com/Microsoft/DirectXMath)
+
+## Physics
+* [bullet](https://github.com/bulletphysics/bullet3)
+
+## Tools
+* [u4pak](https://github.com/panzi/u4pak)
+* [renderdoc](https://github.com/baldurk/renderdoc)
+* [imgui](https://github.com/ocornut/imgui)
+* [assimp](https://github.com/assimp/assimp)
+* [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
+
+## Sample
+* [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
+* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments)
+* [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
+* [Vulkan](https://github.com/SaschaWillems/Vulkan)
+* [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan)
+
+## VR&AR
+* [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
