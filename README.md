@@ -20,6 +20,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [gkEngine](https://github.com/gameknife/gkEngine)
 * [OpenSWR](http://openswr.org/)  - soft renderer
 * [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil)
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor)
 
 ## Nature
 #### Water
@@ -48,6 +49,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds)
 * [clouds](https://github.com/greje656/clouds)
+
 ## Environment
 #### VolumetricLight
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights)
@@ -80,27 +82,24 @@ Graphic Engine &amp; Game Engine open source list！
 * [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
 * [dirtchamber](https://github.com/thefranke/dirtchamber)
 * [RTGI](https://github.com/jazzboysc/RTGI)
-
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
 * [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
 * [VCTGI](https://github.com/rdinse/VCTGI)
-
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
-
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
-
 #### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
 * [BakingLab](https://github.com/TheRealMJP/BakingLab)
-
+#### RayTrace
+* [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
 #### Reflection
 * [kode80SSR](https://github.com/kode80/kode80SSR)
 * [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
@@ -110,8 +109,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 #### AO
 * [PBGI](https://github.com/XT95/PBGI)
-#### SSS
-* [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 
 ## PostProcessing 
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
@@ -124,8 +121,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Shader Effect
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 
-## Ray Trace
-#### Lib
+## Ray Trace Lib
 * [embree](https://github.com/embree/embree)
 * [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK)
 * [RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRender-Baikal)
@@ -137,13 +133,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [ospray](https://github.com/ospray/ospray)
 * [gotham](https://github.com/jaredhoberock/gotham)
 * [tungsten](https://github.com/tunabrain/tungsten)
-
-#### Demo
-* [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
-* [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
-* [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
-* [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
-* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter)
 
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa)
@@ -157,18 +146,29 @@ Graphic Engine &amp; Game Engine open source list！
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
 
 ## PBR
+* [physhader-for-mantra](https://github.com/groundflyer/physhader-for-mantra)
+#### Camera
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
+#### BRDF
 * [brdf](https://github.com/wdas/brdf)
 * [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
 * [IBLBaker](https://github.com/derkreature/IBLBaker)
+* [Lux](https://github.com/larsbertram69)
+* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
+#### IBL
 * [Probulator](https://github.com/kayru/Probulator)
 * [yocto-gl](https://github.com/xelatihy/yocto-gl)
 * [IBLGGX](https://github.com/tuccio/IBLGGX)
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
-* [Lux](https://github.com/larsbertram69)
 * [ray-mmd](https://github.com/ray-cast/ray-mmd)
-* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
+#### BSSRDF
+* [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
+* [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
+* [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
+* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter)
+#### SSS
+* [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 
 ## NPL
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -226,30 +226,35 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 
 ## Tools
+#### UE4
 * [u4pak](https://github.com/panzi/u4pak)
 * [UModel](https://github.com/gildor2/UModel)
-* [renderdoc](https://github.com/baldurk/renderdoc)
-* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
-* [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
+#### Unity
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
-* [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
-* [gaffer](https://github.com/GafferHQ/gaffer)
-* [cortex](https://github.com/ImageEngine/cortex)
-* [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d)
-* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)
+#### Shader
+* [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
-* [nshader](https://github.com/samizzo/nshader)
-* [CodeXL](https://github.com/GPUOpen-Tools/CodeXL)
+* [nshader](https://github.com/samizzo/nshader) Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages
+#### Visual Effects
+* [gaffer](https://github.com/GafferHQ/gaffer)
+* [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
+#### GPU Debug
+* [renderdoc](https://github.com/baldurk/renderdoc)
+* [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
+* [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
  
 ## Util
 * [imgui](https://github.com/ocornut/imgui)
+* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
 * [assimp](https://github.com/assimp/assimp)
 * [dotween](https://github.com/Demigiant/dotween)
-* [stb](https://github.com/nothings/stb)
-* [easy_profiler](https://github.com/yse/easy_profiler)
-* [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
+* [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
+* [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
+* [easy_profiler](https://github.com/yse/easy_profiler)
+* [stb](https://github.com/nothings/stb)
 * [debug-draw](https://github.com/glampert/debug-draw)
+* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 
 ## Sample
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
@@ -262,14 +267,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [nvpro-samples](https://github.com/nvpro-samples)
 * [GodComplex](https://github.com/Patapom/GodComplex)
 
-## Other
+## Graphics&ShaderEffect Set
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics)
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
 * [reshade-shaders](https://github.com/crosire/reshade-shaders)
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
 * [herebedragons](https://github.com/kosua20/herebedragons)
-* [physhader-for-mantra](https://github.com/groundflyer/physhader-for-mantra)
+
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
