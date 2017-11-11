@@ -48,7 +48,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [volsample](https://github.com/huwb/volsample)
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds)
-* [clouds](https://github.com/greje656/clouds)
+* [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
 
 ## Environment
 #### VolumetricLight
@@ -82,6 +82,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
 * [dirtchamber](https://github.com/thefranke/dirtchamber)
 * [RTGI](https://github.com/jazzboysc/RTGI)
+* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
@@ -92,9 +93,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
+#### Point Based GI
+* [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
 #### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
+* [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
 * [BakingLab](https://github.com/TheRealMJP/BakingLab)
@@ -108,7 +112,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [Shadows](https://github.com/TheRealMJP/Shadows)
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 #### AO
-* [PBGI](https://github.com/XT95/PBGI)
 
 ## PostProcessing 
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
@@ -118,20 +121,20 @@ Graphic Engine &amp; Game Engine open source list！
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
 * [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
+* [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
 ## Shader Effect
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 
 ## Ray Trace Lib
 * [embree](https://github.com/embree/embree)
-* [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK)
-* [RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRender-Baikal)
+* [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [nori](https://github.com/wjakob/nori)
 * [nanort](https://github.com/lighttransport/nanort)
 * [appleseed](https://github.com/appleseedhq/appleseed)
 * [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
 * [taichi](https://github.com/yuanming-hu/taichi)
 * [ospray](https://github.com/ospray/ospray)
-* [gotham](https://github.com/jaredhoberock/gotham)
+* [gotham](https://github.com/jaredhoberock/gotham) Photorealistic Renderer based on Unbiased Rendering Algorithms
 * [tungsten](https://github.com/tunabrain/tungsten)
 
 ## Soft Renderer
@@ -147,6 +150,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## PBR
 * [physhader-for-mantra](https://github.com/groundflyer/physhader-for-mantra)
+* [ray-mmd](https://github.com/ray-cast/ray-mmd)
 #### Camera
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
 #### BRDF
@@ -158,10 +162,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 #### IBL
 * [Probulator](https://github.com/kayru/Probulator)
-* [yocto-gl](https://github.com/xelatihy/yocto-gl)
 * [IBLGGX](https://github.com/tuccio/IBLGGX)
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
-* [ray-mmd](https://github.com/ray-cast/ray-mmd)
 #### BSSRDF
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
@@ -169,6 +171,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter)
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
+#### File Format
+* [yocto-gl](https://github.com/xelatihy/yocto-gl)
 
 ## NPL
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -197,7 +201,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [DirectXMath](https://github.com/Microsoft/DirectXMath)
 * [geomc](https://github.com/trbabb/geomc)
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp)
-* [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook)
 
 ## Image&Color
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces)
@@ -220,7 +223,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [bullet](https://github.com/bulletphysics/bullet3)
 * [OPCODE](https://github.com/nitrocaster/OPCODE)
 * [tbb_liquid_amgpcg](https://github.com/zhxx1987/tbb_liquid_amgpcg)
-* [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
+* [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
+* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter)
+* [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 
 ## Animation
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
@@ -241,7 +246,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc)
 * [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
-* [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+* [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
  
 ## Util
 * [imgui](https://github.com/ocornut/imgui)
@@ -258,13 +263,12 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Sample
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
-* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments)
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
 * [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan)
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
-* [nvpro-samples](https://github.com/nvpro-samples)
+* [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
 * [GodComplex](https://github.com/Patapom/GodComplex)
 
 ## Graphics&ShaderEffect Set
