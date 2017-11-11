@@ -122,8 +122,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
+* [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
 ## Shader Effect
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
+* [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 
 ## Ray Trace Lib
 * [embree](https://github.com/embree/embree)
@@ -147,6 +149,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [light-indexed](https://github.com/wibbe/light-indexed)
 * [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender)
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
+* [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
 
 ## PBR
 * [physhader-for-mantra](https://github.com/groundflyer/physhader-for-mantra)
@@ -159,6 +162,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
 * [IBLBaker](https://github.com/derkreature/IBLBaker)
 * [Lux](https://github.com/larsbertram69)
+* [Alloy](https://github.com/Josh015/Alloy)
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 #### IBL
 * [Probulator](https://github.com/kayru/Probulator)
@@ -240,6 +244,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
 * [nshader](https://github.com/samizzo/nshader) Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages
+#### ShaderToy
+* [shader-toy](https://github.com/stevensona/shader-toy)
+* [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
 #### Visual Effects
 * [gaffer](https://github.com/GafferHQ/gaffer)
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
