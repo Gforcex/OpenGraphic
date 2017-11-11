@@ -157,6 +157,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
 
 ## PBR
+* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
 * [brdf](https://github.com/wdas/brdf)
 * [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
@@ -167,6 +168,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
 * [Lux](https://github.com/larsbertram69)
 * [ray-mmd](https://github.com/ray-cast/ray-mmd)
+* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 
 ## NPL
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -187,7 +189,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SDF](https://github.com/memononen/SDF)
 
 ## Math
-* [MathGeoLib](https://github.com/juj/MathGeoLib)
+* [MathGeoLib](https://github.com/juj/MathGeoLib)
 * [dyn4j](https://github.com/wnbittle/dyn4j)
 * [sh-lib](https://github.com/andrewwillmott/sh-lib)
 * [spherical-harmonics](https://github.com/google/spherical-harmonics)
@@ -223,22 +225,16 @@ Graphic Engine &amp; Game Engine open source list！
 ## Animation
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 
-## AI
-* [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
-* [ReGoap](https://github.com/luxkun/ReGoap)
-* [UnitySteer](https://github.com/ricardojmendez/UnitySteer)
-
 ## Tools
 * [u4pak](https://github.com/panzi/u4pak)
 * [UModel](https://github.com/gildor2/UModel)
 * [renderdoc](https://github.com/baldurk/renderdoc)
-* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects)
+* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
 * [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
 * [gaffer](https://github.com/GafferHQ/gaffer)
 * [cortex](https://github.com/ImageEngine/cortex)
-* [Emmagee](https://github.com/NetEase/Emmagee)
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d)
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)
 * [glslang](https://github.com/KhronosGroup/glslang)
@@ -269,12 +265,10 @@ Graphic Engine &amp; Game Engine open source list！
 ## Other
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics)
-* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
 * [reshade-shaders](https://github.com/crosire/reshade-shaders)
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
 * [herebedragons](https://github.com/kosua20/herebedragons)
-* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 * [physhader-for-mantra](https://github.com/groundflyer/physhader-for-mantra)
 
 ## VR&AR
