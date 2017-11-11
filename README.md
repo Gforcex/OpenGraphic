@@ -19,19 +19,26 @@ Graphic Engine &amp; Game Engine open source list！
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [gkEngine](https://github.com/gameknife/gkEngine)
 * [OpenSWR](http://openswr.org/)  - soft renderer
+* [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil)
 
 ## Nature
 #### Water
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)
 * [](https://github.com/UE4-OceanProject/OceanProject)
 * [](https://github.com/ufna/VaOcean)
+* [](https://github.com/jbouny/fft-ocean)
+* [](https://github.com/dbrizov/Unity-WaterBuoyancy)
+* [](https://github.com/eliasts/Ocean_Community_Next_Gen)
 #### Snow
 * [SnowSimulation](https://github.com/hubi037/SnowSimulation)
+* [SnowDeformation](https://github.com/vanish87/SnowDeformation)
 * [UnrealSnow](https://github.com/bneukom/UnrealSnow)
 * [Snowshader](https://github.com/RenV123/Snowshader)
 * [snow](https://github.com/Azmisov/snow)
 * [DeformationGPU](https://github.com/hsdk/DeformationGPU)
-
+* [DeepSnowFootprint](https://github.com/ZGeng/DeepSnowFootprint)
+* [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow)
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender)
 #### Sand
 #### Grass
 #### Tree
@@ -39,6 +46,8 @@ Graphic Engine &amp; Game Engine open source list！
 #### Cloud
 * [](https://github.com/huwb/volsample)
 * [](https://github.com/kode80/kode80CloudsUnity3D)
+* [](https://github.com/Flafla2/Raymarch-Clouds)
+* [](https://github.com/greje656/clouds)
 ## Environment
 #### VolumetricLight
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights)
@@ -46,15 +55,19 @@ Graphic Engine &amp; Game Engine open source list！
 * [OutdoorLightScattering](https://github.com/GameTechDev/OutdoorLightScattering)
 * [Scattering_Demos](https://github.com/yoyonel/Scattering_Demos)
 * [](https://github.com/yoyonel/Volumetric_Dynamic_Lights)
+* [](https://github.com/Unity-Technologies/VolumetricLighting)
 #### Atmospheric
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering)
 * [Scatterer](https://github.com/LGhassen/Scatterer)
+* [AtmosphericScattering](https://github.com/yangzhengxing/AtmosphericScattering)
 #### Fog
 
 ## Human
 #### Skin
 * [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf)
-* [](https://github.com/patwonder/skinparam)
+* [skinparam](https://github.com/patwonder/skinparam)
+* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS)
+* [separable-sss](https://github.com/iryoku/separable-sss)
 #### Eye
 #### Hair
 * [TressFX](https://github.com/GPUOpen-Effects/TressFX)
@@ -68,6 +81,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [](https://github.com/Wumpf/DynamicRadianceVolume)
 * [](https://github.com/thefranke/dirtchamber)
 * [](https://github.com/jazzboysc/RTGI/tree/master/Sample)
+* [](https://github.com/sonicether/SEGI)
 #### SVO
 * [](https://github.com/kbladin/Voxel_Cone_Tracing)
 * [](https://github.com/Cigg/Voxel-Cone-Tracing)
@@ -81,17 +95,23 @@ Graphic Engine &amp; Game Engine open source list！
 * [](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
 
 #### PRT
-* [](https://github.com/pramanc/precomputed-radiance-transfer)
+* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
+* [SHTest](https://github.com/dwilliamson/SHTest)
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
+* [BakingLab](https://github.com/TheRealMJP/BakingLab)
 
 #### Reflection
 * [kode80SSR](https://github.com/kode80/kode80SSR)
+* [](https://github.com/cCharkes/StochasticScreenSpaceReflection)
 #### Caustic
 #### Shadow
 * [Shadows](https://github.com/TheRealMJP/Shadows)
+* [](https://github.com/TheMasonX/UnityPCSS)
 #### AO
 * [PBGI](https://github.com/XT95/PBGI)
+#### SSS
+* [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 
 ## PostProcessing 
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
@@ -99,11 +119,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [temporal](https://github.com/playdeadgames/temporal)
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects)
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
-* [](https://github.com/greje656/PhysicallyBasedLensFlare)
+* [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
+* [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
+
 ## Ray Trace
 #### Lib
 * [embree](https://github.com/embree/embree)
 * [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK)
+* [RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRender-Baikal)
 * [nori](https://github.com/wjakob/nori)
 * [nanort](https://github.com/lighttransport/nanort)
 * [appleseed](https://github.com/appleseedhq/appleseed)
@@ -118,6 +141,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [](https://github.com/ykcadcg/SingleScatteringEditing)
 * [](https://github.com/sohilshah2/asst5_bidirectional_pathtracer/tree/master/src)
 * [](https://github.com/dnx4015/pbrt-importance-sampling)
+* [](https://github.com/eugenedeon/hitchhikersscatter)
 
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa)
@@ -133,9 +157,14 @@ Graphic Engine &amp; Game Engine open source list！
 ## PBR
 * [brdf](https://github.com/wdas/brdf)
 * [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
+* [](https://github.com/Corralx/BRDFExplorer)
 * [IBLBaker](https://github.com/derkreature/IBLBaker)
 * [](https://github.com/kayru/Probulator)
 * [Lux](https://github.com/larsbertram69)
+* [](https://github.com/xelatihy/yocto-gl)
+* [](https://github.com/tuccio/IBLGGX)
+* [](https://github.com/ray-cast/ray-mmd)
+* [](https://github.com/knarkowicz/IntegrateDFG)
 
 ## NPL
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
@@ -143,6 +172,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Voxel
 * [](https://github.com/bw2012/UE4VoxelTerrain)
 * [](https://github.com/karimnaaji/voxelizer)
+* [](https://github.com/jknightdoeswork/gpu-physics-unity)
 
 ## RayMarch
 * [ray-march](https://github.com/lightbits/ray-march)
@@ -162,7 +192,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 * [DirectXMath](https://github.com/Microsoft/DirectXMath)
 * [geomc](https://github.com/trbabb/geomc)
+* [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp)
+* [](https://github.com/gszauer/GamePhysicsCookbook)
 
+## Image&Color
+* [](https://github.com/tobspr/GLSL-Color-Spaces)
+* [](https://github.com/SixLabors/ImageSharp)
+* [](https://github.com/mcraiha/Dithering-Unity3d)
 
 ## Noise
 * [](https://github.com/sebh/TileableVolumeNoise)
@@ -171,26 +207,31 @@ Graphic Engine &amp; Game Engine open source list！
 * [](https://github.com/BrianSharpe/GPU-Noise-Lib)
 
 ## SceneManage
-* [](https://github.com/Nition/UnityOctree)
+* [UnityOctree](https://github.com/Nition/UnityOctree)
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
+* [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine)
+* [Janua](https://github.com/gigc/Janua)
 
 ## Physics
 * [bullet](https://github.com/bulletphysics/bullet3)
 * [OPCODE](https://github.com/nitrocaster/OPCODE)
 * [](https://github.com/zhxx1987/tbb_liquid_amgpcg)
+* [](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
 
 ## Animation
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 * [](https://github.com/ricardojmendez/UnitySteer)
 
 ## AI
-* [](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
+* [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
+* [ReGoap](https://github.com/luxkun/ReGoap)
 
 ## Tools
 * [u4pak](https://github.com/panzi/u4pak)
 * [UModel](https://github.com/gildor2/UModel)
 * [renderdoc](https://github.com/baldurk/renderdoc)
 * [imgui](https://github.com/ocornut/imgui)
+* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects)
 * [assimp](https://github.com/assimp/assimp)
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
@@ -206,6 +247,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [](https://github.com/PixarAnimationStudios/OpenSubdiv)
 * [](https://github.com/KhronosGroup/glslang)
 * [](https://github.com/neuecc/ZeroFormatter)
+* [](https://github.com/samizzo/nshader)
+* [](https://github.com/glampert/debug-draw)
+* [](https://github.com/GPUOpen-Tools/CodeXL)
 
 ## Sample
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
@@ -217,6 +261,18 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
 * [nvpro-samples](https://github.com/nvpro-samples)
 * [GodComplex](https://github.com/Patapom/GodComplex)
+
+## Other
+* [](https://github.com/mattdesl/graphics-resources)
+* [](https://github.com/ericjang/awesome-graphics)
+* [](https://github.com/Unity-Technologies/Physical-Camera)
+* [](https://github.com/bobcao3/Wisdom-Shaders)
+* [](https://github.com/crosire/reshade-shaders)
+* [](https://github.com/robobo1221/robobo1221Shaders)
+* [](https://github.com/kosua20/herebedragons)
+* [](https://github.com/Kink3d/AnisotropicStandardShader)
+* [](https://github.com/danielzeller/MetaBlob)
+* [](https://github.com/groundflyer/physhader-for-mantra)
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
