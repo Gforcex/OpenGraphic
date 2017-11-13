@@ -60,8 +60,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting)
 #### Atmospheric
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering)
-* [Scatterer](https://github.com/LGhassen/Scatterer)
 * [AtmosphericScattering](https://github.com/yangzhengxing/AtmosphericScattering)
+* [Scatterer](https://github.com/LGhassen/Scatterer)
+* [precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) Eric Bruneton, 2017
+* [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017
 #### Fog
 
 ## Human
