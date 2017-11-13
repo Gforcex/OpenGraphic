@@ -165,11 +165,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [brdf](https://github.com/wdas/brdf)
 * [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
-* [IBLBaker](https://github.com/derkreature/IBLBaker)
 * [Lux](https://github.com/larsbertram69)
 * [Alloy](https://github.com/Josh015/Alloy)
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 #### IBL
+* [IBLBaker](https://github.com/derkreature/IBLBaker)
+* [cmftStudio](https://github.com/dariomanesku/cmftStudio)
 * [Probulator](https://github.com/kayru/Probulator)
 * [IBLGGX](https://github.com/tuccio/IBLGGX)
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
