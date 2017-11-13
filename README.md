@@ -6,21 +6,23 @@ Graphic Engine &amp; Game Engine open source list！
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
 * [Lumberyard](https://github.com/aws/lumberyard)
 * [Klayag](https://github.com/gongminmin/KlayGE)
-* [BRE12](https://github.com/nbertoa/BRE12)
-* [WickedEngine](https://github.com/turanszkij/WickedEngine)
-* [XLE](https://github.com/xlgames-inc/XLE)
-* [BRE12](https://github.com/nbertoa/BRE12)
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [Ogre](https://github.com/ogrecave) ogre github mirror
+* [WickedEngine](https://github.com/turanszkij/WickedEngine) with Voxel-based Global Illumination
 * [xenko](https://github.com/SiliconStudio/xenko) -Enlighten's company
 * [bgfx](https://github.com/bkaradzic/bgfx) -Orthodox C++ coding style and like OpenGL APIs 
-* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
-* [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
-* [armory](https://github.com/armory3d/armory)  -3D Game Engine for Blender 
-* [cesium](https://github.com/AnalyticalGraphicsInc/cesium)
-* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
+* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
+* [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
 * [gkEngine](https://github.com/gameknife/gkEngine)
-* [OpenSWR](http://openswr.org/)  - soft renderer
-* [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil)
-* [Falcor](https://github.com/NVIDIAGameWorks/Falcor)
+* [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) Anvil is a cross-platform framework for Vulkan, AMD
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
+* [XLE](https://github.com/xlgames-inc/XLE) the engine's blog is good about  Spherical Harmonics
+* [BRE12](https://github.com/nbertoa/BRE12) a rendering framework [Blog](https://nbertoa.wordpress.com/)
+
+## Engine Plugin
+* [armory](https://github.com/armory3d/armory)  -3D Game Engine for Blender
+* [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
+* [ray-mmd](https://github.com/ray-cast/ray-mmd) physically-based rendering at mikumikudance
 
 ## Nature
 #### Water
@@ -115,6 +117,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 #### AO
 * [NNAO](https://github.com/simeonradivoev/NNAO)
+* [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
+* [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
 
 ## PostProcessing 
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
@@ -145,9 +149,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [tungsten](https://github.com/tunabrain/tungsten)
 
 ## Soft Renderer
-* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa)
+* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
 * [miaow](https://github.com/VerticalResearchGroup/miaow)
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)
+* [coco3d](http://coco3d.codeplex.com/)
 
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
@@ -158,7 +163,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
 
 ## PBR
-* [ray-mmd](https://github.com/ray-cast/ray-mmd)
 #### Camera
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
 #### BRDF
