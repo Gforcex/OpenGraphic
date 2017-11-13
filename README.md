@@ -114,6 +114,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Shadows](https://github.com/TheRealMJP/Shadows)
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 #### AO
+* [NNAO](https://github.com/simeonradivoev/NNAO)
 
 ## PostProcessing 
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
@@ -128,6 +129,8 @@ Graphic Engine &amp; Game Engine open source list！
 ## Shader Effect
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
+* [FlatShader](https://github.com/cjurjiu/FlatShader)
+* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
 
 ## PBR RayTrace
 * [embree](https://github.com/embree/embree)
@@ -144,6 +147,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa)
 * [miaow](https://github.com/VerticalResearchGroup/miaow)
+* [tinyrenderer](https://github.com/ssloy/tinyrenderer)
 
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
@@ -241,6 +245,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UModel](https://github.com/gildor2/UModel)
 #### Unity
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
+* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer)
 #### Shader
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
