@@ -129,7 +129,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 
-## Ray Trace Lib
+## PBR RayTrace
 * [embree](https://github.com/embree/embree)
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [nori](https://github.com/wjakob/nori)
@@ -154,7 +154,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
 
 ## PBR
-* [physhader-for-mantra](https://github.com/groundflyer/physhader-for-mantra)
 * [ray-mmd](https://github.com/ray-cast/ray-mmd)
 #### Camera
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
@@ -260,7 +259,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Util
 * [imgui](https://github.com/ocornut/imgui)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
-* [assimp](https://github.com/assimp/assimp)
+* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
 * [dotween](https://github.com/Demigiant/dotween)
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
