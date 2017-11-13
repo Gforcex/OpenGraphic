@@ -260,7 +260,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [imgui](https://github.com/ocornut/imgui)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
-* [dotween](https://github.com/Demigiant/dotween)
+* [dotween](https://github.com/Demigiant/dotween)
 * [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
 * [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
