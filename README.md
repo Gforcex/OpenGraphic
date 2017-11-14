@@ -284,6 +284,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
+* [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
 * [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan)
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
@@ -293,6 +294,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
 * [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)
+* [powervr-graphics](https://github.com/powervr-graphics)
+* [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples)
 
 ## Graphics&ShaderEffect Set
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
