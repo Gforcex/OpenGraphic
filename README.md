@@ -280,6 +280,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 
 ## Sample
+### API Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
@@ -287,7 +288,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
+### Graphic Samples
 * [GodComplex](https://github.com/Patapom/GodComplex)
+* [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
+* [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
+* [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)
 
 ## Graphics&ShaderEffect Set
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
