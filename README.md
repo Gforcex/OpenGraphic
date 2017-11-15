@@ -149,12 +149,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [libWetHair](https://github.com/nepluno/libWetHair)
 #### Colth
 
-## Shader Effect
-* [MetaBlob](https://github.com/danielzeller/MetaBlob)
-* [gl-transitions](https://github.com/gl-transitions/gl-transitions)
-* [FlatShader](https://github.com/cjurjiu/FlatShader)
-* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
-
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
 * [miaow](https://github.com/VerticalResearchGroup/miaow)
@@ -236,16 +230,18 @@ Graphic Engine &amp; Game Engine open source list！
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine)
 * [Janua](https://github.com/gigc/Janua)
 
-## Physics
-* [bullet](https://github.com/bulletphysics/bullet3)
-* [OPCODE](https://github.com/nitrocaster/OPCODE)
-* [tbb_liquid_amgpcg](https://github.com/zhxx1987/tbb_liquid_amgpcg)
-* [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
-* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter)
-* [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
-
-## Animation
-* [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
+## Util
+* [imgui](https://github.com/ocornut/imgui)
+* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
+* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
+* [dotween](https://github.com/Demigiant/dotween)
+* [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
+* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
+* [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
+* [easy_profiler](https://github.com/yse/easy_profiler)
+* [stb](https://github.com/nothings/stb)
+* [debug-draw](https://github.com/glampert/debug-draw)
+* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 
 ## Tools
 #### UE4
@@ -269,19 +265,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
  
-## Util
-* [imgui](https://github.com/ocornut/imgui)
-* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
-* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
-* [dotween](https://github.com/Demigiant/dotween)
-* [disruptor-unity3d](https://github.com/dave-hillier/disruptor-unity3d) Basic implementation of Disruptor for Unity3d
-* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
-* [Shiny-C-C-Lua-Profiler](https://github.com/arjankuijpers/Shiny-C-C-Lua-Profiler)
-* [easy_profiler](https://github.com/yse/easy_profiler)
-* [stb](https://github.com/nothings/stb)
-* [debug-draw](https://github.com/glampert/debug-draw)
-* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
-
 ## Sample
 ### API Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
@@ -293,7 +276,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
-### Graphic Samples
+### Graphic SDK & Samples
 * [GodComplex](https://github.com/Patapom/GodComplex)
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
@@ -301,14 +284,31 @@ Graphic Engine &amp; Game Engine open source list！
 * [powervr-graphics](https://github.com/powervr-graphics)
 * [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples)
 
-## Graphics&ShaderEffect Set
+## Effect
+#### Graphics Resources
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics)
+#### Shader Collection
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
 * [reshade-shaders](https://github.com/crosire/reshade-shaders)
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
 * [herebedragons](https://github.com/kosua20/herebedragons)
+#### Some Effect
+* [MetaBlob](https://github.com/danielzeller/MetaBlob)
+* [gl-transitions](https://github.com/gl-transitions/gl-transitions)
+* [FlatShader](https://github.com/cjurjiu/FlatShader)
+* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
 
+## Physics
+* [bullet](https://github.com/bulletphysics/bullet3)
+* [OPCODE](https://github.com/nitrocaster/OPCODE)
+* [tbb_liquid_amgpcg](https://github.com/zhxx1987/tbb_liquid_amgpcg)
+* [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
+* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter)
+* [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
+
+## Animation
+* [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
