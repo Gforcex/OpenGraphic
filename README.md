@@ -24,6 +24,74 @@ Graphic Engine &amp; Game Engine open source list！
 * [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) physically-based rendering at mikumikudance
 
+## Physically Based Rendering
+#### Camera
+* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
+#### File Format
+* [yocto-gl](https://github.com/xelatihy/yocto-gl)
+
+## PBR RayTrace
+* [embree](https://github.com/embree/embree)
+* [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
+* [nori](https://github.com/wjakob/nori)
+* [nanort](https://github.com/lighttransport/nanort)
+* [appleseed](https://github.com/appleseedhq/appleseed)
+* [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
+* [taichi](https://github.com/yuanming-hu/taichi)
+* [ospray](https://github.com/ospray/ospray)
+* [gotham](https://github.com/jaredhoberock/gotham) Photorealistic Renderer based on Unbiased Rendering Algorithms
+* [tungsten](https://github.com/tunabrain/tungsten)
+
+## GI
+* [GITechDemo](https://github.com/iftodebogdan/GITechDemo)
+* [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
+* [dirtchamber](https://github.com/thefranke/dirtchamber)
+* [RTGI](https://github.com/jazzboysc/RTGI)
+* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
+#### SVO
+* [SEGI](https://github.com/sonicether/SEGI)
+* [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
+* [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
+* [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
+* [VCTGI](https://github.com/rdinse/VCTGI)
+#### LPV
+* [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
+#### PhotonMapping
+* [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
+#### Point Based GI
+* [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
+#### PRT
+* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
+* [SHTest](https://github.com/dwilliamson/SHTest)
+* [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+#### LightMap
+* [lightmapper](https://github.com/ands/lightmapper)
+* [BakingLab](https://github.com/TheRealMJP/BakingLab)
+#### RayTrace
+* [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
+#### Reflection
+* [kode80SSR](https://github.com/kode80/kode80SSR)
+* [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
+#### Caustic
+#### Shadow
+* [Shadows](https://github.com/TheRealMJP/Shadows)
+* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
+#### AO
+* [NNAO](https://github.com/simeonradivoev/NNAO)
+* [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
+* [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
+
+## PostProcessing 
+* [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
+* [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)
+* [temporal](https://github.com/playdeadgames/temporal)
+* [Unity5Effects](https://github.com/i-saint/Unity5Effects)
+* [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
+* [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
+* [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
+* [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
+* [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
+
 ## Nature
 #### Water
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)
@@ -81,72 +149,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [libWetHair](https://github.com/nepluno/libWetHair)
 #### Colth
 
-## GI
-* [GITechDemo](https://github.com/iftodebogdan/GITechDemo)
-* [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
-* [dirtchamber](https://github.com/thefranke/dirtchamber)
-* [RTGI](https://github.com/jazzboysc/RTGI)
-* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
-#### SVO
-* [SEGI](https://github.com/sonicether/SEGI)
-* [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
-* [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
-* [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
-* [VCTGI](https://github.com/rdinse/VCTGI)
-#### LPV
-* [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
-#### PhotonMapping
-* [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
-#### Point Based GI
-* [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
-#### PRT
-* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
-* [SHTest](https://github.com/dwilliamson/SHTest)
-* [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-#### LightMap
-* [lightmapper](https://github.com/ands/lightmapper)
-* [BakingLab](https://github.com/TheRealMJP/BakingLab)
-#### RayTrace
-* [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
-#### Reflection
-* [kode80SSR](https://github.com/kode80/kode80SSR)
-* [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
-#### Caustic
-#### Shadow
-* [Shadows](https://github.com/TheRealMJP/Shadows)
-* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
-#### AO
-* [NNAO](https://github.com/simeonradivoev/NNAO)
-* [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
-* [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
-
-## PostProcessing 
-* [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
-* [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)
-* [temporal](https://github.com/playdeadgames/temporal)
-* [Unity5Effects](https://github.com/i-saint/Unity5Effects)
-* [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
-* [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
-* [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
-* [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
-* [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
 ## Shader Effect
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 * [FlatShader](https://github.com/cjurjiu/FlatShader)
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
-
-## PBR RayTrace
-* [embree](https://github.com/embree/embree)
-* [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
-* [nori](https://github.com/wjakob/nori)
-* [nanort](https://github.com/lighttransport/nanort)
-* [appleseed](https://github.com/appleseedhq/appleseed)
-* [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
-* [taichi](https://github.com/yuanming-hu/taichi)
-* [ospray](https://github.com/ospray/ospray)
-* [gotham](https://github.com/jaredhoberock/gotham) Photorealistic Renderer based on Unbiased Rendering Algorithms
-* [tungsten](https://github.com/tunabrain/tungsten)
 
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
@@ -162,9 +169,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
 
-## PBR
-#### Camera
-* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
+## Shade Model
 #### BRDF
 * [brdf](https://github.com/wdas/brdf)
 * [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
@@ -185,8 +190,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter)
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
-#### File Format
-* [yocto-gl](https://github.com/xelatihy/yocto-gl)
 
 ## NPL
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
