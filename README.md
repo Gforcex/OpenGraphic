@@ -148,6 +148,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [skinparam](https://github.com/patwonder/skinparam)
 * [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS)
 * [separable-sss](https://github.com/iryoku/separable-sss)
+* [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
 #### Eye
 #### Hair
 * [TressFX](https://github.com/GPUOpen-Effects/TressFX)
