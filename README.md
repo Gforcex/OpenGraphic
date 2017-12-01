@@ -230,6 +230,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [FastNoise](https://github.com/Auburns/FastNoise)
 * [Turbulence-Library](https://github.com/jesta88/Turbulence-Library)
 * [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib)
+* [webgl-noise](https://github.com/ashima/webgl-noise)
 
 ## SceneManage
 * [UnityOctree](https://github.com/Nition/UnityOctree)
