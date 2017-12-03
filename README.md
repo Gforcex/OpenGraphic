@@ -14,7 +14,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [bgfx](https://github.com/bkaradzic/bgfx) -Orthodox C++ coding style and like OpenGL APIs 
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
-* [gkEngine](https://github.com/gameknife/gkEngine)
 * [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) Anvil is a cross-platform framework for Vulkan, AMD
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
 * [XLE](https://github.com/xlgames-inc/XLE) the engine's blog is good about  Spherical Harmonics
