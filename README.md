@@ -43,6 +43,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [tungsten](https://github.com/tunabrain/tungsten)
 
 ## GI
+### GI Algorithms
 * [GITechDemo](https://github.com/iftodebogdan/GITechDemo)
 * [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
 * [dirtchamber](https://github.com/thefranke/dirtchamber)
@@ -56,31 +57,38 @@ Graphic Engine &amp; Game Engine open source list！
 * [VCTGI](https://github.com/rdinse/VCTGI)
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
-#### PhotonMapping
-* [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
 #### Point Based GI
 * [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
 #### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-#### LightMap
-* [lightmapper](https://github.com/ands/lightmapper)
-* [BakingLab](https://github.com/TheRealMJP/BakingLab)
-#### RayTrace
+#### Radiosity
+#### Ray tracing
+#### Path tracing
 * [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
-#### Reflection
-* [kode80SSR](https://github.com/kode80/kode80SSR)
-* [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
-#### Caustic
-* [SC_Tracer](https://github.com/ningfengh/SC_Tracer) photon mapping for global illumination and caustic
-#### Shadow
-* [Shadows](https://github.com/TheRealMJP/Shadows)
-* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
+#### Metropolis light transport
+#### PhotonMapping
+* [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
+#### Ambient occlusion
 #### AO
 * [NNAO](https://github.com/simeonradivoev/NNAO)
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
+#### LightMap
+* [lightmapper](https://github.com/ands/lightmapper)
+* [BakingLab](https://github.com/TheRealMJP/BakingLab)
+### GI Simulation
+#### Diffuse inter-reflection
+#### Caustic
+* [SC_Tracer](https://github.com/ningfengh/SC_Tracer) photon mapping for global illumination and caustic
+#### Reflection
+* [kode80SSR](https://github.com/kode80/kode80SSR)
+* [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
+#### Refraction
+#### Shadow
+* [Shadows](https://github.com/TheRealMJP/Shadows)
+* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 
 ## PostProcessing 
 #### Collection
