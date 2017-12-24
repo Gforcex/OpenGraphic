@@ -149,6 +149,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Scatterer](https://github.com/LGhassen/Scatterer)
 * [precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) Eric Bruneton, 2017
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017
+* [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere)
 #### Fog
 
 ## Human
@@ -308,6 +309,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Shader Collection
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
 * [reshade-shaders](https://github.com/crosire/reshade-shaders)
+* [Depth3D](https://github.com/BlueSkyDefender/Depth3D) Depth Map Based 3D post-process shader for Reshade
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
 * [herebedragons](https://github.com/kosua20/herebedragons)
 #### Some Effect
@@ -315,6 +317,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 * [FlatShader](https://github.com/cjurjiu/FlatShader)
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
+#### Book
+* [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
 
 ## Physics
 * [bullet](https://github.com/bulletphysics/bullet3)
