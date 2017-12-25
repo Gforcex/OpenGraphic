@@ -220,6 +220,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [Typogenic](https://github.com/Chman/Typogenic)
 * [SDF](https://github.com/memononen/SDF)
 
+## OIT
+* [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
+
 ## Math
 * [MathGeoLib](https://github.com/juj/MathGeoLib)
 * [dyn4j](https://github.com/wnbittle/dyn4j)
