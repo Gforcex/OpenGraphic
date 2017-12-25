@@ -222,6 +222,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
+* [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
 
 ## Math
 * [MathGeoLib](https://github.com/juj/MathGeoLib)
