@@ -77,6 +77,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
+* [seamoptimizer](https://github.com/ands/seamoptimizer)
 * [BakingLab](https://github.com/TheRealMJP/BakingLab)
 ### GI Simulation
 #### Diffuse inter-reflection
