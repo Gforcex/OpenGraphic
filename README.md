@@ -309,9 +309,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples)
 
 ## Effect
-#### Graphics Resources
+#### Graphics Awesome
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics)
+* [awesome-vulkan](https://vinjn.github.io/awesome-vulkan/)
+* [awesome-opengl](https://github.com/eug/awesome-opengl)
 #### Shader Collection
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
 * [reshade-shaders](https://github.com/crosire/reshade-shaders)
