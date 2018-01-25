@@ -254,14 +254,19 @@ Graphic Engine &amp; Game Engine open source list！
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine)
 * [Janua](https://github.com/gigc/Janua)
 
+## Mesh
+* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
+* [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
+* [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
+* [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
+
 ## Util
 * [imgui](https://github.com/ocornut/imgui)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
 * [stb](https://github.com/nothings/stb)
 * [debug-draw](https://github.com/glampert/debug-draw)
-* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
-* [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
+
 ## Tools
 #### UE4
 * [u4pak](https://github.com/panzi/u4pak)
