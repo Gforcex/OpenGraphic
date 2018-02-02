@@ -1,5 +1,8 @@
 # OpenGraphic
 Graphic Engine &amp; Game Engine open source list！
+ 
+## Official
+* [Unity-Technologies](https://github.com/Unity-Technologies)
 
 ## Engine
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
@@ -49,6 +52,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [dirtchamber](https://github.com/thefranke/dirtchamber)
 * [RTGI](https://github.com/jazzboysc/RTGI)
 * [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
+* [CSharpRenderer](https://github.com/bartwronski/CSharpRenderer) C#/.NET DirectX11 based graphics framework for rapid visual effects and algorithms prototyping
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
@@ -136,6 +140,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds)
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
+#### Sky
+* [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
 
 ## Environment
 #### VolumetricLight
@@ -235,6 +241,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DirectXMath](https://github.com/Microsoft/DirectXMath)
 * [geomc](https://github.com/trbabb/geomc)
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp)
+* [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader Math lib
 
 ## Image&Color
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces)
@@ -257,6 +264,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Mesh
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 * [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
+* [MeshDecimator](https://github.com/Whinarn/MeshDecimator), [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
 
