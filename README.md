@@ -187,6 +187,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender)
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
+* [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
 
 ## Shade Model
 #### BRDF
