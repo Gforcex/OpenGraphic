@@ -262,12 +262,19 @@ Graphic Engine &amp; Game Engine open source list！
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine)
 * [Janua](https://github.com/gigc/Janua)
 
+## Point Clouds
+* [PCL](http://www.pointclouds.org/)
+
 ## Mesh
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 * [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator), [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
+* [libigl](https://github.com/libigl/libigl)
+ 
+## Platform
+* [glfw](https://github.com/glfw/glfw)
 
 ## Util
 * [imgui](https://github.com/ocornut/imgui)
