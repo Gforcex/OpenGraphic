@@ -266,6 +266,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [PCL](http://www.pointclouds.org/)
 
 ## Mesh
+* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 * [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator), [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)
@@ -276,10 +277,13 @@ Graphic Engine &amp; Game Engine open source list！
 ## Platform
 * [glfw](https://github.com/glfw/glfw)
 
-## Util
+## UI
 * [imgui](https://github.com/ocornut/imgui)
+* [nanovg](https://github.com/memononen/nanovg)
+* [nanogui](https://github.com/wjakob/nanogui)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
-* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
+
+## Util
 * [stb](https://github.com/nothings/stb)
 * [debug-draw](https://github.com/glampert/debug-draw)
 
