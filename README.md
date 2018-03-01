@@ -95,6 +95,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [CSharpRenderer](https://github.com/bartwronski/CSharpRenderer) C#/.NET DirectX11 based graphics framework for rapid visual effects and algorithms prototyping
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer)
+* [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods. Written in c++ with OpenGL/GLSL.  
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
@@ -252,6 +253,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [miaow](https://github.com/VerticalResearchGroup/miaow)
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)
 * [coco3d](http://coco3d.codeplex.com/)
+* [muli3d](https://sourceforge.net/projects/muli3d/)
 
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
@@ -381,10 +383,11 @@ Graphic Engine &amp; Game Engine open source list！
 #### Shader
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
-* [nshader](https://github.com/samizzo/nshader) Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages
+* [nshader](https://github.com/samizzo/nshader) **Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages**
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy)
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
+* [ShaderMan](https://github.com/smkplus/ShaderMan)
 #### Visual Effects
 * [gaffer](https://github.com/GafferHQ/gaffer)
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
@@ -393,6 +396,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
+* [gapid](https://github.com/google/gapid)
  
 ## Sample
 ### API Samples
@@ -429,7 +433,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 * [FlatShader](https://github.com/cjurjiu/FlatShader)
-* [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl)
+* [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
+* [cross-section](https://assetstore.unity.com/packages/vfx/shaders/cross-section-66300) create a cross section through meshes
+#### Decal
+* [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray)
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 #### Book
@@ -439,6 +446,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Library
 * [bullet](https://github.com/bulletphysics/bullet3)
 * [OPCODE](https://github.com/nitrocaster/OPCODE)
+* [gjk.c](https://github.com/kroitor/gjk.c)
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
 #### Fluid
 * [tbb_liquid_amgpcg](https://github.com/zhxx1987/tbb_liquid_amgpcg)
