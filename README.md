@@ -50,6 +50,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) with Voxel-based Global Illumination
 * [xenko](https://github.com/SiliconStudio/xenko) -Enlighten's company
 * [bgfx](https://github.com/bkaradzic/bgfx) -Orthodox C++ coding style and like OpenGL APIs 
+* [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
 * [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) Anvil is a cross-platform framework for Vulkan, AMD
@@ -65,6 +66,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Physically Based Rendering
 #### Camera
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
+* [pbc](https://github.com/kiwaiii/pbc)
 #### File Format
 * [yocto-gl](https://github.com/xelatihy/yocto-gl)
 
@@ -88,6 +90,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [RTGI](https://github.com/jazzboysc/RTGI)
 * [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 * [CSharpRenderer](https://github.com/bartwronski/CSharpRenderer) C#/.NET DirectX11 based graphics framework for rapid visual effects and algorithms prototyping
+* [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
@@ -110,10 +113,12 @@ Graphic Engine &amp; Game Engine open source list！
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
 #### Ambient occlusion
-#### AO
+#### AO 
 * [NNAO](https://github.com/simeonradivoev/NNAO)
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
+#### Bent Normal
+* [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
 * [seamoptimizer](https://github.com/ands/seamoptimizer)
@@ -138,8 +143,12 @@ Graphic Engine &amp; Game Engine open source list！
 #### AA
 * [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)
 * [temporal](https://github.com/playdeadgames/temporal)
+* [smaa](https://github.com/iryoku/smaa)
+* [smaaDemo](https://github.com/turol/smaaDemo) Subpixel Morphological AntiAliasing OpenGL/Vulkan demo
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
+#### Tone Mapping
+* [tonemapper](https://github.com/tizian/tonemapper)
 #### Lens
 * [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
@@ -186,6 +195,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Scattering_Demos](https://github.com/yoyonel/Scattering_Demos)
 * [Volumetric_Dynamic_Lights](https://github.com/yoyonel/Volumetric_Dynamic_Lights)
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting)
+* [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
+* [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
 #### Atmospheric
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering)
 * [AtmosphericScattering](https://github.com/yangzhengxing/AtmosphericScattering)
@@ -218,11 +229,13 @@ Graphic Engine &amp; Game Engine open source list！
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
 * [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader)
+* [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
 * [light-indexed](https://github.com/wibbe/light-indexed)
 * [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender)
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
-* [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
+* [Makma](https://github.com/janhsimon/Makma) Makma is a deferred Vulkan renderer written in C++.
+* [nTiled](https://github.com/BeardedPlatypus/nTiled)
 
 ## Shade Model
 #### BRDF
@@ -248,6 +261,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## NPL
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
+* [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
 
 ## Voxel
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain)
@@ -267,6 +281,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
+* [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
 
 ## Math
 * [MathGeoLib](https://github.com/juj/MathGeoLib)
@@ -310,6 +325,7 @@ Graphic Engine &amp; Game Engine open source list！
  
 ## Platform
 * [glfw](https://github.com/glfw/glfw)
+* [MoltenVK](https://github.com/KhronosGroup/MoltenVK) Vulkan graphics and compute API, that runs on Apple's Metal graphics framework
 
 ## UI
 * [imgui](https://github.com/ocornut/imgui)
@@ -383,13 +399,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
 
 ## Physics
-* [dyn4j](https://github.com/wnbittle/dyn4j)
+#### Library
 * [bullet](https://github.com/bulletphysics/bullet3)
 * [OPCODE](https://github.com/nitrocaster/OPCODE)
+* [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
+#### Fluid
 * [tbb_liquid_amgpcg](https://github.com/zhxx1987/tbb_liquid_amgpcg)
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter)
+#### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
+* [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
 
 ## Animation
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
