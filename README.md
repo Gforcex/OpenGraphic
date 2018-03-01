@@ -38,6 +38,8 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Official
 * [Unity-Technologies](https://github.com/Unity-Technologies)
+* [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
+* [GPUOpen-Tools](https://github.com/GPUOpen-Tools)
 
 ## Engine
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
@@ -99,6 +101,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
 * [VCTGI](https://github.com/rdinse/VCTGI)
+* [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork)
 * [HarshLight](https://github.com/MangoSister/HarshLight) Real-time global illumination based on voxel cone tracing
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
@@ -136,6 +139,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Reflection
 * [kode80SSR](https://github.com/kode80/kode80SSR)
 * [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
+* [UnitySSR](https://github.com/cCharkes/UnitySSR)
 #### Refraction
 #### Shadow
 * [Shadows](https://github.com/TheRealMJP/Shadows)
@@ -145,8 +149,10 @@ Graphic Engine &amp; Game Engine open source list！
 #### Collection
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
 * [Reshade](https://github.com/crosire/reshade-shaders) An advanced, generic post-processing injector for games and video software. https://reshade.me
+* [reshade-shaders](https://github.com/crosire/reshade-shaders) A collection of post-processing shaders written for ReShade.
 * [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing)
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects)
+* [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
 #### AA
 * [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)
 * [temporal](https://github.com/playdeadgames/temporal)
@@ -154,6 +160,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [smaaDemo](https://github.com/turol/smaaDemo) Subpixel Morphological AntiAliasing OpenGL/Vulkan demo
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
+* [hdreffects](https://github.com/karimnaaji/hdreffects)
 #### Tone Mapping
 * [tonemapper](https://github.com/tizian/tonemapper)
 #### Lens
@@ -187,7 +194,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [fft-ocean](https://github.com/jbouny/fft-ocean)
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
 * [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender)
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Novel ocean rendering techniques (Unity3D)
 #### Snow
 * [SnowSimulation](https://github.com/hubi037/SnowSimulation)
 * [SnowDeformation](https://github.com/vanish87/SnowDeformation)
@@ -199,6 +206,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow)
 #### Sand
 #### Grass
+* [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX)
+* [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering)
+* [GooHairGrass](https://github.com/cabbibo/GooHairGrass)
+* [Project6-Vulkan-Grass-Rendering](https://github.com/CIS565-Fall-2017/Project6-Vulkan-Grass-Rendering)
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
 #### Terrain
@@ -207,11 +218,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds)
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
+* [Marshmallow](https://github.com/mccannd/Project-Marshmallow) Vulkan-based implementation of clouds from Decima Engine
+* [Meteoros](https://github.com/Aman-Sachan-asach/Meteoros) Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
 #### Sky
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
 #### Rain
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
+#### Fire
+* [fire](https://github.com/robertcupisz/fire)
 
 ## Environment
 #### VolumetricLight
@@ -248,6 +263,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
 * [Makma](https://github.com/janhsimon/Makma) Makma is a deferred Vulkan renderer written in C++.
 * [nTiled](https://github.com/BeardedPlatypus/nTiled)
+* [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing)
 
 ## Shade Model
 #### BRDF
@@ -256,6 +272,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
 * [Lux](https://github.com/larsbertram69)
 * [Alloy](https://github.com/Josh015/Alloy)
+* [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 #### IBL
 * [IBLBaker](https://github.com/derkreature/IBLBaker)
@@ -271,9 +288,10 @@ Graphic Engine &amp; Game Engine open source list！
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 
-## NPL
+## NPR
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
 * [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
+* [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 
 ## Voxel
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain)
@@ -283,6 +301,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## RayMarch
 * [ray-march](https://github.com/lightbits/ray-march)
 * [uRaymarching](https://github.com/hecomi/uRaymarching)
+* [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)
 * [dli](https://github.com/dli)
 
 ## SDF
@@ -307,8 +326,9 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Image&Color
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces)
-* [ImageSharp](https://github.com/SixLabors/ImageSharp)
+* [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)
+* [glsl-colormap](https://github.com/kbinani/glsl-colormap)
 
 ## Noise
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise)
@@ -320,8 +340,8 @@ Graphic Engine &amp; Game Engine open source list！
 ## SceneManage
 * [UnityOctree](https://github.com/Nition/UnityOctree)
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
-* [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine)
-* [Janua](https://github.com/gigc/Janua)
+* [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) SOCE is an Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU. If you have a densely occluded scene (e.g. urban, indoor scene) you can use this module in you 3D project to speed up the rendering.
+* [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
 
 ## Point Clouds
 * [PCL](http://www.pointclouds.org/)
@@ -334,6 +354,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998
 * [libigl](https://github.com/libigl/libigl)
+* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)
  
 ## Platform
 * [glfw](https://github.com/glfw/glfw)
@@ -343,6 +364,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [imgui](https://github.com/ocornut/imgui)
 * [nanovg](https://github.com/memononen/nanovg)
 * [nanogui](https://github.com/wjakob/nanogui)
+* [nuklear](https://github.com/vurtun/nuklear)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
 
 ## Util
@@ -370,6 +392,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [renderdoc](https://github.com/baldurk/renderdoc)
 * [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+* [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
  
 ## Sample
 ### API Samples
@@ -399,7 +422,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [awesome-opengl](https://github.com/eug/awesome-opengl)
 #### Shader Collection
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
-* [reshade-shaders](https://github.com/crosire/reshade-shaders)
 * [Depth3D](https://github.com/BlueSkyDefender/Depth3D) Depth Map Based 3D post-process shader for Reshade
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
 * [herebedragons](https://github.com/kosua20/herebedragons)
@@ -407,6 +429,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 * [FlatShader](https://github.com/cjurjiu/FlatShader)
+* [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl)
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 #### Book
@@ -429,6 +452,10 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Animation
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
+* [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
+
+## Particle
+* [XParticle](https://github.com/antoinefournier/XParticle)
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
