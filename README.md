@@ -21,7 +21,7 @@ Graphic Engine &amp; Game Engine open source list！
 - [SDF](#sdf)  
 - [OIT](#oit)  
 - [Math](#math)  
-- [Image&Color](#image&color)  
+- [Image&Color](#imagecolor)  
 - [Noise](#noise)  
 - [SceneManage](#scenemanage)  
 - [Point Clouds](#point-clouds)  
@@ -34,7 +34,7 @@ Graphic Engine &amp; Game Engine open source list！
 - [Effect](#effect)  
 - [Physics](#physics)  
 - [Animation](#animation)  
-- [VR&AR](#vr&ar)  
+- [VR&AR](#vrar)  
 
 ## Official
 * [Unity-Technologies](https://github.com/Unity-Technologies)
@@ -67,6 +67,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Camera
 * [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
 * [pbc](https://github.com/kiwaiii/pbc)
+* [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
 #### File Format
 * [yocto-gl](https://github.com/xelatihy/yocto-gl)
 
@@ -91,14 +92,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 * [CSharpRenderer](https://github.com/bartwronski/CSharpRenderer) C#/.NET DirectX11 based graphics framework for rapid visual effects and algorithms prototyping
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
+* [VCTRenderer](https://github.com/jose-villegas/VCTRenderer)
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
 * [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
 * [VCTGI](https://github.com/rdinse/VCTGI)
+* [HarshLight](https://github.com/MangoSister/HarshLight) Real-time global illumination based on voxel cone tracing
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
+* [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
 #### Point Based GI
 * [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
 #### PRT
@@ -106,6 +110,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [SHTest](https://github.com/dwilliamson/SHTest)
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 #### Radiosity
+#### Instant Radiosity
+* [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
 #### Ray tracing
 #### Path tracing
 * [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
@@ -139,6 +145,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Collection
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
 * [Reshade](https://github.com/crosire/reshade-shaders) An advanced, generic post-processing injector for games and video software. https://reshade.me
+* [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing)
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects)
 #### AA
 * [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)
@@ -155,6 +162,22 @@ Graphic Engine &amp; Game Engine open source list！
 #### Other
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
+
+## Human
+#### Skin
+* [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf)
+* [skinparam](https://github.com/patwonder/skinparam)
+* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS)
+* [separable-sss](https://github.com/iryoku/separable-sss)
+* [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
+#### Eye
+#### Hair
+* [TressFX](https://github.com/GPUOpen-Effects/TressFX)
+* [WetaHair](https://github.com/zhoub/WetaHair)
+* [libWetHair](https://github.com/nepluno/libWetHair)
+#### Colth
+#### Fur
+* [FurRendering](https://github.com/jose-villegas/FurRendering)
 
 ## Nature
 #### Water
@@ -186,6 +209,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
 #### Sky
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
+#### Rain
+* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
+* [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
 
 ## Environment
 #### VolumetricLight
@@ -205,20 +231,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere)
 #### Fog
-
-## Human
-#### Skin
-* [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf)
-* [skinparam](https://github.com/patwonder/skinparam)
-* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS)
-* [separable-sss](https://github.com/iryoku/separable-sss)
-* [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
-#### Eye
-#### Hair
-* [TressFX](https://github.com/GPUOpen-Effects/TressFX)
-* [WetaHair](https://github.com/zhoub/WetaHair)
-* [libWetHair](https://github.com/nepluno/libWetHair)
-#### Colth
 
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
@@ -362,6 +374,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Sample
 ### API Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
+* [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples)
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
 * [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
@@ -394,7 +407,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [MetaBlob](https://github.com/danielzeller/MetaBlob)
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions)
 * [FlatShader](https://github.com/cjurjiu/FlatShader)
-* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
+#### Compute Shader Effect
+* [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 #### Book
 * [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
 
@@ -407,6 +421,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [tbb_liquid_amgpcg](https://github.com/zhxx1987/tbb_liquid_amgpcg)
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter)
+* [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D)
+* [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
 #### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
