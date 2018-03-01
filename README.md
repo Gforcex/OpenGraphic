@@ -317,6 +317,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
 
 ## Math
+* [Eigen](eigen.tuxfamily.org)
 * [MathGeoLib](https://github.com/juj/MathGeoLib)
 * [sh-lib](https://github.com/andrewwillmott/sh-lib)
 * [spherical-harmonics](https://github.com/google/spherical-harmonics)
@@ -367,6 +368,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nanovg](https://github.com/memononen/nanovg)
 * [nanogui](https://github.com/wjakob/nanogui)
 * [nuklear](https://github.com/vurtun/nuklear)
+* [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
 
 ## Util
@@ -459,6 +461,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
 
 ## Animation
+* [cal3d](https://sourceforge.net/projects/cal3d/)
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 
@@ -468,3 +471,9 @@ Graphic Engine &amp; Game Engine open source list！
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
 * [unrealcv](https://github.com/unrealcv/unrealcv)
+
+## Other
+* [VTK](https://www.vtk.org/)
+* [CGAL](https://www.cgal.org/)
+* [GEOS](http://trac.osgeo.org/geos)
+* [MTL]() Matrix Template Library
