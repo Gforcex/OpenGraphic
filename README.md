@@ -317,8 +317,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
 
 ## Math
-* [Eigen](eigen.tuxfamily.org)
+* [Eigen](https://github.com/eigenteam/eigen-git-mirror)   **[Eigen](http://eigen.tuxfamily.org/) is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms**
 * [MathGeoLib](https://github.com/juj/MathGeoLib)
+* [CGAL](https://www.cgal.org/) geometric algorithms in the form of a C++ library.
+* [GEOS](http://trac.osgeo.org/geos) Geometry Engine
+* [MTL]() Matrix Template Library,  a linear algebra library for C++ programs.
 * [sh-lib](https://github.com/andrewwillmott/sh-lib)
 * [spherical-harmonics](https://github.com/google/spherical-harmonics)
 * [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
@@ -472,8 +475,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
 * [unrealcv](https://github.com/unrealcv/unrealcv)
 
-## Other
-* [VTK](https://www.vtk.org/)
-* [CGAL](https://www.cgal.org/)
-* [GEOS](http://trac.osgeo.org/geos)
-* [MTL]() Matrix Template Library
+## CG
+* [VTK](https://www.vtk.org/) The Visualization Toolkit
+
