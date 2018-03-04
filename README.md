@@ -173,11 +173,12 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Human
 #### Skin
-* [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf)
-* [skinparam](https://github.com/patwonder/skinparam)
-* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS)
-* [separable-sss](https://github.com/iryoku/separable-sss)
+* [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf) Implementation of Donner & Jensen's "A Spectral BSSRDF for Shading Human Skin" in PBRT
+* [skinparam](https://github.com/patwonder/skinparam) Real-time skin renderer with adjustable skin parameters
+* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS) Naive screen-space subsurface scattering solution for Unity 5.
+* [separable-sss](https://github.com/iryoku/separable-sss) iryoku's SSSSS
 * [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
+* [SubsurfaceScattering](https://github.com/vcrom/SubsurfaceScattering) An implementation of a set screen space physically-based subsurface scattering algorithms
 #### Eye
 #### Hair
 * [TressFX](https://github.com/GPUOpen-Effects/TressFX)
