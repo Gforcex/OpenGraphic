@@ -57,7 +57,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
 * [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) Anvil is a cross-platform framework for Vulkan, AMD
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
-* [XLE](https://github.com/xlgames-inc/XLE) the engine's blog is good about  Spherical Harmonics
 * [BRE12](https://github.com/nbertoa/BRE12) a rendering framework [Blog](https://nbertoa.wordpress.com/)
 
 ## Engine Plugin
