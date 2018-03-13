@@ -125,6 +125,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### AO 
 * [NNAO](https://github.com/simeonradivoev/NNAO)
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
+* [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
