@@ -404,11 +404,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc)
-* [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin)
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
-* [gapid](https://github.com/google/gapid)
- 
+* [gapid](https://github.com/google/gapid) Graphics API Debugger by google
+* [vogl](https://github.com/ValveSoftware/vogl) OpenGL capture / playback debugger by valve
+* [apitrace](https://github.com/apitrace/apitrace) Tools for tracing OpenGL, Direct3D, and other graphics APIs
+* Other: **gDEBugger**, **NVIDIA Nsight**, **Microsoft PIX**
 ## SDK&Tutorial
 #### API Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
