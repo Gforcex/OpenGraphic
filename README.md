@@ -347,6 +347,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Turbulence-Library](https://github.com/jesta88/Turbulence-Library)
 * [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib)
 * [webgl-noise](https://github.com/ashima/webgl-noise)
+* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner)
 
 ## SceneManage
 * [UnityOctree](https://github.com/Nition/UnityOctree)
@@ -379,6 +380,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nuklear](https://github.com/vurtun/nuklear)
 * [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)
 * [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
+* [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
 
 ## Util
 * [stb](https://github.com/nothings/stb)
