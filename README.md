@@ -397,6 +397,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
 * [nshader](https://github.com/samizzo/nshader) **Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages**
+* [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) ShaderlabVS is a Visual Studio Plugin for Unity Shaderlab programming
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy)
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
