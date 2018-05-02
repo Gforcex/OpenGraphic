@@ -143,6 +143,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [kode80SSR](https://github.com/kode80/kode80SSR)
 * [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
 * [UnitySSR](https://github.com/cCharkes/UnitySSR)
+* [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
 #### Refraction
 #### Shadow
 * [Shadows](https://github.com/TheRealMJP/Shadows)
@@ -166,6 +167,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [hdreffects](https://github.com/karimnaaji/hdreffects)
 #### Tone Mapping
 * [tonemapper](https://github.com/tizian/tonemapper)
+#### DOF
+* [VVDoFDemo](http://graphics.cs.williams.edu/papers/DepthOfFieldGPUPro2013/VVDoFDemo.zip)
 #### Lens
 * [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
