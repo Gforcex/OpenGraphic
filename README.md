@@ -42,6 +42,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [GPUOpen-Tools](https://github.com/GPUOpen-Tools)
 * [id-Software](https://github.com/id-Software)
+* [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 
 ## Engine
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine)
@@ -359,6 +360,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) SOCE is an Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU. If you have a densely occluded scene (e.g. urban, indoor scene) you can use this module in you 3D project to speed up the rendering.
 * [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
+* [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
+* [MaskedOcclusionCulling](https://github.com/GameTechDev/MaskedOcclusionCulling) https://software.intel.com/en-us/articles/masked-software-occlusion-culling
 
 ## Point Clouds
 * [PCL](http://www.pointclouds.org/)
