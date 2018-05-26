@@ -50,6 +50,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Lumberyard](https://github.com/aws/lumberyard)
 * [Klayag](https://github.com/gongminmin/KlayGE)
 * [Urho3D](https://github.com/urho3d/Urho3D)
+* [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [Ogre](https://github.com/ogrecave) ogre github mirror
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) with Voxel-based Global Illumination
