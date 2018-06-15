@@ -203,7 +203,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [VaOcean](https://github.com/ufna/VaOcean)
 * [fft-ocean](https://github.com/jbouny/fft-ocean)
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
-* [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Novel ocean rendering techniques (Unity3D)
 #### Snow
 * [SnowSimulation](https://github.com/hubi037/SnowSimulation)
