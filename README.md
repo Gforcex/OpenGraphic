@@ -193,6 +193,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [WetaHair](https://github.com/zhoub/WetaHair)
 * [libWetHair](https://github.com/nepluno/libWetHair)
 #### Colth
+#### Silk
 #### Fur
 * [FurRendering](https://github.com/jose-villegas/FurRendering)
 
@@ -214,6 +215,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DeepSnowFootprint](https://github.com/ZGeng/DeepSnowFootprint)
 * [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow)
 #### Sand
+* [JourneySand](https://github.com/AtwoodDeng/JourneySand)
 #### Grass
 * [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX)
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering)
