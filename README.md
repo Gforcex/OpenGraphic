@@ -1,27 +1,47 @@
 # OpenGraphic
 Graphic Engine &amp; Game Engine open source list！
 
+---
 ## Contents
 >#### Official
+```
   [Official](#official)  
+```
 >#### Engine
-  [Engine](#engine)    [Engine Plugin](#engine-plugin)    [PBR RayTrace](#pbr-raytrace)  
+```
+  [Engine](#engine)    [Engine Plugin](#engine-plugin)    [PBR RayTrace](#pbr-raytrace)  [Soft Renderer](#soft-renderer) 
+```
 >#### Rendering
-  [Physically Based Rendering](#physically-based-rendering)    [GI](#gi)    [PostProcessing](#postprocessing)    [Soft Renderer](#soft-renderer)    [Render Path](#render-path)    [Shade Model](#shade-model)   [OIT](#oit) 
+```
+  [GI](#gi)    [PostProcessing](#postprocessing)       
+  [Render Path](#render-path)    [OIT](#oit) 
+  [Shade Model](#shade-model)   [Physically Based Rendering](#physically-based-rendering) 
+```
 >#### Stylize
-  [NPL](#npl)    [Point Clouds](#point-clouds)    [Voxel](#voxel)    [LowPoly](#low-poly)    [RayMarch](#raymarch) 
+```
+  [Stylize](#stylize)  [RayMarch](#raymarch)   [Point Clouds](#point-clouds)
+```
 >#### Emulation
-  [Nature](#nature)    [Environment](#environment)    [Human](#human)  
+```
+  [Nature](#nature)    [Environment](#environment)    [Human](#human)  [Particle](#particle)
+```
 >#### Util 
-  [Util](#util)    [SDF](#sdf)    [Math](#math)    [Image&Color](#imagecolor)    [Noise](#noise)    [Mesh](#mesh)    [Platform](#platform)    [UI](#ui)     [SceneManage](#scenemanage)  
+```
+  [Util](#util)    [SDF](#sdf)    [Math](#math)    [Image&Color](#imagecolor)    [Noise](#noise)    [Mesh](#mesh)    [Platform](#platform)    [UI](#ui)     [SceneManage](#scenemanage)  [CG](#cg)
+```
 >#### Tools
-  [Tools](#tools)  
+```
+  [Tools](#tools) 
+```
 >#### Tutorial
+```
   [SDK&Tutorial](#sdktutorial)    [Effect](#effect) 
+```
 >#### Other 
+```
   [Physics](#physics)    [Animation](#animation)    [VR&AR](#vrar)  
-
---------------------------------------------------------------------------------------------------------------------------
+```
+---
 
 ## Official
 * [Unity-Technologies](https://github.com/Unity-Technologies)
@@ -54,14 +74,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) physically-based rendering at mikumikudance
 
-## Physically Based Rendering
-#### Camera
-* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
-* [pbc](https://github.com/kiwaiii/pbc)
-* [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
-#### File Format
-* [yocto-gl](https://github.com/xelatihy/yocto-gl)
-
 ## PBR RayTrace
 * [embree](https://github.com/embree/embree)
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
@@ -74,6 +86,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [ospray](https://github.com/ospray/ospray)
 * [tungsten](https://github.com/tunabrain/tungsten)
 * [gotham](https://github.com/jaredhoberock/gotham) Photorealistic Renderer based on Unbiased Rendering Algorithms
+
+## Soft Renderer
+* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
+* [miaow](https://github.com/VerticalResearchGroup/miaow)
+* [tinyrenderer](https://github.com/ssloy/tinyrenderer)
+* [coco3d](http://coco3d.codeplex.com/)
+* [muli3d](https://sourceforge.net/projects/muli3d/)
+* [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
 
 ## GI
 ### GI Algorithms
@@ -244,14 +264,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere)
 #### Fog
 
-## Soft Renderer
-* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
-* [miaow](https://github.com/VerticalResearchGroup/miaow)
-* [tinyrenderer](https://github.com/ssloy/tinyrenderer)
-* [coco3d](http://coco3d.codeplex.com/)
-* [muli3d](https://sourceforge.net/projects/muli3d/)
-* [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
-
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
 * [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader)
@@ -263,6 +275,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [Makma](https://github.com/janhsimon/Makma) Makma is a deferred Vulkan renderer written in C++.
 * [nTiled](https://github.com/BeardedPlatypus/nTiled)
 * [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing)
+
+## Physically Based Rendering
+#### Camera
+* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
+* [pbc](https://github.com/kiwaiii/pbc)
+* [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
+#### File Format
+* [yocto-gl](https://github.com/xelatihy/yocto-gl)
 
 ## Shade Model
 #### BRDF
@@ -287,15 +307,14 @@ Graphic Engine &amp; Game Engine open source list！
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 
-## NPR
+## Stylize
+#### NPR
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
 * [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
 * [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
-
-## Low Poly
+#### Low Poly
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity)
-
-## Voxel
+#### Voxel
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain)
 * [voxelizer](https://github.com/karimnaaji/voxelizer)
 * [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity)
@@ -305,6 +324,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [uRaymarching](https://github.com/hecomi/uRaymarching)
 * [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)
 * [dli](https://github.com/dli)
+
+## Point Clouds
+* [PCL](http://www.pointclouds.org/)
 
 ## SDF
 * [distancefield-unity](https://github.com/kvantetore/distancefield-unity)
@@ -351,9 +373,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
 * [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
 * [MaskedOcclusionCulling](https://github.com/GameTechDev/MaskedOcclusionCulling) https://software.intel.com/en-us/articles/masked-software-occlusion-culling
-
-## Point Clouds
-* [PCL](http://www.pointclouds.org/)
 
 ## Mesh
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
@@ -413,6 +432,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [apitrace](https://github.com/apitrace/apitrace) Tools for tracing OpenGL, Direct3D, and other graphics APIs
 * [BuGLe](https://sourceforge.net/projects/bugle/) BuGLe combines a graphical OpenGL debugger with a selection of filters on the OpenGL command stream. The debugger allows viewing of state, textures, framebuffers and shaders, while the filters allow for logging, error checking, video capture and more.
 * Other: **gDEBugger**, **NVIDIA Nsight**, **Microsoft PIX**
+
 ## SDK&Tutorial
 #### API Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
