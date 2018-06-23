@@ -4,43 +4,25 @@ Graphic Engine &amp; Game Engine open source list！
 ---
 ## Contents
 >#### Official
-```
   [Official](#official)  
-```
 >#### Engine
-```
   [Engine](#engine)    [Engine Plugin](#engine-plugin)    [PBR RayTrace](#pbr-raytrace)  [Soft Renderer](#soft-renderer) 
-```
 >#### Rendering
-```
   [GI](#gi)    [PostProcessing](#postprocessing)       
   [Render Path](#render-path)    [OIT](#oit) 
   [Shade Model](#shade-model)   [Physically Based Rendering](#physically-based-rendering) 
-```
 >#### Stylize
-```
   [Stylize](#stylize)  [RayMarch](#raymarch)   [Point Clouds](#point-clouds)
-```
 >#### Emulation
-```
   [Nature](#nature)    [Environment](#environment)    [Human](#human)  [Particle](#particle)
-```
 >#### Util 
-```
   [Util](#util)    [SDF](#sdf)    [Math](#math)    [Image&Color](#imagecolor)    [Noise](#noise)    [Mesh](#mesh)    [Platform](#platform)    [UI](#ui)     [SceneManage](#scenemanage)  [CG](#cg)
-```
 >#### Tools
-```
   [Tools](#tools) 
-```
 >#### Tutorial
-```
   [SDK&Tutorial](#sdktutorial)    [Effect](#effect) 
-```
 >#### Other 
-```
   [Physics](#physics)    [Animation](#animation)    [VR&AR](#vrar)  
-```
 ---
 
 ## Official
