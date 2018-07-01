@@ -64,6 +64,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
 * [nori](https://github.com/wjakob/nori)
 * [nanort](https://github.com/lighttransport/nanort)
+* [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [taichi](https://github.com/yuanming-hu/taichi)
 * [ospray](https://github.com/ospray/ospray)
 * [tungsten](https://github.com/tunabrain/tungsten)
@@ -267,7 +268,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [pbc](https://github.com/kiwaiii/pbc)
 * [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
 #### File Format
-* [yocto-gl](https://github.com/xelatihy/yocto-gl)
+
 
 ## Shade Model
 #### BRDF
@@ -294,6 +295,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Probulator](https://github.com/kayru/Probulator)
 * [IBLGGX](https://github.com/tuccio/IBLGGX)
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
+* [BRDFGenerator](https://github.com/HectorMF/BRDFGenerator)
 
 ## Stylize
 #### NPR
