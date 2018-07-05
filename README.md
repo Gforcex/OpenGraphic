@@ -110,9 +110,11 @@ Graphic Engine &amp; Game Engine open source list！
 #### Radiosity
 #### Instant Radiosity
 * [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
+* [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
 #### Ray tracing
 #### Path tracing
-* [asst5_bidirectional_pathtracer](https://github.com/sohilshah2/asst5_bidirectional_pathtracer)
+* [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
+* [edubpt](https://github.com/githole/edubpt)
 #### Metropolis light transport
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
@@ -128,6 +130,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [lightmapper](https://github.com/ands/lightmapper)
 * [seamoptimizer](https://github.com/ands/seamoptimizer)
 * [BakingLab](https://github.com/TheRealMJP/BakingLab)
+* [BocsLightmapper](https://github.com/sasa42/BocsLightmapper)
 ### GI Simulation
 #### Diffuse inter-reflection
 #### Caustic
@@ -142,6 +145,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Shadow
 * [Shadows](https://github.com/TheRealMJP/Shadows)
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
+* [RayTracedShadows](https://github.com/kayru/RayTracedShadows)
 
 ## PostProcessing 
 #### Collection
@@ -304,12 +308,16 @@ Graphic Engine &amp; Game Engine open source list！
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
 * [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
 * [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
+* [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
+* [UnityNPR](https://github.com/GlitchEnzo/UnityNPR)
+* [NPR](https://github.com/laundsallyn/NPR)
 #### Low Poly
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity)
 #### Voxel
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain)
 * [voxelizer](https://github.com/karimnaaji/voxelizer)
 * [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity)
+* [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.  
 
 ## Volume Rendering
 #### RayMarch
@@ -345,6 +353,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader Math lib
 
 ## Image&Color
+* [OpenColorIO](https://github.com/imageworks/OpenColorIO)
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces)
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)
@@ -431,6 +440,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
 * [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples)
 * [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan)
+* [VulkanTutorial](https://github.com/Overv/VulkanTutorial)
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
 * [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
@@ -493,6 +503,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
+* [VolumetricParticles](https://github.com/DaSutt/VolumetricParticles)
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
