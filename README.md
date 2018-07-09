@@ -386,6 +386,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [libigl](https://github.com/libigl/libigl)
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)
+* [openmesh](https://www.openmesh.org/)
+* [openflipper](https://www.openflipper.org/)
  
 ## Platform
 * [glfw](https://github.com/glfw/glfw)
@@ -484,6 +486,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Library
 * [bullet](https://github.com/bulletphysics/bullet3)
 * [OPCODE](https://github.com/nitrocaster/OPCODE)
+* [fcl](https://github.com/flexible-collision-library/fcl)
 * [gjk.c](https://github.com/kroitor/gjk.c)
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
 #### Fluid
