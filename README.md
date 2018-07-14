@@ -27,8 +27,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Official
 * [Unity-Technologies](https://github.com/Unity-Technologies)
-* [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
-* [GPUOpen-Tools](https://github.com/GPUOpen-Tools)
+* AMD  [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  &nbsp;&nbsp; [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  &nbsp;&nbsp;  [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
 * [id-Software](https://github.com/id-Software)
 * [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * [InteractiveComputerGraphics](https://github.com/InteractiveComputerGraphics)
