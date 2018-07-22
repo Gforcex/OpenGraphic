@@ -201,6 +201,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [fft-ocean](https://github.com/jbouny/fft-ocean)
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Novel ocean rendering techniques (Unity3D)
+* [Mistral-Water](https://github.com/AlphaMistral/Mistral-Water)
+
+* Jerry Tessendorf's paper "Simulating Ocean Water".  
+[fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
+* Eric.Bruneton's paper "an improved version using an FFT method to synthesize the surface."
+[Eric.Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/)  [Brunetons-Ocean](https://github.com/Scrawk/Brunetons-Ocean)
+
 #### Snow
 * [SnowSimulation](https://github.com/hubi037/SnowSimulation)
 * [SnowDeformation](https://github.com/vanish87/SnowDeformation)
