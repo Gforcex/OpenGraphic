@@ -26,10 +26,11 @@ Graphic Engine &amp; Game Engine open source list！
 ---
 
 ## Official
-* [Unity-Technologies](https://github.com/Unity-Technologies)
+* Unity [Unity-Technologies](https://github.com/Unity-Technologies)
 * AMD  [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  &nbsp;&nbsp; [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  &nbsp;&nbsp;  [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
+* NVIDIA 
+* Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * [id-Software](https://github.com/id-Software)
-* [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * [InteractiveComputerGraphics](https://github.com/InteractiveComputerGraphics)
 
 ## Engine
@@ -392,6 +393,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) Mesh simplification with UV's boundary preserved
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
+* [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
 * [libigl](https://github.com/libigl/libigl)
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)
 * [openmesh](https://www.openmesh.org/)
