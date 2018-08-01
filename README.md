@@ -35,6 +35,7 @@ Graphic Engine &amp; Game Engine open source list！
   [SDK&Tutorial](#sdktutorial) &nbsp;&nbsp; [Effect](#effect) 
   
 >**Other**
+
   [Physics](#physics) &nbsp;&nbsp; [VR&AR](#vrar)   
   [Animation](#animation) &nbsp;&nbsp; [Particle](#particle)  
   
@@ -95,7 +96,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
 
 ## GI
-### GI Algorithms
+### Collection
 * [GITechDemo](https://github.com/iftodebogdan/GITechDemo)
 * [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
 * [dirtchamber](https://github.com/thefranke/dirtchamber)
@@ -113,7 +114,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [VCTGI](https://github.com/rdinse/VCTGI)
 * [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork)
 * [HarshLight](https://github.com/MangoSister/HarshLight) Real-time global illumination based on voxel cone tracing
-
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
@@ -135,7 +135,6 @@ Graphic Engine &amp; Game Engine open source list！
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
 #### Ambient occlusion
-#### AO 
 * [NNAO](https://github.com/simeonradivoev/NNAO)
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
@@ -335,6 +334,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [UnityNPR](https://github.com/GlitchEnzo/UnityNPR)
 * [NPR](https://github.com/laundsallyn/NPR)
+* [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo)
 #### Low Poly
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity)
 #### Voxel
@@ -409,6 +409,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
+* [MeshDGP](https://github.com/meshdgp/MeshDGP) a simple C# geometry processing library. demonstrates the dozens of keystone mesh processing algorithms
 * [libigl](https://github.com/libigl/libigl)
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)
 * [openmesh](https://www.openmesh.org/)
