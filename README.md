@@ -46,6 +46,7 @@ Graphic Engine &amp; Game Engine open source list！
 * AMD  [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  &nbsp;&nbsp; [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  &nbsp;&nbsp;  [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
 * NVIDIA 
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
+* SideEfects [sideeffects](https://github.com/sideeffects) Hodini
 * [id-Software](https://github.com/id-Software)
 * [InteractiveComputerGraphics](https://github.com/InteractiveComputerGraphics)
 
@@ -206,9 +207,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [WetaHair](https://github.com/zhoub/WetaHair)
 * [libWetHair](https://github.com/nepluno/libWetHair)
 #### Colth
+* [libwetcloth](https://github.com/nepluno/libwetcloth)
 #### Silk
 #### Fur
 * [FurRendering](https://github.com/jose-villegas/FurRendering)
+* [NeoFur](https://github.com/TsPersonalOrganization/neo-fur-for-unity)
 
 ## Nature
 #### Water
@@ -378,10 +381,13 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Image&Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO)
+* [OpenImageIO](https://github.com/OpenImageIO/oiio)
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces)
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)
 * [glsl-colormap](https://github.com/kbinani/glsl-colormap)
+* [nv_dds](https://github.com/paroj/nv_dds)
+* [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools)
 
 ## Noise
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise)
