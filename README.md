@@ -259,6 +259,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Rain
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
+* [RainFX](https://github.com/smkplus/RainFX)
 #### Fire
 * [fire](https://github.com/robertcupisz/fire)
 #### Ice
