@@ -147,6 +147,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [seamoptimizer](https://github.com/ands/seamoptimizer)
 * [BakingLab](https://github.com/TheRealMJP/BakingLab)
 * [BocsLightmapper](https://github.com/sasa42/BocsLightmapper)
+* [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
 ### GI Simulation
 #### Diffuse inter-reflection
 #### Caustic
@@ -177,6 +178,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [temporal](https://github.com/playdeadgames/temporal)
 * [smaa](https://github.com/iryoku/smaa)
 * [smaaDemo](https://github.com/turol/smaaDemo) Subpixel Morphological AntiAliasing OpenGL/Vulkan demo
+* [SpecularAA](https://github.com/TheRealMJP/SpecularAA) A demo of various normal map filtering techniques for reducing specular aliasing
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
 * [hdreffects](https://github.com/karimnaaji/hdreffects)
@@ -313,6 +315,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
 #### SVBRDF
+* [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
 #### BTDF
 #### BSSRDF
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
@@ -381,6 +384,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader Math lib
 
 ## Image&Color
+* [bimg](https://github.com/bkaradzic/bimg)
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO)
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces)
@@ -389,6 +393,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-colormap](https://github.com/kbinani/glsl-colormap)
 * [nv_dds](https://github.com/paroj/nv_dds)
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools)
+* [crunch](https://github.com/BinomialLLC/crunch)
 
 ## Noise
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise)
@@ -417,6 +422,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
 * [MeshDGP](https://github.com/meshdgp/MeshDGP) a simple C# geometry processing library. demonstrates the dozens of keystone mesh processing algorithms
+* [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes 
 * [libigl](https://github.com/libigl/libigl)
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)
 * [openmesh](https://www.openmesh.org/)
@@ -449,9 +455,10 @@ Graphic Engine &amp; Game Engine open source list！
 #### Shader
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
+* [HlslTools](https://github.com/tgjones/HlslTools) A Visual Studio extension that provides enhanced support for editing High Level Shading Language (HLSL) files
+* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge)
 * [nshader](https://github.com/samizzo/nshader) **Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages**
 * [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) ShaderlabVS is a Visual Studio Plugin for Unity Shaderlab programming
-* [HlslTools](https://github.com/tgjones/HlslTools) A Visual Studio extension that provides enhanced support for editing High Level Shading Language (HLSL) files
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy)
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
@@ -544,6 +551,9 @@ Graphic Engine &amp; Game Engine open source list！
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
 * [unrealcv](https://github.com/unrealcv/unrealcv)
+
+## ML
+* [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
 
 ## CG
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
