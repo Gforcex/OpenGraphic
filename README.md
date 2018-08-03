@@ -136,7 +136,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
 #### Ambient occlusion
-* [NNAO](https://github.com/simeonradivoev/NNAO)
+* [NNAO](https://github.com/simeonradivoev/NNAO) Neural Network Ambien Occlusion
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
@@ -306,7 +306,9 @@ Graphic Engine &amp; Game Engine open source list！
 
 
 ## Shade Model
-#### BRDF
+### BSDF
+* [libbsdf](https://github.com/KimuraRyo/libbsdf) Library for BSDF, BRDF, and BTDF
+##### BRDF
 * [brdf](https://github.com/wdas/brdf)
 * [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
@@ -314,9 +316,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [Alloy](https://github.com/Josh015/Alloy)
 * [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
 * [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
-#### SVBRDF
+##### SVBRDF
 * [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
-#### BTDF
+##### BTDF
 #### BSSRDF
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
