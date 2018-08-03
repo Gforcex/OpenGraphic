@@ -22,6 +22,10 @@ Graphic Engine &amp; Game Engine open source list！
 
   [Nature](#nature) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; [Human](#human)
   
+>**Optimization**
+
+  [Optimization](#optimization)
+  
 >**Util**
 
   [Util](#util) &nbsp;&nbsp; [SDF](#sdf) &nbsp;&nbsp; [Math](#math) &nbsp;&nbsp; [Image&Color](#imagecolor) &nbsp;&nbsp; [Noise](#noise)  &nbsp;&nbsp; [Mesh](#mesh) &nbsp;&nbsp; [Platform](#platform) &nbsp;&nbsp; [UI](#ui) &nbsp;&nbsp; [SceneManage](#scenemanage) &nbsp;&nbsp; [CG](#cg)
@@ -251,6 +255,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
 #### Terrain
+* [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms)
 #### Cloud
 * [volsample](https://github.com/huwb/volsample)
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
@@ -267,6 +272,9 @@ Graphic Engine &amp; Game Engine open source list！
 #### Fire
 * [fire](https://github.com/robertcupisz/fire)
 #### Ice
+#### 
+* [Iridescence](https://github.com/Xerxes1138/Iridescence)
+* [Iridescent Shader](https://www.patreon.com/posts/iridescent-18699278)
 
 ## Environment
 #### VolumetricLight
@@ -363,6 +371,18 @@ Graphic Engine &amp; Game Engine open source list！
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)
 
+## Optimization
+#### Occlusion Culling
+* [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
+* [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) SOCE is an Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU. If you have a densely occluded scene (e.g. urban, indoor scene) you can use this module in you 3D project to speed up the rendering.
+* [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
+* [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
+#### Hardware Occlusion Queries
+#### Imposter
+* [IMP](https://github.com/xraxra/IMP) billboard imposter baking for Unity
+#### LOD
+#### HLOD
+
 ## SDF
 * [distancefield-unity](https://github.com/kvantetore/distancefield-unity)
 * [Typogenic](https://github.com/Chman/Typogenic)
@@ -409,11 +429,6 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## SceneManage
 * [UnityOctree](https://github.com/Nition/UnityOctree)
-* [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
-* [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) SOCE is an Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU. If you have a densely occluded scene (e.g. urban, indoor scene) you can use this module in you 3D project to speed up the rendering.
-* [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
-* [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
-* [MaskedOcclusionCulling](https://github.com/GameTechDev/MaskedOcclusionCulling) https://software.intel.com/en-us/articles/masked-software-occlusion-culling
 
 ## Mesh
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
@@ -558,6 +573,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## ML
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
+* [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
 
 ## CG
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
