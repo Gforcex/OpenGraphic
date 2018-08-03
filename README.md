@@ -178,6 +178,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [temporal](https://github.com/playdeadgames/temporal)
 * [smaa](https://github.com/iryoku/smaa)
 * [smaaDemo](https://github.com/turol/smaaDemo) Subpixel Morphological AntiAliasing OpenGL/Vulkan demo
+* [SMAA](https://github.com/Chman/SMAA) SMAA in unity3D
 * [SpecularAA](https://github.com/TheRealMJP/SpecularAA) A demo of various normal map filtering techniques for reducing specular aliasing
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
@@ -224,7 +225,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Novel ocean rendering techniques (Unity3D)
 * [Mistral-Water](https://github.com/AlphaMistral/Mistral-Water)
-* [RealtimeWater](https://github.com/hpatjens/RealtimeWater)
+* [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
