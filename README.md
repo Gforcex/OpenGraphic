@@ -60,6 +60,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Lumberyard](https://github.com/aws/lumberyard)
 * [Klayag](https://github.com/gongminmin/KlayGE)
 * [Urho3D](https://github.com/urho3d/Urho3D)
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
 * [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [Ogre](https://github.com/ogrecave) ogre github mirror
@@ -69,8 +70,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
-* [Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) Anvil is a cross-platform framework for Vulkan, AMD
-* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
+* [filament](https://github.com/google/filament) Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [BRE12](https://github.com/nbertoa/BRE12) a rendering framework [Blog](https://nbertoa.wordpress.com/)
 
 ## Engine Plugin
@@ -84,13 +84,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [appleseed](https://github.com/appleseedhq/appleseed)
 * [LuxCoreRender](https://github.com/LuxCoreRender)
 * [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
-* [nori](https://github.com/wjakob/nori)
-* [nanort](https://github.com/lighttransport/nanort)
-* [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
-* [taichi](https://github.com/yuanming-hu/taichi)
 * [ospray](https://github.com/ospray/ospray)
-* [tungsten](https://github.com/tunabrain/tungsten)
-* [gotham](https://github.com/jaredhoberock/gotham) Photorealistic Renderer based on Unbiased Rendering Algorithms
+* [taichi](https://github.com/yuanming-hu/taichi)
+* [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
+* [nori](https://github.com/wjakob/nori)
+* [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
+* [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
 
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
@@ -479,6 +478,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Util
 * [stb](https://github.com/nothings/stb)
+* [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [debug-draw](https://github.com/glampert/debug-draw)
 
 ## Tools
