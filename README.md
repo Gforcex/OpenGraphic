@@ -435,10 +435,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityOctree](https://github.com/Nition/UnityOctree)
 
 ## Mesh
-*IO Subdivision Simplification Deform Destruction Optimization*    
-* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats
-* [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer
-* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)  
+*IO Subdivision Simplification Deform Destruction Optimization*  
+
+* [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats   
+* [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer  
+* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)    
 
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 
@@ -453,8 +454,8 @@ Graphic Engine &amp; Game Engine open source list！
 
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
-* [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes 
-* [libigl](https://github.com/libigl/libigl)
+* [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes   
+* [libigl](https://github.com/libigl/libigl)
 * [openmesh](https://www.openmesh.org/)
 * [openflipper](https://www.openflipper.org/)
  
