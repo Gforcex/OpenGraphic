@@ -151,6 +151,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [BakingLab](https://github.com/TheRealMJP/BakingLab)
 * [BocsLightmapper](https://github.com/sasa42/BocsLightmapper)
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
+#### Light Field
+
 ### GI Simulation
 #### Diffuse inter-reflection
 #### Caustic
@@ -371,6 +373,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [dli](https://github.com/dli)  
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)
+#### Shear-warp
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools
 * [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
