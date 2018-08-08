@@ -48,7 +48,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Official
 * Unity [Unity-Technologies](https://github.com/Unity-Technologies)  &nbsp;&nbsp; [unity3d-jp](https://github.com/unity3d-jp)
 * AMD  [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  &nbsp;&nbsp; [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  &nbsp;&nbsp;  [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
-* NVIDIA 
+* NVIDIA [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  &nbsp;&nbsp; [NVIDIA](https://github.com/NVIDIA)
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * ARM [ARM-software](https://github.com/ARM-software)
 * SideEfects [sideeffects](https://github.com/sideeffects) Hodini
@@ -60,7 +60,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
 * [Lumberyard](https://github.com/aws/lumberyard)
 * [Klayag](https://github.com/gongminmin/KlayGE)
-* [Urho3D](https://github.com/urho3d/Urho3D)
+* [Urho3D](https://github.com/urho3d/Urho3D) lightweight, cross-platform 2D and 3D game engine,Greatly inspired by OGRE and Horde3D.
+* [filament](https://github.com/google/filament) Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
 * [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
@@ -71,7 +72,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
-* [filament](https://github.com/google/filament) Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [BRE12](https://github.com/nbertoa/BRE12) a rendering framework [Blog](https://nbertoa.wordpress.com/)
 
 ## Engine Plugin
@@ -542,10 +542,10 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Effect
 #### Graphics Awesome
-* [graphics-resources](https://github.com/mattdesl/graphics-resources)
-* [awesome-graphics](https://github.com/ericjang/awesome-graphics)
-* [awesome-vulkan](https://vinjn.github.io/awesome-vulkan/)
-* [awesome-opengl](https://github.com/eug/awesome-opengl)
+* [graphics-resources](https://github.com/mattdesl/graphics-resources) a list of graphic programming resources  
+* [awesome-graphics](https://github.com/ericjang/awesome-graphics) Curated list of computer graphics tutorials and resources  
+* [awesome-vulkan](https://vinjn.github.io/awesome-vulkan/) A curated list of awesome Vulkan libraries
+* [awesome-opengl](https://github.com/eug/awesome-opengl) A curated list of awesome OpenGL libraries, debuggers and resources. 
 #### Shader Collection
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
 * [Depth3D](https://github.com/BlueSkyDefender/Depth3D) Depth Map Based 3D post-process shader for Reshade
@@ -601,5 +601,3 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## CG
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
-
-  
