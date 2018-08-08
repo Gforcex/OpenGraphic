@@ -219,6 +219,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [libWetHair](https://github.com/nepluno/libWetHair)
 #### Colth
 * [libwetcloth](https://github.com/nepluno/libwetcloth)
+* [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering)
 #### Silk
 #### Fur
 * [FurRendering](https://github.com/jose-villegas/FurRendering)
