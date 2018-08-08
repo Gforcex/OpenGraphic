@@ -326,13 +326,12 @@ Graphic Engine &amp; Game Engine open source list！
 ### BSDF
 * [libbsdf](https://github.com/KimuraRyo/libbsdf) Library for BSDF, BRDF, and BTDF
 ##### BRDF
-* [brdf](https://github.com/wdas/brdf)
-* [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
+* [brdf](https://github.com/wdas/brdf) &nbsp;&nbsp; [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
 * [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
 * [Lux](https://github.com/larsbertram69)
 * [Alloy](https://github.com/Josh015/Alloy)
 * [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
-* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader)
+* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) 
 ##### SVBRDF
 * [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
 ##### BTDF
@@ -352,6 +351,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
 * [BRDFGenerator](https://github.com/HectorMF/BRDFGenerator)
 * [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
+* [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
 
 ## Stylize
 #### NPR
