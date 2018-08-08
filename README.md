@@ -123,6 +123,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
 #### Point Based GI
 * [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
+#### Spherica lHarmonic Lighting
+* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 #### PRT
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
@@ -143,6 +145,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
+* [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime  
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### LightMap
@@ -408,17 +411,16 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror)   **[Eigen](http://eigen.tuxfamily.org/) is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms**
-* [MathGeoLib](https://github.com/juj/MathGeoLib)
+* [MathGeoLib](https://github.com/juj/MathGeoLib) A C++ library for linear algebra and geometry manipulation for computer graphics
 * [CGAL](https://www.cgal.org/) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
 * [MTL]() Matrix Template Library,  a linear algebra library for C++ programs.
-* [sh-lib](https://github.com/andrewwillmott/sh-lib)
-* [spherical-harmonics](https://github.com/google/spherical-harmonics)
-* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-* [DirectXMath](https://github.com/Microsoft/DirectXMath)
-* [geomc](https://github.com/trbabb/geomc)
-* [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp)
-* [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader Math lib
+* [sh-lib](https://github.com/andrewwillmott/sh-lib)  Spherical/zonal harmonics library
+* [spherical-harmonics](https://github.com/google/spherical-harmonics)  Spherical harmonics library
+* [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
+* [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
+* [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
+* [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 
 ## Image&Color
 * [bimg](https://github.com/bkaradzic/bimg)
@@ -490,6 +492,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### UE4
 * [u4pak](https://github.com/panzi/u4pak)
 * [UModel](https://github.com/gildor2/UModel)
+* [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython)
 #### Unity
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer)
