@@ -107,7 +107,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [dirtchamber](https://github.com/thefranke/dirtchamber)
 * [RTGI](https://github.com/jazzboysc/RTGI)
 * [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
-* [CSharpRenderer](https://github.com/bartwronski/CSharpRenderer) C#/.NET DirectX11 based graphics framework for rapid visual effects and algorithms prototyping
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer)
 * [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods. Written in c++ with OpenGL/GLSL.  
