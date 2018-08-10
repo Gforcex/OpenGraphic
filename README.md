@@ -172,6 +172,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Shadows](https://github.com/TheRealMJP/Shadows)
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 * [RayTracedShadows](https://github.com/kayru/RayTracedShadows)
+* [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
 
 ## PostProcessing 
 #### Collection
@@ -305,8 +306,11 @@ Graphic Engine &amp; Game Engine open source list！
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
 * [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader)
+* [clustered_forward_demo_vk](https://github.com/sydneyzh/clustered_forward_demo_vk)  Clustered forward rendering demo with Vulkan
 * [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
-* [light-indexed](https://github.com/wibbe/light-indexed)
+* [ClusteredShadingConservative](https://github.com/kevinortegren/ClusteredShadingConservative) DirectX 12 light culling technique implementation of Clustered Deferred Shading
+
+* [light-indexed](https://github.com/wibbe/light-indexed) 
 * [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender)
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading)
