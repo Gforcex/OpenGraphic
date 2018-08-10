@@ -523,8 +523,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [UModel](https://github.com/gildor2/UModel)
 * [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython)
 #### Unity
-* [UnityStudio](https://github.com/Perfare/UnityStudio)
-* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer)
+* [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 #### Shader
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
 * [glslang](https://github.com/KhronosGroup/glslang)
