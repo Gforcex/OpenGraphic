@@ -390,7 +390,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Optimization
 #### Frustum Culling
 * [sseculling](https://github.com/nsf/sseculling)
-#### Occlusion Culling
+#### Soft Occlusion Culling
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU.
 * [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
@@ -399,6 +399,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [IndirectOcclusionCulling](https://github.com/JJoosten/IndirectOcclusionCulling)
 * [vigilant-system](https://github.com/nlguillemot/vigilant-system)
 #### Hardware Occlusion Queries
+#### Hierarchical-Z Buffer
+#### Hierarchical Occlusion Map
 #### Imposter
 * [IMP](https://github.com/xraxra/IMP) billboard imposter baking for Unity
 * [ImpostorBaker](https://github.com/ictusbrucks/ImpostorBaker) UE4 Plugin for generating Impostors for static meshes  
