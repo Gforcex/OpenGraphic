@@ -13,10 +13,10 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Rendering**
 
-  [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)        
-  [RenderPath](#render-path) &nbsp;&nbsp;  [OIT](#oit)   
+  [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)           
   [ShadeModel](#shade-model) &nbsp;&nbsp; [PhysicallyBasedRendering](#physically-based-rendering)   
-  [Stylize](#stylize)
+  [Stylize](#stylize)  
+  [OIT](#oit)  
   
 >**Emulation**
 
@@ -24,11 +24,11 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Optimization**
 
-  [Optimization](#optimization)
+  [Acceleration](#acceleration)  &nbsp;&nbsp; [SceneManage](#scenemanage) &nbsp;&nbsp; [RenderPath](#render-path)  
   
 >**Util**
 
-  [Util](#util) &nbsp;&nbsp; [SDF](#sdf) &nbsp;&nbsp; [Math](#math) &nbsp;&nbsp; [Image&Color](#imagecolor) &nbsp;&nbsp; [Noise](#noise)  &nbsp;&nbsp; [Mesh](#mesh) &nbsp;&nbsp; [Platform](#platform) &nbsp;&nbsp; [UI](#ui) &nbsp;&nbsp; [SceneManage](#scenemanage) &nbsp;&nbsp; [CG](#cg)
+  [Util](#util) &nbsp;&nbsp; [SDF](#sdf) &nbsp;&nbsp; [Math](#math) &nbsp;&nbsp; [Image&Color](#imagecolor) &nbsp;&nbsp; [Noise](#noise)  &nbsp;&nbsp; [Mesh](#mesh) &nbsp;&nbsp; [Platform](#platform) &nbsp;&nbsp; [UI](#ui) &nbsp;&nbsp; [CG](#cg)
   
 >**Tools**
 
@@ -387,7 +387,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools
 * [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
 
-## Optimization
+## Acceleration
 #### Frustum Culling
 * [sseculling](https://github.com/nsf/sseculling)
 #### Soft Occlusion Culling
@@ -406,6 +406,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [ImpostorBaker](https://github.com/ictusbrucks/ImpostorBaker) UE4 Plugin for generating Impostors for static meshes  
 #### LOD
 #### HLOD
+
+## SceneManage
+* [UnityOctree](https://github.com/Nition/UnityOctree)
 
 ## SDF
 * [distancefield-unity](https://github.com/kvantetore/distancefield-unity)
@@ -450,9 +453,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib)
 * [webgl-noise](https://github.com/ashima/webgl-noise)
 * [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner)
-
-## SceneManage
-* [UnityOctree](https://github.com/Nition/UnityOctree)
 
 ## Mesh
 *IO Subdivision Simplification Deform Destruction Optimization*  
