@@ -85,7 +85,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [appleseed](https://github.com/appleseedhq/appleseed)
 * [LuxCoreRender](https://github.com/LuxCoreRender)
 * [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
-* [ospray](https://github.com/ospray/ospray)
+* [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 * [taichi](https://github.com/yuanming-hu/taichi)
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
 * [nori](https://github.com/wjakob/nori)
@@ -93,7 +93,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
 
 ## Soft Renderer
-* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/)
+* [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
 * [miaow](https://github.com/VerticalResearchGroup/miaow)
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)
 * [coco3d](http://coco3d.codeplex.com/)
