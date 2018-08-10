@@ -412,7 +412,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
 
 ## Math
-* [Eigen](https://github.com/eigenteam/eigen-git-mirror)   **[Eigen](http://eigen.tuxfamily.org/) is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms**
+* [Eigen](https://github.com/eigenteam/eigen-git-mirror):start:  A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. http://eigen.tuxfamily.org/
 * [MathGeoLib](https://github.com/juj/MathGeoLib) A C++ library for linear algebra and geometry manipulation for computer graphics
 * [CGAL](https://www.cgal.org/) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
@@ -434,7 +434,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-colormap](https://github.com/kbinani/glsl-colormap)
 * [nv_dds](https://github.com/paroj/nv_dds)
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools)
-* [crunch](https://github.com/BinomialLLC/crunch)
+* [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
+* [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 
 ## Noise
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise)
@@ -467,6 +468,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
+* [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes   
 * [libigl](https://github.com/libigl/libigl)
 * [openmesh](https://www.openmesh.org/)
