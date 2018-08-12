@@ -597,10 +597,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
 
 ## Animation
-* [cal3d](https://sourceforge.net/projects/cal3d/)
+* [acl](https://github.com/nfrechette/acl) Animation Compression Library
+* [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
-* [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-)
+* [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
