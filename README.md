@@ -149,6 +149,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime  
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
+#### Radiosity Normal Mapping
+* [GzRNM](https://github.com/Geenz/GzRNM) brings Radiosity Normal Mapping/Directional Light Mapping to Unity 3D!
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
 * [seamoptimizer](https://github.com/ands/seamoptimizer)
@@ -515,6 +517,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [cross-section](https://assetstore.unity.com/packages/vfx/shaders/cross-section-66300) create a cross section through meshes
 #### Decal
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray)
+#### OutLine
+* [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
 #### Compute Shader Effect
@@ -543,13 +547,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [gaffer](https://github.com/GafferHQ/gaffer)
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### GPU Debug
-* [renderdoc](https://github.com/baldurk/renderdoc)
+* [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 * [gapid](https://github.com/google/gapid) Graphics API Debugger by google
 * [vogl](https://github.com/ValveSoftware/vogl) OpenGL capture / playback debugger by valve
 * [apitrace](https://github.com/apitrace/apitrace) Tools for tracing OpenGL, Direct3D, and other graphics APIs
-* [Remotery](https://github.com/Celtoys/Remotery)
+* [GPUVis](https://github.com/mikesart/gpuvis) GPU Trace Visualizer
+* [Remotery](https://github.com/Celtoys/Remotery) Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 * [BuGLe](https://sourceforge.net/projects/bugle/) BuGLe combines a graphical OpenGL debugger with a selection of filters on the OpenGL command stream. The debugger allows viewing of state, textures, framebuffers and shaders, while the filters allow for logging, error checking, video capture and more.
 * Other: **gDEBugger**, **NVIDIA Nsight**, **Microsoft PIX**
 
