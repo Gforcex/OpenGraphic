@@ -550,6 +550,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### Texture
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
+* [FlowmapPainter](http://teckartist.com/?page_id=107)
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
