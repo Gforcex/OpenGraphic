@@ -151,6 +151,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### Radiosity Normal Mapping
 * [GzRNM](https://github.com/Geenz/GzRNM) brings Radiosity Normal Mapping/Directional Light Mapping to Unity 3D!
+* [SSbumpGenerator](https://sourceforge.net/projects/ssbumpgenerator/) A GUI interface to a tool for generating SSBumps (Self Shadowed Bump Maps).
 #### LightMap
 * [lightmapper](https://github.com/ands/lightmapper)
 * [seamoptimizer](https://github.com/ands/seamoptimizer)
@@ -435,6 +436,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
+* [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
 
 ## Image&Color
 * [bimg](https://github.com/bkaradzic/bimg) Image library.
@@ -546,6 +548,8 @@ Graphic Engine &amp; Game Engine open source list！
 #### Visual Effects
 * [gaffer](https://github.com/GafferHQ/gaffer)
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
+#### Texture
+* [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
