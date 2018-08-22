@@ -84,8 +84,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [embree](https://github.com/embree/embree)
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [appleseed](https://github.com/appleseedhq/appleseed)
-* [LuxCoreRender](https://github.com/LuxCoreRender)
+* [pbrt](https://github.com/mmp/pbrt-v3) Source code for "Physically Based Rendering: From Theory To Implementation" 
 * [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
+* [LuxCoreRender](https://github.com/LuxCoreRender)
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 * [taichi](https://github.com/yuanming-hu/taichi)
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
