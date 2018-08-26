@@ -185,8 +185,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## PostProcessing 
 #### Collection
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
-* [Reshade](https://github.com/crosire/reshade-shaders) An advanced, generic post-processing injector for games and video software. https://reshade.me
-* [reshade-shaders](https://github.com/crosire/reshade-shaders) A collection of post-processing shaders written for ReShade.
+* [reshade-shaders](https://github.com/crosire/reshade-shaders) A collection of post-processing shaders written for ReShade. https://reshade.me
 * [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing)
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects)
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
@@ -376,7 +375,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [NPR](https://github.com/laundsallyn/NPR)
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo)
 #### Low Poly
-* [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity)
+* [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
+* [FlatShader](https://github.com/cjurjiu/FlatShader) A very simple shader which performs flatshading without the need for duplicating vertices when building the geometry.
 #### Voxel
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain)
 * [voxelizer](https://github.com/karimnaaji/voxelizer)
@@ -493,6 +493,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [openflipper](https://www.openflipper.org/)
  
 ## Platform
+* [herebedragons](https://github.com/kosua20/herebedragons)
 * [glfw](https://github.com/glfw/glfw)
 * [MoltenVK](https://github.com/KhronosGroup/MoltenVK) Vulkan graphics and compute API, that runs on Apple's Metal graphics framework
 * [dxvk](https://github.com/doitsujin/dxvk) Vulkan-based D3D11 implementation for Linux / Wine  
@@ -512,17 +513,18 @@ Graphic Engine &amp; Game Engine open source list！
 * [debug-draw](https://github.com/glampert/debug-draw)
 
 ## Effect 
-#### Shader Collection
-* [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders)
-* [Depth3D](https://github.com/BlueSkyDefender/Depth3D) Depth Map Based 3D post-process shader for Reshade
+#### Minecraft
+* [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders) A Minecraft shaderspack. Offers high performance with high quality at the same time. https://qionouu.cn/  
+* [Ebin-Shaders](https://github.com/BruceKnowsHow/Ebin-Shaders) This is a Minecraft shaderpack for use with Optifine.
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
-* [herebedragons](https://github.com/kosua20/herebedragons)
-#### Some Effect
-* [MetaBlob](https://github.com/danielzeller/MetaBlob)
-* [gl-transitions](https://github.com/gl-transitions/gl-transitions)
-* [FlatShader](https://github.com/cjurjiu/FlatShader)
-* [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
+#### Meta Blobs
+* [MetaBlob](https://github.com/danielzeller/MetaBlob) Meta Blobs for Unity 3D.
+#### Transitions
+* [gl-transitions](https://github.com/gl-transitions/gl-transitions) :thumbsup:  The open collection of GL Transitions https://gl-transitions.com/ 
+#### Mesh Cut
 * [cross-section](https://assetstore.unity.com/packages/vfx/shaders/cross-section-66300) create a cross section through meshes
+#### PageCurl
+* [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
 #### Decal
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray)
 #### OutLine
