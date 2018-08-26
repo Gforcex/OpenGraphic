@@ -15,8 +15,12 @@ Graphic Engine &amp; Game Engine open source list！
 
   [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)           
   [ShadeModel](#shade-model) &nbsp;&nbsp; [PhysicallyBasedRendering](#physically-based-rendering)   
-  [Stylize](#stylize)  
-  [OIT](#oit)  
+  [Stylize](#stylize)    
+  [Effect](#effect) &nbsp;&nbsp; [VFX](#vfx) 
+  
+>**Beyond Polygons**
+
+  [OIT](#oit) &nbsp;&nbsp; [Decal](#decal)  
   
 >**Emulation**
 
@@ -36,12 +40,11 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Tutorial**
 
-  [SDK&Tutorial](#sdktutorial) &nbsp;&nbsp; [Effect](#effect) 
+  [SDK&Tutorial](#sdktutorial)
   
 >**Other**
 
-  [Physics](#physics) &nbsp;&nbsp; [VR&AR](#vrar)   
-  [Animation](#animation) &nbsp;&nbsp; [Particle](#particle)  
+  [Physics](#physics) &nbsp;&nbsp; [Animation](#animation) &nbsp;&nbsp; [Particle](#particle) &nbsp;&nbsp; [Machine Learning](#ml)  &nbsp;&nbsp;  [VR&AR](#vrar) &nbsp;&nbsp;
   
 ---
 
