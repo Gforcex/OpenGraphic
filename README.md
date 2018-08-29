@@ -104,6 +104,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [coco3d](http://coco3d.codeplex.com/)
 * [muli3d](https://sourceforge.net/projects/muli3d/)
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
+* [Mesa3D](https://gitlab.freedesktop.org/mesa/mesa) https://www.mesa3d.org
 
 ## GI
 ### Collection
@@ -196,6 +197,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [smaaDemo](https://github.com/turol/smaaDemo) Subpixel Morphological AntiAliasing OpenGL/Vulkan demo
 * [SMAA](https://github.com/Chman/SMAA) SMAA in unity3D
 * [SpecularAA](https://github.com/TheRealMJP/SpecularAA) A demo of various normal map filtering techniques for reducing specular aliasing
+* [glsl-fxaa](https://github.com/mattdesl/glsl-fxaa) FXAA implementation for glslify in WebGL
+#### Denoising 
+* [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
 * [hdreffects](https://github.com/karimnaaji/hdreffects)
@@ -534,6 +538,10 @@ Graphic Engine &amp; Game Engine open source list！
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
+## VFX
+#### Houdini
+* [qLib](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini. http://qlab.github.com/qLib
+
 ## Tools
 #### UE4
 * [u4pak](https://github.com/panzi/u4pak)
@@ -543,10 +551,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 #### Shader
-* [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
-* [glslang](https://github.com/KhronosGroup/glslang)
-* [HlslTools](https://github.com/tgjones/HlslTools) A Visual Studio extension that provides enhanced support for editing High Level Shading Language (HLSL) files
+* [shader-playground](https://github.com/tgjones/shader-playground) :thumbsup: Shader compilers http://shader-playground.timjones.io
+* [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) :star: GLSL optimizer based on Mesa's GLSL compiler.
+* [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
+https://www.mesa3d.org/
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge)
+
+* [HlslTools](https://github.com/tgjones/HlslTools) A Visual Studio extension that provides enhanced support for editing High Level Shading Language (HLSL) files
 * [nshader](https://github.com/samizzo/nshader) Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages
 * [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) ShaderlabVS is a Visual Studio Plugin for Unity Shaderlab programming
 #### ShaderToy
@@ -554,7 +565,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
 * [ShaderMan](https://github.com/smkplus/ShaderMan)
 #### Visual Effects
-* [gaffer](https://github.com/GafferHQ/gaffer)
+* [gaffer](https://github.com/GafferHQ/gaffer)  A open source application framework designed specifically for creating tools for use in visual effects production.
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### Texture
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
