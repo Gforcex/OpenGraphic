@@ -627,6 +627,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
 
 ## Animation
+* [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
 * [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
