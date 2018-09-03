@@ -449,6 +449,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
 
 ## Image&Color
+* [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library https://opencv.org
 * [bimg](https://github.com/bkaradzic/bimg) Image library.
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) OpenImageIO http://www.openimageio.org
@@ -461,6 +462,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) Texture processing tools with support for Direct3D 10 and 11 formats. 
 * [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
 * [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
+* [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 
 ## Noise
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise)
@@ -489,6 +491,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
 
 * [Compressonator](https://github.com/GPUOpen-Tools/Compressonator) Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs  
+* [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds.   
+
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
