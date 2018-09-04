@@ -540,6 +540,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
+#### Fractal
+* [ElectricSheep_WebGL](https://github.com/richardassar/ElectricSheep_WebGL) WebGL Electric Sheep Renderer
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
