@@ -140,6 +140,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Instant Radiosity
 * [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
+* [GIGL](https://github.com/vgfx/GIGL)
 #### Ray tracing
 #### Path tracing
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
