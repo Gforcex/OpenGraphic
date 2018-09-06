@@ -143,6 +143,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GIGL](https://github.com/vgfx/GIGL)
 #### Ray tracing
 #### Path tracing
+* [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
 #### Metropolis light transport
