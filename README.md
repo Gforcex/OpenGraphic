@@ -153,7 +153,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
 * [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
-* [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime  
+* [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime
+* [ConeSphereOcclusionLUT](https://github.com/knarkowicz/ConeSphereOcclusionLUT) ConeSphereOcclusionLUT generates a cone sphere occlusion LUT to be used with TLoU style **capsule AO shadows**. For details "Lighting Technology Of "The Last Of Us".
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### Radiosity Normal Mapping
@@ -166,6 +167,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [BocsLightmapper](https://github.com/sasa42/BocsLightmapper)
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
 #### Light Field
+* [temporal-lightfield-reconstruction](https://github.com/jiawen/temporal-lightfield-reconstruction)   mplementation of "Temporal Light Field Reconstruction for Rendering Distribution Effects" (SIGGRAPH 2011)
+* [indirect-light-field-reconstruction](https://github.com/jtlehtin/indirect-light-field-reconstruction)  mplementation of "Reconstructing the Indirect Light Field for Global Illumination" (SIGGRAPH 2012)  
 
 ### GI Simulation
 #### Diffuse inter-reflection
@@ -184,6 +187,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
 * [RayTracedShadows](https://github.com/kayru/RayTracedShadows)
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
+* [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes)
 
 ## PostProcessing 
 #### Collection
@@ -396,6 +400,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [uRaymarching](https://github.com/hecomi/uRaymarching)   
 * [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)  
 * [dli](https://github.com/dli)  
+* [SpaceWarp](https://github.com/mzandvliet/SpaceWarp)  Playing with DistanceField Raymarching as Post Effect in Unity3d
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)
 #### Shear-warp
