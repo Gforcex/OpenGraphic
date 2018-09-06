@@ -518,7 +518,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [nanogui](https://github.com/wjakob/nanogui)
 * [nuklear](https://github.com/vurtun/nuklear)
 * [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)
-* [unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) Beautiful Text Outline for Unity UI
+* [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
+* [SpriteDicing](https://github.com/Elringus/SpriteDicing) Extension for Unity game engine to work with diced sprites
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
 
 ## Util
@@ -649,6 +650,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
 * [VolumetricParticles](https://github.com/DaSutt/VolumetricParticles)
+* [gpu-particles](https://github.com/Robert-K/gpu-particles) A GPU Particle System for Unity
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
