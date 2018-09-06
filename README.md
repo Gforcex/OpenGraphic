@@ -451,7 +451,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
 
 ## Image&Color
-* [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library https://opencv.org
+* [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
 * [bimg](https://github.com/bkaradzic/bimg) Image library.
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) OpenImageIO http://www.openimageio.org
