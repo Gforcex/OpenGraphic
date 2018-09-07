@@ -322,7 +322,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Fog
 * [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
-
+* [UEShaderBits-GDC-Pack](https://github.com/sp0lsh/UEShaderBits-GDC-Pack)  UE4 Volumetric Fog Techniques
 ## Render Path
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid)
 * [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader)
@@ -442,6 +442,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
+Other.....
+* [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  Vulkan-based renderer on real-time transparency
+* [PreMulAlpha](https://github.com/dtrebilco/PreMulAlpha)  Pre-Multiplied blend mode  
 
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
@@ -534,6 +537,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [stb](https://github.com/nothings/stb)
 * [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [debug-draw](https://github.com/glampert/debug-draw)
+#### Unity
+* [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter)  A tool to export any Unity GameObject into a FBX ASCII format
+* [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
 
 ## Effect 
 #### Minecraft
