@@ -434,9 +434,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityOctree](https://github.com/Nition/UnityOctree)
 
 ## SDF
-* [distancefield-unity](https://github.com/kvantetore/distancefield-unity)
-* [Typogenic](https://github.com/Chman/Typogenic)
-* [SDF](https://github.com/memononen/SDF)
+* [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
+* [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
+* [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
 
 ## OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
