@@ -488,26 +488,20 @@ Other.....
 * [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner)
 
 ## Mesh
-*IO Subdivision Simplification Deform Destruction Optimization*  
-
+#### IO
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats   
 * [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer  
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)    
-
+#### Subdivision
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
-
+#### Simplification
 * [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
 * [MeshDecimator](https://github.com/Whinarn/MeshDecimator), [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.  
 * [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) Mesh simplification with UV's boundary preserved
-
+#### Deform Destruction  
 * [MeshDGP](https://github.com/meshdgp/MeshDGP) a simple C# geometry processing library. demonstrates the dozens of keystone mesh processing algorithms
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
- 
-* [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
-
-* [Compressonator](https://github.com/GPUOpen-Tools/Compressonator) Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs  
-* [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds.   
-
+#### Modeling
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
@@ -515,6 +509,13 @@ Other.....
 * [libigl](https://github.com/libigl/libigl)
 * [openmesh](https://www.openmesh.org/)
 * [openflipper](https://www.openflipper.org/)
+#### Optimization
+* [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
+
+* [Compressonator](https://github.com/GPUOpen-Tools/Compressonator) Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs  
+* [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds. 
+ #### Reconstruction
+ * [meshroom](https://github.com/alicevision/meshroom) 3D Reconstruction Software based on the (AliceVision)[https://github.com/alicevision/AliceVision] framework.
  
 ## Platform
 * [herebedragons](https://github.com/kosua20/herebedragons)
