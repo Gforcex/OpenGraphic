@@ -583,7 +583,8 @@ Other.....
 * [shader-playground](https://github.com/tgjones/shader-playground) :thumbsup: Shader compilers http://shader-playground.timjones.io
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) :star: GLSL optimizer based on Mesa's GLSL compiler.
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
-* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge)
+* [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
+* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
 
 * [HlslTools](https://github.com/tgjones/HlslTools) A Visual Studio extension that provides enhanced support for editing High Level Shading Language (HLSL) files
 * [nshader](https://github.com/samizzo/nshader) Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages
