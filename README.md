@@ -504,15 +504,16 @@ Other.....
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
 #### Modeling
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
-* [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
+* [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998   
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes   
-* [libigl](https://github.com/libigl/libigl)
-* [openmesh](https://www.openmesh.org/)
-* [openflipper](https://www.openflipper.org/)
+* [libigl](https://github.com/libigl/libigl) Simple C++ geometry processing library. 
+* [instant-meshes](https://github.com/wjakob/instant-meshes)  Interactive field-aligned mesh generator  
+* [openmesh](https://www.openmesh.org/) A generic and efficient polygon mesh data structure  
+* [openflipper](https://www.openflipper.org/)   programming framework designed for processing, modeling and rendering of geometric data.
 #### Optimization
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
-
+#### Compress
 * [Compressonator](https://github.com/GPUOpen-Tools/Compressonator) Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs  
 * [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds. 
  #### Reconstruction
