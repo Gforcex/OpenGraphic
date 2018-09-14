@@ -600,6 +600,14 @@ Other.....
 #### Texture
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
+* [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool
+* [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
+#### Atlas 
+* [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
+* [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
+* [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool
+* [Unity3D-TextureAtlasSlicer](https://github.com/toxicFork/Unity3D-TextureAtlasSlicer)
+* [VaTexAtlas](https://github.com/ufna/VaTexAtlas)  plugin for Unreal Engine 4 that makes texture atlases simpler to use with UMG system.
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
