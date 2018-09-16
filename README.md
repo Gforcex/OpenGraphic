@@ -72,7 +72,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Ogre](https://github.com/ogrecave) ogre github mirror
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) with Voxel-based Global Illumination
 * [xenko](https://github.com/xenko3d/xenko) -old address https://github.com/SiliconStudio/xenko
-* [bgfx](https://github.com/bkaradzic/bgfx) -Orthodox C++ coding style and like OpenGL APIs 
+* [bgfx](https://github.com/bkaradzic/bgfx) -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
