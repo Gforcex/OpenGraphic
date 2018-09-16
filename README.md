@@ -492,7 +492,8 @@ Other.....
 #### IO
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats   
 * [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer  
-* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)    
+* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)   
+* [OpenFBX](https://github.com/nem0/OpenFBX) Lightweight open source FBX importer
 #### Subdivision
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 #### Simplification
