@@ -70,12 +70,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [Ogre](https://github.com/ogrecave) ogre github mirror
-* [WickedEngine](https://github.com/turanszkij/WickedEngine) with Voxel-based Global Illumination
-* [xenko](https://github.com/xenko3d/xenko) -old address https://github.com/SiliconStudio/xenko
+* [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques. With Bullet Physics, Lua scripting, and more.
+* [xenko](https://github.com/xenko3d/xenko)
 * [bgfx](https://github.com/bkaradzic/bgfx) -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
-* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework,Orthodox C++ coding style and APIs
-* [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps
+* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+* [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [BRE12](https://github.com/nbertoa/BRE12) a rendering framework [Blog](https://nbertoa.wordpress.com/)
 
 ## Engine Plugin
