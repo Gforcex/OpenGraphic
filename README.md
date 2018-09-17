@@ -603,6 +603,7 @@ Other.....
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
 * [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
+* [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
 #### Atlas 
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
