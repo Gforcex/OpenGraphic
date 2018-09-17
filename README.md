@@ -463,7 +463,7 @@ Other.....
 
 ## Image&Color
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
-* [bimg](https://github.com/bkaradzic/bimg) Image library.
+* [bimg](https://github.com/bkaradzic/bimg)  Image library.
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) OpenImageIO http://www.openimageio.org
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces) Utility functions to convert between various color spaces in GLSL
@@ -471,8 +471,8 @@ Other.....
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d) 
 * [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
 * [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org
-* [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
+* [ImageMagick](https://github.com/ImageMagick/ImageMagick) create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) 
 
 #### TextureCompressed
 * [nv_dds](https://github.com/paroj/nv_dds) DDS image loader for OpenGL/ OpenGL ES2 http://paroj.github.io/nv_dds/
@@ -603,6 +603,7 @@ Other.....
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
 * [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
+* [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
 #### Atlas 
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
