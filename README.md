@@ -371,6 +371,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [IBLBaker](https://github.com/derkreature/IBLBaker)
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)
 * [Probulator](https://github.com/kayru/Probulator)
+* [PBR](https://github.com/Nadrin/PBR) An implementation of physically based shading model & image based lighting in various graphics APIs.
 * [IBLGGX](https://github.com/tuccio/IBLGGX)
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
 * [BRDFGenerator](https://github.com/HectorMF/BRDFGenerator)
