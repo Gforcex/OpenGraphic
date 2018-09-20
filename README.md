@@ -606,6 +606,7 @@ Other.....
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
 * [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
+* [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) Luminance HDR is a complete suite for HDR imaging workflow. 
 #### Atlas 
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
