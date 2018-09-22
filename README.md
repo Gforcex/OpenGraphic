@@ -368,13 +368,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 * [ScreenSpaceSubsurfaceScattering](https://github.com/Xerxes1138/ScreenSpaceSubsurfaceScattering)
 #### IBL
-* [IBLBaker](https://github.com/derkreature/IBLBaker)
-* [cmftStudio](https://github.com/dariomanesku/cmftStudio)
-* [Probulator](https://github.com/kayru/Probulator)
+* [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
+* [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
+* [Probulator](https://github.com/kayru/Probulator) Experimentation framework for probe-based lighting
 * [PBR](https://github.com/Nadrin/PBR) An implementation of physically based shading model & image based lighting in various graphics APIs.
-* [IBLGGX](https://github.com/tuccio/IBLGGX)
-* [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG)
-* [BRDFGenerator](https://github.com/HectorMF/BRDFGenerator)
+* [IBLGGX](https://github.com/tuccio/IBLGGX) Sample implementation of UE4/Frostbite image based lighting method based on GGX convolution of HDR environment maps.
+* [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG) DFG LUT generator
 * [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
 * [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
 
