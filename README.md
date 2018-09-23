@@ -627,9 +627,10 @@ Other.....
 
 ## SDK&Tutorial
 #### API Samples
-* [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
-* [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples)
-* [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan)
+* [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
+* [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) This repo contains C++ samples from the DirectX SDK updated to build using the Windows 8.x SDK or Windows 10 SDK
+* [Zombie-Direct3D-Samples](https://github.com/marselas/Zombie-Direct3D-Samples) June 2010 SDK updated to build with the latest version of Windows and Visual Studio
+* [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan) Source code examples for "API without Secrets: Introduction to Vulkan" tutorial 
 * [VulkanTutorial](https://github.com/Overv/VulkanTutorial)
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
 * [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
