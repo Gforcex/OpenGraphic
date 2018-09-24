@@ -119,6 +119,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods. Written in c++ with OpenGL/GLSL.  
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI)
+* [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing. Implemented in C++ and GLSL.
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
 * [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
