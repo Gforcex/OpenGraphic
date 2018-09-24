@@ -678,6 +678,7 @@ Other.....
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
 * [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
+* [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
