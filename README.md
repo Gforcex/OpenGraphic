@@ -136,6 +136,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+#### Deferred Irradiance Volumes
+* [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
+#### Deferred Radiance Transfer Volumes
 #### Radiosity
 #### Instant Radiosity
 * [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
