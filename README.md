@@ -289,8 +289,9 @@ Graphic Engine &amp; Game Engine open source list！
 #### Terrain
 * [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms)
 #### Cloud
-* [volsample](https://github.com/huwb/volsample)
-* [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D)
+* [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
+* [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
+* [VolumeCloud](https://github.com/yangrc1234/VolumeCloud) Volume cloud for Unity3D
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds)
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
 * [Marshmallow](https://github.com/mccannd/Project-Marshmallow) Vulkan-based implementation of clouds from Decima Engine
@@ -567,6 +568,7 @@ Other.....
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray)
 #### OutLine
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
+* [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
 #### Fractal
