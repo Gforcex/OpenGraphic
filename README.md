@@ -153,7 +153,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [edubpt](https://github.com/githole/edubpt)
 #### Metropolis light transport
 #### PhotonMapping
-* [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data)
+* [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
+* [SOPGI](https://github.com/alexnardini/SOPGI)  A VEX raytracer for SideFX Houdini with photon mapping global illumination and full recursive reflections and refractions
 #### Ambient occlusion
 * [NNAO](https://github.com/simeonradivoev/NNAO) Neural Network Ambien Occlusion
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
