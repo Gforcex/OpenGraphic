@@ -533,11 +533,11 @@ Other.....
 * [dxvk](https://github.com/doitsujin/dxvk) Vulkan-based D3D11 implementation for Linux / Wine  
 
 ## UI
-* [imgui](https://github.com/ocornut/imgui)
-* [nanovg](https://github.com/memononen/nanovg)
-* [nanogui](https://github.com/wjakob/nanogui)
-* [nuklear](https://github.com/vurtun/nuklear)
-* [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)
+* [imgui](https://github.com/ocornut/imgui) :star: Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies  
+* [nanovg](https://github.com/memononen/nanovg) Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. 
+* [nanogui](https://github.com/wjakob/nanogui) Minimalistic GUI library for OpenGL
+* [nuklear](https://github.com/vurtun/nuklear) A single-header ANSI C gui library  
+* [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)  a light and intuitive GUI into OpenGL or DirectX based programs to interactively tweak parameters on-screen.
 * [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing) Extension for Unity game engine to work with diced sprites
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
