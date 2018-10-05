@@ -297,6 +297,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Meteoros](https://github.com/Aman-Sachan-asach/Meteoros) Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
 #### Sky
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
+* [CSky-Dynamic-Sky-Unity](https://github.com/AKuellar/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System
+* [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
 #### Rain
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
@@ -472,13 +474,18 @@ Other.....
 * [bimg](https://github.com/bkaradzic/bimg)  Image library.
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) OpenImageIO http://www.openimageio.org
-* [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces) Utility functions to convert between various color spaces in GLSL
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
-* [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d) 
-* [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
-* [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org
-* [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick) create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) 
+* [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
+
+#### VectorGraphics
+* [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
+
+#### Color
+* [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces) Utility functions to convert between various color spaces in GLSL
+* [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org
+* [color](https://github.com/dmilos/color) ++ library thats implemets class color. Available models: RGB, HSL, HSV, CMY, CMYK, YIQ, YUV and growing.  
+* [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
 
 #### TextureCompressed
 * [nv_dds](https://github.com/paroj/nv_dds) DDS image loader for OpenGL/ OpenGL ES2 http://paroj.github.io/nv_dds/
@@ -579,6 +586,8 @@ Other.....
 ## VFX
 #### Houdini
 * [qLib](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini. http://qlab.github.com/qLib
+#### Alembic
+* [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
 
 ## Tools
 #### UE4
@@ -612,7 +621,7 @@ Other.....
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
 * [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
-* [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) Luminance HDR is a complete suite for HDR imaging workflow. 
+* [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
 #### Atlas 
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
