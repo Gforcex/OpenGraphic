@@ -142,7 +142,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Instant Radiosity
 * [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
-* [GIGL](https://github.com/vgfx/GIGL)
+* [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 #### Ray tracing
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
@@ -602,6 +602,7 @@ Other.....
 #### Unity
 * [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
+* [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D  
 #### Shader
 * [shader-playground](https://github.com/tgjones/shader-playground) :thumbsup: Shader compilers http://shader-playground.timjones.io
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) :star: GLSL optimizer based on Mesa's GLSL compiler.
@@ -628,6 +629,9 @@ Other.....
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
 * [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
 * [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
+#### Painter
+* [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
+* [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
 #### Atlas 
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
