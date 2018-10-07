@@ -459,6 +459,7 @@ Other.....
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
 * [MathGeoLib](https://github.com/juj/MathGeoLib) A C++ library for linear algebra and geometry manipulation for computer graphics
+* [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM) https://glm.g-truc.net
 * [CGAL](https://www.cgal.org/) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
 * [MTL]() Matrix Template Library,  a linear algebra library for C++ programs.
@@ -625,6 +626,7 @@ Other.....
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
 * [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
+* [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
 * [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
 #### Atlas 
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
