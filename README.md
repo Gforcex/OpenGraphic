@@ -581,9 +581,9 @@ Other.....
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
-#### Fractal
+#### Fractal 
 * [ElectricSheep_WebGL](https://github.com/richardassar/ElectricSheep_WebGL) WebGL Electric Sheep Renderer
-#### 
+#### InteriorMapping
 * [Unity-InteriorMapping](https://github.com/Gaxil/Unity-InteriorMapping)  Interior mapping shader for Unity with a sample scene. 
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
