@@ -570,6 +570,7 @@ Other.....
 * [MetaBlob](https://github.com/danielzeller/MetaBlob) Meta Blobs for Unity 3D.
 #### Transitions
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions) :thumbsup:  The open collection of GL Transitions https://gl-transitions.com/ 
+* [ScreenManager](https://github.com/Xerios/ScreenManager) Flexible way to manage screens with transitions for Unity
 #### Mesh Cut
 * [cross-section](https://assetstore.unity.com/packages/vfx/shaders/cross-section-66300) create a cross section through meshes
 #### PageCurl
