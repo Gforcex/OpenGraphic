@@ -269,16 +269,14 @@ Graphic Engine &amp; Game Engine open source list！
 [Eric.Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/)  [Brunetons-Ocean](https://github.com/Scrawk/Brunetons-Ocean)
 
 #### Snow
-* [SnowSimulation](https://github.com/hubi037/SnowSimulation)
-* [SnowDeformation](https://github.com/vanish87/SnowDeformation)
-* [UnrealSnow](https://github.com/bneukom/UnrealSnow)
-* [Snowshader](https://github.com/RenV123/Snowshader)
-* [snow](https://github.com/Azmisov/snow)
-* [DeformationGPU](https://github.com/hsdk/DeformationGPU)
-* [DeepSnowFootprint](https://github.com/ZGeng/DeepSnowFootprint)
-* [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow)
+* [SnowSimulation](https://github.com/hubi037/SnowSimulation) GPU Snow Simulation for Unity and Direct3D 
+* [snow](https://github.com/Azmisov/snow)  "A Material Point Method for Snow Simulation" (Stomakhin et al., 2013). 
+* [SnowDeformation](https://github.com/vanish87/SnowDeformation) To create a snow accumulation and deformation effect along with physical based rendering
+* [UnrealSnow](https://github.com/bneukom/UnrealSnow) Unreal Engine snow simulation for large terrains using Compute Shaders for GPU paralellization.
+* [DeepSnowFootprint](https://github.com/ZGeng/DeepSnowFootprint) A unity shader solution to generate footprint on thick snow surfaces.
+* [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow) Repository for online PIGSquad workshop on deformable snow in Unity.
 #### Sand
-* [JourneySand](https://github.com/AtwoodDeng/JourneySand)
+* [JourneySand](https://github.com/AtwoodDeng/JourneySand) An Unity project to reproduce the sand rendering in Journey's style
 #### Grass
 * [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX)
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering)
@@ -528,6 +526,7 @@ Other.....
 * [instant-meshes](https://github.com/wjakob/instant-meshes)  Interactive field-aligned mesh generator  
 * [openmesh](https://www.openmesh.org/) A generic and efficient polygon mesh data structure  
 * [openflipper](https://www.openflipper.org/)   programming framework designed for processing, modeling and rendering of geometric data.
+* [cinolib](https://github.com/mlivesu/cinolib) A generic programming header only C++ library for processing polygonal and polyhedral meshes
 #### Optimization
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
 #### Compress
