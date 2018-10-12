@@ -56,25 +56,24 @@ Graphic Engine &amp; Game Engine open source list！
 * [InteractiveComputerGraphics](https://github.com/InteractiveComputerGraphics)
 
 ## Engine
-* [UnrealEngine](https://github.com/EpicGames/UnrealEngine) :star:
-* [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) :star:
-* [Lumberyard](https://github.com/aws/lumberyard) :star:
+* [UnrealEngine](https://github.com/EpicGames/UnrealEngine) :star: https://www.unrealengine.com/
+* [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) :star:  https://www.cryengine.com/
+* [Lumberyard](https://github.com/aws/lumberyard) :star: https://aws.amazon.com/lumberyard/
 * [Urho3D](https://github.com/urho3d/Urho3D):thumbsup: lightweight, cross-platform 2D and 3D game engine,Greatly inspired by OGRE and Horde3D.
 * [filament](https://github.com/google/filament):thumbsup: Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor):thumbsup: Real-Time Rendering Framework, NVIDIA
 * [Klayag](https://github.com/gongminmin/KlayGE) A cross-platform open source game engine with plugin-based architecture
 * [G3D]( https://casual-effects.com/g3d) Graphics research and rapid prototyping in OpenGL and C++
-* [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
-* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)
 * [Ogre](https://github.com/ogrecave) ogre github mirror
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques. With Bullet Physics, Lua scripting, and more.
-* [xenko](https://github.com/xenko3d/xenko)
+* [xenko](https://github.com/xenko3d/xenko)  An open-source C# game engine for realistic rendering and VR
+* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+* [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [bgfx](https://github.com/bkaradzic/bgfx) -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
-* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+* [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)  http://www.openscenegraph.org  
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
-* [BRE12](https://github.com/nbertoa/BRE12) a rendering framework [Blog](https://nbertoa.wordpress.com/)
 
 ## Engine Plugin
 * [armory](https://github.com/armory3d/armory)  -3D Game Engine for Blender
@@ -82,41 +81,41 @@ Graphic Engine &amp; Game Engine open source list！
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) physically-based rendering at mikumikudance
 
 ## PBR RayTrace
-* [embree](https://github.com/embree/embree)
-* [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs)
-* [appleseed](https://github.com/appleseedhq/appleseed)
+* [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
+* [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
+* [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
 * [pbrt](https://github.com/mmp/pbrt-v3) Source code for "Physically Based Rendering: From Theory To Implementation" 
-* [mitsuba](https://github.com/mitsuba-renderer/mitsuba)
-* [LuxCoreRender](https://github.com/LuxCoreRender)
+* [mitsuba](https://github.com/mitsuba-renderer/mitsuba) http://mitsuba-renderer.org/
+* [LuxCoreRender](https://github.com/LuxCoreRender) https://www.luxcorerender.org
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
-* [taichi](https://github.com/yuanming-hu/taichi)
+* [taichi](https://github.com/yuanming-hu/taichi) Open Source Computer Graphics Library http://taichi.graphics
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
-* [nori](https://github.com/wjakob/nori)
+* [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
 
 ## Soft Renderer
 * [openswr-mesa](https://github.com/OpenSWR/openswr-mesa) [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
-* [miaow](https://github.com/VerticalResearchGroup/miaow)
-* [tinyrenderer](https://github.com/ssloy/tinyrenderer)
-* [coco3d](http://coco3d.codeplex.com/)
-* [muli3d](https://sourceforge.net/projects/muli3d/)
+* [miaow](https://github.com/VerticalResearchGroup/miaow) An open source GPU based off of the AMD Southern Islands ISA.
+* [tinyrenderer](https://github.com/ssloy/tinyrenderer)  A brief computer graphics / rendering course
+* [coco3d](http://coco3d.codeplex.com/) Coco3D is a real-time 3D software renderer for Windows PCs and mobile devices
+* [muli3d](https://sourceforge.net/projects/muli3d/)  implements features of current graphics hardware in software. The focus is on ease of use and clear code
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
 * [Mesa3D](https://gitlab.freedesktop.org/mesa/mesa) https://www.mesa3d.org
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
 
 ## GI
 ### Collection
-* [GITechDemo](https://github.com/iftodebogdan/GITechDemo)
-* [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
-* [dirtchamber](https://github.com/thefranke/dirtchamber)
-* [RTGI](https://github.com/jazzboysc/RTGI)
+* [GITechDemo](https://github.com/iftodebogdan/GITechDemo)  A global illumination technical demo application.
+* [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 * [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
-* [VCTRenderer](https://github.com/jose-villegas/VCTRenderer)
-* [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods. Written in c++ with OpenGL/GLSL.  
+* [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods
+* [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
+* [RTGI](https://github.com/jazzboysc/RTGI)
 #### SVO
-* [SEGI](https://github.com/sonicether/SEGI)
+* [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
+* [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred Voxel Shading for Real Time Global Illumination
 * [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing. Implemented in C++ and GLSL.
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
 * [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
