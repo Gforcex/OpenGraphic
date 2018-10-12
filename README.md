@@ -111,18 +111,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods
-* [DynamicRadianceVolume](https://github.com/Wumpf/DynamicRadianceVolume)
 * [RTGI](https://github.com/jazzboysc/RTGI)
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred Voxel Shading for Real Time Global Illumination
-* [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing. Implemented in C++ and GLSL.
-* [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)
-* [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)
-* [VoxelConeTracing](https://github.com/domme/VoxelConeTracing)
-* [VCTGI](https://github.com/rdinse/VCTGI)
-* [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork)
+* [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing.
+* [VoxelConeTracing](https://github.com/domme/VoxelConeTracing) An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin
+* [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
+* [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork) University of Pennsylvania, CIS 565: GPU Programming and Architecture, Final Project
 * [HarshLight](https://github.com/MangoSister/HarshLight) Real-time global illumination based on voxel cone tracing
+* [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing) easy to understand
+* [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing) easy to understand
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
