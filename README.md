@@ -252,15 +252,16 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Nature
 #### Water
-* [VaOcean](https://github.com/ufna/VaOcean)
+* [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system
+* [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
 * [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
-* [OceanProject](https://github.com/UE4-OceanProject/OceanProject)
+* [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
-* [fft-ocean](https://github.com/jbouny/fft-ocean)
-* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy)
+* [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
+* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Novel ocean rendering techniques (Unity3D)
-* [Mistral-Water](https://github.com/AlphaMistral/Mistral-Water)
+* [Mistral-Water](https://github.com/AlphaMistral/Mistral-Water) Ocean simulation based on Tessendorf's FFT technique and Gerstner wave. Stockham formulation. White cap.
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
