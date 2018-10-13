@@ -151,6 +151,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
 * [SOPGI](https://github.com/alexnardini/SOPGI)  A VEX raytracer for SideFX Houdini with photon mapping global illumination and full recursive reflections and refractions
 #### Ambient occlusion
+* [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
+* [KinoObscurance](https://github.com/keijiro/KinoObscurance) screen-space ambient obscurance (SSAO) image effect for Unity.
 * [NNAO](https://github.com/simeonradivoev/NNAO) Neural Network Ambien Occlusion
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
@@ -276,8 +278,9 @@ Graphic Engine &amp; Game Engine open source list！
 #### Sand
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) An Unity project to reproduce the sand rendering in Journey's style
 #### Grass
-* [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX)
-* [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering)
+* [KvantGrass](https://github.com/keijiro/KvantGrass) Animating grass shader for Unity
+* [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX) Realistic Grass Rendering using DirectX 11 and a geometry-shader based approach.
+* [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering) Vulkan implementation of "Responsive Real-Time Grass Rendering for General 3D Scenes" by Jahrmann and Wimmer
 * [GooHairGrass](https://github.com/cabbibo/GooHairGrass)
 * [Project6-Vulkan-Grass-Rendering](https://github.com/CIS565-Fall-2017/Project6-Vulkan-Grass-Rendering)
 #### Tree
@@ -301,11 +304,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
 * [RainFX](https://github.com/smkplus/RainFX)
 #### Fire
-* [fire](https://github.com/robertcupisz/fire)
+* [fire](https://github.com/robertcupisz/fire) A fire effect for Unity.
 #### Ice
 #### Iridescent
 * [Iridescence](https://github.com/Xerxes1138/Iridescence)
 * [Iridescent Shader](https://www.patreon.com/posts/iridescent-18699278)
+#### Glass
+* [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) Test of a frosted glass material in Unity.
 
 ## Environment
 #### VolumetricLight
@@ -409,7 +414,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [dli](https://github.com/dli)  
 * [SpaceWarp](https://github.com/mzandvliet/SpaceWarp)  Playing with DistanceField Raymarching as Post Effect in Unity3d
 #### Point Clouds
-* [PCL](http://www.pointclouds.org/)
+* [PCL](http://www.pointclouds.org/)  A standalone, large scale, open project for 2D/3D image and point cloud processing.
+* [Pcx](https://github.com/keijiro/Pcx) Point cloud importer & renderer for Unity
 #### Shear-warp
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools
@@ -608,10 +614,7 @@ Other.....
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
-
-* [HlslTools](https://github.com/tgjones/HlslTools) A Visual Studio extension that provides enhanced support for editing High Level Shading Language (HLSL) files
-* [nshader](https://github.com/samizzo/nshader) Visual Studio 2013/2015/2017 syntax highlighting extension for shader languages
-* [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) ShaderlabVS is a Visual Studio Plugin for Unity Shaderlab programming
+* Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy)
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
