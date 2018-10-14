@@ -542,7 +542,7 @@ Other.....
 * [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds. 
  #### Reconstruction
  * [meshroom](https://github.com/alicevision/meshroom) 3D Reconstruction Software based on the (AliceVision)[https://github.com/alicevision/AliceVision] framework.
- 
+ * [openMVG](https://github.com/openMVG/openMVG)  open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 ## Platform
 * [herebedragons](https://github.com/kosua20/herebedragons)
 * [glfw](https://github.com/glfw/glfw)
