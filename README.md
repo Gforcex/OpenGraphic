@@ -187,11 +187,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1)
 #### Refraction
 #### Shadow
-* [Shadows](https://github.com/TheRealMJP/Shadows)
-* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS)
-* [RayTracedShadows](https://github.com/kayru/RayTracedShadows)
+* [Shadows](https://github.com/TheRealMJP/Shadows) A sample app that demonstrates several techniques for rendering real-time shadow maps
+* [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) Nvidia's PCSS soft shadow algorithm implemented in Unity
+* [ContactShadows](https://github.com/keijiro/ContactShadows) Experimental implementation of contact shadows for Unity.
+* [ofxShadowMap](https://github.com/arturoc/ofxShadowMap) Shadow map using PCF or gaussian disk sampling for soft borders
+* [RayTracedShadows](https://github.com/kayru/RayTracedShadows) This demo implements BVH construction and GPU traversal for rendering hard shadows.
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
-* [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes)
+* [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
 
 ## PostProcessing 
 #### Collection
@@ -263,7 +265,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 * [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
-* [Mistral-Water](https://github.com/AlphaMistral/Mistral-Water) Ocean simulation based on Tessendorf's FFT technique and Gerstner wave. Stockham formulation. White cap.
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
@@ -317,7 +318,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Environment
 #### VolumetricLight
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights)
-* [LightShafts](https://github.com/robertcupisz/LightShafts)
+* [LightShafts](https://github.com/robertcupisz/LightShafts) A light shafts (volumetric shadows) effect for Unity.f
 * [OutdoorLightScattering](https://github.com/GameTechDev/OutdoorLightScattering)
 * [Scattering_Demos](https://github.com/yoyonel/Scattering_Demos)
 * [Volumetric_Dynamic_Lights](https://github.com/yoyonel/Volumetric_Dynamic_Lights)
