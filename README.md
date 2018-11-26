@@ -237,7 +237,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS) Naive screen-space subsurface scattering solution for Unity 5.
 * [separable-sss](https://github.com/iryoku/separable-sss) iryoku's SSSSS
 * [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
-* [UnityCharacterRender_SeparableSubsurfaceScatter](https://github.com/haolange/UnityCharacterRender_SeparableSubsurfaceScatter)
+* [Unity-Human-Skin-Shader-PC](https://github.com/MaxwellGengYF/Unity-Human-Skin-Shader-PC)
 * [SubsurfaceScattering](https://github.com/vcrom/SubsurfaceScattering) An implementation of a set screen space physically-based subsurface scattering algorithms
 
 #### Eye
