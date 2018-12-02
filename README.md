@@ -624,6 +624,7 @@ Other.....
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
+* [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy)
 * [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
