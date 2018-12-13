@@ -718,6 +718,7 @@ Other.....
 * [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
 * [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)   anim map for vertex shader to modify the vertex position of the mesh at runtime. use gpu instancing to reduce draw call.
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
+* [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
