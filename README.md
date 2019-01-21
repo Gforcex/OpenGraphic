@@ -307,15 +307,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [CSky-Dynamic-Sky-Unity](https://github.com/AKuellar/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System
 * [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
 #### Rain
-* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect)
+* [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) Rain Drop Effect2: Effective, Fast and Flexible Rain Distortion Effect for Unity
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
-* [RainFX](https://github.com/smkplus/RainFX)
+* [RainFX](https://github.com/smkplus/RainFX) Natural Rain
 #### Fire
 * [fire](https://github.com/robertcupisz/fire) A fire effect for Unity.
 #### Ice
 #### Iridescent
 * [Iridescence](https://github.com/Xerxes1138/Iridescence)
-* [Iridescent Shader](https://www.patreon.com/posts/iridescent-18699278)
+* [Iridescent Shader](https://github.com/smkplus/Iridescence) Iridescence shader
 #### Glass
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) Test of a frosted glass material in Unity.
 
