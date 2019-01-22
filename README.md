@@ -481,6 +481,7 @@ Other.....
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
+* [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 
 ## Image&Color
 #### Computer Vision
