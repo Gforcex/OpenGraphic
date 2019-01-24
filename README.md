@@ -215,6 +215,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SMAA](https://github.com/Chman/SMAA) SMAA in unity3D
 * [SpecularAA](https://github.com/TheRealMJP/SpecularAA) A demo of various normal map filtering techniques for reducing specular aliasing
 * [glsl-fxaa](https://github.com/mattdesl/glsl-fxaa) FXAA implementation for glslify in WebGL
+* [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
 #### Denoising 
 * [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
