@@ -343,9 +343,10 @@ Graphic Engine &amp; Game Engine open source list！
 ## Render Path
 * [HybridRenderingEngine](https://github.com/Angelo1211/HybridRenderingEngine) Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.  
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid) Clustered shading on Android sample  
-* [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader) This code will implement a clustered forward shader using the Vulkan API.  
-* [clustered_forward_demo_vk](https://github.com/sydneyzh/clustered_forward_demo_vk)  Clustered forward rendering demo with Vulkan
 * [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
+* [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader) This code will implement a clustered forward shader using the Vulkan API.  
+* [clustered_forward_demo](https://gitlab.com/efficient_shading/clustered_forward_demo) Ola Olsson. 
+* [clustered_forward_demo_vk](https://github.com/sydneyzh/clustered_forward_demo_vk)  Clustered forward rendering demo with Vulkan
 * [ClusteredShadingConservative](https://github.com/kevinortegren/ClusteredShadingConservative) DirectX 12 light culling technique featured in GPU Pro 7  
 * [VolumeTiledForwardShading](https://github.com/jpvanoosten/VolumeTiledForwardShading)
 
