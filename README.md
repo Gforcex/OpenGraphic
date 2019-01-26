@@ -342,18 +342,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [UEShaderBits-GDC-Pack](https://github.com/sp0lsh/UEShaderBits-GDC-Pack)  UE4 Volumetric Fog Techniques
 ## Render Path
 * [HybridRenderingEngine](https://github.com/Angelo1211/HybridRenderingEngine) Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.  
-* [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid) Clustered shading on Android sample  
-* [forward-clustered-shading](https://software.intel.com/en-us/articles/forward-clustered-shading)
-* [VulkanClusteredShader](https://github.com/xnieamo/VulkanClusteredShader) This code will implement a clustered forward shader using the Vulkan API.  
+* [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid) and [IntelForwardClusteredShading](https://software.intel.com/en-us/articles/forward-clustered-shading) Clustered shading on Android sample  
 * [clustered_forward_demo](https://gitlab.com/efficient_shading/clustered_forward_demo) Ola Olsson. 
 * [clustered_forward_demo_vk](https://github.com/sydneyzh/clustered_forward_demo_vk)  Clustered forward rendering demo with Vulkan
 * [ClusteredShadingConservative](https://github.com/kevinortegren/ClusteredShadingConservative) DirectX 12 light culling technique featured in GPU Pro 7  
-* [VolumeTiledForwardShading](https://github.com/jpvanoosten/VolumeTiledForwardShading)
-
+* [VolumeTiledForwardShading](https://github.com/jpvanoosten/VolumeTiledForwardShading) Volume Tiled Forward Shading. This technique is based on Tiled and Clustered Forward Shading (Olsson, 2012)
 * [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender) Light Indexed Deferred Rendering - Before there was Forward+ and Clustered deferred rendering there was Light Indexed Deferred Rendering (ShaderX7)  
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) Forward+ renderer in Vulkan using Compute Shader. An Upenn CIS565 final project. 
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading) Cute little deferred shading implementation.
-* [Makma](https://github.com/janhsimon/Makma) Makma is a deferred Vulkan renderer written in C++.
 * [nTiled](https://github.com/BeardedPlatypus/nTiled) nTiled - forward and deferred openGL renderer with support for Tiled Shading, Clustered Shading and Hashed Shading
 * [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing)
 
