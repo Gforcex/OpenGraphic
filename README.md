@@ -182,12 +182,13 @@ Graphic Engine &amp; Game Engine open source list！
 #### Caustic
 * [SC_Tracer](https://github.com/ningfengh/SC_Tracer) photon mapping for global illumination and caustic
 #### Reflection
-* [kode80SSR](https://github.com/kode80/kode80SSR)
+* [ComputeStochasticReflections](https://github.com/simeonradivoev/ComputeStochasticReflections) Compute Stochastic Screen Space Reflections for unity post processing  
+* [kode80SSR](https://github.com/kode80/kode80SSR) An open source screen space reflections implementation for Unity3D 5.  
 * [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
-* [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection)
-* [UnitySSR](https://github.com/cCharkes/UnitySSR)
+* [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection) Clearly Screen Space Reflection
+* [UnitySSR](https://github.com/Xerxes1138/UnitySSR) Open source screen space reflection for Unity 5
 * [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
-* [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1)
+* [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
 #### Refraction
 #### Shadow
 * [Shadows](https://github.com/TheRealMJP/Shadows) A sample app that demonstrates several techniques for rendering real-time shadow maps
