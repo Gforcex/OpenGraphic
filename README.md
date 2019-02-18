@@ -194,6 +194,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Shadows](https://github.com/TheRealMJP/Shadows) A sample app that demonstrates several techniques for rendering real-time shadow maps
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) Nvidia's PCSS soft shadow algorithm implemented in Unity
 * [ContactShadows](https://github.com/keijiro/ContactShadows) Experimental implementation of contact shadows for Unity.
+* [HFTS](https://developer.nvidia.com/Hybrid-Frustum-Traced-Shadows) NVIDIA Hybrid Frustum Traced Shadows in NVIDIA ShadowLib.
 * [ofxShadowMap](https://github.com/arturoc/ofxShadowMap) Shadow map using PCF or gaussian disk sampling for soft borders
 * [RayTracedShadows](https://github.com/kayru/RayTracedShadows) This demo implements BVH construction and GPU traversal for rendering hard shadows.
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
