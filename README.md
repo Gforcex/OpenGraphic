@@ -383,10 +383,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
 * [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
-* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter)
+* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) 
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
 * [ScreenSpaceSubsurfaceScattering](https://github.com/Xerxes1138/ScreenSpaceSubsurfaceScattering)
+* [MultipassTranslucency](https://github.com/Philipp-Seifried/MultipassTranslucency) fake subsurface-scattering shader, using multiple passes with different blend ops to calculate thickness without reading back the depth buffer.
 #### IBL
 * [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
