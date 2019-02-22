@@ -260,7 +260,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Silk
 #### Fur
 * [FurRendering](https://github.com/jose-villegas/FurRendering)
-* [NeoFur](https://github.com/TsPersonalOrganization/neo-fur-for-unity)
+* [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
 
 ## Nature
 #### Water
