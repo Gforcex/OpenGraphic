@@ -690,6 +690,9 @@ Other.....
 * [Vulkan](https://github.com/SaschaWillems/Vulkan)
 * [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
+* [NVIDIA Direct3D SDK 11](https://developer.nvidia.com/dx11-samples)
+* [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
+* [NVIDIA Direct3D SDK 9](https://www.nvidia.com/object/sdk-9.html)
 #### Book Code
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
