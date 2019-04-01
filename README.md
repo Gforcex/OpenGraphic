@@ -21,7 +21,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Emulation**
 
-  [Nature](#nature) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; [Human](#human)
+  [Nature](#nature) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; [Character](#character)
   
 >**Optimization**
 
@@ -246,7 +246,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
 
-## Human
+## Character
 #### Skin
 * [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf) Implementation of Donner & Jensen's "A Spectral BSSRDF for Shading Human Skin" in PBRT
 * [skinparam](https://github.com/patwonder/skinparam) Real-time skin renderer with adjustable skin parameters
