@@ -229,6 +229,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-fxaa](https://github.com/mattdesl/glsl-fxaa) FXAA implementation for glslify in WebGL
 * [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
 #### Denoising 
+* [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
 #### Bloom
@@ -372,7 +373,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [pbc](https://github.com/kiwaiii/pbc)
 * [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
 #### File Format
+* [OpenShadingLanguage](https://github.com/imageworks/OpenShadingLanguage) Advanced shading language for production GI renderers
 * [glTF-SDK](https://github.com/Microsoft/glTF-SDK) glTF-SDK is a Software Development Kit for glTF (GL Transmission Format -https://github.com/KhronosGroup/glTF).  
+* [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 
 ## Shade Model
 ### BSDF
