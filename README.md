@@ -701,6 +701,7 @@ Other.....
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
+* [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems)
 #### Graphic SDK
 * [GodComplex](https://github.com/Patapom/GodComplex)
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
