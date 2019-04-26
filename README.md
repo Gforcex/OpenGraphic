@@ -547,6 +547,8 @@ Other.....
 #### Deform Destruction  
 * [MeshDGP](https://github.com/meshdgp/MeshDGP) a simple C# geometry processing library. demonstrates the dozens of keystone mesh processing algorithms
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
+#### Slicer
+* [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 #### Modeling
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998   
