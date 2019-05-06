@@ -428,6 +428,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [voxelizer](https://github.com/karimnaaji/voxelizer)  Header only mesh voxelizer in c99 
 * [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity)  A GPU Accelerated Voxel Physics Solver for Unity
 * [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.  
+* [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) Shaders for MagicaVoxel to simplify common and repetitive tasks.  
 
 ## Volume Rendering
 #### RayMarch
