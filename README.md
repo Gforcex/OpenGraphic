@@ -416,8 +416,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [UnityNPR](https://github.com/GlitchEnzo/UnityNPR)
-* [NPR](https://github.com/laundsallyn/NPR)
-* [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo)
+* [NPR](https://github.com/laundsallyn/NPR) CS 354 Computer Graphics final project
+* [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
+* [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
 #### Low Poly
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
 * [FlatShader](https://github.com/cjurjiu/FlatShader) A very simple shader which performs flatshading without the need for duplicating vertices when building the geometry.
