@@ -234,6 +234,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
+* [SE-Natural-Bloom-Dirty-Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens) (Legacy) post-processing effect for Unity.
 * [hdreffects](https://github.com/karimnaaji/hdreffects)
 #### Tone Mapping
 * [tonemapper](https://github.com/tizian/tonemapper)
@@ -419,6 +420,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [NPR](https://github.com/laundsallyn/NPR) CS 354 Computer Graphics final project
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
+* [MToon](https://github.com/Santarh/MToon) Toon Shader with Unity Global Illumination
 #### Low Poly
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
 * [FlatShader](https://github.com/cjurjiu/FlatShader) A very simple shader which performs flatshading without the need for duplicating vertices when building the geometry.
