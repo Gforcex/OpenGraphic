@@ -256,7 +256,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
 * [Unity-Human-Skin-Shader-PC](https://github.com/MaxwellGengYF/Unity-Human-Skin-Shader-PC)
 * [SubsurfaceScattering](https://github.com/vcrom/SubsurfaceScattering) An implementation of a set screen space physically-based subsurface scattering algorithms
-
+* [FaceWorks](https://github.com/NVIDIAGameWorks/FaceWorks) A middleware library and sample application for high-quality skin and eye rendering
 #### Eye
 #### Hair
 * [TressFX](https://github.com/GPUOpen-Effects/TressFX)
