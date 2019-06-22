@@ -211,6 +211,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
 * [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
 * [many-lights-gi](https://github.com/karyon/many-lights-gi) Real-time global illumination following the many-lights approach and using Imperfect Shadow Maps
+* [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
 
 ## PostProcessing 
 #### Collection
