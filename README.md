@@ -287,6 +287,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 * [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
 * [GX-EncinoWaves](https://github.com/speps/GX-EncinoWaves) "Empirical Directional Wave Spectra for Computer Graphics"
+* [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation)
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
