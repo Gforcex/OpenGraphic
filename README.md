@@ -288,6 +288,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
 * [GX-EncinoWaves](https://github.com/speps/GX-EncinoWaves) "Empirical Directional Wave Spectra for Computer Graphics"
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation)
+* [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
