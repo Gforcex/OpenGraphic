@@ -302,6 +302,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow) Repository for online PIGSquad workshop on deformable snow in Unity.
 * [SnowSimulation](https://github.com/hubi037/SnowSimulation) GPU Snow Simulation for Unity and Direct3D 
 * [snow](https://github.com/Azmisov/snow)  "A Material Point Method for Snow Simulation" (Stomakhin et al., 2013).
+* [SnowSimulation](https://github.com/TheBeach54/SnowSimulation)
 #### Sand
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) An Unity project to reproduce the sand rendering in Journey's style
 #### Grass
@@ -313,7 +314,8 @@ Graphic Engine &amp; Game Engine open source list！
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
 #### Terrain
-* [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms)
+* [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms) Terrain topology algorithms in Unity
+* [tin-terrain](https://github.com/heremaps/tin-terrain) A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -350,12 +352,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
 * [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
 #### Atmospheric
-* [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering)
-* [AtmosphericScattering](https://github.com/yangzhengxing/AtmosphericScattering)
-* [Scatterer](https://github.com/LGhassen/Scatterer)
+* [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) Atmospheric Scattering for Unity
+* [Scatterer](https://github.com/LGhassen/Scatterer) Atmospheric scattering mod for KSP 
 * [precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) Eric Bruneton, 2017
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017
-* [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere)
+* [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) Renders sky colors with Rayleigh and Mie scattering.
 #### Fog
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
 * [UEShaderBits-GDC-Pack](https://github.com/sp0lsh/UEShaderBits-GDC-Pack)  UE4 Volumetric Fog Techniques
@@ -478,6 +479,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityOctree](https://github.com/Nition/UnityOctree)
 
 ## SDF
+* [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
 * [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
 * [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
 * [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
