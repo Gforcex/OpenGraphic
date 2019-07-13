@@ -441,10 +441,10 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Volume Rendering
 #### RayMarch
-* [ray-march](https://github.com/lightbits/ray-march)   
-* [uRaymarching](https://github.com/hecomi/uRaymarching)   
-* [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)  
-* [dli](https://github.com/dli)  
+* [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) This package enables interactive previews of Texture3D assets in Unity's Inspector window. 
+* [unity-volume-rendering](https://github.com/mattatz/unity-volume-rendering) Volume rendering by object space raymarching for Unity. 
+* [uRaymarching](https://github.com/hecomi/uRaymarching)  Raymarching Shader Generator in Unity  
+* [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)  Ray marching for rendering 3D noise and textures in Unity 3D
 * [SpaceWarp](https://github.com/mzandvliet/SpaceWarp)  Playing with DistanceField Raymarching as Post Effect in Unity3d
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)  A standalone, large scale, open project for 2D/3D image and point cloud processing.
@@ -680,9 +680,10 @@ Other.....
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
 #### Atlas 
+* [xatlas](https://github.com/jpcy/xatlas):thumbsup: Mesh parameterization / UV unwrapping library. A cleaned up version of thekla_atlas
+* [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
-* [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool
 * [Unity3D-TextureAtlasSlicer](https://github.com/toxicFork/Unity3D-TextureAtlasSlicer)
 * [VaTexAtlas](https://github.com/ufna/VaTexAtlas)  plugin for Unreal Engine 4 that makes texture atlases simpler to use with UMG system.
 #### GPU Debug
