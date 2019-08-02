@@ -59,7 +59,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine) :star: https://www.unrealengine.com/
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) :star:  https://www.cryengine.com/
 * [Lumberyard](https://github.com/aws/lumberyard) :star: https://aws.amazon.com/lumberyard/
-* [Urho3D](https://github.com/urho3d/Urho3D):thumbsup: lightweight, cross-platform 2D and 3D game engine,Greatly inspired by OGRE and Horde3D.
+* [Urho3D](https://github.com/urho3d/Urho3D) lightweight, cross-platform 2D and 3D game engine,Greatly inspired by OGRE and Horde3D.
 * [filament](https://github.com/google/filament):thumbsup: Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor):thumbsup: Real-Time Rendering Framework, NVIDIA
 * [Klayag](https://github.com/gongminmin/KlayGE) A cross-platform open source game engine with plugin-based architecture
@@ -98,6 +98,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
+* [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
 
 ## Soft Renderer
 * [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
@@ -271,6 +272,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Fur
 * [FurRendering](https://github.com/jose-villegas/FurRendering)
 * [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
+* [GIFT_PorterDoll](https://github.com/marza-realtime/GIFT_PorterDoll) PorterDoll Asset wtih "THE GIFT"
 
 ## Nature
 #### Water
@@ -324,6 +326,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
 * [Marshmallow](https://github.com/mccannd/Project-Marshmallow) Vulkan-based implementation of clouds from Decima Engine
 * [Meteoros](https://github.com/Aman-Sachan-asach/Meteoros) Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
+* [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity 
 #### Sky
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
 * [CSky-Dynamic-Sky-Unity](https://github.com/AKuellar/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System
@@ -427,6 +430,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
 * [MToon](https://github.com/Santarh/MToon) Toon Shader with Unity Global Illumination
+* [PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) A feature rich toon shader for unity and VR Chat
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
@@ -485,6 +489,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
 * [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
 * [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
+* [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 
 ## OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
@@ -528,6 +533,7 @@ Other.....
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) Texture processing tools with support for Direct3D 10 and 11 formats. 
 * [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
 * [unity-ycca-subsampling](https://github.com/n-yoda/unity-ycca-subsampling) [ChromaPack](https://github.com/keijiro/ChromaPack)   YCCA chroma subsampling technique
+* [basis_universal](https://github.com/BinomialLLC/basis_universal)  :star:  Basis Universal GPU Texture and Texture Video Compression Codec
 
 #### Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
@@ -761,6 +767,7 @@ Other.....
 * [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)   anim map for vertex shader to modify the vertex position of the mesh at runtime. use gpu instancing to reduce draw call.
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
 * [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
+* [ssds](https://github.com/TomohikoMukai/ssds) An implementation of Skinning Decomposition with Similarity Transformations (I3D2018)
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
