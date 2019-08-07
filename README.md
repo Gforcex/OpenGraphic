@@ -503,7 +503,7 @@ Other.....
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
 * [MathGeoLib](https://github.com/juj/MathGeoLib) A C++ library for linear algebra and geometry manipulation for computer graphics
 * [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM) https://glm.g-truc.net
-* [CGAL](https://www.cgal.org/) geometric algorithms in the form of a C++ library.
+* [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
 * [MTL]() Matrix Template Library,  a linear algebra library for C++ programs.
 * [sh-lib](https://github.com/andrewwillmott/sh-lib)  Spherical/zonal harmonics library
@@ -687,6 +687,8 @@ Other.....
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
 #### Atlas 
+* [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) Boundary First Flattening (BFF) is a free and open source application for surface parameterization.
+* [simpleuv](https://github.com/huxingyi/simpleuv)
 * [xatlas](https://github.com/jpcy/xatlas):thumbsup: Mesh parameterization / UV unwrapping library. A cleaned up version of thekla_atlas
 * [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
