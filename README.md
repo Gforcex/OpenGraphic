@@ -472,6 +472,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [vigilant-system](https://github.com/nlguillemot/vigilant-system)
 #### Hardware Occlusion Queries
 #### Hierarchical-Z Buffer
+* [Hierarchical-Z-Buffer](https://github.com/nickdarnell/Hierarchical-Z-Buffer)
 #### Hierarchical Occlusion Map
 #### GPU-Driven
 * [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) Compute shader: Frustum culling,Occlusion culling with HierarchicalZBuffer
