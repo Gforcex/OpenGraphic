@@ -235,6 +235,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
+* [glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) :thumbsup: Fast glsl spatial deNoise filter
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
 * [SE-Natural-Bloom-Dirty-Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens) (Legacy) post-processing effect for Unity.
