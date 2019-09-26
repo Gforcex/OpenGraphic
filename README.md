@@ -485,7 +485,9 @@ Graphic Engine &amp; Game Engine open source list！
 #### HLOD
 
 ## SceneManage
-* [UnityOctree](https://github.com/Nition/UnityOctree)
+* [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
+* [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
+* [bhh](https://github.com/bryanmcnett/bhh) Bounding Halfspace Hierarchy
 
 ## SDF
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
