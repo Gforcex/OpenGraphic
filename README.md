@@ -313,8 +313,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) https://roystan.net/articles/grass-shader.html
 * [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX) Realistic Grass Rendering using DirectX 11 and a geometry-shader based approach.
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering) Vulkan implementation of "Responsive Real-Time Grass Rendering for General 3D Scenes" by Jahrmann and Wimmer
-* [GooHairGrass](https://github.com/cabbibo/GooHairGrass)
 * [Project6-Vulkan-Grass-Rendering](https://github.com/CIS565-Fall-2017/Project6-Vulkan-Grass-Rendering)
+* [GooHairGrass](https://github.com/cabbibo/GooHairGrass)
+* [GPUGrass](https://github.com/MidoriMeng/GPUGrass) real-time grass rendering based on GPU instancing
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
 #### Terrain
