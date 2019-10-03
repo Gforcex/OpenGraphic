@@ -487,6 +487,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## SceneManage
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
+* [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
 * [bhh](https://github.com/bryanmcnett/bhh) Bounding Halfspace Hierarchy
 
@@ -567,13 +568,14 @@ Other.....
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 #### Simplification
 * [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
-* [MeshDecimator](https://github.com/Whinarn/MeshDecimator), [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.  
+* [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.  
 * [simplify](https://github.com/fogleman/simplify) Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
 * [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) Mesh simplification with UV's boundary preserved
-#### Deform Destruction  
-* [MeshDGP](https://github.com/meshdgp/MeshDGP) a simple C# geometry processing library. demonstrates the dozens of keystone mesh processing algorithms
+#### Deform  
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
-#### Slicer
+#### Destruction Slicer
+* [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 #### Modeling
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
