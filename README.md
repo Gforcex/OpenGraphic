@@ -58,10 +58,10 @@ Graphic Engine &amp; Game Engine open source list！
 ## Engine
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine) :star: https://www.unrealengine.com/
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) :star:  https://www.cryengine.com/
-* [Lumberyard](https://github.com/aws/lumberyard) :star: https://aws.amazon.com/lumberyard/
+* [Lumberyard](https://github.com/aws/lumberyard) https://aws.amazon.com/lumberyard/
 * [Urho3D](https://github.com/urho3d/Urho3D) lightweight, cross-platform 2D and 3D game engine,Greatly inspired by OGRE and Horde3D.
 * [filament](https://github.com/google/filament):thumbsup: Filament is a physically based rendering engine for Android, Windows, Linux and macOS
-* [Falcor](https://github.com/NVIDIAGameWorks/Falcor):thumbsup: Real-Time Rendering Framework, NVIDIA
+* [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
 * [Klayag](https://github.com/gongminmin/KlayGE) A cross-platform open source game engine with plugin-based architecture
 * [G3D]( https://casual-effects.com/g3d) Graphics research and rapid prototyping in OpenGL and C++
 * [Ogre](https://github.com/ogrecave) ogre github mirror
@@ -119,7 +119,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods
 * [RTGI](https://github.com/jazzboysc/RTGI)
 #### SVO
-* [SEGI](https://github.com/sonicether/SEGI) A fully-dynamic voxel-based global illumination system for Unity 
+* [SEGI](https://github.com/sonicether/SEGI) [NKLI](https://github.com/ninlilizi/SEGI)A fully-dynamic voxel-based global illumination system for Unity 
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred Voxel Shading for Real Time Global Illumination
 * [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing.
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing) An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin
@@ -177,10 +177,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [GzRNM](https://github.com/Geenz/GzRNM) brings Radiosity Normal Mapping/Directional Light Mapping to Unity 3D!
 * [SSbumpGenerator](https://sourceforge.net/projects/ssbumpgenerator/) A GUI interface to a tool for generating SSBumps (Self Shadowed Bump Maps).
 #### LightMap
-* [lightmapper](https://github.com/ands/lightmapper)
-* [seamoptimizer](https://github.com/ands/seamoptimizer)
-* [BakingLab](https://github.com/TheRealMJP/BakingLab)
-* [BocsLightmapper](https://github.com/sasa42/BocsLightmapper)
+* [lightmapper](https://github.com/ands/lightmapper) A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
+* [seamoptimizer](https://github.com/ands/seamoptimizer) A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.
+* [BakingLab](https://github.com/TheRealMJP/BakingLab) A D3D11 application for experimenting with Spherical Gaussian lightmaps
+* [GPULightmass](https://github.com/AlanIWBFT/GPULightmass) Luoshuang's GPULightmass for UE4
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
 #### Light Field
 * [temporal-lightfield-reconstruction](https://github.com/jiawen/temporal-lightfield-reconstruction)   mplementation of "Temporal Light Field Reconstruction for Rendering Distribution Effects" (SIGGRAPH 2011)
@@ -445,6 +445,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity)  A GPU Accelerated Voxel Physics Solver for Unity
 * [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.  
 * [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) Shaders for MagicaVoxel to simplify common and repetitive tasks.  
+* [UnityVOXFileImport](https://github.com/ray-cast/UnityVOXFileImport) A tool to import a .vox file for Unity's GameObject and Prefab
 
 ## Volume Rendering
 #### RayMarch
@@ -494,6 +495,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [bvh](https://github.com/shinjiogaki/bvh)
 
 ## SDF
+* [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
 * [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
 * [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
