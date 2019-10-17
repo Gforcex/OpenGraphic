@@ -419,7 +419,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [IBLGGX](https://github.com/tuccio/IBLGGX) Sample implementation of UE4/Frostbite image based lighting method based on GGX convolution of HDR environment maps.
 * [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG) DFG LUT generator
 * [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
+#### AreaLight
 * [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
+* [ltc_code](https://github.com/selfshadow/ltc_code) Code for "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
 
 ## Stylize
 #### NPR
@@ -471,7 +473,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU.
 * [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
 * [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
-* [rasterizer](https://github.com/rawrunprotected/rasterizer) faster in single-threaded AVX mode when rendering the full set of occluders (no minimum size).
+* [rasterizer](https://github.com/rawrunprotected/rasterizer) This project is a state-of-the-art software occlusion culling system.
 * [IndirectOcclusionCulling](https://github.com/JJoosten/IndirectOcclusionCulling)
 * [vigilant-system](https://github.com/nlguillemot/vigilant-system)
 #### Hardware Occlusion Queries
@@ -701,6 +703,7 @@ Other.....
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
 * [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
 * [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
+* [TextureGenerator](https://github.com/mtwoodard/TextureGenerator) 3D and 2D Noise/Texture generation using the compute shaders within the Unity engine.
 #### Painter
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
