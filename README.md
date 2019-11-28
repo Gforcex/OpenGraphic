@@ -121,6 +121,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [RTGI](https://github.com/jazzboysc/RTGI)
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI) [NKLI](https://github.com/ninlilizi/SEGI)A fully-dynamic voxel-based global illumination system for Unity 
+* [Unity-SRP-VXGI](https://github.com/Looooong/Unity-SRP-VXGI) Voxel-based Global Illumination using Unity Scriptable Render Pipeline
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred Voxel Shading for Real Time Global Illumination
 * [voxel-cone-tracing](https://github.com/Friduric/voxel-cone-tracing) A real-time global illumination implementation using voxel cone tracing.
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing) An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin
@@ -531,6 +532,7 @@ Other.....
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
+* [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 
 ## Image&Color
 #### Computer Vision
@@ -560,12 +562,14 @@ Other.....
 * [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
 
 ## Noise
-* [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise)
-* [FastNoise](https://github.com/Auburns/FastNoise)
-* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library)
-* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib)
-* [webgl-noise](https://github.com/ashima/webgl-noise)
-* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner)
+* [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise) Collection of functions that can be used to generate tileable volume/3d noise. An exemple of volume noise functions that can be specifically used for clouds is also presented.
+* [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen)  A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
+* [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library
+* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
+* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
+* [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
+* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
+* [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
 
 ## Mesh
 #### IO
