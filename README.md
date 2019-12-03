@@ -751,6 +751,7 @@ Other.....
 * [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
 * [NVIDIA Direct3D SDK 9](https://www.nvidia.com/object/sdk-9.html)
 #### Book Code
+* [d3d12book](https://github.com/d3dcoder/d3d12book) Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
