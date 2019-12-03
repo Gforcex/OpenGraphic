@@ -466,8 +466,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Pcx](https://github.com/keijiro/Pcx) Point cloud importer & renderer for Unity
 #### Shear-warp
 #### Other
-* [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools
-* [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
+* [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools. [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
+* [openvkl](https://github.com/openvkl/openvkl) Intel® Open Volume Kernel Library (Intel® Open VKL) is a collection of high-performance volume computation kernels
 
 ## Acceleration
 #### Frustum Culling
@@ -716,6 +716,7 @@ Other.....
 * [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
 #### Atlas 
 * [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) Boundary First Flattening (BFF) is a free and open source application for surface parameterization.
+* [OptCuts](https://github.com/liminchen/OptCuts) a new parameterization algorithm, jointly optimizes arbitrary embeddings for seam quality and distortion
 * [simpleuv](https://github.com/huxingyi/simpleuv)
 * [xatlas](https://github.com/jpcy/xatlas):thumbsup: Mesh parameterization / UV unwrapping library. A cleaned up version of thekla_atlas
 * [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool
