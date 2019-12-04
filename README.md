@@ -621,10 +621,6 @@ Other.....
 * [nanogui](https://github.com/wjakob/nanogui) Minimalistic GUI library for OpenGL
 * [nuklear](https://github.com/vurtun/nuklear) A single-header ANSI C gui library  
 * [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)  a light and intuitive GUI into OpenGL or DirectX based programs to interactively tweak parameters on-screen.
-* [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
-* [SpriteDicing](https://github.com/Elringus/SpriteDicing) Extension for Unity game engine to work with diced sprites
-* [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
-* [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
 
 ## Util
 * [stb](https://github.com/nothings/stb)
