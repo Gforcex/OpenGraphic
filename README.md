@@ -367,6 +367,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Scatterer](https://github.com/LGhassen/Scatterer) Atmospheric scattering mod for KSP 
 * [precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) Eric Bruneton, 2017
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017 [LWRP ver(greje656)](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering)
+* [clear-sky-models](https://github.com/ebruneton/clear-sky-models) This project implements 8 clear sky models in a common framework to compare them with each other and with a reference model and reference measurements.  
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) Renders sky colors with Rayleigh and Mie scattering.
 #### Fog
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
@@ -441,6 +442,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
 * [MToon](https://github.com/Santarh/MToon) Toon Shader with Unity Global Illumination
 * [PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) A feature rich toon shader for unity and VR Chat
+* [Xiexes-Unity-Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders) A re-write and restructure of XSToon.
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
@@ -453,6 +455,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Field3D](https://github.com/imageworks/Field3D) A library for storing voxel data on disk and in memory.  
 * [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) Shaders for MagicaVoxel to simplify common and repetitive tasks.  
 * [UnityVOXFileImport](https://github.com/ray-cast/UnityVOXFileImport) A tool to import a .vox file for Unity's GameObject and Prefab
+* [Terasology](https://github.com/MovingBlocks/Terasology) open source voxel world http://terasology.org
 
 ## Volume Rendering
 #### RayMarch
@@ -532,6 +535,7 @@ Other.....
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
+* [fastapprox](https://github.com/romeric/fastapprox) Approximate and vectorized versions of common mathematical functions
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 
@@ -699,9 +703,6 @@ Other.....
 * [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
 * [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
 * [TextureGenerator](https://github.com/mtwoodard/TextureGenerator) 3D and 2D Noise/Texture generation using the compute shaders within the Unity engine.
-#### Painter
-* [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
-* [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
 #### Atlas 
 * [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) Boundary First Flattening (BFF) is a free and open source application for surface parameterization.
 * [OptCuts](https://github.com/liminchen/OptCuts) a new parameterization algorithm, jointly optimizes arbitrary embeddings for seam quality and distortion
