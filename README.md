@@ -154,7 +154,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Ray tracing
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
-* [GLSL-PathTracer] :thumbsup: (https://github.com/knightcrawler25/GLSL-PathTracer) A GLSL Path Tracer
+* [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
 #### RTX
