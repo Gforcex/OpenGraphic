@@ -97,6 +97,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 * [taichi](https://github.com/yuanming-hu/taichi) Open Source Computer Graphics Library http://taichi.graphics
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
+* [lighthouse2](https://github.com/jbikker/lighthouse2)  Lighthouse 2 framework for real-time ray tracing
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
@@ -153,8 +154,14 @@ Graphic Engine &amp; Game Engine open source list！
 #### Ray tracing
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
+* [GLSL-PathTracer] :thumbsup: (https://github.com/knightcrawler25/GLSL-PathTracer) A GLSL Path Tracer
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
+#### RTX
+* [Quartz](https://github.com/Nadrin/Quartz)  Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language.
+* [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)  A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
+* [WispRenderer](https://github.com/TeamWisp/WispRenderer) RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science https://teamwisp.github.io
+* [rtx-explore](https://github.com/rtx-on/rtx-explore) DirectX Raytracing Path Tracer
 #### Metropolis light transport
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
@@ -470,6 +477,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Volume Rendering
 #### RayMarch
 * [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) This package enables interactive previews of Texture3D assets in Unity's Inspector window. 
+* [UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) A volume renderer, made in Unity3D. See slides from presentation here: https://speakerdeck.com/mlavik1/volume-rendering-in-unity3d
 * [unity-volume-rendering](https://github.com/mattatz/unity-volume-rendering) Volume rendering by object space raymarching for Unity. 
 * [uRaymarching](https://github.com/hecomi/uRaymarching)  Raymarching Shader Generator in Unity  
 * [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)  Ray marching for rendering 3D noise and textures in Unity 3D
