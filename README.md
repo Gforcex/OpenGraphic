@@ -246,6 +246,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
 #### Denoising 
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
+* [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
 * [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
 * [glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) :thumbsup: Fast glsl spatial deNoise filter
@@ -277,9 +278,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [FaceWorks](https://github.com/NVIDIAGameWorks/FaceWorks) A middleware library and sample application for high-quality skin and eye rendering
 #### Eye
 #### Hair
-* [TressFX](https://github.com/GPUOpen-Effects/TressFX)
-* [WetaHair](https://github.com/zhoub/WetaHair)
-* [libWetHair](https://github.com/nepluno/libWetHair)
+* [TressFX](https://github.com/GPUOpen-Effects/TressFX) DirectX 11 library that provides convenient access to realistically rendered and simulated hair and fur
+* [vkhr](https://github.com/CaffeineViking/vkhr) Real-Time Hybrid Hair Rendering using Vulkan™
+* [WetaHair](https://github.com/zhoub/WetaHair) Implementation of "Importance Sampling for Physically-Based Hair Fiber Models"
+* [libWetHair](https://github.com/nepluno/libWetHair) A Multi-Scale Model for Simulating Liquid-Hair Interactions http://libwethair.info
 #### Colth
 * [libwetcloth](https://github.com/nepluno/libwetcloth)
 * [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering)
@@ -818,7 +820,8 @@ Other.....
 
 ## ML
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
-* [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
+https://github.com/tensorflow/graphics TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
+https://github.com/getnamo/tensorflow-ue4 TensorFlow plugin for Unreal Engine 4
 
 ## Visualization
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
