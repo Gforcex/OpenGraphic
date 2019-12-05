@@ -175,6 +175,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime
 * [ConeSphereOcclusionLUT](https://github.com/knarkowicz/ConeSphereOcclusionLUT) ConeSphereOcclusionLUT generates a cone sphere occlusion LUT to be used with TLoU style **capsule AO shadows**. For details "Lighting Technology Of "The Last Of Us".
 * [RTAO](https://github.com/boksajak/RTAO) Ray Traced Ambient Occlusion (RTAO) implemented using DirectX Raytracing (DXR)
+* [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### Radiosity Normal Mapping
@@ -186,6 +187,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [BakingLab](https://github.com/TheRealMJP/BakingLab) A D3D11 application for experimenting with Spherical Gaussian lightmaps
 * [GPULightmass](https://github.com/AlanIWBFT/GPULightmass) Luoshuang's GPULightmass for UE4
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
+* [HDR_Lightmapper](https://github.com/Naxela/HDR_Lightmapper)  Implements a cycles based lightmapper with denoiser
 #### Light Field
 * [temporal-lightfield-reconstruction](https://github.com/jiawen/temporal-lightfield-reconstruction)   mplementation of "Temporal Light Field Reconstruction for Rendering Distribution Effects" (SIGGRAPH 2011)
 * [indirect-light-field-reconstruction](https://github.com/jtlehtin/indirect-light-field-reconstruction)  mplementation of "Reconstructing the Indirect Light Field for Global Illumination" (SIGGRAPH 2012)  
@@ -297,6 +299,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [GX-EncinoWaves](https://github.com/speps/GX-EncinoWaves) "Empirical Directional Wave Spectra for Computer Graphics"
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation)
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
+* [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
+* [water-demo](https://github.com/shanecelis/water-demo) A port of Evan Wallace's "Water Demo" for WebGL to Unity.
+* [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
@@ -334,18 +339,23 @@ Graphic Engine &amp; Game Engine open source list！
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
 * [Marshmallow](https://github.com/mccannd/Project-Marshmallow) Vulkan-based implementation of clouds from Decima Engine
 * [Meteoros](https://github.com/Aman-Sachan-asach/Meteoros) Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
-* [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity 
+* [volumetric-clouds](https://github.com/jaagupku/volumetric-clouds) Volumetric clouds in Unity
+* [Clouds](https://github.com/SebLague/Clouds) https://www.youtube.com/watch?v=4QOcCGI6xOU
+* [droplet-render](https://github.com/jaelpark/droplet-render) Volumetric cloud modeling and rendering for Blender.
+* [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity
 #### Sky
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
 * [CSky-Dynamic-Sky-Unity](https://github.com/bmjoy/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System for Unity 3d.
 * [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
 * [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
 #### Rain
+* [Unity-Raindrops](https://github.com/ya7gisa0/Unity-Raindrops) raindrops shader
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) Rain Drop Effect2: Effective, Fast and Flexible Rain Distortion Effect for Unity
 * [LensRain](https://github.com/Kink3d/LensRain) A screen-space lens rain effect using Unity's V2 Post-processing framework.
 * [RainFX](https://github.com/smkplus/RainFX) Natural Rain
 #### Fire
 * [fire](https://github.com/robertcupisz/fire) A fire effect for Unity.
+* [volumetric-fire](https://github.com/jaagupku/volumetric-fire) Project for Computer Graphics course by Jaagup Kuhi, Siim Raudsepp and Andri Poolakese
 #### Ice
 #### Iridescent
 * [Iridescence](https://github.com/Xerxes1138/Iridescence)
@@ -605,6 +615,7 @@ Other.....
 * [openmesh](https://www.openmesh.org/) A generic and efficient polygon mesh data structure  
 * [openflipper](https://www.openflipper.org/)   programming framework designed for processing, modeling and rendering of geometric data.
 * [cinolib](https://github.com/mlivesu/cinolib) A generic programming header only C++ library for processing polygonal and polyhedral meshes
+* [mmg](https://github.com/MmgTools/mmg) open source software for bidimensional and tridimensional remeshing http://www.mmgtools.org
 #### Optimization
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
 #### Compress
