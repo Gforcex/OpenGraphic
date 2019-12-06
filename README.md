@@ -234,6 +234,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing)
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects)
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
+* [Unity_ScreenSpaceTechStack](https://github.com/haolange/Unity_ScreenSpaceTechStack)  This is a package which contains SSAO, SSDiffuse and SSReflection.
 #### AA
 * [CMAA2](https://github.com/GameTechDev/CMAA2)  Conservative Morphological Anti-Aliasing 2.0
 * [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)  MSAA and Temporal AA Sample
@@ -263,6 +264,8 @@ Graphic Engine &amp; Game Engine open source list！
 #### Lens
 * [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
+#### ImageProcess
+* [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 #### Other
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
@@ -510,6 +513,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Hierarchical Occlusion Map
 #### GPU-Driven
 * [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) Compute shader: Frustum culling,Occlusion culling with HierarchicalZBuffer
+* [gpu_occlusion_culling_vk](https://github.com/sydneyzh/gpu_occlusion_culling_vk)  GPU occlusion culling using compute shader with Vulkan  
 #### Imposter
 * [IMP](https://github.com/xraxra/IMP) billboard imposter baking for Unity
 * [ImpostorBaker](https://github.com/ictusbrucks/ImpostorBaker) UE4 Plugin for generating Impostors for static meshes  
@@ -616,6 +620,7 @@ Other.....
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 #### Modeling
+* [Dust3D](https://github.com/huxingyi/dust3d) :thumbsup: a cross-platform 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one. https://dust3d.org/  
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998   
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
@@ -713,6 +718,7 @@ Other.....
 * [gaffer](https://github.com/GafferHQ/gaffer)  A open source application framework designed specifically for creating tools for use in visual effects production.
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### Texture
+* [armorpaint](https://github.com/armory3d/armorpaint) :thumbsup:  3D PBR Texture Painting Software https://armorpaint.org
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
 * [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool
@@ -725,7 +731,7 @@ Other.....
 #### Atlas 
 * [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) Boundary First Flattening (BFF) is a free and open source application for surface parameterization.
 * [OptCuts](https://github.com/liminchen/OptCuts) a new parameterization algorithm, jointly optimizes arbitrary embeddings for seam quality and distortion
-* [simpleuv](https://github.com/huxingyi/simpleuv)
+* [simpleuv](https://github.com/huxingyi/simpleuv) Automatic UV Unwrapping Library for Dust3D
 * [xatlas](https://github.com/jpcy/xatlas):thumbsup: Mesh parameterization / UV unwrapping library. A cleaned up version of thekla_atlas
 * [thekla_atlas](https://github.com/Thekla/thekla_atlas) Atlas Generation Tool
 * [UVAtlas](https://github.com/Microsoft/UVAtlas) UVAtlas isochart texture atlas  
@@ -764,6 +770,7 @@ Other.....
 * [GraphicsGems](https://github.com/erich666/GraphicsGems)
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
 * [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems)
+* [jgt-code](https://github.com/erich666/jgt-code) Code developed for articles in the "Journal of Graphics Tools"
 #### Graphic SDK
 * [GodComplex](https://github.com/Patapom/GodComplex)
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
