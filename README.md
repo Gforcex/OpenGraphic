@@ -112,6 +112,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Mesa3D](https://gitlab.freedesktop.org/mesa/mesa) https://www.mesa3d.org
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
 * [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
+* [RetroWarp](https://github.com/Themaister/RetroWarp) The GPU is implemented with "pure" software rendering
 
 ## GI
 ### Collection
@@ -267,6 +268,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
 #### ImageProcess
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
+* [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
 #### Other
 * [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
@@ -563,6 +565,7 @@ Other.....
 * [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
 * [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
+* [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
@@ -746,6 +749,7 @@ Other.....
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
 * [Unity3D-TextureAtlasSlicer](https://github.com/toxicFork/Unity3D-TextureAtlasSlicer)
 * [VaTexAtlas](https://github.com/ufna/VaTexAtlas)  plugin for Unreal Engine 4 that makes texture atlases simpler to use with UMG system.
+* [pack-spheres](https://github.com/mattdesl/pack-spheres)  Brute force circle/sphere packing in 2D or 3D
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
