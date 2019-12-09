@@ -117,12 +117,8 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## GI
 ### Collection
-* [GITechDemo](https://github.com/iftodebogdan/GITechDemo)  A global illumination technical demo application.
-* [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
-* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
-* [3D-Graphics-Engine](https://github.com/Gregjksmith/3D-Graphics-Engine) Capable of rendering online and offline global illumination using a number of different methods
-* [RTGI](https://github.com/jazzboysc/RTGI)
+* [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 #### SVO
 * [SEGI](https://github.com/sonicether/SEGI) [NKLI](https://github.com/ninlilizi/SEGI)A fully-dynamic voxel-based global illumination system for Unity 
 * [Unity-SRP-VXGI](https://github.com/Looooong/Unity-SRP-VXGI) Voxel-based Global Illumination using Unity Scriptable Render Pipeline
@@ -221,6 +217,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ContactShadows](https://github.com/keijiro/ContactShadows) Experimental implementation of contact shadows for Unity.
 * [HFTS](https://developer.nvidia.com/Hybrid-Frustum-Traced-Shadows) NVIDIA Hybrid Frustum Traced Shadows in NVIDIA ShadowLib.
 * [ShadowFX](https://github.com/GPUOpen-Effects/ShadowFX) DirectX 11 and 12 library that provides a scalable and GCN-optimized solution for deferred shadow filtering 
+* [Cinder-Experiments](https://github.com/simongeilfus/Cinder-Experiments) A collection of experiments, samples and other bits of code.
 * [of-ESMShadowMapping](https://github.com/jacres/of-ESMShadowMapping) Exponential Shadow Mapping in openFrameworks
 * [RayTracedShadows](https://github.com/kayru/RayTracedShadows) This demo implements BVH construction and GPU traversal for rendering hard shadows.
 * [RaytracedHardShadow](https://github.com/unity3d-jp/RaytracedHardShadow) DXR based raytraced hard shadow for Unity
