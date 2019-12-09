@@ -67,7 +67,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [G3D]( https://casual-effects.com/g3d) Graphics research and rapid prototyping in OpenGL and C++
 * [Ogre](https://github.com/ogrecave) ogre github mirror
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)  http://www.openscenegraph.org 
-* [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques. With Bullet Physics, Lua scripting, and more.
+* [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques and performance. https://wickedengine.net
 * [xenko](https://github.com/xenko3d/xenko)  An open-source C# game engine for realistic rendering and VR
 * [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
 * [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more  
@@ -119,7 +119,7 @@ Graphic Engine &amp; Game Engine open source list！
 ### Collection
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
-#### SVO
+#### VCT
 * [SEGI](https://github.com/sonicether/SEGI) [NKLI](https://github.com/ninlilizi/SEGI)A fully-dynamic voxel-based global illumination system for Unity 
 * [Unity-SRP-VXGI](https://github.com/Looooong/Unity-SRP-VXGI) Voxel-based Global Illumination using Unity Scriptable Render Pipeline
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred Voxel Shading for Real Time Global Illumination
@@ -128,8 +128,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
 * [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork) University of Pennsylvania, CIS 565: GPU Programming and Architecture, Final Project
 * [HarshLight](https://github.com/MangoSister/HarshLight) Real-time global illumination based on voxel cone tracing
-* [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing) easy to understand
-* [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing) easy to understand
+* [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
