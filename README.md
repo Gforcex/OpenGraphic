@@ -110,6 +110,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [muli3d](https://sourceforge.net/projects/muli3d/)  implements features of current graphics hardware in software. The focus is on ease of use and clear code
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
 * [Mesa3D](https://gitlab.freedesktop.org/mesa/mesa) https://www.mesa3d.org
+* [renderer](https://github.com/zauonlok/renderer)  A shader-based software renderer written from scratch in C89 https://zauonlok.github.io/renderer/
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
 * [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
 * [RetroWarp](https://github.com/Themaister/RetroWarp) The GPU is implemented with "pure" software rendering
@@ -215,18 +216,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
 #### Refraction
 #### Shadow
-* [Shadows](https://github.com/TheRealMJP/Shadows) A sample app that demonstrates several techniques for rendering real-time shadow maps
+* [Shadows](https://github.com/TheRealMJP/Shadows) :thumbsup: A sample app that demonstrates several techniques for rendering real-time shadow maps
 * [UnityPCSS](https://github.com/TheMasonX/UnityPCSS) Nvidia's PCSS soft shadow algorithm implemented in Unity
 * [ContactShadows](https://github.com/keijiro/ContactShadows) Experimental implementation of contact shadows for Unity.
 * [HFTS](https://developer.nvidia.com/Hybrid-Frustum-Traced-Shadows) NVIDIA Hybrid Frustum Traced Shadows in NVIDIA ShadowLib.
 * [ShadowFX](https://github.com/GPUOpen-Effects/ShadowFX) DirectX 11 and 12 library that provides a scalable and GCN-optimized solution for deferred shadow filtering 
-* [ofxShadowMap](https://github.com/arturoc/ofxShadowMap) Shadow map using PCF or gaussian disk sampling for soft borders
 * [of-ESMShadowMapping](https://github.com/jacres/of-ESMShadowMapping) Exponential Shadow Mapping in openFrameworks
 * [RayTracedShadows](https://github.com/kayru/RayTracedShadows) This demo implements BVH construction and GPU traversal for rendering hard shadows.
+* [RaytracedHardShadow](https://github.com/unity3d-jp/RaytracedHardShadow) DXR based raytraced hard shadow for Unity
 * [ShadowVolume](https://github.com/chengkehan/ShadowVolume) Shadow Volume for Static-Scene-Object of Unity
 * [variance_shadow_mapping_vk](https://github.com/sydneyzh/variance_shadow_mapping_vk) Variance shadow mapping for omni lights with Vulkan
 * [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
-* [many-lights-gi](https://github.com/karyon/many-lights-gi) Real-time global illumination following the many-lights approach and using Imperfect Shadow Maps
 * [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
 
 ## PostProcessing 
