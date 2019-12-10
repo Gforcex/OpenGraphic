@@ -715,13 +715,11 @@ Other.....
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) :star: GLSL optimizer based on Mesa's GLSL compiler.
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
-* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
-* Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
+* Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
-* [shader-toy](https://github.com/stevensona/shader-toy)
-* [ofxShadertoy](https://github.com/tiagosr/ofxShadertoy)
-* [ShaderMan](https://github.com/smkplus/ShaderMan)
+* [shader-toy](https://github.com/stevensona/shader-toy) Shadertoy-like live preview for GLSL shaders in Visual Studio Code 
+* [ShaderMan](https://github.com/smkplus/ShaderMan) Convert ShaderToy to Unity HLSL/CG https://smkplus.github.io/ShaderMan.io
 #### Visual Effects
 * [gaffer](https://github.com/GafferHQ/gaffer)  A open source application framework designed specifically for creating tools for use in visual effects production.
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
