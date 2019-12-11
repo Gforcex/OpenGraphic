@@ -9,7 +9,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Engine**
 
-  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [PBRRayTrace](#pbr-raytrace) &nbsp;&nbsp; [SoftRenderer](#soft-renderer) 
+  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [OfflineEngine](#Offline-Engine) &nbsp;&nbsp; [SoftRenderer](#soft-renderer) 
   
 >**Rendering**
 
@@ -87,7 +87,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) physically-based rendering at mikumikudance
 
-## PBR RayTrace
+## Offline Engine
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
@@ -253,7 +253,6 @@ Graphic Engine &amp; Game Engine open source list！
 #### Bloom
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur)
 * [SE-Natural-Bloom-Dirty-Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens) (Legacy) post-processing effect for Unity.
-* [hdreffects](https://github.com/karimnaaji/hdreffects)
 #### Tone Mapping
 * [tonemapper](https://github.com/tizian/tonemapper)
 * [aces-dev](https://github.com/ampas/aces-dev)  AMPAS Academy Color Encoding System Developer Resources http://www.oscars.org/aces
@@ -261,8 +260,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [BokehDepthOfField](https://github.com/Erfan-Ahmadi/BokehDepthOfField) Implementing Different Algorithms to mimic Bokeh Depth Of Field: A Physical Camera Effect created due to Focal Length, Aperture size, shape
 * [VVDoFDemo](http://graphics.cs.williams.edu/papers/DepthOfFieldGPUPro2013/VVDoFDemo.zip)
 #### Lens
-* [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare)
-* [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity)
+* [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare) Lens flare
+* [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity) Light Leaks Image Effects for Unity
+* [hdreffects](https://github.com/karimnaaji/hdreffects) High dynamic range rendering, with lens flare approximation and bloom 
 #### ImageProcess
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
@@ -273,7 +273,6 @@ Graphic Engine &amp; Game Engine open source list！
 ## Character
 #### Skin
 * [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf) Implementation of Donner & Jensen's "A Spectral BSSRDF for Shading Human Skin" in PBRT
-* [CP_SSSSS](https://github.com/CustomPhase/CP_SSSSS) Naive screen-space subsurface scattering solution for Unity 5.
 * [separable-sss](https://github.com/iryoku/separable-sss) iryoku's SSSSS
 * [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
 * [Unity-Human-Skin-Shader-PC](https://github.com/MaxwellGengYF/Unity-Human-Skin-Shader-PC)
@@ -286,11 +285,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [WetaHair](https://github.com/zhoub/WetaHair) Implementation of "Importance Sampling for Physically-Based Hair Fiber Models"
 * [libWetHair](https://github.com/nepluno/libWetHair) A Multi-Scale Model for Simulating Liquid-Hair Interactions http://libwethair.info
 #### Colth
-* [libwetcloth](https://github.com/nepluno/libwetcloth)
-* [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering)
+* [libwetcloth](https://github.com/nepluno/libwetcloth) A Multi-Scale Model for Simulating Liquid-Fabric Interactions
+* [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering) Micro Detail Fabric Shader
 #### Silk
 #### Fur
-* [FurRendering](https://github.com/jose-villegas/FurRendering)
+* [FurRendering](https://github.com/jose-villegas/FurRendering) Fur rendering in Unity with Shell Texturing
 * [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
 * [GIFT_PorterDoll](https://github.com/marza-realtime/GIFT_PorterDoll) PorterDoll Asset wtih "THE GIFT"
 
@@ -335,8 +334,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) https://roystan.net/articles/grass-shader.html
 * [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX) Realistic Grass Rendering using DirectX 11 and a geometry-shader based approach.
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering) Vulkan implementation of "Responsive Real-Time Grass Rendering for General 3D Scenes" by Jahrmann and Wimmer
-* [Project6-Vulkan-Grass-Rendering](https://github.com/CIS565-Fall-2017/Project6-Vulkan-Grass-Rendering)
-* [GooHairGrass](https://github.com/cabbibo/GooHairGrass)
 * [GPUGrass](https://github.com/MidoriMeng/GPUGrass) real-time grass rendering based on GPU instancing
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
@@ -407,6 +404,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading) Cute little deferred shading implementation.
 * [nTiled](https://github.com/BeardedPlatypus/nTiled) nTiled - forward and deferred openGL renderer with support for Tiled Shading, Clustered Shading and Hashed Shading
 * [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing) A rendering sample that demonstrates bindless deferred texturing using D3D12
+* [SweetTexelShading](https://github.com/julhe/SweetTexelShading) Texel-Shading (experimental!) with Unity's ScriptableRenderPipeline
 
 ## Physically Based Rendering
 #### Camera
