@@ -114,6 +114,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
 * [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
 * [RetroWarp](https://github.com/Themaister/RetroWarp) The GPU is implemented with "pure" software rendering
+* [SoftRas](https://github.com/ShichenLiu/SoftRas)  Project page of paper "Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning"
 
 ## GI
 ### Collection
@@ -154,6 +155,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
+* [Volumetric-Path-Tracer](https://github.com/sergeneren/Volumetric-Path-Tracer) Volumetric path tracer using cuda
 #### RTX
 * [Quartz](https://github.com/Nadrin/Quartz)  Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language.
 * [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)  A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
