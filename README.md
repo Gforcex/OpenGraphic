@@ -362,6 +362,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [CSky-Dynamic-Sky-Unity](https://github.com/bmjoy/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System for Unity 3d.
 * [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
 * [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
+* [sun-sky](https://github.com/andrewwillmott/sun-sky) Various sun/sky models, convolution of theta/gamma-parameterised models
 #### Rain
 * [Unity-Raindrops](https://github.com/ya7gisa0/Unity-Raindrops) raindrops shader
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) Rain Drop Effect2: Effective, Fast and Flexible Rain Distortion Effect for Unity
@@ -503,6 +504,8 @@ Graphic Engine &amp; Game Engine open source list！
 ## Acceleration
 #### Frustum Culling
 * [sseculling](https://github.com/nsf/sseculling)
+#### PVS
+* [kPortals](https://github.com/Kink3d/kPortals) A pre-calculated Portal visibility system for Unity.
 #### Soft Occlusion Culling
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU.
@@ -542,6 +545,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 * [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
+* [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 
 ## OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
@@ -570,7 +574,8 @@ Other.....
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 * [fastapprox](https://github.com/romeric/fastapprox) Approximate and vectorized versions of common mathematical functions
-* [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support  
+* [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support 
+* [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 
 ## Image&Color
@@ -812,6 +817,9 @@ Other.....
 * [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
 * [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering". 
 * [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
+#### Cloth
+* [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
+* [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
 #### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
