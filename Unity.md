@@ -36,8 +36,8 @@
 * [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) Realtime-CSG, CSG level editor for Unity https://realtimecsg.com
 
 ## Editor
-* [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  A collection of property and decorator drawers for Unity
-* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) Attribute Extensions for Unity
+* [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
+* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 
