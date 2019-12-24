@@ -306,7 +306,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) Crest is a technically advanced ocean renderer implemented in Unity3D
+* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) :thumbsup: Crest is a technically advanced ocean renderer implemented in Unity3D
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
 * [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
 * [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
@@ -617,6 +617,7 @@ Other.....
 * [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
 * [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
 * [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
+* [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
 * [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
 * [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
 * [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
