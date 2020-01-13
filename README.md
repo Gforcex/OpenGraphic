@@ -565,12 +565,6 @@ Other.....
 * [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
 * [MTL]() Matrix Template Library,  a linear algebra library for C++ programs.
-* [sh-lib](https://github.com/andrewwillmott/sh-lib)  Spherical/zonal harmonics library
-* [spherical-harmonics](https://github.com/google/spherical-harmonics)  Spherical harmonics library
-* [IntegralSH](https://github.com/belcour/IntegralSH)  Integrating Clipped Spherical Harmonics Expansions
-* [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders. 
-* [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
-* [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
@@ -580,10 +574,31 @@ Other.....
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support 
 * [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
+#### SH
+* [sh-lib](https://github.com/andrewwillmott/sh-lib)  Spherical/zonal harmonics library
+* [spherical-harmonics](https://github.com/google/spherical-harmonics)  Spherical harmonics library
+* [IntegralSH](https://github.com/belcour/IntegralSH)  Integrating Clipped Spherical Harmonics Expansions
+* [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders.
+#### FFT
+* [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
+* [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
 #### Sampling
 * [SampleZoo](https://github.com/Atrix256/SampleZoo) Simple implementations of sampling patterns, with objective tests to compare them
+#### Random
+* [pcg-cpp](https://github.com/imneme/pcg-cpp) PCG Random Number Generation
 
 ## Image&Color
+#### Noise
+* [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise) Collection of functions that can be used to generate tileable volume/3d noise. An exemple of volume noise functions that can be specifically used for clouds is also presented.
+* [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen)  A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
+* [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library
+* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
+* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
+* [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
+* [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
+* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
+* [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
+* [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
 #### Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
 #### Image
@@ -609,18 +624,6 @@ Other.....
 * [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org
 * [color](https://github.com/dmilos/color) ++ library thats implemets class color. Available models: RGB, HSL, HSV, CMY, CMYK, YIQ, YUV and growing.  
 * [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
-
-## Noise
-* [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise) Collection of functions that can be used to generate tileable volume/3d noise. An exemple of volume noise functions that can be specifically used for clouds is also presented.
-* [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen)  A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
-* [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library
-* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
-* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
-* [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
-* [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
-* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
-* [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
-* [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
 
 ## Mesh
 #### IO
@@ -821,6 +824,7 @@ Other.....
 * [gjk.c](https://github.com/kroitor/gjk.c)
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
 #### Fluid
+* [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
