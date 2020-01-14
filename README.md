@@ -25,7 +25,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Optimization**
 
-  [Acceleration](#acceleration)  &nbsp;&nbsp; [SceneManage](#scenemanage) &nbsp;&nbsp; [RenderPath](#render-path)  
+  [Acceleration](#acceleration)  &nbsp;&nbsp; [Spatial Data Structures](#spatial-data-structures) &nbsp;&nbsp; [RenderPath](#render-path)  
   
 >**Util**
 
@@ -529,7 +529,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### LOD
 #### HLOD
 
-## SceneManage
+## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
