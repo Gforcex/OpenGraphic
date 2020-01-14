@@ -25,7 +25,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Optimization**
 
-  [Acceleration](#acceleration)  &nbsp;&nbsp; [Spatial Data Structures](#spatial-data-structures) &nbsp;&nbsp; [RenderPath](#render-path)  
+  [Acceleration](#acceleration)  &nbsp;&nbsp; [SpatialDataStructures](#spatial-data-structures) &nbsp;&nbsp; [RenderPath](#render-path)  
   
 >**Util**
 
