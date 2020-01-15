@@ -26,16 +26,11 @@
 
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time)
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) A Unity plugin to create curved content in real-time with bézier curves https://twitter.com/dumas181
-
-* [OcclusionProbes](https://github.com/0lento/OcclusionProbes)  Unofficial Occlusion Probes Package, requires Unity 2019.1+
 * [Path-Creator](https://github.com/SebLague/Path-Creator)  Path creation asset for Unity game development 
 
 * [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
 * [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
-
 * [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
-
-* [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) Realtime-CSG, CSG level editor for Unity https://realtimecsg.com
 
 ## Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
@@ -60,3 +55,9 @@
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections)  Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting)  Unity Scripting in C++ https://jacksondunstan.com/articles/3938
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation)  Front end visualisation of 40 common easing equations.
+
+## Rendering
+* [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
+* [OcclusionProbes](https://github.com/0lento/OcclusionProbes)  Unofficial Occlusion Probes Package, requires Unity 2019.1+
+
+* [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) Realtime-CSG, CSG level editor for Unity https://realtimecsg.com
