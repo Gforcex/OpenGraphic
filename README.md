@@ -394,6 +394,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) Eric Bruneton, 2017
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017 [LWRP ver(greje656)](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering)
 * [clear-sky-models](https://github.com/ebruneton/clear-sky-models) This project implements 8 clear sky models in a common framework to compare them with each other and with a reference model and reference measurements.  
+* [tectonics.js](https://github.com/davidson16807/tectonics.js) 3d plate tectonics in your web browser
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) Renders sky colors with Rayleigh and Mie scattering.
 #### Fog
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
