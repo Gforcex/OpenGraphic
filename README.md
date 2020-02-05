@@ -422,7 +422,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
 #### File Format
 * [OpenShadingLanguage](https://github.com/imageworks/OpenShadingLanguage) Advanced shading language for production GI renderers
-* [glTF-SDK](https://github.com/Microsoft/glTF-SDK) glTF-SDK is a Software Development Kit for glTF (GL Transmission Format -https://github.com/KhronosGroup/glTF).  
+* [glTF-SDK](https://github.com/Microsoft/glTF-SDK) glTF-SDK is a Software Development Kit for glTF 
+* [cgltf](https://github.com/jkuhlmann/cgltf) Single-file glTF 2.0 loader and writer written in C99
 * [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 * [MaterialX](https://github.com/materialx/MaterialX) MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 
@@ -826,7 +827,7 @@ Other.....
 * [gjk.c](https://github.com/kroitor/gjk.c)
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
 #### Fluid
-* [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
+* [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
