@@ -16,6 +16,7 @@
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
+* [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 
 * [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
@@ -36,6 +37,7 @@
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
+* [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
 
 ## UI
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
@@ -54,6 +56,7 @@
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections)  Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting)  Unity Scripting in C++ https://jacksondunstan.com/articles/3938
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation)  Front end visualisation of 40 common easing equations.
+* [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) GPU-based raycaster for Unity which raycasts against MeshRenderers, rather than colliders. 
 
 ## Rendering
 * [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
