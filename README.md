@@ -712,6 +712,7 @@ Other.....
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 * [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) The easiest way to achieve outlines in unity.
+* [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
 #### Portal
@@ -841,6 +842,7 @@ Other.....
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
+* [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
 #### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
@@ -857,6 +859,7 @@ Other.....
 * [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
 * [ssds](https://github.com/TomohikoMukai/ssds) An implementation of Skinning Decomposition with Similarity Transformations (I3D2018)
 * [uSpringBone](https://github.com/EsProgram/uSpringBone) High performance SpringBone using ECS and JobSystem in Unity.
+* [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone) UnityChan Sping Bone System for lightweight secondary animations
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
