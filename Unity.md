@@ -14,6 +14,8 @@
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
+#### VisualEdit
+* [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 #### Others
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
