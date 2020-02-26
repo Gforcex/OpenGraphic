@@ -22,6 +22,8 @@
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
 
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
+
 * [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
