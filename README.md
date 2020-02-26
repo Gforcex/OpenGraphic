@@ -745,6 +745,7 @@ Other.....
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
+* [ShaderDebugger](https://github.com/dfranx/ShaderDebugger) C++ library for debugging HLSL & GLSL shaders
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
 * [shader-toy](https://github.com/stevensona/shader-toy) Shadertoy-like live preview for GLSL shaders in Visual Studio Code 
