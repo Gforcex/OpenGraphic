@@ -9,14 +9,14 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Engine**
 
-  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [OfflineEngine](#Offline-Engine) &nbsp;&nbsp; [SoftRenderer](#soft-renderer) 
+  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [OfflineEngine](#Offline-Engine) &nbsp;&nbsp; [SoftRenderer](#soft-renderer)  &nbsp;&nbsp; [RenderingDesign](#rendering-design)
   
 >**Rendering**
 
   [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)           
   [ShadeModel](#shade-model) &nbsp;&nbsp; [PhysicallyBasedRendering](#physically-based-rendering)   
   [Stylize](#stylize)    
-  [OIT](#oit) &nbsp;&nbsp;
+  [Transparency](#transparency) &nbsp;&nbsp;
   [Effect](#effect) &nbsp;&nbsp; [VFX](#vfx)    
   
 >**Emulation**
@@ -116,6 +116,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [RetroWarp](https://github.com/Themaister/RetroWarp) The GPU is implemented with "pure" software rendering
 * [SoftRas](https://github.com/ShichenLiu/SoftRas)  Project page of paper "Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning"
 
+## Rendering Design
+* [DataDrivenRendering](https://github.com/JorenJoestar/DataDrivenRendering) Data Driven Rendering repository
+* [fg](https://github.com/acdemiralp/fg) Rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources.
+
 ## GI
 ### Collection
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
@@ -214,6 +218,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnitySSR](https://github.com/Xerxes1138/UnitySSR) Open source screen space reflection for Unity 5
 * [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
 * [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
+* [BakedReflectionsUnity](https://github.com/julhe/BakedReflectionsUnity) :thumbsup: Reflection Probe Atlas impl. for Unity
 #### Refraction
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
@@ -269,6 +274,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [PhysicallyBasedLensFlare](https://github.com/greje656/PhysicallyBasedLensFlare) Lens flare
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity) Light Leaks Image Effects for Unity
 * [hdreffects](https://github.com/karimnaaji/hdreffects) High dynamic range rendering, with lens flare approximation and bloom 
+* [LensFlares](https://github.com/dotsquid/LensFlares) Simple GPU Occlusion for Lens Flares
 #### ImageProcess
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
@@ -310,16 +316,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) :thumbsup: Crest is a technically advanced ocean renderer implemented in Unity3D
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
 * [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
-* [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
-* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 * [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
 * [GX-EncinoWaves](https://github.com/speps/GX-EncinoWaves) "Empirical Directional Wave Spectra for Computer Graphics"
-* [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation)
+* [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 * [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
 * [water-demo](https://github.com/shanecelis/water-demo) A port of Evan Wallace's "Water Demo" for WebGL to Unity.
 * [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
+* [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
+* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
+* [UnityTerrainErosionGPU](https://github.com/bshishov/UnityTerrainErosionGPU) Hydraulic and thermal erosion with shallow water equations implemented in Unity using compute shaders.
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
@@ -554,13 +561,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 
-## OIT
+## Transparency
+* [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
+* [PreMulAlpha](https://github.com/dtrebilco/PreMulAlpha)  Pre-Multiplied blend mode  
+#### OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
 Other.....
 * [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  Vulkan-based renderer on real-time transparency
-* [PreMulAlpha](https://github.com/dtrebilco/PreMulAlpha)  Pre-Multiplied blend mode  
 
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
@@ -603,6 +612,7 @@ Other.....
 * [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
 * [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
 * [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
+* [glsl-curl-noise](https://github.com/cabbibo/glsl-curl-noise) [CurlNoise](https://github.com/rajabala/CurlNoise)
 #### Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
 #### Image
@@ -706,7 +716,8 @@ Other.....
 #### PageCurl
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
 #### Decal
-* [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray)
+* [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray) Draw spray to 3D model with Unity.
+* [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
 #### OutLine
 * [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) use some unity graphic API to display outline post processing.  
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
@@ -723,6 +734,13 @@ Other.....
 * [Unity-InteriorMapping](https://github.com/Gaxil/Unity-InteriorMapping)  Interior mapping shader for Unity with a sample scene. 
 #### Dissolve
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)  Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
+#### HoloShield
+* [HoloShield](https://github.com/AdultLink/HoloShield) Highly customizable sci-fi shield / force field shader for Unity3D.
+#### SmearFrame
+* [SmearFrame](https://github.com/LuggLD/SmearFrame) Unreal Engine 4 smear frame material effect
+#### Matcap
+* [spherical-environment-mapping](https://github.com/spite/spherical-environment-mapping) Spherical Environment Mapping GLSL Shader
+* [UnityMatCapShader](https://github.com/inoook/UnityMatCapShader) Unity MatCap shader
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
