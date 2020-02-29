@@ -603,14 +603,16 @@ Other.....
 
 ## Image&Color
 #### Noise
+* [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library. Others Version: C++/C#/SIMD/Unity/Unreal
+* [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) [libnoise](http://libnoise.sourceforge.net/index.html) Coherent noise library for Unity, a port of LibNoise
+* [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
+* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
+* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
+* [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
+* [OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2) Successors to OpenSimplex Noise, plus updated OpenSimplex.
+* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise) Collection of functions that can be used to generate tileable volume/3d noise. An exemple of volume noise functions that can be specifically used for clouds is also presented.
 * [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen)  A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
-* [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library
-* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
-* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
-* [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
-* [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
-* [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
 * [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
 * [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
 * [glsl-curl-noise](https://github.com/cabbibo/glsl-curl-noise) [CurlNoise](https://github.com/rajabala/CurlNoise)
