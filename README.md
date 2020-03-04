@@ -575,20 +575,22 @@ Other.....
 
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
-* [MathGeoLib](https://github.com/juj/MathGeoLib) A C++ library for linear algebra and geometry manipulation for computer graphics
+* [MathGeoLib](https://github.com/juj/MathGeoLib) :thumbsup: A C++ library for linear algebra and geometry manipulation for computer graphics
 * [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM) https://glm.g-truc.net
 * [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
-* [MTL]() Matrix Template Library,  a linear algebra library for C++ programs.
+* [klein](https://github.com/jeremyong/klein) :thumbsup:  P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library https://jeremyong.com/klein
+* [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
-* [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 * [fastapprox](https://github.com/romeric/fastapprox) Approximate and vectorized versions of common mathematical functions
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support 
 * [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
+#### MathInShader
+* [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 #### SH
 * [sh-lib](https://github.com/andrewwillmott/sh-lib)  Spherical/zonal harmonics library
 * [spherical-harmonics](https://github.com/google/spherical-harmonics)  Spherical harmonics library
