@@ -92,7 +92,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
 * [pbrt](https://github.com/mmp/pbrt-v3) Source code for "Physically Based Rendering: From Theory To Implementation" 
-* [mitsuba](https://github.com/mitsuba-renderer/mitsuba) http://mitsuba-renderer.org/
+* [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) http://mitsuba-renderer.org/
 * [LuxCoreRender](https://github.com/LuxCoreRender) https://www.luxcorerender.org
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 * [taichi](https://github.com/yuanming-hu/taichi) Open Source Computer Graphics Library http://taichi.graphics
@@ -125,6 +125,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 #### VCT
+* [Nigiri](https://github.com/ninlilizi/Nigiri) An almost-dynamic voxel-based global illumination system for Unity.
 * [SEGI](https://github.com/sonicether/SEGI) [NKLI](https://github.com/ninlilizi/SEGI)A fully-dynamic voxel-based global illumination system for Unity 
 * [Unity-SRP-VXGI](https://github.com/Looooong/Unity-SRP-VXGI) Voxel-based Global Illumination using Unity Scriptable Render Pipeline
 * [VCTRenderer](https://github.com/jose-villegas/VCTRenderer) Deferred Voxel Shading for Real Time Global Illumination
@@ -624,7 +625,7 @@ Other.....
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick) create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) 
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
-
+* [psd_sdk](https://github.com/MolecularMatters/psd_sdk) A C++ library that directly reads Photoshop PSD files. 
 #### VectorGraphics
 * [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 
