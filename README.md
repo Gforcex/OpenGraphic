@@ -138,6 +138,8 @@ Graphic Engine &amp; Game Engine open source list！
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
+#### Imperfect Shadow Maps
+* [qt5-shadow-maps](https://github.com/tatsy/qt5-shadow-maps) Shadow mapping implementation with Qt5 and OpenGL
 #### Point Based GI
 * [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
 #### Spherica lHarmonic Lighting
@@ -146,9 +148,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
 * [SHTest](https://github.com/dwilliamson/SHTest)
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-#### Deferred Irradiance Volumes
+#### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
-#### Deferred Radiance Transfer Volumes
 #### Radiosity
 #### Instant Radiosity
 * [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
