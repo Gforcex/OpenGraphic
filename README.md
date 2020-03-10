@@ -615,6 +615,7 @@ Other.....
 * [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
 * [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
 * [OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2) Successors to OpenSimplex Noise, plus updated OpenSimplex.
+* [Accidental Noise Library](http://accidentalnoise.sourceforge.net/) generating Perlin noise and other forms of noise in a modular fashion.
 * [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) Visual Noise Designer for Unity
 * [TileableVolumeNoise](https://github.com/sebh/TileableVolumeNoise) Collection of functions that can be used to generate tileable volume/3d noise. An exemple of volume noise functions that can be specifically used for clouds is also presented.
 * [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen)  A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
