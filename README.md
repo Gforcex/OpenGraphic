@@ -71,6 +71,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [xenko](https://github.com/xenko3d/xenko)  An open-source C# game engine for realistic rendering and VR
 * [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
 * [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more  
+* [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
 * [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
@@ -79,8 +80,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
-#### ForMobile
-* [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 
 ## Engine Plugin
 * [armory](https://github.com/armory3d/armory)  -3D Game Engine for Blender
@@ -124,6 +123,22 @@ Graphic Engine &amp; Game Engine open source list！
 ### Collection
 * [IlluminationComparison](https://github.com/EKnapik/IlluminationComparison) A comparison of typical illumination methods. (SSAO, HBO, VXGI, and Ray Traced Global Illumination)
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
+#### Spherica lHarmonic Lighting
+* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+#### PRT
+* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
+* [SHTest](https://github.com/dwilliamson/SHTest)
+* [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+#### Irradiance Probes/Voxels
+* [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
+#### VPL
+#### RSM
+#### Imperfect Shadow Maps
+* [qt5-shadow-maps](https://github.com/tatsy/qt5-shadow-maps) Shadow mapping implementation with Qt5 and OpenGL
+#### Instant Radiosity
+#### LPV
+* [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
+* [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
 #### VCT
 * [Nigiri](https://github.com/ninlilizi/Nigiri) An almost-dynamic voxel-based global illumination system for Unity.
 * [SEGI](https://github.com/sonicether/SEGI) [NKLI](https://github.com/ninlilizi/SEGI)A fully-dynamic voxel-based global illumination system for Unity 
@@ -135,23 +150,12 @@ Graphic Engine &amp; Game Engine open source list！
 * [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
 * [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork) University of Pennsylvania, CIS 565: GPU Programming and Architecture, Final Project
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
-#### LPV
-* [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
-* [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
-#### Imperfect Shadow Maps
-* [qt5-shadow-maps](https://github.com/tatsy/qt5-shadow-maps) Shadow mapping implementation with Qt5 and OpenGL
+#### DFGI
+#### Lighting Grid 
+* [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
 #### Point Based GI
 * [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
-#### Spherica lHarmonic Lighting
-* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-#### PRT
-* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
-* [SHTest](https://github.com/dwilliamson/SHTest)
-* [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-#### Irradiance Probes/Voxels
-* [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 #### Radiosity
-#### Instant Radiosity
 * [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
 * [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
@@ -168,7 +172,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)  A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
 * [WispRenderer](https://github.com/TeamWisp/WispRenderer) RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science https://teamwisp.github.io
 * [rtx-explore](https://github.com/rtx-on/rtx-explore) DirectX Raytracing Path Tracer
-#### Metropolis light transport
+#### Metropolis Light Transport
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
 * [SOPGI](https://github.com/alexnardini/SOPGI)  A VEX raytracer for SideFX Houdini with photon mapping global illumination and full recursive reflections and refractions
@@ -203,8 +207,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPULightmass](https://github.com/AlanIWBFT/GPULightmass) Luoshuang's GPULightmass for UE4
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
 * [HDR_Lightmapper](https://github.com/Naxela/HDR_Lightmapper)  Implements a cycles based lightmapper with denoiser
-#### Lighting Grid 
-* [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
 #### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
