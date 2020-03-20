@@ -258,6 +258,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SpecularAA](https://github.com/TheRealMJP/SpecularAA) A demo of various normal map filtering techniques for reducing specular aliasing
 * [glsl-fxaa](https://github.com/mattdesl/glsl-fxaa) FXAA implementation for glslify in WebGL
 * [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
+* [DLAA](https://github.com/ForserX/DLAA) (DLAA) Directionally Localized antiAliasing
 #### Denoising 
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
