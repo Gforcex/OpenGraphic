@@ -1,7 +1,7 @@
 # OpenGraphic
 Graphic Engine &amp; Game Engine open source list！
 
-## Contents
+## Catalogue
 
 >**Official**
 
@@ -21,7 +21,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Emulation**
 
-  [Nature](#nature) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; [Character](#character) &nbsp;&nbsp; [Camera](#Camera)   
+  [Material](#material) &nbsp;&nbsp; [Environment](#environment) &nbsp;&nbsp; &nbsp;&nbsp; [Camera](#Camera)   
   
 >**Optimization**
 
@@ -275,17 +275,19 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
-#### Other
-* [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean)
-* [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
 
-## Character
+## Material
+### Character
+#### SSS
+* [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
+* [separable-sss](https://github.com/iryoku/separable-sss) iryoku's SSSSS
+* [ScreenSpaceSubsurfaceScattering](https://github.com/Xerxes1138/ScreenSpaceSubsurfaceScattering)
+* [SubsurfaceScattering](https://github.com/vcrom/SubsurfaceScattering) An implementation of a set screen space physically-based subsurface scattering algorithms
+* [MultipassTranslucency](https://github.com/Philipp-Seifried/MultipassTranslucency) fake subsurface-scattering shader, using multiple passes with different blend ops to calculate thickness without reading back the depth buffer.
 #### Skin
 * [pbrt-skin-bssrdf](https://github.com/damlaren/pbrt-skin-bssrdf) Implementation of Donner & Jensen's "A Spectral BSSRDF for Shading Human Skin" in PBRT
-* [separable-sss](https://github.com/iryoku/separable-sss) iryoku's SSSSS
 * [skin-shader-unity](https://github.com/leonardo-domingues/skin-shader-unity) GPU Gems 3 - Chapter 14 using the Unity engine
 * [Unity-Human-Skin-Shader-PC](https://github.com/MaxwellGengYF/Unity-Human-Skin-Shader-PC)
-* [SubsurfaceScattering](https://github.com/vcrom/SubsurfaceScattering) An implementation of a set screen space physically-based subsurface scattering algorithms
 * [FaceWorks](https://github.com/NVIDIAGameWorks/FaceWorks) A middleware library and sample application for high-quality skin and eye rendering
 #### Eye
 #### Hair
@@ -302,7 +304,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
 * [GIFT_PorterDoll](https://github.com/marza-realtime/GIFT_PorterDoll) PorterDoll Asset wtih "THE GIFT"
 
-## Nature
+### Nature
 #### Water
 * [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity  
 * [WaterSurfaceWavelets](https://github.com/lecopivo/WaterSurfaceWavelets) Water Surface Wavelets (SIGGRAPH 2018) http://visualcomputing.ist.ac.at/publications/2018/WSW/
@@ -458,10 +460,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
 * [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
 * [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) 
-#### SSS
-* [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
-* [ScreenSpaceSubsurfaceScattering](https://github.com/Xerxes1138/ScreenSpaceSubsurfaceScattering)
-* [MultipassTranslucency](https://github.com/Philipp-Seifried/MultipassTranslucency) fake subsurface-scattering shader, using multiple passes with different blend ops to calculate thickness without reading back the depth buffer.
 #### IBL
 * [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
@@ -566,6 +564,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
 * [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 * [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
+* [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 
@@ -602,6 +601,7 @@ Other.....
 * [spherical-harmonics](https://github.com/google/spherical-harmonics)  Spherical harmonics library
 * [IntegralSH](https://github.com/belcour/IntegralSH)  Integrating Clipped Spherical Harmonics Expansions
 * [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders.
+* [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) SHTOOLS - Spherical Harmonic Tools https://shtools.github.io/SHTOOLS/
 #### FFT
 * [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
 * [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
@@ -727,6 +727,8 @@ Other.....
 * [ScreenManager](https://github.com/Xerios/ScreenManager) Flexible way to manage screens with transitions for Unity
 #### Mesh Cut
 * [cross-section](https://assetstore.unity.com/packages/vfx/shaders/cross-section-66300) create a cross section through meshes
+* [UnityScreenSpaceBoolean](https://github.com/hecomi/UnityScreenSpaceBoolean) Screen Space Boolean Implementation for Unity. 
+* [3DXRayShader_Unity](https://github.com/MdIqubal/3DXRayShader_Unity)  Surface shader. Clips a Model with given plane , applies fresnel on clipped part and highlights the cross section.
 #### PageCurl
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
 #### Decal
@@ -750,11 +752,15 @@ Other.....
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)  Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
 #### HoloShield
 * [HoloShield](https://github.com/AdultLink/HoloShield) Highly customizable sci-fi shield / force field shader for Unity3D.
+#### Scanning
+* [CyberPunkEffect](https://github.com/smkplus/CyberPunkEffect) Cyberpunk 2077 Scanning Effect
 #### SmearFrame
 * [SmearFrame](https://github.com/LuggLD/SmearFrame) Unreal Engine 4 smear frame material effect
 #### Matcap
 * [spherical-environment-mapping](https://github.com/spite/spherical-environment-mapping) Spherical Environment Mapping GLSL Shader
 * [UnityMatCapShader](https://github.com/inoook/UnityMatCapShader) Unity MatCap shader
+#### EchoFX
+* [unity_echofx](https://github.com/joscanper/unity_echofx) The Division ECHO fx implemented in Unity3D
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
@@ -787,6 +793,7 @@ Other.....
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### Texture
 * [armorpaint](https://github.com/armory3d/armorpaint) :thumbsup:  3D PBR Texture Painting Software https://armorpaint.org
+* [Materialize](https://github.com/maikramer/Materialize) Materialize is a program for converting images to materials for use in video games and similars. 
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
 * [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool
@@ -866,6 +873,7 @@ Other.....
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
+* [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
@@ -899,6 +907,7 @@ Other.....
 * [XParticle](https://github.com/antoinefournier/XParticle)
 * [VolumetricParticles](https://github.com/DaSutt/VolumetricParticles)
 * [gpu-particles](https://github.com/Robert-K/gpu-particles) A GPU Particle System for Unity
+* [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
 
 ## VR&AR
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
