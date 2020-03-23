@@ -70,7 +70,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
-* [oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 * [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level 3D graphics library http://diligentgraphics.com/diligent-engine/ 
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
