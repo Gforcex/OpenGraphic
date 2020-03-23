@@ -13,11 +13,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Rendering**
 
-  [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)           
-  [ShadeModel](#shade-model) &nbsp;&nbsp; [FileFormat](#file-format)   
-  [Stylize](#stylize)    
-  [Transparency](#transparency) &nbsp;&nbsp;
-  [Effect](#effect) &nbsp;&nbsp; [VFX](#vfx)    
+  [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)  &nbsp;&nbsp;  [Stylize](#stylize)  &nbsp;&nbsp; [Transparency](#transparency) &nbsp;&nbsp;  [Effect](#effect) &nbsp;&nbsp; [VFX](#vfx)   
   
 >**Emulation**
 
@@ -29,7 +25,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Util**
 
-  [Util](#util) &nbsp;&nbsp; [SDF](#sdf) &nbsp;&nbsp; [Math](#math) &nbsp;&nbsp; [Image&Color](#imagecolor) &nbsp;&nbsp; [Noise](#noise)  &nbsp;&nbsp; [Mesh](#mesh) &nbsp;&nbsp; [Platform](#platform) &nbsp;&nbsp; [UI](#ui) &nbsp;&nbsp; [CG](#cg)
+  [Util](#util) &nbsp;&nbsp; [SDF](#sdf) &nbsp;&nbsp; [Math](#math) &nbsp;&nbsp; [Image&Color](#imagecolor) &nbsp;&nbsp; [Noise](#noise)  &nbsp;&nbsp; [Mesh](#mesh) &nbsp;&nbsp; [Platform](#platform) &nbsp;&nbsp; [UI](#ui) &nbsp;&nbsp; [FileFormat](#file-format)  
   
 >**Tools**
 
@@ -277,6 +273,34 @@ Graphic Engine &amp; Game Engine open source list！
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
 
 ## Material
+### Shade Model
+##### BSDF
+* [libbsdf](https://github.com/KimuraRyo/libbsdf) Library for BSDF, BRDF, and BTDF
+* [brdf](https://github.com/wdas/brdf) &nbsp;&nbsp; [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
+* [BRDFExplorer](https://github.com/Corralx/BRDFExplorer) http://corralx.github.io/projects
+* [Lux](https://github.com/larsbertram69) Lux – open source physically based shader framework for unity
+* [Alloy](https://github.com/Josh015/Alloy) Alloy physical shader framework for Unity. https://alloy.rustltd.com/
+* [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
+* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) 
+##### SVBRDF
+* [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
+#### BSSRDF
+* [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
+* [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
+* [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
+* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) 
+#### IBL
+* [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
+* [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
+* [Probulator](https://github.com/kayru/Probulator) Experimentation framework for probe-based lighting
+* [PBR](https://github.com/Nadrin/PBR) An implementation of physically based shading model & image based lighting in various graphics APIs.
+* [IBLGGX](https://github.com/tuccio/IBLGGX) Sample implementation of UE4/Frostbite image based lighting method based on GGX convolution of HDR environment maps.
+* [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG) DFG LUT generator
+* [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
+#### AreaLight
+* [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
+* [ltc_code](https://github.com/selfshadow/ltc_code) Code for "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
+
 ### Character
 #### SSS
 * [FastTranslucentShader](https://github.com/tatsy/FastTranslucentShader)
@@ -441,36 +465,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [cgltf](https://github.com/jkuhlmann/cgltf) Single-file glTF 2.0 loader and writer written in C99
 * [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 * [MaterialX](https://github.com/materialx/MaterialX) MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
-
-## Shade Model
-### BSDF
-* [libbsdf](https://github.com/KimuraRyo/libbsdf) Library for BSDF, BRDF, and BTDF
-##### BRDF
-* [brdf](https://github.com/wdas/brdf) &nbsp;&nbsp; [brdfExplorer](https://github.com/sotnychenko/brdfExplorer)
-* [BRDFExplorer](https://github.com/Corralx/BRDFExplorer)
-* [Lux](https://github.com/larsbertram69)
-* [Alloy](https://github.com/Josh015/Alloy)
-* [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
-* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) 
-##### SVBRDF
-* [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
-##### BTDF
-#### BSSRDF
-* [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
-* [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
-* [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
-* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) 
-#### IBL
-* [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
-* [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
-* [Probulator](https://github.com/kayru/Probulator) Experimentation framework for probe-based lighting
-* [PBR](https://github.com/Nadrin/PBR) An implementation of physically based shading model & image based lighting in various graphics APIs.
-* [IBLGGX](https://github.com/tuccio/IBLGGX) Sample implementation of UE4/Frostbite image based lighting method based on GGX convolution of HDR environment maps.
-* [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG) DFG LUT generator
-* [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
-#### AreaLight
-* [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
-* [ltc_code](https://github.com/selfshadow/ltc_code) Code for "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
 
 ## Stylize
 #### NPR
