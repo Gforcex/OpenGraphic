@@ -883,6 +883,8 @@ Other.....
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
 * [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
 * [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
+#### Bone
+* [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 #### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
