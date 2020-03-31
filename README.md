@@ -643,6 +643,7 @@ Other.....
 * [basis_universal](https://github.com/BinomialLLC/basis_universal)  :star:  Basis Universal GPU Texture and Texture Video Compression Codec
 * [astc-encoder](https://github.com/ARM-software/astc-encoder) This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
+* [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image comparison tool for graphics people with an emphasis on OpenEXR images.
 
 #### Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
@@ -670,6 +671,7 @@ Other.....
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
 #### Modeling
 * [Dust3D](https://github.com/huxingyi/dust3d) :thumbsup: a cross-platform 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one. https://dust3d.org/  
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
@@ -731,6 +733,7 @@ Other.....
 #### Decal
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray) Draw spray to 3D model with Unity.
 * [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
+* [unity_coneofsightfx](https://github.com/joscanper/unity_coneofsightfx) This project shows how to implement Commandos cone of sight fx in Unity3D.
 #### OutLine
 * [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) use some unity graphic API to display outline post processing.  
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
