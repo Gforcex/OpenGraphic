@@ -611,9 +611,9 @@ Other.....
 #### Noise
 * [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library. Others Version: C++/C#/SIMD/Unity/Unreal
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) [libnoise](http://libnoise.sourceforge.net/index.html) Coherent noise library for Unity, a port of LibNoise
-* [webgl-noise](https://github.com/ashima/webgl-noise) Procedural Noise Shader Routines compatible with WebGL
+* [webgl-noise](https://github.com/ashima/webgl-noise) :star: Procedural Noise Shader Routines compatible with WebGL
 * [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
-* [Turbulence-Library](https://github.com/jesta88/Turbulence-Library) Procedural noise on the GPU for Unity.
+* [Wombat](https://github.com/BrianSharpe/Wombat) An efficient texture-free GLSL procedural noise library
 * [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
 * [OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2) Successors to OpenSimplex Noise, plus updated OpenSimplex.
 * [Accidental Noise Library](http://accidentalnoise.sourceforge.net/) generating Perlin noise and other forms of noise in a modular fashion.
