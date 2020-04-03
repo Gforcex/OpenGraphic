@@ -641,6 +641,7 @@ Other.....
 * [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
 * [unity-ycca-subsampling](https://github.com/n-yoda/unity-ycca-subsampling) [ChromaPack](https://github.com/keijiro/ChromaPack)   YCCA chroma subsampling technique
 * [basis_universal](https://github.com/BinomialLLC/basis_universal)  :star:  Basis Universal GPU Texture and Texture Video Compression Codec
+* [bc7enc](https://github.com/richgel999/bc7enc) Single source file BC1-5 and BC7 encoders and BC1-5/7 decoders with MIT or Public Domain licenses
 * [astc-encoder](https://github.com/ARM-software/astc-encoder) This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
 * [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image comparison tool for graphics people with an emphasis on OpenEXR images.
