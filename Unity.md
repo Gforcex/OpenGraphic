@@ -16,6 +16,7 @@
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 #### VisualEdit
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
+* [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
 #### Others
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
