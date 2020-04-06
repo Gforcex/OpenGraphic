@@ -17,11 +17,17 @@
 #### VisualEdit
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 * [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
-#### Others
+#### FileFormat
+* [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
+* [GLTFUtility](https://github.com/Siccity/GLTFUtility) Lightweight GLTF importer for Unity
+* [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
+#### Texture
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
+#### Others
+* [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
 
 * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
 
@@ -34,10 +40,6 @@
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time)
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) A Unity plugin to create curved content in real-time with bézier curves https://twitter.com/dumas181
 * [Path-Creator](https://github.com/SebLague/Path-Creator)  Path creation asset for Unity game development 
-
-* [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
-* [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
-* [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
 
 ## Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
