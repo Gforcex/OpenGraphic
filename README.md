@@ -114,6 +114,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Rendering Design
 * [DataDrivenRendering](https://github.com/JorenJoestar/DataDrivenRendering) Data Driven Rendering repository
 * [fg](https://github.com/acdemiralp/fg) Rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources.
+* [FrameGraph](https://github.com/azhirnov/FrameGraph) vulkan abstraction layer that represent frame as a task graph
 
 ## GI
 ### Collection
@@ -435,11 +436,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [HybridRenderingEngine](https://github.com/Angelo1211/HybridRenderingEngine) Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.  
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid) and [IntelForwardClusteredShading](https://software.intel.com/en-us/articles/forward-clustered-shading) Clustered shading on Android sample  
 * [clustered_forward_demo](https://gitlab.com/efficient_shading/clustered_forward_demo) Ola Olsson. 
-* [clustered_forward_demo_vk](https://github.com/sydneyzh/clustered_forward_demo_vk)  Clustered forward rendering demo with Vulkan
+* [Cluster](https://github.com/pezcode/Cluster) Clustered shading implementation with bgfx
 * [ClusteredShadingConservative](https://github.com/kevinortegren/ClusteredShadingConservative) DirectX 12 light culling technique featured in GPU Pro 7  
 * [lightindexed-deferredrender](https://github.com/dtrebilco/lightindexed-deferredrender) Light Indexed Deferred Rendering - Before there was Forward+ and Clustered deferred rendering there was Light Indexed Deferred Rendering (ShaderX7)  
 * [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) Forward+ renderer in Vulkan using Compute Shader. An Upenn CIS565 final project. 
-* [cute-deferred-shading](https://github.com/Erkaman/cute-deferred-shading) Cute little deferred shading implementation.
 * [nTiled](https://github.com/BeardedPlatypus/nTiled) nTiled - forward and deferred openGL renderer with support for Tiled Shading, Clustered Shading and Hashed Shading
 * [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing) A rendering sample that demonstrates bindless deferred texturing using D3D12
 * [SweetTexelShading](https://github.com/julhe/SweetTexelShading) Texel-Shading (experimental!) with Unity's ScriptableRenderPipeline
