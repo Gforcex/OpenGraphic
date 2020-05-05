@@ -273,6 +273,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
+#### Compression
+* [JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D](https://github.com/JanMalitschek/JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D) This package aims to accurately recreate the effect of JPEG/MP4 compression as a PostProcessing Effect
 
 ## Material
 ### Shade Model
