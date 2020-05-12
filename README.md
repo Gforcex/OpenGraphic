@@ -205,6 +205,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPULightmass](https://github.com/AlanIWBFT/GPULightmass) Luoshuang's GPULightmass for UE4
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
 * [HDR_Lightmapper](https://github.com/Naxela/HDR_Lightmapper)  Implements a cycles based lightmapper with denoiser
+* [The_Lightmapper](https://github.com/Naxela/The_Lightmapper) Fast and easy baked GI Lightmaps for Blender and Cycles
 #### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
@@ -502,12 +503,11 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Volume Rendering
 #### RayMarch
+* [uRaymarching](https://github.com/hecomi/uRaymarching)  Raymarching Shader Generator in Unity  
+* [unity-volume-rendering](https://github.com/mattatz/unity-volume-rendering) Volume rendering by object space raymarching for Unity.
 * [Texture3DPreview-for-Unity](https://github.com/raphael-ernaelsten/Texture3DPreview-for-Unity) This package enables interactive previews of Texture3D assets in Unity's Inspector window. 
 * [UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) A volume renderer, made in Unity3D. See slides from presentation here: https://speakerdeck.com/mlavik1/volume-rendering-in-unity3d
-* [unity-volume-rendering](https://github.com/mattatz/unity-volume-rendering) Volume rendering by object space raymarching for Unity. 
-* [uRaymarching](https://github.com/hecomi/uRaymarching)  Raymarching Shader Generator in Unity  
 * [unity-ray-marching](https://github.com/brianasu/unity-ray-marching)  Ray marching for rendering 3D noise and textures in Unity 3D
-* [SpaceWarp](https://github.com/mzandvliet/SpaceWarp)  Playing with DistanceField Raymarching as Post Effect in Unity3d
 * [UE4_VolumeRaymarching](https://github.com/TheHugeManatee/UE4_VolumeRaymarching) Plugin for UE4 to perform volume raycasting
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)  A standalone, large scale, open project for 2D/3D image and point cloud processing.
