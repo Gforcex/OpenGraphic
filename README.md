@@ -475,18 +475,18 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Stylize
 #### NPR
-* [NPR_Lab](https://github.com/candycat1992/NPR_Lab)
-* [MNPR](https://github.com/semontesdeoca/MNPR) An expressive non-photorealistic rendering framework for real-time, filter-based stylization pipelines within Maya. http://mnpr.artineering.io     
-* [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
+* [NPR_Lab](https://github.com/candycat1992/NPR_Lab) Test some NPR in Unity.
+* [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) JTRP : Unity HDRP ToonShading Render Pipeline (Preview) 
 * [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
-* [UnityNPR](https://github.com/GlitchEnzo/UnityNPR)
-* [NPR](https://github.com/laundsallyn/NPR) CS 354 Computer Graphics final project
-* [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
 * [MToon](https://github.com/Santarh/MToon) Toon Shader with Unity Global Illumination
 * [PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) A feature rich toon shader for unity and VR Chat
 * [Xiexes-Unity-Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders) A re-write and restructure of XSToon.
+* [MNPR](https://github.com/semontesdeoca/MNPR) An expressive non-photorealistic rendering framework for real-time, filter-based stylization pipelines within Maya. http://mnpr.artineering.io     
+* [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
+* [UnityNPR](https://github.com/GlitchEnzo/UnityNPR) A testbed for non-photorealistic rendering in Unity.
+* [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [ToonLandscape3](https://github.com/chrisloop/ToonLandscape3) ToonLandscape3
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
@@ -766,7 +766,8 @@ Other.....
 * [CyberPunkEffect](https://github.com/smkplus/CyberPunkEffect) Cyberpunk 2077 Scanning Effect
 #### SmearFrame
 * [SmearFrame](https://github.com/LuggLD/SmearFrame) Unreal Engine 4 smear frame material effect
-#### Matcap
+#### Matcap 
+* [matcaps](https://github.com/nidorx/matcaps) Huge library of matcap PNG textures organized by color
 * [spherical-environment-mapping](https://github.com/spite/spherical-environment-mapping) Spherical Environment Mapping GLSL Shader
 * [UnityMatCapShader](https://github.com/inoook/UnityMatCapShader) Unity MatCap shader
 #### EchoFX
