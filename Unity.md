@@ -48,6 +48,7 @@
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
+* [Sleipnir](https://github.com/red-owl-games/Sleipnir) A graph editor framework for Unity's new UIElements system https://redowlgames.com/Sleipnir
 
 ## UI
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
