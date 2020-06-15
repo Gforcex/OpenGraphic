@@ -17,6 +17,7 @@
 #### VisualEdit
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 * [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
+* [Sleipnir](https://github.com/red-owl-games/Sleipnir) A graph editor framework for Unity's new UIElements system https://redowlgames.com/Sleipnir
 #### FileFormat
 * [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
 * [GLTFUtility](https://github.com/Siccity/GLTFUtility) Lightweight GLTF importer for Unity
@@ -48,7 +49,6 @@
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
-* [Sleipnir](https://github.com/red-owl-games/Sleipnir) A graph editor framework for Unity's new UIElements system https://redowlgames.com/Sleipnir
 
 ## UI
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
