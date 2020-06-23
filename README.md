@@ -195,6 +195,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ConeSphereOcclusionLUT](https://github.com/knarkowicz/ConeSphereOcclusionLUT) ConeSphereOcclusionLUT generates a cone sphere occlusion LUT to be used with TLoU style **capsule AO shadows**. For details "Lighting Technology Of "The Last Of Us".
 * [RTAO](https://github.com/boksajak/RTAO) Ray Traced Ambient Occlusion (RTAO) implemented using DirectX Raytracing (DXR)
 * [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
+* [dxr-ao-bake](https://github.com/Twinklebear/dxr-ao-bake) A demo of ambient occlusion map baking using DXR
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### Radiosity Normal Mapping
@@ -551,6 +552,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
+* [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
 * [bhh](https://github.com/bryanmcnett/bhh) Bounding Halfspace Hierarchy
@@ -668,6 +670,7 @@ Other.....
 * [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer  
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)   
 * [OpenFBX](https://github.com/nem0/OpenFBX) Lightweight open source FBX importer
+* [fast_obj](https://github.com/thisistherk/fast_obj) Fast C OBJ parser
 #### Subdivision
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 #### Simplification
@@ -742,6 +745,7 @@ Other.....
 #### PageCurl
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
 #### Decal
+* [driven-decals](https://github.com/Anatta336/driven-decals) A mesh-based PBR decal system for Unity's universal render pipeline.
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray) Draw spray to 3D model with Unity.
 * [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
 * [unity_coneofsightfx](https://github.com/joscanper/unity_coneofsightfx) This project shows how to implement Commandos cone of sight fx in Unity3D.
@@ -763,7 +767,7 @@ Other.....
 * [VerticalDissolve](https://github.com/AdultLink/VerticalDissolve)  Procedural vertical dissolve shader. Highly customizable. Tweak edge color, noisiness & waviness, rim light, emission scrolling and more.
 #### HoloShield
 * [HoloShield](https://github.com/AdultLink/HoloShield) Highly customizable sci-fi shield / force field shader for Unity3D.
-#### Scanning
+#### Glitch
 * [CyberPunkEffect](https://github.com/smkplus/CyberPunkEffect) Cyberpunk 2077 Scanning Effect
 #### SmearFrame
 * [SmearFrame](https://github.com/LuggLD/SmearFrame) Unreal Engine 4 smear frame material effect
@@ -773,6 +777,8 @@ Other.....
 * [UnityMatCapShader](https://github.com/inoook/UnityMatCapShader) Unity MatCap shader
 #### EchoFX
 * [unity_echofx](https://github.com/joscanper/unity_echofx) The Division ECHO fx implemented in Unity3D
+#### Cubism
+* [Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
