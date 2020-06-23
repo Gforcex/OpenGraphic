@@ -13,7 +13,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Rendering**
 
-  [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)  &nbsp;&nbsp;  [Stylize](#stylize)  &nbsp;&nbsp; [Transparency](#transparency) &nbsp;&nbsp;  [Effect](#effect) &nbsp;&nbsp; [VFX](#vfx)   &nbsp;&nbsp; [Standard Format](#standard-format)  
+  [GI](#gi) &nbsp;&nbsp; [VolumeRendering](#volume-rendering) &nbsp;&nbsp; [PostProcessing](#postprocessing)  &nbsp;&nbsp;  [Stylize](#stylize)  &nbsp;&nbsp; [Transparency](#transparency) &nbsp;&nbsp;  [VFX](#vfx)   &nbsp;&nbsp; [Standard Format](#standard-format)  
   
 >**Emulation**
 
@@ -726,8 +726,11 @@ Other.....
 * [stb](https://github.com/nothings/stb)
 * [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [debug-draw](https://github.com/glampert/debug-draw)
+#### Alembic
+* [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
+* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
 
-## Effect 
+## VFX
 * [shader-graph-nodes](https://github.com/gilescoope/shader-graph-nodes) Custom Nodes for Unity Shader Graph  
 #### Minecraft
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders) A Minecraft shaderspack. Offers high performance with high quality at the same time. https://qionouu.cn/  
@@ -781,13 +784,6 @@ Other.....
 * [Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
-
-## VFX
-#### Houdini
-* [qLib](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini. http://qlab.github.com/qLib
-#### Alembic
-* [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
-* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
 
 ## Tools
 #### UE4
