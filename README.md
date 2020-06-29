@@ -652,6 +652,7 @@ Other.....
 * [basis_universal](https://github.com/BinomialLLC/basis_universal)  :star:  Basis Universal GPU Texture and Texture Video Compression Codec
 * [bc7enc](https://github.com/richgel999/bc7enc) Single source file BC1-5 and BC7 encoders and BC1-5/7 decoders with MIT or Public Domain licenses
 * [astc-encoder](https://github.com/ARM-software/astc-encoder) This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
+* [betsy](https://github.com/darksylinc/betsy) Betsy aims to be a GPU compressor for various modern GPU compression formats such as BC6H, purposedly written in GLSL so that it can be easily incorporated into OpenGL and Vulkan projects.
 * [Goofy](https://github.com/SergeyMakeev/Goofy) Goofy - Realtime DXT1/ETC1 encoder
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
 * [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image comparison tool for graphics people with an emphasis on OpenEXR images.
