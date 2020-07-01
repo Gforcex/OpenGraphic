@@ -390,6 +390,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
 * [clouds](https://github.com/greje656/clouds) Volumetric Clouds plugin for Stingray
 * [Meteoros](https://github.com/Aman-Sachan-asach/Meteoros) Real-time Cloudscape Rendering in Vulkan based on the implementation of clouds in the Decima Engine.
+* [Custom-Middleware](https://github.com/ConfettiFX/Custom-Middleware) Ephemeris 2 is a middleware solution for implementing a dynamic 24 hour Skydome System. 
 * [VolumeCloud](https://github.com/yangrc1234/VolumeCloud) Volume cloud for Unity3D
 * [Clouds](https://github.com/SebLague/Clouds) https://www.youtube.com/watch?v=4QOcCGI6xOU
 * [TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL)  renders an (almost) procedural scene, featuring a terrain with distance adaptive LOD, water surface simulation and volumetric clouds.
