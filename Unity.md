@@ -45,6 +45,7 @@
 ## Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)  You can expose a lot of different shader settings through attributes! 
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
