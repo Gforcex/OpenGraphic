@@ -223,6 +223,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection) Clearly Screen Space Reflection
 * [UnitySSR](https://github.com/Xerxes1138/UnitySSR) Open source screen space reflection for Unity 5
 * [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
+* [URP_ScreenSpacePlanarReflections](https://github.com/Steven-Cannavan/URP_ScreenSpacePlanarReflections) Simple example of implementing screen space planar reflections as a RenderFeature for URP
 * [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
 * [BakedReflectionsUnity](https://github.com/julhe/BakedReflectionsUnity) :thumbsup: Reflection Probe Atlas impl. for Unity
 #### Refraction
@@ -474,6 +475,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [OpenShadingLanguage](https://github.com/imageworks/OpenShadingLanguage) Advanced shading language for production GI renderers
 * [glTF-SDK](https://github.com/Microsoft/glTF-SDK) glTF-SDK is a Software Development Kit for glTF 
 * [cgltf](https://github.com/jkuhlmann/cgltf) Single-file glTF 2.0 loader and writer written in C99
+* [fx-gltf](https://github.com/jessey-git/fx-gltf) A C++14/C++17 header-only library for simple, efficient, and robust serialization/deserialization of glTF 2.0
 * [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 * [MaterialX](https://github.com/materialx/MaterialX) MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 * [MDL](https://github.com/NVIDIA/MDL-SDK) NVIDIA Material Definition Language SDK
@@ -492,6 +494,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
 * [UnityNPR](https://github.com/GlitchEnzo/UnityNPR) A testbed for non-photorealistic rendering in Unity.
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
+* [WaterColorFilter](https://github.com/nobnak/WaterColorFilter) WaterColorFilter for Unity
 * [ToonLandscape3](https://github.com/chrisloop/ToonLandscape3) ToonLandscape3
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
@@ -740,8 +743,9 @@ Other.....
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders) A Minecraft shaderspack. Offers high performance with high quality at the same time. https://qionouu.cn/  
 * [Ebin-Shaders](https://github.com/BruceKnowsHow/Ebin-Shaders) This is a Minecraft shaderpack for use with Optifine.
 * [robobo1221Shaders](https://github.com/robobo1221/robobo1221Shaders)
-#### Meta Blobs
+#### MetaBlobs
 * [MetaBlob](https://github.com/danielzeller/MetaBlob) Meta Blobs for Unity 3D.
+* [unity-metaball](https://github.com/qine/unity-metaball) unity-metaball
 #### Transitions
 * [gl-transitions](https://github.com/gl-transitions/gl-transitions) :thumbsup:  The open collection of GL Transitions https://gl-transitions.com/ 
 * [ScreenManager](https://github.com/Xerios/ScreenManager) Flexible way to manage screens with transitions for Unity
