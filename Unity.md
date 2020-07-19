@@ -14,6 +14,10 @@
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
+* [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
+* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
+* [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
+* [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
 #### VisualEdit
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 * [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
@@ -27,20 +31,17 @@
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
 * [texture_maker](https://github.com/M-Fatah/texture_maker)  A texture maker tool for unity.
 * [MA_TextureAtlasser](https://github.com/maxartz15/MA_TextureAtlasser) Texture atlas creator for Unity
+#### Curve
+* [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time)
+* [SplineMesh](https://github.com/benoit-dumas/SplineMesh) A Unity plugin to create curved content in real-time with bézier curves https://twitter.com/dumas181
+* [Path-Creator](https://github.com/SebLague/Path-Creator)  Path creation asset for Unity game development 
 #### Others
 * [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
 
 * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
 
 * [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
-* [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
-* [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
-* [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)  A NuGet Package Manager for Unity
-
-* [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time)
-* [SplineMesh](https://github.com/benoit-dumas/SplineMesh) A Unity plugin to create curved content in real-time with bézier curves https://twitter.com/dumas181
-* [Path-Creator](https://github.com/SebLague/Path-Creator)  Path creation asset for Unity game development 
 
 ## Editor
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
@@ -50,6 +51,8 @@
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
+#### Editor Util
+* [UndoPro](https://github.com/Seneral/UndoPro) UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
 
 ## UI
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
@@ -73,7 +76,5 @@
 ## Rendering
 * [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 * [OcclusionProbes](https://github.com/0lento/OcclusionProbes)  Unofficial Occlusion Probes Package, requires Unity 2019.1+
-
 * [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
-
 * [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) Realtime-CSG, CSG level editor for Unity https://realtimecsg.com
