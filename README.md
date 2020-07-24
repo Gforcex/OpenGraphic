@@ -224,6 +224,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnitySSR](https://github.com/Xerxes1138/UnitySSR) Open source screen space reflection for Unity 5
 * [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
 * [URP_ScreenSpacePlanarReflections](https://github.com/Steven-Cannavan/URP_ScreenSpacePlanarReflections) Simple example of implementing screen space planar reflections as a RenderFeature for URP
+* [UnityURP-MobileScreenSpacePlanarReflection](https://github.com/ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection) A simple and fast ScreenSpacePlanarReflection(SSPR) as a standalone reusable RendererFeature in URP.
 * [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
 * [BakedReflectionsUnity](https://github.com/julhe/BakedReflectionsUnity) :thumbsup: Reflection Probe Atlas impl. for Unity
 #### Refraction
@@ -432,6 +433,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
 * [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
 #### Atmospheric
+* [UnrealEngineSkyAtmosphere](https://github.com/sebh/UnrealEngineSkyAtmosphere) A Scalable and Production Ready Sky and Atmosphere Rendering Technique
 * [AtmosphericScattering](https://github.com/SlightlyMad/AtmosphericScattering) Atmospheric Scattering for Unity
 * [Scatterer](https://github.com/LGhassen/Scatterer) Atmospheric scattering mod for KSP 
 * [precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) Eric Bruneton, 2017
