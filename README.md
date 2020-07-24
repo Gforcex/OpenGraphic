@@ -37,7 +37,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Other**
 
-  [Physics](#physics) &nbsp;&nbsp; [Animation](#animation) &nbsp;&nbsp; [Particle](#particle) &nbsp;&nbsp; [Machine Learning](#ml)  &nbsp;&nbsp;  [VR&AR](#vrar) &nbsp;&nbsp;
+  [Physics](https://github.com/Gforcex/OpenGraphic/blob/master/Physics.md) &nbsp;&nbsp; [Animation](#animation) &nbsp;&nbsp; [Particle](#particle) &nbsp;&nbsp; [Machine Learning](#ml)  &nbsp;&nbsp;  [VR&AR](#vrar) &nbsp;&nbsp;
   
 ---
 
@@ -887,41 +887,6 @@ Other.....
 #### Book
 * [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
 
-## Physics
-#### Library
-* [bullet](https://github.com/bulletphysics/bullet3)
-* [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
-* [fcl](https://github.com/flexible-collision-library/fcl) Flexible Collision Library 
-* [OPCODE](https://github.com/nitrocaster/OPCODE) Optimized Collision Detection
-* [gjk.c](https://github.com/kroitor/gjk.c) Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
-* [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
-#### Fluid
-* [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
-* [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
-* [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
-* [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
-* [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
-* [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
-* [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
-* [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering". 
-* [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
-* [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
-* [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
-#### Cloth
-* [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
-* [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
-* [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
-#### Bone
-* [uSpringBone](https://github.com/EsProgram/uSpringBone) High performance SpringBone using ECS and JobSystem in Unity.
-* [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone) UnityChan Sping Bone System for lightweight secondary animations
-* [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
-* [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
-#### IK
-* [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
-#### Demo
-* [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
-* [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
-
 ## Animation
 * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
@@ -933,6 +898,15 @@ Other.....
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
 * [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
 * [ssds](https://github.com/TomohikoMukai/ssds) An implementation of Skinning Decomposition with Similarity Transformations (I3D2018)
+#### ML
+* [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
+#### Bone
+* [uSpringBone](https://github.com/EsProgram/uSpringBone) High performance SpringBone using ECS and JobSystem in Unity.
+* [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone) UnityChan Sping Bone System for lightweight secondary animations
+* [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
+* [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
+#### IK
+* [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
@@ -945,9 +919,8 @@ Other.....
 * [unrealcv](https://github.com/unrealcv/unrealcv)
 
 ## ML
-* [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
-https://github.com/tensorflow/graphics TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
-https://github.com/getnamo/tensorflow-ue4 TensorFlow plugin for Unreal Engine 4
+* [graphics](https://github.com/tensorflow/graphics) TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
+* [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) TensorFlow plugin for Unreal Engine 4
 
 ## Visualization
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
