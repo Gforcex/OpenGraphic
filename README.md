@@ -115,6 +115,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DataDrivenRendering](https://github.com/JorenJoestar/DataDrivenRendering) Data Driven Rendering repository
 * [fg](https://github.com/acdemiralp/fg) Rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources.
 * [FrameGraph](https://github.com/azhirnov/FrameGraph) vulkan abstraction layer that represent frame as a task graph
+* [graphene](https://github.com/ApoorvaJ/graphene) Vulkan render graph shenanigans
 
 ## GI
 ### Collection
@@ -216,6 +217,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Diffuse inter-reflection
 #### Caustic
 * [SC_Tracer](https://github.com/ningfengh/SC_Tracer) photon mapping for global illumination and caustic
+* [Crystal-Caustics](https://github.com/CJT-Jackton/Crystal-Caustics) Approximated crystal caustics effect in Unity.
 #### Reflection
 * [ComputeStochasticReflections](https://github.com/simeonradivoev/ComputeStochasticReflections) Compute Stochastic Screen Space Reflections for unity post processing  
 * [kode80SSR](https://github.com/kode80/kode80SSR) An open source screen space reflections implementation for Unity3D 5.  
@@ -228,6 +230,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Jin-Engine-2.1](https://github.com/byumjin/Jin-Engine-2.1) The implementation of Pixel-projected Screen Space Reflections 
 * [BakedReflectionsUnity](https://github.com/julhe/BakedReflectionsUnity) :thumbsup: Reflection Probe Atlas impl. for Unity
 #### Refraction
+* [SS-refraction-through-depth-peeling-in-threejs](https://github.com/Domenicobrz/SS-refraction-through-depth-peeling-in-threejs) Screen space refraction through depth peeling in threejs
 #### Shadow
 * [realtimeshadows](https://www.realtimeshadows.com/?q=node/12) <Realtime Shadows> codes
 * [Shadows](https://github.com/TheRealMJP/Shadows) :thumbsup: A sample app that demonstrates several techniques for rendering real-time shadow maps
@@ -498,6 +501,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [WaterColorFilter](https://github.com/nobnak/WaterColorFilter) WaterColorFilter for Unity
 * [ToonLandscape3](https://github.com/chrisloop/ToonLandscape3) ToonLandscape3
+* [Shade](https://github.com/chrisloop/Shade)
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
@@ -556,7 +560,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [IMP](https://github.com/xraxra/IMP) billboard imposter baking for Unity
 * [ImpostorBaker](https://github.com/ictusbrucks/ImpostorBaker) UE4 Plugin for generating Impostors for static meshes  
 #### LOD
+* [Planet-LOD](https://github.com/sp4cerat/Planet-LOD) Planet Rendering: Adaptive Spherical Level of Detail based on Triangle Subdivision
 #### HLOD
+* [HLODSystem](https://github.com/Unity-Technologies/HLODSystem) HLOD system
 
 ## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
@@ -907,6 +913,8 @@ Other.....
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 #### IK
 * [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
+#### Skin
+* [DQ-skinning-for-Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity) DQ-skinning
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
