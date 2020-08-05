@@ -1,11 +1,17 @@
 ## Physics
 #### Library
-* [bullet](https://github.com/bulletphysics/bullet3)
+* [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
+* [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
+* [simbody](https://github.com/simbody/simbody) High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleto
+
+#### Collision Detection
+* [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
 * [fcl](https://github.com/flexible-collision-library/fcl) Flexible Collision Library 
 * [OPCODE](https://github.com/nitrocaster/OPCODE) Optimized Collision Detection
 * [gjk.c](https://github.com/kroitor/gjk.c) Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
+
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 * [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
