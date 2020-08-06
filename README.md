@@ -529,6 +529,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)  A standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [Pcx](https://github.com/keijiro/Pcx) Point cloud importer & renderer for Unity
+* [potree](https://github.com/potree/potree) WebGL point cloud viewer for large datasets
 #### Shear-warp
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools. [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
