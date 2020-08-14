@@ -852,6 +852,7 @@ Other.....
 * [LPGPU2-CodeXL](https://github.com/codeplaysoftware/LPGPU2-CodeXL) LPGPU2 CodeXL power performance analysis and feedback tool for GPUs
 * [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 * [gapid](https://github.com/google/gapid) Graphics API Debugger by google
+* [microprofile](https://github.com/zeux/microprofile) embeddable CPU/GPU profiler
 * [vogl](https://github.com/ValveSoftware/vogl) OpenGL capture / playback debugger by valve
 * [apitrace](https://github.com/apitrace/apitrace) Tools for tracing OpenGL, Direct3D, and other graphics APIs
 * [GPUVis](https://github.com/mikesart/gpuvis) GPU Trace Visualizer
