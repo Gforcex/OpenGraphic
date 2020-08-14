@@ -4,3 +4,4 @@
 * [bricker](https://github.com/bblanimation/bricker) Bricker is a powerful modeling, animation, and simulation addon for Blender designed to streamline and, in many cases, automate the artist's workflow for LEGO bricks. Created by Christopher Gearhart.
 * [mixer](https://github.com/ubisoft/mixer) Add-on for real-time collaboration in Blender.
 * [Stop-motion-OBJ](https://github.com/neverhood311/Stop-motion-OBJ) A Blender add-on for importing a sequence of OBJ meshes as frames
+* [Blender_UE4_VectorFieldEditor](https://github.com/isathar/Blender_UE4_VectorFieldEditor) Blender addon that adds support for working with 3D vector fields using the FGA file format.
