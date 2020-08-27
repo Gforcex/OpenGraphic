@@ -488,6 +488,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 * [MaterialX](https://github.com/materialx/MaterialX) MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 * [MDL](https://github.com/NVIDIA/MDL-SDK) NVIDIA Material Definition Language SDK
+* [OpenMeshEffect](https://github.com/eliemichel/OpenMeshEffect) OpenFX Mesh Effect API - A plug-in API for cross-software procedural mesh effects
 
 ## Stylize
 #### NPR
