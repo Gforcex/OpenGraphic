@@ -64,9 +64,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [Ogre](https://github.com/ogrecave) ogre github mirror
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph)  http://www.openscenegraph.org 
 * [WickedEngine](https://github.com/turanszkij/WickedEngine) C++ game engine focusing on modern rendering techniques and performance. https://wickedengine.net
-* [xenko](https://github.com/xenko3d/xenko)  An open-source C# game engine for realistic rendering and VR
+* [stride](https://github.com/stride3d/stride)  Stride Game Engine (formerly Xenko)
 * [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
-* [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more  
+* [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more 
+* [SpartanEngine](https://github.com/PanosK92/SpartanEngine) Game engine with an emphasis on architectual quality and performance
 * [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
@@ -130,6 +131,8 @@ Graphic Engine &amp; Game Engine open source list！
 #### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 #### VPL
+#### VSGL
+* [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
 #### RSM
 #### Imperfect Shadow Maps
 * [qt5-shadow-maps](https://github.com/tatsy/qt5-shadow-maps) Shadow mapping implementation with Qt5 and OpenGL
@@ -358,6 +361,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 * [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
+* [threejs-caustics](https://github.com/martinRenou/threejs-caustics) Caustics computation using ThreeJS
 * [water-demo](https://github.com/shanecelis/water-demo) A port of Evan Wallace's "Water Demo" for WebGL to Unity.
 * [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
 * [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
@@ -543,6 +547,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### ..
 * [pipeline](https://github.com/nvpro-pipeline/pipeline) nvpro-pipeline is a research rendering pipeline
 * [IndirectOcclusionCulling](https://github.com/JJoosten/IndirectOcclusionCulling) Indirect Occlusion Culling
+* [melt](https://github.com/karimnaaji/melt) Automatic conservative mesh occluder generation by box filling
 #### Soft Occlusion Culling
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU.
@@ -596,6 +601,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
+* [vk_order_independent_transparency](https://github.com/nvpro-samples/vk_order_independent_transparency) Demonstrates seven different techniques for order-independent transparency in Vulkan.
 Other.....
 * [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  Vulkan-based renderer on real-time transparency
 
