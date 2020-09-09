@@ -298,7 +298,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Lux](https://github.com/larsbertram69) Lux – open source physically based shader framework for unity
 * [Alloy](https://github.com/Josh015/Alloy) Alloy physical shader framework for Unity. https://alloy.rustltd.com/
 * [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
-* [AnisotropicStandardShader](https://github.com/Kink3d/AnisotropicStandardShader) 
+* [anisotropic_layered_material](https://github.com/tomoya5296/anisotropic_layered_material) Code for "Real-time Rendering of Layered Materials with Anisotropic Normal Distributions", SIGGRAPH ASIA 2019.
 ##### SVBRDF
 * [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
 #### BSSRDF
@@ -389,6 +389,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX) Realistic Grass Rendering using DirectX 11 and a geometry-shader based approach.
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering) Vulkan implementation of "Responsive Real-Time Grass Rendering for General 3D Scenes" by Jahrmann and Wimmer
 * [GPUGrass](https://github.com/MidoriMeng/GPUGrass) real-time grass rendering based on GPU instancing
+* [MassiveGrass](https://github.com/mewlist/MassiveGrass) Unity Terrain spawns a large number of grasses along the edge of the tree (shader independent)
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
 #### Terrain
@@ -509,7 +510,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [WaterColorFilter](https://github.com/nobnak/WaterColorFilter) WaterColorFilter for Unity
 * [ToonLandscape3](https://github.com/chrisloop/ToonLandscape3) ToonLandscape3
-* [Shade](https://github.com/chrisloop/Shade)
+* [Toon-Shader](https://github.com/SnutiHQ/Toon-Shader) A character focused Toon Shader for Unity using Shader Graph.
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
