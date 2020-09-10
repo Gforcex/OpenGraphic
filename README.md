@@ -386,6 +386,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Grass
 * [KvantGrass](https://github.com/keijiro/KvantGrass) Animating grass shader for Unity
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) https://roystan.net/articles/grass-shader.html
+* [GLGrassRenderer](https://github.com/LesleyLai/GLGrassRenderer)  implementation of Responsive Real-Time Grass Rendering for General 3D Scenes
 * [Grass.DirectX](https://github.com/mreinfurt/Grass.DirectX) Realistic Grass Rendering using DirectX 11 and a geometry-shader based approach.
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering) Vulkan implementation of "Responsive Real-Time Grass Rendering for General 3D Scenes" by Jahrmann and Wimmer
 * [GPUGrass](https://github.com/MidoriMeng/GPUGrass) real-time grass rendering based on GPU instancing
@@ -448,9 +449,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering) Eric Bruneton for Unity, 2017 [LWRP ver(greje656)](https://github.com/greje656/Brunetons-Improved-Atmospheric-Scattering)
 * [clear-sky-models](https://github.com/ebruneton/clear-sky-models) This project implements 8 clear sky models in a common framework to compare them with each other and with a reference model and reference measurements.  
 * [OutdoorLightScattering](https://github.com/GameTechDev/OutdoorLightScattering) Outdoor Light Scattering Sample
-* [Atmospheric-Scattering-URP](https://github.com/PZZZB/Atmospheric-Scattering-URP) 
 * [Scatterer](https://github.com/LGhassen/Scatterer) Atmospheric scattering mod for KSP 
-* [tectonics.js](https://github.com/davidson16807/tectonics.js/tree/master/precompiled/academics) 3d plate tectonics in your web browser
+* [tectonics.js](https://github.com/davidson16807/tectonics.js/tree/master/precompiled) 3d plate tectonics in your web browser
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) Renders sky colors with Rayleigh and Mie scattering.
 #### Fog
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
@@ -832,6 +832,7 @@ Other.....
 * [ShaderDebugger](https://github.com/dfranx/ShaderDebugger) C++ library for debugging HLSL & GLSL shaders
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
+* [SHADERed](https://github.com/dfranx/SHADERed) :star: Lightweight, cross-platform & full-featured shader IDE
 * [shader-toy](https://github.com/stevensona/shader-toy) Shadertoy-like live preview for GLSL shaders in Visual Studio Code 
 * [ShaderMan](https://github.com/smkplus/ShaderMan) Convert ShaderToy to Unity HLSL/CG https://smkplus.github.io/ShaderMan.io
 #### Visual Effects
