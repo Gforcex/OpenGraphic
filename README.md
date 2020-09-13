@@ -396,6 +396,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Terrain
 * [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms) Terrain topology algorithms in Unity
 * [tin-terrain](https://github.com/heremaps/tin-terrain) A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
+* [TerrainPrettifier](https://github.com/Fewes/TerrainPrettifier) A small GPU-based component designed to aid in cleaning and refining satellite/DEM based terrains directly inside Unity.
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -540,6 +541,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [PCL](http://www.pointclouds.org/)  A standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [Pcx](https://github.com/keijiro/Pcx) Point cloud importer & renderer for Unity
 * [potree](https://github.com/potree/potree) WebGL point cloud viewer for large datasets
+* [point2mesh](https://github.com/ranahanocka/point2mesh) Reconstruct Watertight Meshes from Point Clouds [SIGGRAPH 2020]
 #### Shear-warp
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools. [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
@@ -720,7 +722,8 @@ Other.....
 #### Modeling
 * [Dust3D](https://github.com/huxingyi/dust3d) :thumbsup: a cross-platform 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one. https://dust3d.org/  
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
-* [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998   
+* [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
+* [pmp-library](https://github.com/pmp-library/pmp-library) The Polygon Mesh Processing Library
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes   
 * [libigl](https://github.com/libigl/libigl) Simple C++ geometry processing library. 
