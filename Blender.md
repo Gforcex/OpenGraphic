@@ -5,3 +5,4 @@
 * [mixer](https://github.com/ubisoft/mixer) Add-on for real-time collaboration in Blender.
 * [Stop-motion-OBJ](https://github.com/neverhood311/Stop-motion-OBJ) A Blender add-on for importing a sequence of OBJ meshes as frames
 * [Blender_UE4_VectorFieldEditor](https://github.com/isathar/Blender_UE4_VectorFieldEditor) Blender addon that adds support for working with 3D vector fields using the FGA file format.
+* [animation_nodes](https://github.com/JacquesLucke/animation_nodes) Node based visual scripting system designed for motion graphics in Blender.
