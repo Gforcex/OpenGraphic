@@ -352,6 +352,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
+* [UE4_Dynamic_Water_Project](https://github.com/marvelmaster/UE4_Dynamic_Water_Project) Unreal Engine 4 Dynamic Water Project by marvelmaster
+* [WaveWorks](https://github.com/NvPhysX/UnrealEngine/tree/WaveWorks) WaveWorks is a library for simulating wind-driven waves on large bodies of water, in real time, using GPU acceleration.
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) :thumbsup: Crest is a technically advanced ocean renderer implemented in Unity3D
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
 * [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
