@@ -414,6 +414,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds) Unity Iq's Clouds.
 * [droplet-render](https://github.com/jaelpark/droplet-render) Volumetric cloud modeling and rendering for Blender.
 * [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity
+* [UnlitClouds](https://github.com/AlexStrook/UnlitClouds) A unity cloud shader, using vertex colors and tessellation for a simple stylized look.
 #### Sky
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
 * [CSky-Dynamic-Sky-Unity](https://github.com/bmjoy/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System for Unity 3d.
@@ -492,6 +493,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [glTF-SDK](https://github.com/Microsoft/glTF-SDK) glTF-SDK is a Software Development Kit for glTF 
 * [cgltf](https://github.com/jkuhlmann/cgltf) Single-file glTF 2.0 loader and writer written in C99
 * [fx-gltf](https://github.com/jessey-git/fx-gltf) A C++14/C++17 header-only library for simple, efficient, and robust serialization/deserialization of glTF 2.0
+* [gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) Content pipeline tools for optimizing glTF assets
 * [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 * [MaterialX](https://github.com/materialx/MaterialX) MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 * [MDL](https://github.com/NVIDIA/MDL-SDK) NVIDIA Material Definition Language SDK
@@ -604,6 +606,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
+* [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 
 ## Transparency
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
@@ -621,6 +624,7 @@ Other.....
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
 * [MathGeoLib](https://github.com/juj/MathGeoLib) :thumbsup: A C++ library for linear algebra and geometry manipulation for computer graphics
+* [GeometricTools](https://github.com/davideberly/GeometricTools) :thumbsup: A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
 * [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM) https://glm.g-truc.net
 * [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
