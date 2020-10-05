@@ -587,6 +587,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [HLODSystem](https://github.com/Unity-Technologies/HLODSystem) HLOD system
 #### Meshlets
 * [meshlete](https://github.com/JarkkoPFC/meshlete) Chop 3D objects to meshlets
+* [gl_vk_meshlet_cadscene](https://github.com/nvpro-samples/gl_vk_meshlet_cadscene) This OpenGL/Vulkan sample illustrates the use of "mesh shaders" for rendering CAD models.
 
 ## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
