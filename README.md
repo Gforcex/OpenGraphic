@@ -97,6 +97,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
+* [fermat](https://github.com/NVlabs/fermat) a high performance research oriented physically based rendering system, trying to produce beautiful pictures following the mathematician’s principle of least time
 
 ## Soft Renderer
 * [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
@@ -561,6 +562,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [pipeline](https://github.com/nvpro-pipeline/pipeline) nvpro-pipeline is a research rendering pipeline
 * [IndirectOcclusionCulling](https://github.com/JJoosten/IndirectOcclusionCulling) Indirect Occlusion Culling
 * [melt](https://github.com/karimnaaji/melt) Automatic conservative mesh occluder generation by box filling
+#### Bounding
+* [bounding-mesh](https://github.com/gaschler/bounding-mesh) Implementation of the bounding mesh and bounding convex decomposition algorithms for single-sided mesh approximation
 #### Soft Occlusion Culling
 * [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU.
@@ -582,6 +585,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [Planet-LOD](https://github.com/sp4cerat/Planet-LOD) Planet Rendering: Adaptive Spherical Level of Detail based on Triangle Subdivision
 #### HLOD
 * [HLODSystem](https://github.com/Unity-Technologies/HLODSystem) HLOD system
+#### Meshlets
+* [meshlete](https://github.com/JarkkoPFC/meshlete) Chop 3D objects to meshlets
 
 ## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
@@ -766,9 +771,8 @@ Other.....
 * [stb](https://github.com/nothings/stb)
 * [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [debug-draw](https://github.com/glampert/debug-draw)
-#### Alembic
-* [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
-* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
+#### GPGPU
+* [arrayfire](https://github.com/arrayfire/arrayfire) ArrayFire: a general purpose GPU library.
 
 ## VFX
 * [shader-graph-nodes](https://github.com/gilescoope/shader-graph-nodes) Custom Nodes for Unity Shader Graph  
@@ -834,6 +838,8 @@ Other.....
 #### DataExchange
 * [Unity-AlembicToVAT](https://github.com/Gaxil/Unity-AlembicToVAT) Alembic to VAT (Vertex Animation Texture) mini tool
 * [VFXGraphSandbox](https://github.com/fuqunaga/VFXGraphSandbox) Unity VFX Graph technical experiment.
+* [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
+* [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
 #### Shader
 * [Pyramid](https://github.com/jbarczak/Pyramid) :thumbsup: Pyramid Shader Analyzer
 * [shader-playground](https://github.com/tgjones/shader-playground) :thumbsup: Shader compilers http://shader-playground.timjones.io
@@ -841,6 +847,7 @@ Other.....
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
+* [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) A .NET Standard 2.1 library to run C# code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders
 * [ShaderDebugger](https://github.com/dfranx/ShaderDebugger) C++ library for debugging HLSL & GLSL shaders
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
