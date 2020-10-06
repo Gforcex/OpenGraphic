@@ -10,3 +10,4 @@
 * [UE4ShaderPluginDemo](https://github.com/Temaran/UE4ShaderPluginDemo) A tutorial project that shows how to implement HLSL Pixel and Compute shaders in UE4
 * [glTFForUE4](https://github.com/code4game/glTFForUE4) glTF for UE4 https://c4gio.itch.io/gltf-for-ue4
 * [ProceduralMeshes](https://github.com/SiggiG/ProceduralMeshes) Plugin with example procedural mesh actors and components
+* [UnrealMeshProcessingTools](https://github.com/gradientspace/UnrealMeshProcessingTools) Sample Projects/Plugins for Mesh Processing in Unreal Engine
