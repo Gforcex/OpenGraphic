@@ -941,9 +941,8 @@ Other.....
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
 * [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
-* [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker)
+* [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker) Animation Texture Baker for Unity
 * [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
-* [Render-Crowd-Of-Animated-Characters](https://github.com/chenjd/Render-Crowd-Of-Animated-Characters)   anim map for vertex shader to modify the vertex position of the mesh at runtime. use gpu instancing to reduce draw call.
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
 * [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
 * [ssds](https://github.com/TomohikoMukai/ssds) An implementation of Skinning Decomposition with Similarity Transformations (I3D2018)
