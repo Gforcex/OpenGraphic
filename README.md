@@ -957,6 +957,7 @@ Other.....
 * [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
 #### Skin
 * [DQ-skinning-for-Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity) DQ-skinning
+* [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
