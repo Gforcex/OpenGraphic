@@ -35,6 +35,7 @@
 * [UnityBezierSolution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions (like travelling the spline with constant speed/time)
 * [SplineMesh](https://github.com/benoit-dumas/SplineMesh) A Unity plugin to create curved content in real-time with bézier curves https://twitter.com/dumas181
 * [Path-Creator](https://github.com/SebLague/Path-Creator)  Path creation asset for Unity game development 
+* [GPU-Spline-Deformation](https://github.com/RoyTheunissen/GPU-Spline-Deformation) Baking spline deformation to a texture then applying it to a mesh via a shader.
 #### Others
 * [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
 
