@@ -11,3 +11,4 @@
 * [glTFForUE4](https://github.com/code4game/glTFForUE4) glTF for UE4 https://c4gio.itch.io/gltf-for-ue4
 * [ProceduralMeshes](https://github.com/SiggiG/ProceduralMeshes) Plugin with example procedural mesh actors and components
 * [UnrealMeshProcessingTools](https://github.com/gradientspace/UnrealMeshProcessingTools) Sample Projects/Plugins for Mesh Processing in Unreal Engine
+* [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) Unreal Engine 4 .NET 5 integration
