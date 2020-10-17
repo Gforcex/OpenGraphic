@@ -779,6 +779,7 @@ Other.....
 * [debug-draw](https://github.com/glampert/debug-draw)
 #### GPGPU
 * [arrayfire](https://github.com/arrayfire/arrayfire) ArrayFire: a general purpose GPU library.
+* [hipSYCL](https://github.com/illuhad/hipSYCL) Implementation of SYCL for CPUs, AMD GPUs, NVIDIA GPUs
 
 ## VFX
 * [shader-graph-nodes](https://github.com/gilescoope/shader-graph-nodes) Custom Nodes for Unity Shader Graph  
