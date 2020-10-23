@@ -7,3 +7,4 @@
 * [Blender_UE4_VectorFieldEditor](https://github.com/isathar/Blender_UE4_VectorFieldEditor) Blender addon that adds support for working with 3D vector fields using the FGA file format.
 * [animation_nodes](https://github.com/JacquesLucke/animation_nodes) Node based visual scripting system designed for motion graphics in Blender.
 * [Abnormal](https://github.com/BlenderNPR/Abnormal) Blender Abnormal add-on for vertex normal editing
+* [Pivot-Painter-for-Blender](https://github.com/Gvgeo/Pivot-Painter-for-Blender) Pivot Painter is a Blender addon to create a 3d model, that will use the Pivot Painter Tool's shaders in Unreal Engine 4
