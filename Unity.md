@@ -51,6 +51,8 @@
 ## InspectorGUI
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [MyBox](https://github.com/Deadcows/MyBox) MyBox is a set of attributes, tools and extensions for Unity
+* [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
 * [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)  You can expose a lot of different shader settings through attributes! 
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
