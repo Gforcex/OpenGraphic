@@ -22,6 +22,10 @@
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
+#### Profiler
+* [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
+* [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
+* [ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler) Unity 特效性能分析工具
 #### VisualEdit
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 * [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
