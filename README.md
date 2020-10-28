@@ -71,6 +71,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
 * [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
+* [island](https://github.com/tgfrerer/island) Project Island is an experimental, hot-reloading Vulkan renderer/proto-engine for Linux, written in C/C++.
 * [bsf](https://github.com/GameFoundry/bsf) Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level 3D graphics library http://diligentgraphics.com/diligent-engine/ 
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
@@ -167,6 +168,9 @@ Graphic Engine &amp; Game Engine open source list！
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
+* [PSRayTracing](https://github.com/define-private-public/PSRayTracing) A (modern) C++ implementation of the first two books of the Peter Shirley Ray Tracing mini-books
+* [rayn](https://github.com/termhn/rayn) A small path tracing renderer written in Rust.
+
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
 * [Volumetric-Path-Tracer](https://github.com/sergeneren/Volumetric-Path-Tracer) Volumetric path tracer using cuda
@@ -403,6 +407,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms) Terrain topology algorithms in Unity
 * [tin-terrain](https://github.com/heremaps/tin-terrain) A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
 * [TerrainPrettifier](https://github.com/Fewes/TerrainPrettifier) A small GPU-based component designed to aid in cleaning and refining satellite/DEM based terrains directly inside Unity.
+* [PVTUT](https://github.com/ACskyline/PVTUT) Procedural Virtual Texture with Unity Terrain
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -604,6 +609,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [bvh](https://github.com/shinjiogaki/bvh)
 * [ooc_svo_builder](https://github.com/Forceflow/ooc_svo_builder) Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation
 * [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+* [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
 
 ## SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
@@ -834,6 +840,8 @@ Other.....
 * [unity_echofx](https://github.com/joscanper/unity_echofx) The Division ECHO fx implemented in Unity3D
 #### Cubism
 * [Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
+#### Wireframe
+* [unity-solidwire-shader](https://github.com/Milun/unity-solidwire-shader) A simple shader which renders stylized wireframes while staying true (within reason) to the visual style of the Vectrex
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
