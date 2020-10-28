@@ -5,6 +5,7 @@
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C# reflection,work in unity
+* [ShaderDebugger](https://github.com/arigo/ShaderDebugger) Simple Unity framework to debug shader code
 #### TexturePainter
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
