@@ -767,8 +767,8 @@ Other.....
 * [fieldgen](https://github.com/GeometryCollective/fieldgen) Generates high-quality, optimally smooth tangent direction fields on triangle meshes.
 
 ## Platform
-* [herebedragons](https://github.com/kosua20/herebedragons)
-* [glfw](https://github.com/glfw/glfw)
+* [herebedragons](https://github.com/kosua20/herebedragons) A basic 3D scene implemented with various engines, frameworks or APIs.
+* [glfw](https://github.com/glfw/glfw) A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 * [MoltenVK](https://github.com/KhronosGroup/MoltenVK) Vulkan graphics and compute API, that runs on Apple's Metal graphics framework
 * [dxvk](https://github.com/doitsujin/dxvk) Vulkan-based D3D11 implementation for Linux / Wine  
 
@@ -842,6 +842,8 @@ Other.....
 * [Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
 #### Wireframe
 * [unity-solidwire-shader](https://github.com/Milun/unity-solidwire-shader) A simple shader which renders stylized wireframes while staying true (within reason) to the visual style of the Vectrex
+#### VFXGraph
+* [HDRP-Fluvio](https://github.com/miketucker/HDRP-Fluvio) Some early tests of FluvioFX with VFX Graph and HDRP
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 
@@ -861,6 +863,7 @@ Other.....
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) :star: GLSL optimizer based on Mesa's GLSL compiler.
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
+* [ShaderConductor](https://github.com/microsoft/ShaderConductor) ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
 * [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) A .NET Standard 2.1 library to run C# code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders
 * [ShaderDebugger](https://github.com/dfranx/ShaderDebugger) C++ library for debugging HLSL & GLSL shaders
