@@ -65,6 +65,7 @@
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
+* [dear-imgui-unity-dev](https://github.com/realgamessoftware/dear-imgui-unity-dev) Dear ImGui integration into Unity 
 #### Editor Util
 * [UndoPro](https://github.com/Seneral/UndoPro) UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
 
