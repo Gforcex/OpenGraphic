@@ -904,6 +904,7 @@ Other.....
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [LPGPU2-CodeXL](https://github.com/codeplaysoftware/LPGPU2-CodeXL) LPGPU2 CodeXL power performance analysis and feedback tool for GPUs
 * [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
+* [agi](https://github.com/google/agi) Android GPU Inspector
 * [gapid](https://github.com/google/gapid) Graphics API Debugger by google
 * [microprofile](https://github.com/zeux/microprofile) embeddable CPU/GPU profiler
 * [vogl](https://github.com/ValveSoftware/vogl) OpenGL capture / playback debugger by valve
