@@ -842,6 +842,8 @@ Other.....
 * [Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
 #### Wireframe
 * [unity-solidwire-shader](https://github.com/Milun/unity-solidwire-shader) A simple shader which renders stylized wireframes while staying true (within reason) to the visual style of the Vectrex
+#### Growth
+* [hedera](https://github.com/radiatoryang/hedera) paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
 #### VFXGraph
 * [HDRP-Fluvio](https://github.com/miketucker/HDRP-Fluvio) Some early tests of FluvioFX with VFX Graph and HDRP
 #### Compute Shader Effect
