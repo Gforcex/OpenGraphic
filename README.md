@@ -155,6 +155,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
+* [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 #### DFGI
 #### Lighting Grid 
 * [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
@@ -304,13 +305,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [Alloy](https://github.com/Josh015/Alloy) Alloy physical shader framework for Unity. https://alloy.rustltd.com/
 * [AntonovSuit](https://github.com/cCharkes/AntonovSuit)
 * [anisotropic_layered_material](https://github.com/tomoya5296/anisotropic_layered_material) Code for "Real-time Rendering of Layered Materials with Anisotropic Normal Distributions", SIGGRAPH ASIA 2019.
+* [WaveOpticsBrdf](https://github.com/lingqi/WaveOpticsBrdf) This code implements the key ideas of the paper: Rendering Specular Microgeometry with Wave Optics, by Ling-Qi Yan, Miloš Hašan, Bruce Walter, Steve Marschner, Ravi Ramamoorthi.
 ##### SVBRDF
 * [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
 #### BSSRDF
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
-* [pbrt-importance-sampling](https://github.com/dnx4015/pbrt-importance-sampling)
-* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) 
+* [hitchhikersscatter](https://github.com/eugenedeon/hitchhikersscatter) A Hitchhiker’s Guide to Multiple Scattering
 #### IBL
 * [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
