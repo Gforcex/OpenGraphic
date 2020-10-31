@@ -38,8 +38,9 @@ Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 #### Softbodie
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 
-#### Verlet
+#### Verlet MassSpring
 * [verlet-js](https://github.com/subprotocol/verlet-js) A simple Verlet physics engine written in javascript
+* [FastMassSpring](https://github.com/sam007961/FastMassSpring) Interactive cloth simulator using the method described in the SIGGRAPH paper "Fast Simulation of Mass-Spring Systems"
 
 #### Vehicle
 * [tork](https://github.com/adrenak/tork) Arcade vehicle physics for Unity
