@@ -23,6 +23,7 @@
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
+* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Il2CppInspector helps you to reverse engineer IL2CPP applications, providing the most complete analysis currently available.
 #### Profiler
 * [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
 * [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
