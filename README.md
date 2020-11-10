@@ -641,6 +641,10 @@ Graphic Engine &amp; Game Engine open source list！
 Other.....
 * [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  Vulkan-based renderer on real-time transparency
 
+## Differentiable
+* [redner](https://github.com/BachiLi/redner) Differentiable rendering without approximation.
+* [nvdiffrast](https://github.com/NVlabs/nvdiffrast) Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering.
+
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
 * [MathGeoLib](https://github.com/juj/MathGeoLib) :thumbsup: A C++ library for linear algebra and geometry manipulation for computer graphics
