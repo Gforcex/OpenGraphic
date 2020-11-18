@@ -544,6 +544,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityVOXFileImport](https://github.com/ray-cast/UnityVOXFileImport) A tool to import a .vox file for Unity's GameObject and Prefab
 * [Terasology](https://github.com/MovingBlocks/Terasology) open source voxel world http://terasology.org
 * [VoxelSpace](https://github.com/s-macke/VoxelSpace) errain rendering algorithm in less than 20 lines of code 
+* [unity-voxel](https://github.com/mattatz/unity-voxel) Mesh voxelization for Unity.
 
 ## Volume Rendering
 #### RayMarch
@@ -617,14 +618,15 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
+* [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
+* [Signed-Distance-Field-Generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.
 * [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
 * [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
 * [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
 * [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
 * [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 * [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
-* [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
@@ -797,6 +799,9 @@ Other.....
 * [hipSYCL](https://github.com/illuhad/hipSYCL) Implementation of SYCL for CPUs, AMD GPUs, NVIDIA GPUs
 
 ## VFX
+* [UnityExperiments](https://github.com/MaxSigma/UnityExperiments) Collection of experimental Unity Projects
+* [ShadersForFun](https://github.com/cinight/ShadersForFun) ShadersForFun
+* [smo-shaders](https://github.com/daniel-ilett/smo-shaders) A collection of shaders to replicate those used in Super Mario Odyssey's Snapshot Mode.
 * [shader-graph-nodes](https://github.com/gilescoope/shader-graph-nodes) Custom Nodes for Unity Shader Graph  
 #### Minecraft
 * [Wisdom-Shaders](https://github.com/bobcao3/Wisdom-Shaders) A Minecraft shaderspack. Offers high performance with high quality at the same time. https://qionouu.cn/  
@@ -827,8 +832,10 @@ Other.....
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
+* [ProceduralMotion](https://github.com/keijiro/ProceduralMotion) A collection of procedural motion scripts for Unity
 #### Portal
 * [unity-portal-rendering](https://github.com/pr0g/unity-portal-rendering) Super small example of using offscreen render targets to achieve a portal effect in Unity
+* [shaders-portal](https://github.com/daniel-ilett/shaders-portal) A showcase of shader effects to replicate portals in videogames.
 #### Fractal 
 * [ElectricSheep_WebGL](https://github.com/richardassar/ElectricSheep_WebGL) WebGL Electric Sheep Renderer
 #### InteriorMapping
@@ -841,6 +848,7 @@ Other.....
 * [CyberPunkEffect](https://github.com/smkplus/CyberPunkEffect) Cyberpunk 2077 Scanning Effect
 #### SmearFrame
 * [SmearFrame](https://github.com/LuggLD/SmearFrame) Unreal Engine 4 smear frame material effect
+* [SmokeBlur](https://github.com/nobnak/SmokeBlur)
 #### Matcap 
 * [matcaps](https://github.com/nidorx/matcaps) Huge library of matcap PNG textures organized by color
 * [spherical-environment-mapping](https://github.com/spite/spherical-environment-mapping) Spherical Environment Mapping GLSL Shader
