@@ -12,6 +12,7 @@
 * [gjk.c](https://github.com/kroitor/gjk.c) Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
 * [dyn4j](https://github.com/wnbittle/dyn4j) Java Collision Detection and Physics Engine
 * [CircleCollision](https://github.com/Erfan-Ahmadi/CircleCollision) Implementing Different Methods of Circle to Circle Collision Detection using variety of new Technologies: Vulkan Graphics/Compute API, AVX2/AVX-512
+* [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) SAT Collision in C# for Unity3D Burst Compiler
 
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
