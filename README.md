@@ -220,6 +220,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
 * [HDR_Lightmapper](https://github.com/Naxela/HDR_Lightmapper)  Implements a cycles based lightmapper with denoiser
 * [The_Lightmapper](https://github.com/Naxela/The_Lightmapper) Fast and easy baked GI Lightmaps for Blender and Cycles
+* [LightmapperToy](https://github.com/candycat1992/LightmapperToy) This project is a hobby lightmapper completely based on Houdini geometry nodes. Basically it grew out of a re-implementation of Matt's The Baking Lab with some modification. 
 #### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
 
@@ -432,6 +433,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
 * [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
 * [sun-sky](https://github.com/andrewwillmott/sun-sky) Various sun/sky models, convolution of theta/gamma-parameterised models
+* [nvjob-sky-shader-simple-and-fast](https://github.com/nvjob/nvjob-sky-shader-simple-and-fast) #NVJOB Dynamic Sky. Sky Shaders. Free Unity Asset.
 #### Rain
 * [Unity-Raindrops](https://github.com/ya7gisa0/Unity-Raindrops) raindrops shader
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) Rain Drop Effect2: Effective, Fast and Flexible Rain Distortion Effect for Unity
