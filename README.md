@@ -132,6 +132,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
 #### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
+* [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
 #### VPL
 #### VSGL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
@@ -182,6 +183,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [WispRenderer](https://github.com/TeamWisp/WispRenderer) RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science https://teamwisp.github.io
 * [rtx-explore](https://github.com/rtx-on/rtx-explore) DirectX Raytracing Path Tracer
 * [PBRVulkan](https://github.com/Zielon/PBRVulkan) Vulkan Real-time Path Tracer Engine
+* [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 #### Metropolis Light Transport
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
@@ -278,6 +280,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [glsl-fxaa](https://github.com/mattdesl/glsl-fxaa) FXAA implementation for glslify in WebGL
 * [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
 * [DLAA](https://github.com/ForserX/DLAA) (DLAA) Directionally Localized antiAliasing
+* [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques
 #### Denoising 
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
@@ -380,6 +383,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
 * [UnityTerrainErosionGPU](https://github.com/bshishov/UnityTerrainErosionGPU) Hydraulic and thermal erosion with shallow water equations implemented in Unity using compute shaders.
+* [DynamicWaterDemo](https://github.com/CaptainProton42/DynamicWaterDemo) A real-time dynamic water simulation with object interaction made entirely within the Godot Engine.
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
@@ -547,6 +551,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Terasology](https://github.com/MovingBlocks/Terasology) open source voxel world http://terasology.org
 * [VoxelSpace](https://github.com/s-macke/VoxelSpace) errain rendering algorithm in less than 20 lines of code 
 * [unity-voxel](https://github.com/mattatz/unity-voxel) Mesh voxelization for Unity.
+* [tsdf-fusion](https://github.com/andyzeng/tsdf-fusion) Fuse multiple depth frames into a TSDF voxel volume.
 
 ## Volume Rendering
 #### RayMarch
@@ -632,6 +637,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
+* [rust_test](https://github.com/sebbbi/rust_test) :thumbsup: 
 
 ## Transparency
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
