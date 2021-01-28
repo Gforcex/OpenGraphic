@@ -374,7 +374,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 * [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
-* [GX-EncinoWaves](https://github.com/speps/GX-EncinoWaves) "Empirical Directional Wave Spectra for Computer Graphics"
+* [EncinoWaves](https://github.com/blackencino/EncinoWaves) Implementation of "Empirical Directional Wave Spectra for Computer Graphics" paper by Christopher Horvath
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 * [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
@@ -640,6 +640,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 * [rust_test](https://github.com/sebbbi/rust_test) :thumbsup: 
+* [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL
+* [Signed](https://github.com/markusmoenig/Signed) Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). 
 
 ## Transparency
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
@@ -684,6 +686,8 @@ Other.....
 * [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders.
 * [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) SHTOOLS - Spherical Harmonic Tools https://shtools.github.io/SHTOOLS/
 #### FFT
+* [benchmarking-fft](https://github.com/project-gemmi/benchmarking-fft)  choosing FFT library
+* [VkFFT](https://github.com/DTolm/VkFFT) Vulkan Fast Fourier Transform library
 * [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
 * [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
 #### Sampling
