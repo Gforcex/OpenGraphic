@@ -433,9 +433,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity
 * [UnlitClouds](https://github.com/AlexStrook/UnlitClouds) A unity cloud shader, using vertex colors and tessellation for a simple stylized look.
 #### Sky
-* [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader)
-* [CSky-Dynamic-Sky-Unity](https://github.com/bmjoy/CSky-Dynamic-Sky-Unity)  Dynamic Sky Sphere System for Unity 3d.
-* [GenUtahSky](https://github.com/markstock/GenUtahSky) Radiance implementation of Preetham, Shirley, Smits model for sky color, plus more  
+* [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader) 
 * [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
 * [sun-sky](https://github.com/andrewwillmott/sun-sky) Various sun/sky models, convolution of theta/gamma-parameterised models
 * [nvjob-sky-shader-simple-and-fast](https://github.com/nvjob/nvjob-sky-shader-simple-and-fast) #NVJOB Dynamic Sky. Sky Shaders. Free Unity Asset.
@@ -536,6 +534,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [WaterColorFilter](https://github.com/nobnak/WaterColorFilter) WaterColorFilter for Unity
 * [ToonLandscape3](https://github.com/chrisloop/ToonLandscape3) ToonLandscape3
 * [Toon-Shader](https://github.com/SnutiHQ/Toon-Shader) A character focused Toon Shader for Unity using Shader Graph.
+* [URP_StylizedLitShader](https://github.com/madumpa/URP_StylizedLitShader) Madumpa's URP Stylized Lit Shader Repository
+* [BotW-ToonShader](https://github.com/ciro-unity/BotW-ToonShader) A recreation of Zelda: Breath of the Wild's toon shader in Unity, using Shader Graph
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
