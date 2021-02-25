@@ -473,6 +473,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [OutdoorLightScattering](https://github.com/GameTechDev/OutdoorLightScattering) Outdoor Light Scattering Sample
 * [Scatterer](https://github.com/LGhassen/Scatterer) Atmospheric scattering mod for KSP 
 * [tectonics.js](https://github.com/davidson16807/tectonics.js/tree/master/precompiled) 3d plate tectonics in your web browser
+* [MinimalAtmosphere](https://github.com/Fewes/MinimalAtmosphere) A minimal atmospheric scattering implementation for Unity
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) Renders sky colors with Rayleigh and Mie scattering.
 #### Fog
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
