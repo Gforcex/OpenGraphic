@@ -282,6 +282,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Phone-wire AA](http://www.humus.name/index.php?page=3D&ID=89)
 * [DLAA](https://github.com/ForserX/DLAA) (DLAA) Directionally Localized antiAliasing
 * [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques
+* [UE4 DLSS](https://github.com/NvRTX/UnrealEngine) DLSS Plugin for Unreal Engine
 #### Denoising 
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
@@ -981,8 +982,9 @@ Other.....
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics) Curated list of computer graphics tutorials and resources  
 * [awesome-vulkan](https://vinjn.github.io/awesome-vulkan/) A curated list of awesome Vulkan libraries
 * [awesome-opengl](https://github.com/eug/awesome-opengl) A curated list of awesome OpenGL libraries, debuggers and resources.
-#### Book
+#### Book&Tutorial
 * [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
+* [ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!
 
 ## Animation
 * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
