@@ -814,6 +814,8 @@ Other.....
 #### GPGPU
 * [arrayfire](https://github.com/arrayfire/arrayfire) ArrayFire: a general purpose GPU library.
 * [hipSYCL](https://github.com/illuhad/hipSYCL) Implementation of SYCL for CPUs, AMD GPUs, NVIDIA GPUs
+* [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
+* [moderngpu](https://github.com/moderngpu/moderngpu) Patterns and behaviors for GPU computing
 
 ## VFX
 * [UnityExperiments](https://github.com/MaxSigma/UnityExperiments) Collection of experimental Unity Projects
@@ -836,6 +838,9 @@ Other.....
 * [3DXRayShader_Unity](https://github.com/MdIqubal/3DXRayShader_Unity)  Surface shader. Clips a Model with given plane , applies fresnel on clipped part and highlights the cross section.
 #### PageCurl
 * [Unity3DBookPageCurl](https://github.com/Dandarawy/Unity3DBookPageCurl) Page curl effect for Unity3D using native UI tools
+#### Projector
+* [ProjectorForLWRP](https://github.com/nyahoon-games/ProjectorForLWRP)  Projector component
+* [DynamicShadowProjectorExtensionForLWRP](https://github.com/nyahoon-games/DynamicShadowProjectorExtensionForLWRP)
 #### Decal
 * [driven-decals](https://github.com/Anatta336/driven-decals) A mesh-based PBR decal system for Unity's universal render pipeline.
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray) Draw spray to 3D model with Unity.
