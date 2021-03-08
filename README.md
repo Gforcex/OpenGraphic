@@ -508,6 +508,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [LightLeaksUnity](https://github.com/danielzeller/LightLeaksUnity) Light Leaks Image Effects for Unity
 * [hdreffects](https://github.com/karimnaaji/hdreffects) High dynamic range rendering, with lens flare approximation and bloom 
 * [LensFlares](https://github.com/dotsquid/LensFlares) Simple GPU Occlusion for Lens Flares
+* [UnityOcclusionLensFlare](https://github.com/pschraut/UnityOcclusionLensFlare) A Lens Flare effect for Unity that doesn't require Physics.
 
 ## Standard Format
 * [OpenShadingLanguage](https://github.com/imageworks/OpenShadingLanguage) Advanced shading language for production GI renderers
