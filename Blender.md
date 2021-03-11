@@ -11,4 +11,7 @@
 * [Pivot-Painter-for-Blender](https://github.com/Gvgeo/Pivot-Painter-for-Blender) Pivot Painter is a Blender addon to create a 3d model, that will use the Pivot Painter Tool's shaders in Unreal Engine 4
 * [TexTools-Blender](https://github.com/SavMartin/TexTools-Blender) http://renderhjs.net/textools/blender/
 * [MACHIN3tools](https://github.com/machin3io/MACHIN3tools) MACHIN3tools is a free, continuously evolving collection of blender tools and pie menus in a single customizable package.
+* [Sorcar](https://github.com/aachman98/Sorcar) Procedural modeling in Blender using Node Editor
+* [Malt](https://github.com/bnpr/Malt) Render framework for NPR
 * [BEER](https://github.com/BlenderNPR/BEER) Blender Extended Expressive Renderer (A stylized renderer)
+
