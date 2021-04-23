@@ -572,6 +572,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Point Clouds
 * [PCL](http://www.pointclouds.org/)  A standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [Pcx](https://github.com/keijiro/Pcx) Point cloud importer & renderer for Unity
+* [compute_rasterizer](https://github.com/m-schuetz/compute_rasterizer) Rendering Point Clouds with Compute Shaders
 * [potree](https://github.com/potree/potree) WebGL point cloud viewer for large datasets
 * [point2mesh](https://github.com/ranahanocka/point2mesh) Reconstruct Watertight Meshes from Point Clouds [SIGGRAPH 2020]
 #### Shear-warp
@@ -723,6 +724,7 @@ Other.....
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) OpenImageIO http://www.openimageio.org
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick) create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) 
+* [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
 * [psd_sdk](https://github.com/MolecularMatters/psd_sdk) A C++ library that directly reads Photoshop PSD files. 
 #### VectorGraphics
@@ -992,6 +994,7 @@ Other.....
 #### Book&Tutorial
 * [thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders)
 * [ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!
+* [ekzhang/graphics-workshop](https://github.com/ekzhang/graphics-workshop) Learn computer graphics by writing GPU shaders!
 
 ## Animation
 * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
