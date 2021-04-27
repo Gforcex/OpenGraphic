@@ -153,6 +153,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing) An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin
 * [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
 * [Vulkan-VXGI-VR-FrameWork](https://github.com/byumjin/Vulkan-VXGI-VR-FrameWork) University of Pennsylvania, CIS 565: GPU Programming and Architecture, Final Project
+* [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
@@ -452,6 +453,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Iridescent
 * [Iridescence](https://github.com/Xerxes1138/Iridescence)
 * [Iridescent Shader](https://github.com/smkplus/Iridescence) Iridescence shader
+* [SoapFlow](https://github.com/amandaghassaei/SoapFlow) a fluid simulation of a 2D soap film
 #### Glass
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) Test of a frosted glass material in Unity.
 #### Gem
@@ -717,6 +719,7 @@ Other.....
 * [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
 * [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
 * [glsl-curl-noise](https://github.com/cabbibo/glsl-curl-noise) [CurlNoise](https://github.com/rajabala/CurlNoise)
+* [Noice](https://github.com/kecho/Noice) Noise generator utility.
 #### Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
 #### Image
@@ -1013,6 +1016,7 @@ Other.....
 * [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone) UnityChan Sping Bone System for lightweight secondary animations
 * [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
+* [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 #### IK
 * [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
 #### Skin
