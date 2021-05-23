@@ -29,6 +29,7 @@
 * [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
 * [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
+* [aphros](https://github.com/cselab/aphros) Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries.
 
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
