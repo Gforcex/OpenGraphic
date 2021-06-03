@@ -730,6 +730,7 @@ Other.....
 * [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
 * [psd_sdk](https://github.com/MolecularMatters/psd_sdk) A C++ library that directly reads Photoshop PSD files. 
+* [hdrview](https://github.com/wkjarosz/hdrview) High-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities.
 #### VectorGraphics
 * [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
 
