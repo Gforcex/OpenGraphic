@@ -368,6 +368,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Water
 * [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity  
 * [WaterSurfaceWavelets](https://github.com/lecopivo/WaterSurfaceWavelets) Water Surface Wavelets (SIGGRAPH 2018) http://visualcomputing.ist.ac.at/publications/2018/WSW/
+* [FSWW](https://github.com/schreckc/FSWW) Fundamental Sources for Water Wave Animation
 * [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
 * [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
