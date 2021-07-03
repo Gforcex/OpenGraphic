@@ -919,6 +919,7 @@ Other.....
 * [ShaderDebugger](https://github.com/dfranx/ShaderDebugger) C++ library for debugging HLSL & GLSL shaders
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
+* [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) Console-based GLSL Sandbox for 2D/3D shaders shaders
 * [SHADERed](https://github.com/dfranx/SHADERed) :star: Lightweight, cross-platform & full-featured shader IDE
 * [shader-toy](https://github.com/stevensona/shader-toy) Shadertoy-like live preview for GLSL shaders in Visual Studio Code 
 * [ShaderMan](https://github.com/smkplus/ShaderMan) Convert ShaderToy to Unity HLSL/CG https://smkplus.github.io/ShaderMan.io
