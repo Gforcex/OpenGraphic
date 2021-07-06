@@ -287,6 +287,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Denoising 
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
+* [RealTimeDenoisingNeuralBilateralGrid](https://github.com/xmeng525/RealTimeDenoisingNeuralBilateralGrid) [EGSR2020] Real-time Monte Carlo Denoising with the Neural Bilateral Grid
 * [practicalDenoising](https://github.com/ImageEngine/practicalDenoising) Reference Implementation of Practical Denoising for VFX Production Using Temporal Blur
 * [bcd](https://github.com/superboubek/bcd) Bayesian Collaborative Denoiser for Monte-Carlo Rendering
 * [glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) :thumbsup: Fast glsl spatial deNoise filter
@@ -636,6 +637,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
+* [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
 * [Signed-Distance-Field-Generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.
