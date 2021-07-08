@@ -931,6 +931,7 @@ Other.....
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
 #### Texture
 * [armorpaint](https://github.com/armory3d/armorpaint) :thumbsup:  3D PBR Texture Painting Software https://armorpaint.org
+* [material-maker](https://github.com/RodZill4/material-maker) A procedural textures authoring and 3D model painting tool based on the Godot game engine
 * [Materialize](https://github.com/maikramer/Materialize) Materialize is a program for converting images to materials for use in video games and similars. 
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
