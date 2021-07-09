@@ -83,6 +83,7 @@
 ## AI
 * [unity-movement-ai](https://github.com/antonpantev/unity-movement-ai)  A Unity library for common movement AI
 * [UnityGeneticAlgorithmMaze](https://github.com/createthis/UnityGeneticAlgorithmMaze)  Modern reimplementation in Unity of Bob's Map from AI Techniques for Game Programming
+* [hierarchical-pathfinding](https://github.com/hugoscurti/hierarchical-pathfinding) Implementation of Near-Optimal Hierarchical Pathfinding (HPA*) algorithm in Unity, tested with maps from Dragon Age: Origins
 
 ## Utils
 * [ProceduralToolkit ](https://github.com/Syomus/ProceduralToolkit)  Procedural generation library for Unity 
