@@ -382,12 +382,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
 * [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
 * [EncinoWaves](https://github.com/blackencino/EncinoWaves) Implementation of "Empirical Directional Wave Spectra for Computer Graphics" paper by Christopher Horvath
-* [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
+* [WaveParticle](https://github.com/AtwoodDeng/WaveParticle) A project for testing the wave particle
+* [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
+  
+* [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
 * [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
 * [threejs-caustics](https://github.com/martinRenou/threejs-caustics) Caustics computation using ThreeJS
 * [water-demo](https://github.com/shanecelis/water-demo) A port of Evan Wallace's "Water Demo" for WebGL to Unity.
-* [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
+
 * [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
 * [UnityTerrainErosionGPU](https://github.com/bshishov/UnityTerrainErosionGPU) Hydraulic and thermal erosion with shallow water equations implemented in Unity using compute shaders.
@@ -423,6 +426,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [tin-terrain](https://github.com/heremaps/tin-terrain) A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
 * [TerrainPrettifier](https://github.com/Fewes/TerrainPrettifier) A small GPU-based component designed to aid in cleaning and refining satellite/DEM based terrains directly inside Unity.
 * [PVTUT](https://github.com/ACskyline/PVTUT) Procedural Virtual Texture with Unity Terrain
+* [terrain-erosion-3-ways](https://github.com/dandrino/terrain-erosion-3-ways) Three Ways of Generating Terrain with Erosion Features
+* [Webgl-Erosion](https://github.com/LanLou123/Webgl-Erosion) Erosion simulation in Web Browser
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -671,7 +676,8 @@ Other.....
 ## Differentiable
 * [redner](https://github.com/BachiLi/redner) Differentiable rendering without approximation.
 * [nvdiffrast](https://github.com/NVlabs/nvdiffrast) Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering.
-
+* [jrender](https://github.com/Jittor/jrender) Jrender 2.0 (Jittor渲染库)
+  
 ## Math
 * [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
 * [MathGeoLib](https://github.com/juj/MathGeoLib) :thumbsup: A C++ library for linear algebra and geometry manipulation for computer graphics
