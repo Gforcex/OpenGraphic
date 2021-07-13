@@ -32,6 +32,7 @@
 * [pysph](https://github.com/pypr/pysph) A framework for Smoothed Particle Hydrodynamics in Python
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 
+* [LiquidSimulator](https://github.com/jongallant/LiquidSimulator)  [Cellular Automaton 2D Liquid Simulator for Unity](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
 * [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
 * [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
 * [GPUSmoke](https://github.com/michal1000w/GPUSmoke)
