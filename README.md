@@ -77,6 +77,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
+* [ezEngine](https://github.com/ezEngine/ezEngine) ezEngine is an open source C++ game engine in active development. http://ezengine.net
 
 ## Engine Plugin
 * [Graphics](https://github.com/Unity-Technologies/Graphics) Unity Graphics - Including Scriptable Render Pipeline
