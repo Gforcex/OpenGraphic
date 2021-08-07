@@ -37,7 +37,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Other**
 
-  [Physics](https://github.com/Gforcex/OpenGraphic/blob/master/Physics.md) &nbsp;&nbsp; [Animation](#animation) &nbsp;&nbsp; [Particle](#particle) &nbsp;&nbsp; [Machine Learning](#ml)  &nbsp;&nbsp;  [VR&AR](#vrar) &nbsp;&nbsp;
+  [Physics](https://github.com/Gforcex/OpenGraphic/blob/master/Physics.md) &nbsp;&nbsp; [Animation](#animation) &nbsp;&nbsp; [Particle](#particle) &nbsp;&nbsp; 
   
 ---
 
@@ -333,6 +333,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### AreaLight
 * [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
 * [ltc_code](https://github.com/selfshadow/ltc_code) Code for "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
+* [rtswplusd](https://github.com/BastianUrbach/rtswplusd) Real-Time Shading with Polyhedral Lights using Silhouette Detection
 
 ### Character
 #### SSS
@@ -731,6 +732,7 @@ Other.....
 * [Noice](https://github.com/kecho/Noice) Noise generator utility.
 #### Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
+* [unrealcv](https://github.com/unrealcv/unrealcv) UnrealCV: Connecting Computer Vision to Unreal Engine
 #### Image
 * [bimg](https://github.com/bkaradzic/bimg) :thumbsup:  Image library.
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) OpenImageIO http://www.openimageio.org
@@ -792,6 +794,7 @@ Other.....
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [pmp-library](https://github.com/pmp-library/pmp-library) The Polygon Mesh Processing Library
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
+* [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes.
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes   
 * [libigl](https://github.com/libigl/libigl) Simple C++ geometry processing library. 
 * [instant-meshes](https://github.com/wjakob/instant-meshes)  Interactive field-aligned mesh generator  
@@ -800,6 +803,8 @@ Other.....
 * [cinolib](https://github.com/mlivesu/cinolib) A generic programming header only C++ library for processing polygonal and polyhedral meshes
 * [mmg](https://github.com/MmgTools/mmg) open source software for bidimensional and tridimensional remeshing http://www.mmgtools.org
 * [Directional](https://github.com/avaxman/Directional) Directional is a C++ library for creating, manipulating and visualizing directional fields on 3D meshes
+#### Sketch
+* [monster-mash](https://github.com/google/monster-mash) A new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. 
 #### Optimization
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
 #### Compress
@@ -905,6 +910,8 @@ Other.....
 * [HDRP-Fluvio](https://github.com/miketucker/HDRP-Fluvio) Some early tests of FluvioFX with VFX Graph and HDRP
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
+#### Others
+* [GPU-Line-of-Sight](https://github.com/EntroPi-Games/GPU-Line-of-Sight) GPU Line of Sight / Field of View visualization for Unity
 
 ## Tools
 #### UE4
@@ -1041,14 +1048,6 @@ Other.....
 * [VolumetricParticles](https://github.com/DaSutt/VolumetricParticles)
 * [gpu-particles](https://github.com/Robert-K/gpu-particles) A GPU Particle System for Unity
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
-
-## VR&AR
-* [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
-* [unrealcv](https://github.com/unrealcv/unrealcv)
-
-## ML
-* [graphics](https://github.com/tensorflow/graphics) TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
-* [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) TensorFlow plugin for Unreal Engine 4
 
 ## Visualization
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
