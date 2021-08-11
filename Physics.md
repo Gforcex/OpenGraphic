@@ -20,6 +20,7 @@
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 * [creamystrand](https://github.com/nepluno/creamystrand) A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid
+* [GPUMPM](https://github.com/kuiwuchn/GPUMPM) GPU Optimization of Material Point Methods
 * [pyasflip](https://github.com/nepluno/pyasflip) Python implementation of the ASFLIP advection method yunfei.work/asflip/
 * [aphros](https://github.com/cselab/aphros) Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries.
 * [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
