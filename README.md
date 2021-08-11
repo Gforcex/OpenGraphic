@@ -300,6 +300,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
+* [Procedural-painting](https://github.com/IRCSS/Procedural-painting) Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms
+* [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation
+* [barracuda-style-transfer](https://github.com/UnityLabs/barracuda-style-transfer) Companion code for the Unity Style Transfer blog post, showcasing realtime style transfer using Barracuda. 
 #### Compression
 * [JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D](https://github.com/JanMalitschek/JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D) This package aims to accurately recreate the effect of JPEG/MP4 compression as a PostProcessing Effect
 
