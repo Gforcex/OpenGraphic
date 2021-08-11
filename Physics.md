@@ -17,6 +17,7 @@
 
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
+* [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 * [creamystrand](https://github.com/nepluno/creamystrand) A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid
 * [pyasflip](https://github.com/nepluno/pyasflip) Python implementation of the ASFLIP advection method yunfei.work/asflip/
