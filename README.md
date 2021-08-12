@@ -647,9 +647,9 @@ Graphic Engine &amp; Game Engine open source list！
 ## SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
-* [SDFr](https://github.com/xraxra/SDFr) a signed distance field baker for Unity
-* [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Convert a mesh to an SDF for the Visual Effect Graph (Unity) in realtime
-* [Signed-Distance-Field-Generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.
+* [SDFr](https://github.com/xraxra/SDFr) Unity. ECS. Many rays intersect in triangles 
+* [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Unity. Computer Shader. JFD Generate SDF in realtime
+* [Signed-Distance-Field-Generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) Unity. Computer Shader. Find the nearest distance of the triangle
 * [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
 * [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
 * [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
