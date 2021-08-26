@@ -193,6 +193,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Ambient occlusion
 * [KinoObscurance](https://github.com/keijiro/KinoObscurance) Alchemy Ambient Obscurance ---AlchemyHPG11
 * [ScalableAmbientObscurance](https://research.nvidia.com/publication/scalable-ambient-obscurance) https://research.nvidia.com/publication/scalable-ambient-obscurance
+* [XeGTAO](https://github.com/GameTechDev/XeGTAO) An implementation of [Jimenez et al., 2016] Ground Truth Ambient Occlusion, MIT license
 * [ASSAO](https://github.com/GameTechDev/ASSAO) Adaptive Screen Space Ambient Occlusion
 * [Robust Screen Space Ambient Occlusion](https://github.com/wolfgangfengel/GPUZen/tree/master/04_Screen%20Space/) Robust Screen Space Ambient Occlusion
 * [HBAOPlus](https://github.com/NVIDIAGameWorks/HBAOPlus) HBAO+ is a SSAO algorithm designed to achieve high efficiency on DX11 GPUs. 
@@ -806,6 +807,7 @@ Other.....
 * [cinolib](https://github.com/mlivesu/cinolib) A generic programming header only C++ library for processing polygonal and polyhedral meshes
 * [mmg](https://github.com/MmgTools/mmg) open source software for bidimensional and tridimensional remeshing http://www.mmgtools.org
 * [Directional](https://github.com/avaxman/Directional) Directional is a C++ library for creating, manipulating and visualizing directional fields on 3D meshes
+* [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
 #### Sketch
 * [monster-mash](https://github.com/google/monster-mash) A new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. 
 #### Optimization
@@ -1048,6 +1050,7 @@ Other.....
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
+* [Effekseer](https://github.com/effekseer/Effekseer) This software is a particle effect editing tool. 
 * [VolumetricParticles](https://github.com/DaSutt/VolumetricParticles)
 * [gpu-particles](https://github.com/Robert-K/gpu-particles) A GPU Particle System for Unity
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
