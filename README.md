@@ -304,6 +304,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Procedural-painting](https://github.com/IRCSS/Procedural-painting) Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms
 * [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation
 * [barracuda-style-transfer](https://github.com/UnityLabs/barracuda-style-transfer) Companion code for the Unity Style Transfer blog post, showcasing realtime style transfer using Barracuda. 
+* [android-gpuimage](https://github.com/cats-oss/android-gpuimage) Android filters based on OpenGL (idea from GPUImage for iOS)
 #### Compression
 * [JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D](https://github.com/JanMalitschek/JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D) This package aims to accurately recreate the effect of JPEG/MP4 compression as a PostProcessing Effect
 
@@ -634,8 +635,10 @@ Graphic Engine &amp; Game Engine open source list！
 ## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
+* [KDTree](https://github.com/viliwonka/KDTree) Fast KDTree for Unity, with thread-safe querying.
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
+* [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 * [bhh](https://github.com/bryanmcnett/bhh) Bounding Halfspace Hierarchy
 * [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
@@ -719,6 +722,7 @@ Other.....
 
 ## Image&Color
 #### Noise
+* [procedural-tileable-shaders](https://github.com/tuxalin/procedural-tileable-shaders) Collection of tileable procedural textures such as: cellular noise, fbm, voronoi, perlin and other.
 * [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library. Others Version: C++/C#/SIMD/Unity/Unreal
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) [libnoise](http://libnoise.sourceforge.net/index.html) Coherent noise library for Unity, a port of LibNoise
 * [webgl-noise](https://github.com/ashima/webgl-noise) :star: Procedural Noise Shader Routines compatible with WebGL
@@ -788,6 +792,7 @@ Other.....
 #### Deform  
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
 #### Destruction Slicer
+* [unity-fracture](https://github.com/ElasticSea/unity-fracture) Fracture any mesh at runtime
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
