@@ -4,6 +4,7 @@
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
 * [simbody](https://github.com/simbody/simbody) High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleto
+* [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 
 #### Collision Detection
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
