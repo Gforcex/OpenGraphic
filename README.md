@@ -621,6 +621,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### GPU-Driven
 * [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) Compute shader: Frustum culling,Occlusion culling with HierarchicalZBuffer
 * [gpu_occlusion_culling_vk](https://github.com/sydneyzh/gpu_occlusion_culling_vk)  GPU occlusion culling using compute shader with Vulkan  
+* [niagara](https://github.com/zeux/niagara) A Vulkan renderer written from scratch on stream
 #### Imposter
 * [IMP](https://github.com/xraxra/IMP) billboard imposter baking for Unity
 * [ImpostorBaker](https://github.com/ictusbrucks/ImpostorBaker) UE4 Plugin for generating Impostors for static meshes  
