@@ -753,7 +753,7 @@ Other.....
 * [hdrview](https://github.com/wkjarosz/hdrview) High-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities.
 #### VectorGraphics
 * [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
-
+  
 #### TextureCompressed
 * [nv_dds](https://github.com/paroj/nv_dds) DDS image loader for OpenGL/ OpenGL ES2 http://paroj.github.io/nv_dds/
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) Texture processing tools with support for Direct3D 10 and 11 formats. 
@@ -767,7 +767,9 @@ Other.....
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
 * [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image comparison tool for graphics people with an emphasis on OpenEXR images.
 * [KtxUnity](https://github.com/atteneder/KtxUnity) :thumbsup: Load KTX and Basis Universal textures at runtime
-
+* [qoi](https://github.com/phoboslab/qoi) The “Quite OK Image” format for fast, lossless image compression
+* [libspng](https://github.com/randy408/libspng) Simple, modern libpng alternative  https://libspng.org/
+  
 #### Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces) Utility functions to convert between various color spaces in GLSL
@@ -793,8 +795,8 @@ Other.....
 #### Deform  
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
 #### Destruction Slicer
-* [unity-fracture](https://github.com/ElasticSea/unity-fracture) Fracture any mesh at runtime
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [ScamScatter](https://github.com/danbystrom/ScamScatter) Open Source Real time procedural mesh destruction for Unity3D
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
