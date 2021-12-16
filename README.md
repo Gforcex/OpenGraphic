@@ -794,10 +794,18 @@ Other.....
 * [BunnyLOD](https://github.com/dougbinks/BunnyLOD) Cross platform GLFW based port of Stan Melax's BunnyLOD Easy Mesh Simplification
 #### Deform  
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
-#### Destruction Slicer
+#### DelaunayTriangulation
+* [CDT](https://github.com/artem-ogre/CDT) C++ library for constrained Delaunay triangulation (CDT)
+* [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes  [poly2tri-cs](https://github.com/MaulingMonkey/poly2tri-cs)
+* [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D) Ruppert's Delaunay Refinement Algorithm in Unity
+* [unity-delaunay-triangulation](https://github.com/komietty/unity-delaunay-triangulation)
+* [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation)
+#### Destruction
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
+* [Boom.unity](https://github.com/OskarSigvardsson/Boom.unity) Destruction effect in unity
 * [ScamScatter](https://github.com/danbystrom/ScamScatter) Open Source Real time procedural mesh destruction for Unity3D
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
+#### Slicer
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
 #### Modeling
@@ -806,8 +814,7 @@ Other.....
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [pmp-library](https://github.com/pmp-library/pmp-library) The Polygon Mesh Processing Library
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
-* [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes.
-* [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes   
+* [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes.  
 * [libigl](https://github.com/libigl/libigl) Simple C++ geometry processing library. 
 * [instant-meshes](https://github.com/wjakob/instant-meshes)  Interactive field-aligned mesh generator  
 * [openmesh](https://www.openmesh.org/) A generic and efficient polygon mesh data structure  
