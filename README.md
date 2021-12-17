@@ -1016,7 +1016,7 @@ Other.....
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
 * [NVIDIA Direct3D SDK 11](https://developer.nvidia.com/dx11-samples)
 * [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
-* [NVIDIA Direct3D SDK 9](https://www.nvidia.com/object/sdk-9.html)
+* [NVIDIA Direct3D SDK 9](https://www.nvidia.com/de-de/drivers/sdk-9/)
 * [NVIDIA GameWorks Graphics Samples](https://github.com/lyntel/GraphicsSamples) GameWorks cross-platform graphics API samples
 #### Book Code
 * [d3d12book](https://github.com/d3dcoder/d3d12book) Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
