@@ -890,6 +890,7 @@ Other.....
 * [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
 * [unity_coneofsightfx](https://github.com/joscanper/unity_coneofsightfx) This project shows how to implement Commandos cone of sight fx in Unity3D.
 * [DMDecalBuffer](https://github.com/DMeville/DMDecalBuffer) Rendering decals to an offscreen buffer in URP for shader effects
+* [SkinnedMeshDecals](https://github.com/naelstrof/SkinnedMeshDecals) An example of rendering decals on SkinnedMesh Renderers in Unity.
 #### OutLine
 * [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) use some unity graphic API to display outline post processing.  
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
@@ -1016,6 +1017,7 @@ Other.....
 * [NVIDIA Direct3D SDK 11](https://developer.nvidia.com/dx11-samples)
 * [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
 * [NVIDIA Direct3D SDK 9](https://www.nvidia.com/object/sdk-9.html)
+* [NVIDIA GameWorks Graphics Samples](https://github.com/lyntel/GraphicsSamples) GameWorks cross-platform graphics API samples
 #### Book Code
 * [d3d12book](https://github.com/d3dcoder/d3d12book) Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
