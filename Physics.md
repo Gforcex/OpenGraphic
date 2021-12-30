@@ -15,6 +15,7 @@
 * [CircleCollision](https://github.com/Erfan-Ahmadi/CircleCollision) Implementing Different Methods of Circle to Circle Collision Detection using variety of new Technologies: Vulkan Graphics/Compute API, AVX2/AVX-512
 * [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) SAT Collision in C# for Unity3D Burst Compiler
 * [parry](https://github.com/dimforge/parry) 2D and 3D collision-detection library for Rust.rs
+* [cpa] (https://github.com/memononen/cpa) Distance, Time-of-Impact, and Closest-Point-of-Approach between Convex 2D Shapes
 
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
