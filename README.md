@@ -677,6 +677,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
 * [vk_order_independent_transparency](https://github.com/nvpro-samples/vk_order_independent_transparency) Demonstrates seven different techniques for order-independent transparency in Vulkan.
+* [PixelSyncOIT](https://github.com/chrismile/PixelSyncOIT) A demo for order independent transparency using pixel synchronization (GL_ARB_fragment_shader_interlock)
 #### Optimization
 * [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering) Off Screen Particle Rendering system for Unity
 Other.....
@@ -770,6 +771,7 @@ Other.....
 * [KtxUnity](https://github.com/atteneder/KtxUnity) :thumbsup: Load KTX and Basis Universal textures at runtime
 * [qoi](https://github.com/phoboslab/qoi) The “Quite OK Image” format for fast, lossless image compression
 * [libspng](https://github.com/randy408/libspng) Simple, modern libpng alternative  https://libspng.org/
+* [fpng](https://github.com/richgel999/fpng) Super fast C++ .PNG writer/reader
   
 #### Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
