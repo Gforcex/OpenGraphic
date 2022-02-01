@@ -615,6 +615,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
 * [rasterizer](https://github.com/rawrunprotected/rasterizer) This project is a state-of-the-art software occlusion culling system.
 * [vigilant-system](https://github.com/nlguillemot/vigilant-system)
+* [Horus-Unity-Occlusion-Culling](https://github.com/FerzanK/Horus-Unity-Occlusion-Culling) Occlusion culling for Unity
 #### Hardware Occlusion Queries
 #### Hierarchical-Z Buffer
 * [Hierarchical-Z-Buffer](https://github.com/nickdarnell/Hierarchical-Z-Buffer)
@@ -637,6 +638,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Spatial Data Structures
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
+* [ECS-Octree](https://github.com/Antypodish/ECS-Octree) Unity ECS based octree.
 * [KDTree](https://github.com/viliwonka/KDTree) Fast KDTree for Unity, with thread-safe querying.
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
@@ -649,7 +651,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
 * [HashDAG](https://github.com/Phyronnaz/HashDAG) Interactively Modifying Compressed Sparse Voxel Representations
-
+* [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
+  
 ## SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
@@ -694,6 +697,7 @@ Other.....
 * [GeometricTools](https://github.com/davideberly/GeometricTools) :thumbsup: A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
 * [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM) https://glm.g-truc.net
 * [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
+* [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
 * [klein](https://github.com/jeremyong/klein) :thumbsup:  P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library https://jeremyong.com/klein
 * [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
@@ -713,6 +717,8 @@ Other.....
 * [IntegralSH](https://github.com/belcour/IntegralSH)  Integrating Clipped Spherical Harmonics Expansions
 * [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders.
 * [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) SHTOOLS - Spherical Harmonic Tools https://shtools.github.io/SHTOOLS/
+#### Curve
+* [nurbs](https://github.com/StandardCyborg/nurbs) Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
 #### FFT
 * [benchmarking-fft](https://github.com/project-gemmi/benchmarking-fft)  choosing FFT library
 * [VkFFT](https://github.com/DTolm/VkFFT) Vulkan Fast Fourier Transform library
@@ -803,11 +809,12 @@ Other.....
 * [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D) Ruppert's Delaunay Refinement Algorithm in Unity
 * [unity-delaunay-triangulation](https://github.com/komietty/unity-delaunay-triangulation)
 * [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation)
-#### Destruction
+#### Delaunay&Destruction
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [Boom.unity](https://github.com/OskarSigvardsson/Boom.unity) Destruction effect in unity
 * [ScamScatter](https://github.com/danbystrom/ScamScatter) Open Source Real time procedural mesh destruction for Unity3D
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
+* [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) Hull, Delaunay and Voronoi algorithms in Unity
 #### Slicer
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [mesh-cutter](https://github.com/hugoscurti/mesh-cutter) Simple mesh cutting algorithm that works on simple 3d manifold objects with genus 0
@@ -1074,7 +1081,7 @@ Other.....
 * [Effekseer](https://github.com/effekseer/Effekseer) This software is a particle effect editing tool. 
 * [VolumetricParticles](https://github.com/DaSutt/VolumetricParticles)
 * [gpu-particles](https://github.com/Robert-K/gpu-particles) A GPU Particle System for Unity
-* [OffScreenParticleRendering](https://github.com/slipster216/OffScreenParticleRendering)
+* [CurlNoiseParticleSystem](https://github.com/edom18/CurlNoiseParticleSystem) Particle system using Curl Noise for Unity.
 
 ## Visualization
 * [VTK](https://www.vtk.org/) The Visualization Toolkit
