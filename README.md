@@ -594,6 +594,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Shear-warp
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools. [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
+* [unreal-vdb](https://github.com/eidosmontreal/unreal-vdb) This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.
 * [openvkl](https://github.com/openvkl/openvkl) Intel® Open Volume Kernel Library (Intel® Open VKL) is a collection of high-performance volume computation kernels
 
 ## Acceleration
