@@ -961,6 +961,7 @@ Other.....
 * [shader-playground](https://github.com/tgjones/shader-playground) :thumbsup: Shader compilers http://shader-playground.timjones.io
 * [glsl-optimizer](https://github.com/aras-p/glsl-optimizer) :star: GLSL optimizer based on Mesa's GLSL compiler.
 * [glslang](https://github.com/KhronosGroup/glslang) Khronos reference front-end for GLSL and ESSL, and sample SPIR-V generator
+* [naga](https://github.com/gfx-rs/naga) Universal shader translation in Rust
 * [shaderc](https://github.com/google/shaderc) A collection of tools, libraries and tests for shader compilation.
 * [ShaderConductor](https://github.com/microsoft/ShaderConductor) ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
