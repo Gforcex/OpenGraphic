@@ -1017,7 +1017,7 @@ Other.....
 * Other: **gDEBugger**, **NVIDIA Nsight**, **Microsoft PIX**
 
 ## SDK&Tutorial
-#### API Samples
+#### SDK Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) This repo contains C++ samples from the DirectX SDK updated to build using the Windows 8.x SDK or Windows 10 SDK
 * [Zombie-Direct3D-Samples](https://github.com/marselas/Zombie-Direct3D-Samples) June 2010 SDK updated to build with the latest version of Windows and Visual Studio
@@ -1028,8 +1028,14 @@ Other.....
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
 * [NVIDIA Direct3D SDK 11](https://developer.nvidia.com/dx11-samples)
 * [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
-* [NVIDIA Direct3D SDK 9](https://www.nvidia.com/de-de/drivers/sdk-9/)
+* [NVIDIA Direct3D SDK 9](https://developer.download.nvidia.com/SDK/9.5/Samples/samples.html) [download all](https://www.nvidia.com/de-de/drivers/sdk-9/)
 * [NVIDIA GameWorks Graphics Samples](https://github.com/lyntel/GraphicsSamples) GameWorks cross-platform graphics API samples
+* [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
+* [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
+* [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)
+* [opengl-es-sdk-for-android](https://github.com/ARM-software/opengl-es-sdk-for-android)
+* [powervr-graphics](https://github.com/powervr-graphics)
+* [GodComplex](https://github.com/Patapom/GodComplex)
 #### Book Code
 * [d3d12book](https://github.com/d3dcoder/d3d12book) Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
 * [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
@@ -1037,13 +1043,6 @@ Other.....
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
 * [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems)
 * [jgt-code](https://github.com/erich666/jgt-code) Code developed for articles in the "Journal of Graphics Tools"
-#### Graphic SDK
-* [GodComplex](https://github.com/Patapom/GodComplex)
-* [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
-* [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
-* [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)
-* [opengl-es-sdk-for-android](https://github.com/ARM-software/opengl-es-sdk-for-android)
-* [powervr-graphics](https://github.com/powervr-graphics)
 #### Graphics Awesome
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) a list of graphic programming resources  
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics) Curated list of computer graphics tutorials and resources  
