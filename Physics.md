@@ -1,10 +1,12 @@
 ## Physics
 #### Library
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
+* [ODE](https://www.ode.org/) Open Dynamics Engine
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
 * [simbody](https://github.com/simbody/simbody) High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleto
 * [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
+* [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
 
 #### Collision Detection
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
@@ -20,31 +22,36 @@
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
+* [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
-* [creamystrand](https://github.com/nepluno/creamystrand) A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid
-* [GPUMPM](https://github.com/kuiwuchn/GPUMPM) GPU Optimization of Material Point Methods
+* [Fluid_Simulation](https://github.com/kbladin/Fluid_Simulation) Self advection, external force and pressure solve to a velocity field represented by a MaC grid.
 * [pyasflip](https://github.com/nepluno/pyasflip) Python implementation of the ASFLIP advection method yunfei.work/asflip/
+* [GPUMPM](https://github.com/kuiwuchn/GPUMPM) GPU Optimization of Material Point Methods
 * [aphros](https://github.com/cselab/aphros) Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries.
 * [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
 * [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
 * [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
-* [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
+
 * [SPHFluid](https://github.com/MangoSister/SPHFluid) Interactive 3D Fluid Simulation based on SPH
 * [pcisph](https://github.com/cerrno/pcisph) Predictive-Corrective Smoothed Particle Hydrodynamics (SPH) implementation in 2D for CS4167 final project
 * [pysph](https://github.com/pypr/pysph) A framework for Smoothed Particle Hydrodynamics in Python
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 
-* [LiquidSimulator](https://github.com/jongallant/LiquidSimulator)  [Cellular Automaton 2D Liquid Simulator for Unity](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
-* [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
-* [Trinity](https://github.com/portsmouth/Trinity) Programmable 3D GPU (WebGL) fluid simulator
+* [Trinity](https://github.com/portsmouth/Trinity) :thumbsup:  Programmable 3D GPU (WebGL) fluid simulator
 * [GPUSmoke](https://github.com/michal1000w/GPUSmoke)
 * [fluid_sim](https://github.com/Erkaman/fluid_sim) Flashy 2D fluid simulations experiments.
+* [navier-stokes-webgl](https://github.com/piellardj/navier-stokes-webgl) Stable fluid simulation on GPU using WebGL.
+* [euler-fluid-cpp](https://github.com/Driema/euler-fluid-cpp) Euler fluid simulated with CPP and SFML
+
+* [VorteGrid](https://github.com/mijagourlay/VorteGrid) VorteGrid: Interactive Fluid Simulation for Games and Movies
+* [LiquidSimulator](https://github.com/jongallant/LiquidSimulator)  [Cellular Automaton 2D Liquid Simulator for Unity](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
+* [creamystrand](https://github.com/nepluno/creamystrand) A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid
+* [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
 * [RealTimeFluids](https://github.com/IshanRanade/RealTimeFluids) An open-source repository featuring real-time Eulerian fluid simulation and rendering 
 * [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering". 
 * [ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) CPU and GPU implementations of a particle-based physics simulation based on Macklin et. al's "Unified Particle Physics for Real-Time Application".
-* [euler-fluid-cpp](https://github.com/Driema/euler-fluid-cpp) Euler fluid simulated with CPP and SFML
 
 #### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
