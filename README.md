@@ -903,8 +903,9 @@ Other.....
 * [DMDecalBuffer](https://github.com/DMeville/DMDecalBuffer) Rendering decals to an offscreen buffer in URP for shader effects
 * [SkinnedMeshDecals](https://github.com/naelstrof/SkinnedMeshDecals) An example of rendering decals on SkinnedMesh Renderers in Unity.
 #### OutLine
-* [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) use some unity graphic API to display outline post processing.  
+* [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) Screen-space outlines for Unity3d.  
 * [Outline-Effect](https://github.com/cakeslice/Outline-Effect) Outline Image Effect for Unity
+* [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) use some unity graphic API to display outline post processing.
 * [Outlined-Diffuse-Shader-Fixed](https://github.com/Shrimpey/Outlined-Diffuse-Shader-Fixed) This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3
 * [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) The easiest way to achieve outlines in unity.
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
