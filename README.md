@@ -425,6 +425,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VulkanGrassRendering](https://github.com/moneimne/VulkanGrassRendering) Vulkan implementation of "Responsive Real-Time Grass Rendering for General 3D Scenes" by Jahrmann and Wimmer
 * [GPUGrass](https://github.com/MidoriMeng/GPUGrass) real-time grass rendering based on GPU instancing
 * [MassiveGrass](https://github.com/mewlist/MassiveGrass) Unity Terrain spawns a large number of grasses along the edge of the tree (shader independent)
+* [RheaGrass](https://github.com/Ryan-Gee/RheaGrass) Rhea is a geometry-shader based grass for Unity's Universal Render Pipeline (URP).
 #### Tree
 * [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
 #### Terrain
@@ -735,7 +736,7 @@ Other.....
 * [procedural-tileable-shaders](https://github.com/tuxalin/procedural-tileable-shaders) Collection of tileable procedural textures such as: cellular noise, fbm, voronoi, perlin and other.
 * [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library. Others Version: C++/C#/SIMD/Unity/Unreal
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) [libnoise](http://libnoise.sourceforge.net/index.html) Coherent noise library for Unity, a port of LibNoise
-* [webgl-noise](https://github.com/ashima/webgl-noise) :star: Procedural Noise Shader Routines compatible with WebGL
+* [webgl-noise](https://github.com/stegu/webgl-noise) :star: Procedural Noise Shader Routines compatible with WebGL
 * [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
 * [Wombat](https://github.com/BrianSharpe/Wombat) An efficient texture-free GLSL procedural noise library
 * [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
@@ -748,6 +749,7 @@ Other.....
 * [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
 * [glsl-curl-noise](https://github.com/cabbibo/glsl-curl-noise) [CurlNoise](https://github.com/rajabala/CurlNoise)
 * [Noice](https://github.com/kecho/Noice) Noise generator utility.
+* [psrdnoise](https://github.com/stegu/psrdnoise) Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above.
 #### Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
 * [unrealcv](https://github.com/unrealcv/unrealcv) UnrealCV: Connecting Computer Vision to Unreal Engine
