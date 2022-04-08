@@ -183,6 +183,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)  A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
 * [WispRenderer](https://github.com/TeamWisp/WispRenderer) RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science https://teamwisp.github.io
 * [rtx-explore](https://github.com/rtx-on/rtx-explore) DirectX Raytracing Path Tracer
+* [Kaguya](https://github.com/kcloudy0717/Kaguya) This is a hobby project using DirectX 12 and DirectX RayTracing (DXR)
 * [RayTracingInVulkan](https://github.com/GPSnoopy/RayTracingInVulkan) Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 * [PBRVulkan](https://github.com/Zielon/PBRVulkan) Vulkan Real-time Path Tracer Engine
 * [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
