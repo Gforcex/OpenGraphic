@@ -342,6 +342,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
 * [ltc_code](https://github.com/selfshadow/ltc_code) Code for "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
 * [rtswplusd](https://github.com/BastianUrbach/rtswplusd) Real-Time Shading with Polyhedral Lights using Silhouette Detection
+* [BezierLightLTC](https://github.com/Paul180297/BezierLightLTC) An official implementation of the paper "Real-Time Shading of Free-Form Area Lights using Linearly Transformed Cosines".
 
 ### Character
 #### SSS
@@ -437,6 +438,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [PVTUT](https://github.com/ACskyline/PVTUT) Procedural Virtual Texture with Unity Terrain
 * [terrain-erosion-3-ways](https://github.com/dandrino/terrain-erosion-3-ways) Three Ways of Generating Terrain with Erosion Features
 * [Webgl-Erosion](https://github.com/LanLou123/Webgl-Erosion) Erosion simulation in Web Browser
+* [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) Cross Platform Professional Procedural Terrain Generation & Texturing Tool
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -484,6 +486,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) ighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
 * [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
 * [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
+* [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog) A volumetric fog implementation in Unity
 #### FakeVolumetricLight
 * [VolumetricTracer](https://github.com/Fewes/VolumetricTracer) A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
 #### Atmospheric
@@ -498,9 +501,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [MinimalAtmosphere](https://github.com/Fewes/MinimalAtmosphere) A minimal atmospheric scattering implementation for Unity
 * [glsl-atmosphere](https://github.com/wwwtyro/glsl-atmosphere) Renders sky colors with Rayleigh and Mie scattering.
 #### Fog
-* [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog)
 * [UEShaderBits-GDC-Pack](https://github.com/sp0lsh/UEShaderBits-GDC-Pack)  UE4 Volumetric Fog Techniques
 * [SSMS](https://github.com/OCASM/SSMS) Screen space multiple scattering for Unity.
+* [GPU-Fog-Particles](https://github.com/MirzaBeig/GPU-Fog-Particles) Textureless fog particles using a highly customizable shader to attenuate noise values.
 ## Render Path
 * [VolumeTiledForwardShading](https://github.com/jpvanoosten/VolumeTiledForwardShading) :thumbsup: Volume Tiled Forward Shading. This technique is based on Tiled and Clustered Forward Shading (Olsson, 2012)
 * [HybridRenderingEngine](https://github.com/Angelo1211/HybridRenderingEngine) Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.  
@@ -640,6 +643,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [gl_vk_meshlet_cadscene](https://github.com/nvpro-samples/gl_vk_meshlet_cadscene) This OpenGL/Vulkan sample illustrates the use of "mesh shaders" for rendering CAD models.
 
 ## Spatial Data Structures
+* [KNN](https://github.com/ArthurBrussee/KNN) Fast K-Nearest Neighbour Library for Unity DOTS
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
 * [ECS-Octree](https://github.com/Antypodish/ECS-Octree) Unity ECS based octree.
@@ -950,6 +954,7 @@ Other.....
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 #### Others
 * [GPU-Line-of-Sight](https://github.com/EntroPi-Games/GPU-Line-of-Sight) GPU Line of Sight / Field of View visualization for Unity
+* [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 
 ## Tools
 #### UE4
