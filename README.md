@@ -655,6 +655,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
+* [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
 * [ooc_svo_builder](https://github.com/Forceflow/ooc_svo_builder) Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation
 * [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
