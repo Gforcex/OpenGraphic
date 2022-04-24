@@ -16,4 +16,5 @@
 * [BEER](https://github.com/BlenderNPR/BEER) Blender Extended Expressive Renderer (A stylized renderer)
 * [retopoflow](https://github.com/CGCookie/retopoflow) A suite of retopology tools for Blender
 * [Blender-BakeLab2](https://github.com/Shahzod114/Blender-BakeLab2) Blender addon for baking images
+* [bpbrt4](https://github.com/NicNel/bpbrt4) pbrt-v4 render engine/exporter for Blender
 
