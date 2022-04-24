@@ -1011,6 +1011,7 @@ Other.....
 * [Unity3D-TextureAtlasSlicer](https://github.com/toxicFork/Unity3D-TextureAtlasSlicer)
 * [VaTexAtlas](https://github.com/ufna/VaTexAtlas)  plugin for Unreal Engine 4 that makes texture atlases simpler to use with UMG system.
 * [RectangleBinPack](https://github.com/juj/RectangleBinPack) Source code for performing 2d rectangular bin packing. 
+* [UnityRuntimeSpriteSheetsGenerator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator) Unity – generate SpriteSheets at runtime!
 * [pack-spheres](https://github.com/mattdesl/pack-spheres)  Brute force circle/sphere packing in 2D or 3D
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
