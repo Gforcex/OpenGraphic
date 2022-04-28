@@ -644,25 +644,27 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Spatial Data Structures
 * [KNN](https://github.com/ArthurBrussee/KNN) Fast K-Nearest Neighbour Library for Unity DOTS
+* [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
+* [HashDAG](https://github.com/Phyronnaz/HashDAG) Interactively Modifying Compressed Sparse Voxel Representations
+* [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
+* [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
+#### Octree&Quadtree
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
 * [ECS-Octree](https://github.com/Antypodish/ECS-Octree) Unity ECS based octree.
+* [ooc_svo_builder](https://github.com/Forceflow/ooc_svo_builder) Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation
+* [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+#### KDTree
 * [KDTree](https://github.com/viliwonka/KDTree) Fast KDTree for Unity, with thread-safe querying.
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
-* [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
-* [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
+#### BVH
+ * [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 * [bhh](https://github.com/bryanmcnett/bhh) Bounding Halfspace Hierarchy
 * [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
 * [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
-* [ooc_svo_builder](https://github.com/Forceflow/ooc_svo_builder) Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation
-* [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
-* [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
-* [HashDAG](https://github.com/Phyronnaz/HashDAG) Interactively Modifying Compressed Sparse Voxel Representations
-* [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
-  
-## SDF
+#### SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
 * [SDFr](https://github.com/xraxra/SDFr) Unity. ECS. Many rays intersect in triangles 
@@ -680,6 +682,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [rust_test](https://github.com/sebbbi/rust_test) :thumbsup: 
 * [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL
 * [Signed](https://github.com/markusmoenig/Signed) Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). 
+* [sdf-explorer](https://github.com/tovacinni/sdf-explorer)  JCGT / I3D paper, "A Dataset and Explorer for 3D Signed Distance Functions".
 
 ## Transparency
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
