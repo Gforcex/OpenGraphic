@@ -14,10 +14,10 @@
 * [Prefabshop](https://github.com/Raptorij/Prefabshop) Prefab painter for Unity
 * [PrefabPainter](https://github.com/Roland09/PrefabPainter) Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
 #### AssetsAnalyzer
+* [AssetStudio](https://github.com/Perfare/AssetStudio)  :thumbsup:  A tool for exploring, extracting and exporting assets and assetbundles
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
-* [AssetStudio](https://github.com/Perfare/AssetStudio) A tool for exploring, extracting and exporting assets and assetbundles
+* [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  :thumbsup: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
-* [ReferenceExplorer](https://github.com/tsubaki/ReferenceExplorer) ReferenceExplorer will visualize the object and component dependencies
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
@@ -36,6 +36,9 @@
 * [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
 * [GLTFUtility](https://github.com/Siccity/GLTFUtility) Lightweight GLTF importer for Unity
 * [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
+#### Serializer
+* [unity-atoms](https://github.com/unity-atoms/unity-atoms) Tiny modular pieces utilizing the power of Scriptable Objects
+* [odin-serializer](https://github.com/TeamSirenix/odin-serializer) Fast, robust, powerful and extendible .NET serializer built for Unity
 #### Texture
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
