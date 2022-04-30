@@ -1,6 +1,7 @@
 ## Physics
 #### Library
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
+* [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [ODE](https://www.ode.org/) Open Dynamics Engine
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
@@ -21,7 +22,6 @@
 
 #### Fluid
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
-* [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 * [Fluid_Simulation](https://github.com/kbladin/Fluid_Simulation) Self advection, external force and pressure solve to a velocity field represented by a MaC grid.
@@ -44,6 +44,7 @@
 * [fluid_sim](https://github.com/Erkaman/fluid_sim) Flashy 2D fluid simulations experiments.
 * [navier-stokes-webgl](https://github.com/piellardj/navier-stokes-webgl) Stable fluid simulation on GPU using WebGL.
 * [euler-fluid-cpp](https://github.com/Driema/euler-fluid-cpp) Euler fluid simulated with CPP and SFML
+* [FluidSimulation](https://github.com/amandaghassaei/FluidSimulation) WebGL shader for mixed grid-particle fluid simulation
 
 * [VorteGrid](https://github.com/mijagourlay/VorteGrid) VorteGrid: Interactive Fluid Simulation for Games and Movies
 * [LiquidSimulator](https://github.com/jongallant/LiquidSimulator)  [Cellular Automaton 2D Liquid Simulator for Unity](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
@@ -59,9 +60,12 @@
 * [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
 * [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About
 Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
+* [sheen](https://github.com/sciecode/sheen) GPGPU cloth simulation
+* [ClothSimulation](https://github.com/johnBuffer/ClothSimulation) Basic cloth simulation using Verlet integration
 
 #### Softbodie
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
+* [CPDeform](https://github.com/lester0866/CPDeform) [ICLR 2022] Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
 
 #### Verlet MassSpring
 * [verlet-js](https://github.com/subprotocol/verlet-js) A simple Verlet physics engine written in javascript
