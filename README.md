@@ -552,6 +552,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
 * [MToon](https://github.com/Santarh/MToon) Toon Shader with Unity Global Illumination
+* [lilToon](https://github.com/lilxyzw/lilToon) Feature-rich shaders for avatars
 * [PoiyomiToonShader](https://github.com/poiyomi/PoiyomiToonShader) A feature rich toon shader for unity and VR Chat
 * [Xiexes-Unity-Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders) A re-write and restructure of XSToon.
 * [MNPR](https://github.com/semontesdeoca/MNPR) An expressive non-photorealistic rendering framework for real-time, filter-based stylization pipelines within Maya. http://mnpr.artineering.io     
