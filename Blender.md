@@ -18,4 +18,5 @@
 * [Blender-BakeLab2](https://github.com/Shahzod114/Blender-BakeLab2) Blender addon for baking images
 * [bpbrt4](https://github.com/NicNel/bpbrt4) pbrt-v4 render engine/exporter for Blender
 * [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) Addon and nodes for working with structural biology and molecular data in Blender.
+* [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) A Blender add-on to import models from google maps
 
