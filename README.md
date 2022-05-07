@@ -548,6 +548,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### NPR
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab) Test some NPR in Unity.
 * [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) JTRP : Unity HDRP ToonShading Render Pipeline (Preview) 
+* [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
 * [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [UnityChanToonShaderVer2_Project](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project) UnityChanToonShaderVer2 Project / v.2.0.7 Release 
@@ -557,13 +558,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [Xiexes-Unity-Shaders](https://github.com/Xiexe/Xiexes-Unity-Shaders) A re-write and restructure of XSToon.
 * [MNPR](https://github.com/semontesdeoca/MNPR) An expressive non-photorealistic rendering framework for real-time, filter-based stylization pipelines within Maya. http://mnpr.artineering.io     
 * [Wind-Waker-Shader](https://github.com/albertomelladoc/Wind-Waker-Shader) Cel Shading of two thresholds with a blur/gradient between them
-* [UnityNPR](https://github.com/GlitchEnzo/UnityNPR) A testbed for non-photorealistic rendering in Unity.
 * [ChinesePaintingDemo](https://github.com/AtwoodDeng/ChinesePaintingDemo) Demo of Chinese Painting Shader
 * [WaterColorFilter](https://github.com/nobnak/WaterColorFilter) WaterColorFilter for Unity
 * [ToonLandscape3](https://github.com/chrisloop/ToonLandscape3) ToonLandscape3
-* [Toon-Shader](https://github.com/SnutiHQ/Toon-Shader) A character focused Toon Shader for Unity using Shader Graph.
 * [URP_StylizedLitShader](https://github.com/madumpa/URP_StylizedLitShader) Madumpa's URP Stylized Lit Shader Repository
+* [Toon-Shader](https://github.com/SnutiHQ/Toon-Shader) A character focused Toon Shader for Unity using Shader Graph.
 * [BotW-ToonShader](https://github.com/ciro-unity/BotW-ToonShader) A recreation of Zelda: Breath of the Wild's toon shader in Unity, using Shader Graph
+* [LiliumToonGraph](https://github.com/you-ri/LiliumToonGraph) UniversalRP Toon Shader with ShaderGraph
+* [UNITY-Arc-system-Works-Shader](https://github.com/Aerthas/UNITY-Arc-system-Works-Shader) Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.
+* [Blender-miHoYo-Shaders](https://github.com/Festivize/Blender-miHoYo-Shaders) Shaders for Blender attempting to replicate the shading of games developed by miHoYo. These shaders are especially for datamined assets, not custom-made ones nor the MMD variants.
 #### Low Poly
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
