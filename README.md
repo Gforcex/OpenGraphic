@@ -948,6 +948,7 @@ Other.....
 #### Matcap 
 * [matcaps](https://github.com/nidorx/matcaps) Huge library of matcap PNG textures organized by color
 * [spherical-environment-mapping](https://github.com/spite/spherical-environment-mapping) Spherical Environment Mapping GLSL Shader
+* [matcap-studio](https://github.com/kchapelier/matcap-studio) An utility to tweak matcaps, with realtime visual feedback.
 * [UnityMatCapShader](https://github.com/inoook/UnityMatCapShader) Unity MatCap shader
 #### EchoFX
 * [unity_echofx](https://github.com/joscanper/unity_echofx) The Division ECHO fx implemented in Unity3D
