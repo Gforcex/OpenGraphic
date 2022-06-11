@@ -86,6 +86,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Offline Engine
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
+* [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
 * [pbrt](https://github.com/mmp/pbrt-v3) Source code for "Physically Based Rendering: From Theory To Implementation" 
@@ -720,6 +721,7 @@ Other.....
 * [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
+* [geogram](https://github.com/BrunoLevy/geogram) a programming library with geometric algorithms
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
 * [fastapprox](https://github.com/romeric/fastapprox) Approximate and vectorized versions of common mathematical functions
@@ -952,6 +954,8 @@ Other.....
 * [UnityMatCapShader](https://github.com/inoook/UnityMatCapShader) Unity MatCap shader
 #### EchoFX
 * [unity_echofx](https://github.com/joscanper/unity_echofx) The Division ECHO fx implemented in Unity3D
+#### Scan
+* [Post-Processing-Scan](https://github.com/MirzaBeig/Post-Processing-Scan)  A 3D scan/sonar-like post-processing effect for Unity. Essentially a visualization of a spherical signed distance field (SDF).
 #### Cubism
 * [Cubism-Shader](https://github.com/IRCSS/Cubism-Shader) A shader that creates a cubism effect based on voronoi segmentation in Unity 3d
 #### Wireframe
