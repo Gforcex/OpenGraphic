@@ -48,6 +48,9 @@ Graphic Engine &amp; Game Engine open source list！
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * ARM [ARM-software](https://github.com/ARM-software)
 * PowerVR [powervr-graphics](https://github.com/powervr-graphics)
+* [The Khronos Group](https://github.com/KhronosGroup) https://www.khronos.org/
+* [Academy Software Foundation](https://github.com/AcademySoftwareFoundation) https://www.aswf.io/
+* [Pixar Animation Studios](https://github.com/PixarAnimationStudios) http://graphics.pixar.com
 * SideEfects [sideeffects](https://github.com/sideeffects) Hodini
 * [id-Software](https://github.com/id-Software)
 * [InteractiveComputerGraphics](https://github.com/InteractiveComputerGraphics)
@@ -540,6 +543,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [cgltf](https://github.com/jkuhlmann/cgltf) Single-file glTF 2.0 loader and writer written in C99
 * [fx-gltf](https://github.com/jessey-git/fx-gltf) A C++14/C++17 header-only library for simple, efficient, and robust serialization/deserialization of glTF 2.0
 * [gltf-pipeline](https://github.com/CesiumGS/gltf-pipeline) Content pipeline tools for optimizing glTF assets
+* [SharpGLTF](https://github.com/vpenades/SharpGLTF) glTF reader and writer for .NET Standard
 * [USD](https://github.com/PixarAnimationStudios/USD) Universal Scene Description http://www.openusd.org
 * [MaterialX](https://github.com/materialx/MaterialX) MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 * [MDL](https://github.com/NVIDIA/MDL-SDK) NVIDIA Material Definition Language SDK
