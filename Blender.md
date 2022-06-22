@@ -19,4 +19,4 @@
 * [bpbrt4](https://github.com/NicNel/bpbrt4) pbrt-v4 render engine/exporter for Blender
 * [MolecularNodes](https://github.com/BradyAJohnston/MolecularNodes) Addon and nodes for working with structural biology and molecular data in Blender.
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) A Blender add-on to import models from google maps
-
+* [b3dsdf](https://github.com/williamchange/b3dsdf) A toolkit of 2D/3D signed distance functions and sdf/vector operator nodegroups(135+) for Blender 2.83+. Also available as an addon which adds a menu in the shader editor.
