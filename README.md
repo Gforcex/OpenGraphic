@@ -793,6 +793,7 @@ Other.....
 * [unity-ycca-subsampling](https://github.com/n-yoda/unity-ycca-subsampling) [ChromaPack](https://github.com/keijiro/ChromaPack)   YCCA chroma subsampling technique
 * [basis_universal](https://github.com/BinomialLLC/basis_universal)  :star:  Basis Universal GPU Texture and Texture Video Compression Codec
 * [bc7enc](https://github.com/richgel999/bc7enc) Single source file BC1-5 and BC7 encoders and BC1-5/7 decoders with MIT or Public Domain licenses
+* [bcdec](https://github.com/iOrange/bcdec) Small header-only C library to decompress any BC compressed image
 * [astc-encoder](https://github.com/ARM-software/astc-encoder) This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
 * [betsy](https://github.com/darksylinc/betsy) Betsy aims to be a GPU compressor for various modern GPU compression formats such as BC6H, purposedly written in GLSL so that it can be easily incorporated into OpenGL and Vulkan projects.
 * [Goofy](https://github.com/SergeyMakeev/Goofy) Goofy - Realtime DXT1/ETC1 encoder
@@ -814,7 +815,7 @@ Other.....
 #### IO
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats   
 * [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer  
-* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)   
+* [DirectXMesh](https://github.com/Microsoft/DirectXMesh)   DirectXMesh geometry processing library
 * [OpenFBX](https://github.com/nem0/OpenFBX) Lightweight open source FBX importer
 * [fast_obj](https://github.com/thisistherk/fast_obj) Fast C OBJ parser
 #### Subdivision
@@ -831,8 +832,8 @@ Other.....
 * [CDT](https://github.com/artem-ogre/CDT) C++ library for constrained Delaunay triangulation (CDT)
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes  [poly2tri-cs](https://github.com/MaulingMonkey/poly2tri-cs)
 * [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D) Ruppert's Delaunay Refinement Algorithm in Unity
-* [unity-delaunay-triangulation](https://github.com/komietty/unity-delaunay-triangulation)
-* [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation)
+* [unity-delaunay-triangulation](https://github.com/komietty/unity-voronoi) Voronoi mesh generator
+* [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation) Constrained Delaunay Triangulation (CDT) of a random surface domain.
 #### Delaunay&Destruction
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [Boom.unity](https://github.com/OskarSigvardsson/Boom.unity) Destruction effect in unity
