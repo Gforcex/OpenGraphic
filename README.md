@@ -668,12 +668,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
 * [KNN](https://github.com/ArthurBrussee/KNN) Fast K-Nearest Neighbour Library for Unity DOTS
 #### BVH
- * [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
+* [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 * [bhh](https://github.com/bryanmcnett/bhh) Bounding Halfspace Hierarchy
 * [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
 * [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
+* [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 #### SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
@@ -741,6 +742,7 @@ Other.....
 * [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders.
 * [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) SHTOOLS - Spherical Harmonic Tools https://shtools.github.io/SHTOOLS/
 #### Curve
+* [tinyspline](https://github.com/msteinbeck/tinyspline) ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Javascript, Lua, Octave, PHP, Python, R, and Ruby.
 * [nurbs](https://github.com/StandardCyborg/nurbs) Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
 #### FFT
 * [benchmarking-fft](https://github.com/project-gemmi/benchmarking-fft)  choosing FFT library
