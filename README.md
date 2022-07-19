@@ -78,6 +78,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [island](https://github.com/tgfrerer/island) Project Island is an experimental, hot-reloading Vulkan renderer/proto-engine for Linux, written in C/C++.
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level 3D graphics library http://diligentgraphics.com/diligent-engine/ 
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
+* [Babylon.js](https://github.com/BabylonJS/Babylon.js) A powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
 
@@ -99,6 +100,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [taichi](https://github.com/yuanming-hu/taichi) Open Source Computer Graphics Library http://taichi.graphics
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
 * [lighthouse2](https://github.com/jbikker/lighthouse2)  Lighthouse 2 framework for real-time ray tracing
+* [etx-tracer](https://github.com/serhii-rieznik/etx-tracer) Physically-based CPU and GPU ray-tracer
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
