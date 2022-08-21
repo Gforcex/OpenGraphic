@@ -68,6 +68,7 @@
 * [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)  You can expose a lot of different shader settings through attributes! 
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) Keeps your screen real-estate clean with refined, compact UX.
+* [UnityRuntimePreviewGenerator](https://github.com/yasirkula/UnityRuntimePreviewGenerator) Generate preview textures (thumbnails) for your GameObject's or materials on the fly in Unity
 ## Editor
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
