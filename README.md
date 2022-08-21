@@ -748,6 +748,7 @@ Other.....
 #### Curve
 * [tinyspline](https://github.com/msteinbeck/tinyspline) ANSI C library for NURBS, B-Splines, and Bézier curves with interfaces for C++, C#, D, Go, Java, Javascript, Lua, Octave, PHP, Python, R, and Ruby.
 * [nurbs](https://github.com/StandardCyborg/nurbs) Non-Uniform Rational B-Splines (NURBS) of any dimensionality 
+* [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 #### FFT
 * [benchmarking-fft](https://github.com/project-gemmi/benchmarking-fft)  choosing FFT library
 * [VkFFT](https://github.com/DTolm/VkFFT) Vulkan Fast Fourier Transform library
