@@ -58,7 +58,7 @@ Graphic Engine &amp; Game Engine open source list！
 ## Engine
 * [UnrealEngine](https://github.com/EpicGames/UnrealEngine) :star: https://www.unrealengine.com/
 * [CRYENGINE](https://github.com/CRYTEK/CRYENGINE) :star:  https://www.cryengine.com/
-* [Lumberyard](https://github.com/aws/lumberyard) https://aws.amazon.com/lumberyard/
+* [o3de](https://github.com/o3de/o3de) https://www.o3de.org/
 * [Urho3D](https://github.com/urho3d/Urho3D) lightweight, cross-platform 2D and 3D game engine,Greatly inspired by OGRE and Horde3D.
 * [filament](https://github.com/google/filament):thumbsup: Filament is a physically based rendering engine for Android, Windows, Linux and macOS
 * [Falcor](https://github.com/NVIDIAGameWorks/Falcor) Real-Time Rendering Framework, NVIDIA
@@ -71,6 +71,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine https://godotengine.org
 * [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more 
 * [SpartanEngine](https://github.com/PanosK92/SpartanEngine) Game engine with an emphasis on architectual quality and performance
+* [ETEngine](https://github.com/Illation/ETEngine) Realtime 3D Game-Engine with a focus on space sim. Written in C++ 14
 * [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) Flax Engine – multi-platform 3D game engine. https://flaxengine.com/
 * [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
