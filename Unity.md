@@ -65,6 +65,8 @@
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer) ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
+* [ThryEditor](https://github.com/Thryrallo/ThryEditor)  :thumbsup:  General Unity Shader Inspector/Editor with focus on vrchat
+* [LWGUI](https://github.com/JasonMa0012/LWGUI) A Lightweight, Flexible, Powerful Shader GUI System for Unity.
 * [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)  You can expose a lot of different shader settings through attributes! 
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) Keeps your screen real-estate clean with refined, compact UX.
