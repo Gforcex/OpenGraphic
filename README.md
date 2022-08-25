@@ -448,6 +448,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [terrain-erosion-3-ways](https://github.com/dandrino/terrain-erosion-3-ways) Three Ways of Generating Terrain with Erosion Features
 * [Webgl-Erosion](https://github.com/LanLou123/Webgl-Erosion) Erosion simulation in Web Browser
 * [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) Cross Platform Professional Procedural Terrain Generation & Texturing Tool
+* [Terrain-Decorator](https://github.com/emrecancubukcu/Terrain-Decorator) lightweight terrain tool for unity3d
 #### Cloud
 * [volsample](https://github.com/huwb/volsample) Research on sampling methods for real-time volume rendering
 * [kode80CloudsUnity3D](https://github.com/kode80/kode80CloudsUnity3D) A realtime volumetric cloud rendering solution for Unity3D. 
@@ -581,7 +582,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [LowpolyOcean](https://github.com/JiongXiaGu/LowpolyOcean) low polygon water effect working in Unity
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
 * [FlatShader](https://github.com/cjurjiu/FlatShader) A very simple shader which performs flatshading without the need for duplicating vertices when building the geometry.
-* [3d-quickhull](https://github.com/karimnaaji/3d-quickhull) Header only 3d quickhull in c99 http://www.karim.naaji.fr/projects/quickhull
 #### Voxel
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain) Unreal Engine 4: Smooth voxel terrian 
 * [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) Voxel plugin for Unreal Engine
@@ -739,6 +739,7 @@ Other.....
 * [hlslpp](https://github.com/redorav/hlslpp) Math library using hlsl syntax with SSE/NEON support 
 * [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
+* [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) Math.NET Numerics numerics.mathdotnet.com
 #### MathInShader
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 #### SH
@@ -844,12 +845,16 @@ Other.....
 * [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D) Ruppert's Delaunay Refinement Algorithm in Unity
 * [unity-delaunay-triangulation](https://github.com/komietty/unity-voronoi) Voronoi mesh generator
 * [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation) Constrained Delaunay Triangulation (CDT) of a random surface domain.
+* [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) Hull, Delaunay and Voronoi algorithms in Unity
+#### Hull
+* [3d-quickhull](https://github.com/karimnaaji/3d-quickhull) Header only 3d quickhull in c99 http://www.karim.naaji.fr/projects/quickhull
+* [qhull](https://github.com/qhull/qhull) Qhull development for www.qhull.org
+* [unity-convexhull](https://github.com/komietty/unity-convexhull) Realtime convexhull generator
 #### Delaunay&Destruction
 * [unity-delaunay](https://github.com/OskarSigvardsson/unity-delaunay) A Delaunay/Voronoi library for Unity, and a simple destruction effect
 * [Boom.unity](https://github.com/OskarSigvardsson/Boom.unity) Destruction effect in unity
 * [ScamScatter](https://github.com/danbystrom/ScamScatter) Open Source Real time procedural mesh destruction for Unity3D
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
-* [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) Hull, Delaunay and Voronoi algorithms in Unity
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) Open source mesh slicing/fracturing utility for Unity
 #### Slicer
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
@@ -993,6 +998,7 @@ Other.....
 * [Unity](https://github.com/Gforcex/OpenGraphic/blob/master/Unity.md) 
 #### DataExchange
 * [Unity-AlembicToVAT](https://github.com/Gaxil/Unity-AlembicToVAT) Alembic to VAT (Vertex Animation Texture) mini tool
+* [Unity3D-VATUtils](https://github.com/Bonjour-Interactive-Lab/Unity3D-VATUtils) Extension of VAT shader form sideFX houdini with various utils for Unity
 * [VFXGraphSandbox](https://github.com/fuqunaga/VFXGraphSandbox) Unity VFX Graph technical experiment.
 * [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
 * [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
