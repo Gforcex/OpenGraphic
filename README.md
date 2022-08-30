@@ -910,6 +910,7 @@ Other.....
 * [hipSYCL](https://github.com/illuhad/hipSYCL) Implementation of SYCL for CPUs, AMD GPUs, NVIDIA GPUs
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 * [moderngpu](https://github.com/moderngpu/moderngpu) Patterns and behaviors for GPU computing
+* [ILGPU](https://github.com/m4rs-mt/ILGPU) ILGPU JIT Compiler for high-performance .Net GPU programs   www.ilgpu.net
 
 ## VFX
 * [UnityExperiments](https://github.com/MaxSigma/UnityExperiments) Collection of experimental Unity Projects
