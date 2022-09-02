@@ -134,10 +134,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [dirtchamber](https://github.com/thefranke/dirtchamber) A mixed reality testing environment for real-time global illumination algorithms 
 * [DXR-Sandbox-GI](https://github.com/steaklive/DXR-Sandbox-GI) Simple DirectX 12 toy framework for testing Global Illumination: Reflective Shadow Mapping, Light Propagation Volume, Voxel Cone Tracing, DXR
 #### PRT
-* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer)
-* [SHTest](https://github.com/dwilliamson/SHTest)
-* [SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
-* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting)
+* [SHTest](https://github.com/dwilliamson/SHTest) Spherical Harmonic Lighting (Direct/Shadowed/Indirect/Subsurface)
+* [SphericalHarmonicLighting](https://github.com/jan-van-bergen/SphericalHarmonicLighting) Global Illumination using Spherical Harmonics
+* [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting) Testing spherical harmonic lighting based on the spherical-harmonic-lighting.pdf
+* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer) undergraduate student course project in Zhejiang University
 #### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
