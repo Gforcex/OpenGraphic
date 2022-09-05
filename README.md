@@ -172,7 +172,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Point Based GI
 * [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
 #### Radiosity
-* [instant_radiosity](https://github.com/cache-tlb/instant_radiosity)
+* [instant_radiosity](https://github.com/cache-tlb/instant_radiosity) Some (simple) global illumination algorithms
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
 * [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 #### Ray tracing
@@ -276,9 +276,9 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## PostProcessing 
 #### Collection
-* [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)
+* [PostProcessing](https://github.com/Unity-Technologies/PostProcessing) Post Processing Stack
 * [reshade-shaders](https://github.com/crosire/reshade-shaders) A collection of post-processing shaders written for ReShade. https://reshade.me
-* [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing)
+* [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing) various post-processing effects for Unity
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects)
 * [Unity_ScreenSpaceTechStack](https://github.com/haolange/Unity_ScreenSpaceTechStack)  This is a package which contains SSAO, SSDiffuse and SSReflection.
 #### AA
@@ -439,7 +439,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [MassiveGrass](https://github.com/mewlist/MassiveGrass) Unity Terrain spawns a large number of grasses along the edge of the tree (shader independent)
 * [RheaGrass](https://github.com/Ryan-Gee/RheaGrass) Rhea is a geometry-shader based grass for Unity's Universal Render Pipeline (URP).
 #### Tree
-* [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine)
+* [Vulkan-Forest-Rendering-Engine](https://github.com/Jiaww/Vulkan-Forest-Rendering-Engine) High-Performance Real-Time Forest Rendering Engine developed using Vulkan
 #### Terrain
 * [Terrain-Topology-Algorithms](https://github.com/Scrawk/Terrain-Topology-Algorithms) Terrain topology algorithms in Unity
 * [tin-terrain](https://github.com/heremaps/tin-terrain) A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes.
@@ -529,9 +529,9 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Camera 
 #### Physically Based Camera
-* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera)
-* [pbc](https://github.com/kiwaiii/pbc)
-* [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera)
+* [Physical-Camera](https://github.com/Unity-Technologies/Physical-Camera) Unity Component that can describes a physical camera's attributes.
+* [pbc](https://github.com/kiwaiii/pbc) Physically based camera
+* [Cat-Physically-Based-Camera](https://github.com/JoachimCoenen/Cat-Physically-Based-Camera) a physically based camera component for Unity
 #### DOF
 * [HexBokehBlur](https://github.com/zigguratvertigo/HexBokehBlur) Hexagonal Bokeh Blur
 * [BokehDepthOfField](https://github.com/Erfan-Ahmadi/BokehDepthOfField) Implementing Different Algorithms to mimic Bokeh Depth Of Field: A Physical Camera Effect created due to Focal Length, Aperture size, shape
@@ -1120,6 +1120,7 @@ Other.....
 * [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 * [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
+* [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) Simple fake Physics for UnrealEngine4 & 5
 #### IK
 * [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
 #### Skin
