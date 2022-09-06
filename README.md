@@ -335,6 +335,7 @@ Graphic Engine &amp; Game Engine open source list！
 ##### SVBRDF
 * [svbrdf-oculus](https://github.com/jknuuttila/svbrdf-oculus) materials from Two-Shot SVBRDF Capture for Stationary Materials by Aittala et al (2015).
 * [Matmorpher](https://github.com/AlbanGauthier/Matmorpher) Code repository for the EGSR 2021 paper MatMorpher: A Morphing Operator for SVBRDFs
+* [DeepInverseRendering](https://github.com/msraig/DeepInverseRendering) Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images
 #### BSSRDF
 * [Subsurface-Light-Transport-Raytracer](https://github.com/curranmax/Subsurface-Light-Transport-Raytracer)
 * [SingleScatteringEditing](https://github.com/ykcadcg/SingleScatteringEditing)
