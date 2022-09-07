@@ -93,9 +93,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
 * [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
+* [mitsuba2](https://github.com/mitsuba-renderer/mitsuba3) :thumbsup:  Mitsuba 3: A Retargetable Forward and Inverse Renderer http://mitsuba-renderer.org/
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
 * [pbrt](https://github.com/mmp/pbrt-v3) Source code for "Physically Based Rendering: From Theory To Implementation" 
-* [mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) http://mitsuba-renderer.org/
 * [LuxCoreRender](https://github.com/LuxCoreRender) https://www.luxcorerender.org
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 * [taichi](https://github.com/yuanming-hu/taichi) Open Source Computer Graphics Library http://taichi.graphics
