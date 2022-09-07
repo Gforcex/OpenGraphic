@@ -93,12 +93,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
 * [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
-* [mitsuba2](https://github.com/mitsuba-renderer/mitsuba3) :thumbsup:  Mitsuba 3: A Retargetable Forward and Inverse Renderer http://mitsuba-renderer.org/
+* [mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) :thumbsup:  Mitsuba 3: A Retargetable Forward and Inverse Renderer http://mitsuba-renderer.org/
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
 * [pbrt](https://github.com/mmp/pbrt-v3) Source code for "Physically Based Rendering: From Theory To Implementation" 
 * [LuxCoreRender](https://github.com/LuxCoreRender) https://www.luxcorerender.org
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
-* [taichi](https://github.com/yuanming-hu/taichi) Open Source Computer Graphics Library http://taichi.graphics
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
 * [lighthouse2](https://github.com/jbikker/lighthouse2)  Lighthouse 2 framework for real-time ray tracing
 * [etx-tracer](https://github.com/serhii-rieznik/etx-tracer) Physically-based CPU and GPU ray-tracer
@@ -912,6 +911,10 @@ Other.....
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 * [moderngpu](https://github.com/moderngpu/moderngpu) Patterns and behaviors for GPU computing
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) ILGPU JIT Compiler for high-performance .Net GPU programs   www.ilgpu.net
+#### JIT
+* [taichi](https://github.com/taichi-dev/taichi)  Productive & portable high-performance programming in Python.  taichi-lang.org
+* [Halide](https://github.com/halide/Halide) a language for fast, portable data-parallel computation  halide-lang.org
+* [drjit](https://github.com/mitsuba-renderer/drjit) Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
 
 ## VFX
 * [UnityExperiments](https://github.com/MaxSigma/UnityExperiments) Collection of experimental Unity Projects
