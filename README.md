@@ -914,6 +914,7 @@ Other.....
 #### JIT
 * [taichi](https://github.com/taichi-dev/taichi)  Productive & portable high-performance programming in Python.  taichi-lang.org
 * [Halide](https://github.com/halide/Halide) a language for fast, portable data-parallel computation  halide-lang.org
+* [warp](https://github.com/NVIDIA/warp) A Python framework for high performance GPU simulation and graphics
 * [drjit](https://github.com/mitsuba-renderer/drjit) Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
 
 ## VFX
