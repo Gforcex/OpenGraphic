@@ -1031,6 +1031,8 @@ Other.....
 #### Texture
 * [armorpaint](https://github.com/armory3d/armorpaint) :thumbsup:  3D PBR Texture Painting Software https://armorpaint.org
 * [material-maker](https://github.com/RodZill4/material-maker) A procedural textures authoring and 3D model painting tool based on the Godot game engine
+* [FilterJS](https://github.com/CosmoMyzrailGorynych/FilterJS) A node-based procedural texture generator, written in node.js and powered by WebGL
+* [texturelab](https://github.com/njbrown/texturelab) Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 * [Materialize](https://github.com/maikramer/Materialize) Materialize is a program for converting images to materials for use in video games and similars. 
 * [xNormal](http://www.xnormal.net/) A free tool to bake texture maps ( like normal maps and ambient occlusion )
 * [FlowmapPainter](http://teckartist.com/?page_id=107)
