@@ -808,6 +808,7 @@ Other.....
 * [betsy](https://github.com/darksylinc/betsy) Betsy aims to be a GPU compressor for various modern GPU compression formats such as BC6H, purposedly written in GLSL so that it can be easily incorporated into OpenGL and Vulkan projects.
 * [Goofy](https://github.com/SergeyMakeev/Goofy) Goofy - Realtime DXT1/ETC1 encoder
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
+* [ISPCTextureCompressor](https://github.com/GameTechDev/ISPCTextureCompressor) ISPC Texture Compressor
 * [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image comparison tool for graphics people with an emphasis on OpenEXR images.
 * [KtxUnity](https://github.com/atteneder/KtxUnity) :thumbsup: Load KTX and Basis Universal textures at runtime
 * [qoi](https://github.com/phoboslab/qoi) The “Quite OK Image” format for fast, lossless image compression
