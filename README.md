@@ -705,6 +705,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Transparency
 * [unity-dithered-transparency-shader](https://github.com/gkjohnson/unity-dithered-transparency-shader) Unity material and shader for applying clipped, dithered transparency
+* [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
 * [PreMulAlpha](https://github.com/dtrebilco/PreMulAlpha)  Pre-Multiplied blend mode  
 #### OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
@@ -795,7 +796,6 @@ Other.....
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick) create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) 
 * [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator
-* [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
 * [psd_sdk](https://github.com/MolecularMatters/psd_sdk) A C++ library that directly reads Photoshop PSD files. 
 * [hdrview](https://github.com/wkjarosz/hdrview) High-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities.
 #### VectorGraphics
@@ -1036,8 +1036,9 @@ Other.....
 #### Visual Effects
 * [gaffer](https://github.com/GafferHQ/gaffer)  A open source application framework designed specifically for creating tools for use in visual effects production.
 * [cortex](https://github.com/ImageEngine/cortex) Libraries for visual effects software development
-#### Texture
+#### Procedural Texture
 * [armorpaint](https://github.com/armory3d/armorpaint) :thumbsup:  3D PBR Texture Painting Software https://armorpaint.org
+* [Mixture](https://github.com/alelievr/Mixture) :thumbsup: Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime
 * [material-maker](https://github.com/RodZill4/material-maker) A procedural textures authoring and 3D model painting tool based on the Godot game engine
 * [FilterJS](https://github.com/CosmoMyzrailGorynych/FilterJS) A node-based procedural texture generator, written in node.js and powered by WebGL
 * [texturelab](https://github.com/njbrown/texturelab) Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
