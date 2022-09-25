@@ -743,6 +743,7 @@ Other.....
 * [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 * [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) Math.NET Numerics numerics.mathdotnet.com
+* [MathUtilities](https://github.com/zalo/MathUtilities) :thumbsup: A collection of some of the neat math and physics tricks that I've collected over the last few years. 
 * [just_math](https://github.com/ramakarl/just_math) Just Math - A collection of pure math demos for computer graphics.
 #### MathInShader
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
@@ -994,6 +995,8 @@ Other.....
 * [unity-solidwire-shader](https://github.com/Milun/unity-solidwire-shader) A simple shader which renders stylized wireframes while staying true (within reason) to the visual style of the Vectrex
 #### Growth
 * [hedera](https://github.com/radiatoryang/hedera) paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
+#### BleedingEdge
+* [BleedingEdgeEffects_GDC_2020](https://github.com/asaia/BleedingEdgeEffects_GDC_2020) Demo Project for Bleeding Edge Effects on Mobile 2020 GDC talk
 #### VFXGraph
 * [HDRP-Fluvio](https://github.com/miketucker/HDRP-Fluvio) Some early tests of FluvioFX with VFX Graph and HDRP
 #### Compute Shader Effect
