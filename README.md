@@ -186,6 +186,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Volumetric-Path-Tracer](https://github.com/sergeneren/Volumetric-Path-Tracer) Volumetric path tracer using cuda
 * [simple-spectral](https://github.com/imallett/simple-spectral) A Simple Spectral Renderer
 #### RTX
+* [Q2RTX](https://github.com/NVIDIA/Q2RTX)  NVIDIA’s implementation of RTX ray-tracing in Quake II [zyanidelab/Q2RTX](https://github.com/zyanidelab/Q2RTX)
 * [Quartz](https://github.com/Nadrin/Quartz)  Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language.
 * [DXRPathTracer](https://github.com/TheRealMJP/DXRPathTracer)  A (very) simple path tracer implemented using DirectX Ray Tracing (DXR)
 * [WispRenderer](https://github.com/TeamWisp/WispRenderer) RTX Ray Tracing Renderer, made by Y3 students at Breda University of Applied Science https://teamwisp.github.io
@@ -195,6 +196,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [PBRVulkan](https://github.com/Zielon/PBRVulkan) Vulkan Real-time Path Tracer Engine
 * [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 * [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
+#### ReSTIR
+* [VolumetricReSTIRRelease](https://github.com/DQLin/VolumetricReSTIRRelease) SIGGRAPH Asia 2021 paper "Fast Volume Rendering with Spatiotemporal Reservoir Resampling"
 #### Metropolis Light Transport
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
@@ -740,6 +743,7 @@ Other.....
 * [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 * [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) Math.NET Numerics numerics.mathdotnet.com
+* [just_math](https://github.com/ramakarl/just_math) Just Math - A collection of pure math demos for computer graphics.
 #### MathInShader
 * [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs) Shader libraries for fast shader opetations.
 #### SH
@@ -818,7 +822,7 @@ Other.....
 #### Color
 * [OpenColorIO](https://github.com/imageworks/OpenColorIO) A color management framework for visual effects and animation http://opencolorio.org
 * [GLSL-Color-Spaces](https://github.com/tobspr/GLSL-Color-Spaces) Utility functions to convert between various color spaces in GLSL
-* [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org
+* [colour](https://github.com/colour-science/colour) Colour Science for Python https://www.colour-science.org  [colour-unity](https://github.com/colour-science/colour-unity)   
 * [color](https://github.com/dmilos/color) ++ library thats implemets class color. Available models: RGB, HSL, HSV, CMY, CMYK, YIQ, YUV and growing.  
 * [colormap-shaders](https://github.com/kbinani/colormap-shaders) A collection of shaders to draw color maps.
 
@@ -1112,6 +1116,7 @@ Other.....
 
 ## Animation
 * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
+* [DMotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
 * [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
