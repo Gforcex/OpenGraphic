@@ -796,8 +796,10 @@ Other.....
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) A cross-platform library for the processing of image files; written in C#
 * [ImageMagick](https://github.com/ImageMagick/ImageMagick) create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) 
 * [ImageViewer](https://github.com/kopaka1822/ImageViewer) HDR, PFM, DDS, KTX, EXR, PNG, JPG, BMP image viewer and manipulator
+* [GIMP](https://github.com/GNOME/gimp) The GNU Image Manipulation Program
 * [psd_sdk](https://github.com/MolecularMatters/psd_sdk) A C++ library that directly reads Photoshop PSD files. 
 * [hdrview](https://github.com/wkjarosz/hdrview) High-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities.
+* [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
 #### VectorGraphics
 * [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)
   
@@ -1050,7 +1052,6 @@ Other.....
 * [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
 * [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
-* [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
 * [TextureGenerator](https://github.com/mtwoodard/TextureGenerator) 3D and 2D Noise/Texture generation using the compute shaders within the Unity engine.
 #### Atlas 
 * [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) Boundary First Flattening (BFF) is a free and open source application for surface parameterization.
