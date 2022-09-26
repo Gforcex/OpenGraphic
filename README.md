@@ -1089,6 +1089,9 @@ Other.....
 #### ML Texture
 * [Text2Light](https://github.com/FrozenBurning/Text2Light) [SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation
 * [texturize](https://github.com/texturedesign/texturize) Generate photo-realistic textures based on source images. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
+* [Exposure_Correction](https://github.com/mahmoudnafifi/Exposure_Correction) Project page of the paper "Learning Multi-Scale Photo Exposure Correction" (CVPR 2021).
+* [Deep_White_Balance](https://github.com/mahmoudnafifi/Deep_White_Balance) Reference code for the paper: Deep White-Balance Editing (CVPR 2020). Our method is a deep learning multi-task framework for white-balance editing.
+* [HiDT](https://github.com/saic-mdal/HiDT) Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 * [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) Segmentation models with pretrained backbones. PyTorch.
 
 ## SDK&Tutorial
