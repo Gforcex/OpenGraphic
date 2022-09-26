@@ -26,7 +26,7 @@
 
 ### Fluid
 * [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
-* [VorteGrid](https://github.com/mijagourlay/VorteGrid) VorteGrid: Interactive Fluid Simulation for Games and Movies
+* [VorteGrid](https://github.com/mijagourlay/VorteGrid) :thumbsup:  VorteGrid: Interactive Fluid Simulation for Games and Movies
 * [aphros](https://github.com/cselab/aphros) Finite volume solver for incompressible multiphase flows with surface tension. Foaming flows in complex geometries.
 * [fluviofx](https://github.com/fluviofx/fluviofx) Fluid dynamics for Unity's VFX graph https://getfluv.io
 * [creamystrand](https://github.com/nepluno/creamystrand) A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid
