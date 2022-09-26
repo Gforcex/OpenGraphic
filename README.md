@@ -1082,6 +1082,15 @@ Other.....
 * [BuGLe](https://sourceforge.net/projects/bugle/) BuGLe combines a graphical OpenGL debugger with a selection of filters on the OpenGL command stream. 
 * Other: **gDEBugger**, **NVIDIA Nsight**, **Microsoft PIX**
 
+#### ML Modeling
+* [GET3D](https://github.com/nv-tlabs/GET3D) A Generative Model of High Quality 3D Textured Shapes Learned from Images (NeurIPS 2022)
+* [MeshCNN](https://github.com/ranahanocka/MeshCNN) Convolutional Neural Network for 3D meshes in PyTorch
+* [points2surf](https://github.com/ErlerPhilipp/points2surf) Learning Implicit Surfaces from Point Clouds (ECCV 2020)
+#### ML Texture
+* [Text2Light](https://github.com/FrozenBurning/Text2Light) [SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation
+* [texturize](https://github.com/texturedesign/texturize) Generate photo-realistic textures based on source images. Remix, remake, mashup! Useful if you want to create variations on a theme or elaborate on an existing texture.
+* [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) Segmentation models with pretrained backbones. PyTorch.
+
 ## SDK&Tutorial
 #### SDK Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
