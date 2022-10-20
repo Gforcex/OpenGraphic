@@ -744,6 +744,7 @@ Other.....
 * [vml](https://github.com/valentingalea/vml)  C++17 GLSL-like vector and matrix math lib
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 * [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) Math.NET Numerics numerics.mathdotnet.com
+* [Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
 * [MathUtilities](https://github.com/zalo/MathUtilities) :thumbsup: A collection of some of the neat math and physics tricks that I've collected over the last few years. 
 * [just_math](https://github.com/ramakarl/just_math) Just Math - A collection of pure math demos for computer graphics.
 #### MathInShader
