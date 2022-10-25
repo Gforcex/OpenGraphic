@@ -61,6 +61,7 @@
 ## InspectorGUI
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
+* [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) A Unity Editor extension for customizing inspector layout with attributes.
 * [MyBox](https://github.com/Deadcows/MyBox) MyBox is a set of attributes, tools and extensions for Unity
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer) ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
