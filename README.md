@@ -113,7 +113,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [coco3d](http://coco3d.codeplex.com/) Coco3D is a real-time 3D software renderer for Windows PCs and mobile devices
 * [muli3d](https://sourceforge.net/projects/muli3d/)  implements features of current graphics hardware in software. The focus is on ease of use and clear code
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
-* [Mesa3D](https://gitlab.freedesktop.org/mesa/mesa) https://www.mesa3d.org
+* [mesa](https://gitlab.freedesktop.org/mesa/mesa) :thumbsup: https://www.mesa3d.org
 * [renderer](https://github.com/zauonlok/renderer)  A shader-based software renderer written from scratch in C89 https://zauonlok.github.io/renderer/
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
 * [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
@@ -121,6 +121,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [SoftRas](https://github.com/ShichenLiu/SoftRas)  Project page of paper "Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning"
 * [grr](https://github.com/kecho/grr) Gpu Renderer and Rasterizer - for python
 * [virglrenderer](https://gitlab.freedesktop.org/virgl/virglrenderer/) VirGL virtual OpenGL renderer
+* [AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) AMD Open Source Driver For Vulkan
+* [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) NVIDIA Linux open GPU kernel module source
 
 ## Rendering Design
 * [DataDrivenRendering](https://github.com/JorenJoestar/DataDrivenRendering) Data Driven Rendering repository
@@ -1030,7 +1032,7 @@ Other.....
 * [ShaderConductor](https://github.com/microsoft/ShaderConductor) ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
 * [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) A .NET Standard 2.1 library to run C# code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders
-* [ShaderDebugger](https://github.com/dfranx/ShaderDebugger) C++ library for debugging HLSL & GLSL shaders
+* [SPIRV-VM](https://github.com/dfranx/SPIRV-VM) Virtual machine for executing SPIR-V
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) Console-based GLSL Sandbox for 2D/3D shaders shaders
