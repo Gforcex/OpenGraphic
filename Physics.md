@@ -1,5 +1,6 @@
 ## Physics
 ### Library
+* [PhysX](https://github.com/NVIDIA-Omniverse/PhysX) NVIDIA PhysX SDK
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [ODE](https://www.ode.org/) Open Dynamics Engine
