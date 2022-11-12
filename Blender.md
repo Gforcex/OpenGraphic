@@ -21,3 +21,4 @@
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) A Blender add-on to import models from google maps
 * [b3dsdf](https://github.com/williamchange/b3dsdf) A toolkit of 2D/3D signed distance functions and sdf/vector operator nodegroups(135+) for Blender 2.83+. Also available as an addon which adds a menu in the shader editor.
 * [dream-textures](https://github.com/carson-katri/dream-textures) Stable Diffusion built-in to the Blender shader editor
+* [AI-Render](https://github.com/benrugg/AI-Render) Stable Diffusion in Blender
