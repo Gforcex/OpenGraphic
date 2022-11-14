@@ -957,7 +957,6 @@ Other.....
 * [driven-decals](https://github.com/Anatta336/driven-decals) A mesh-based PBR decal system for Unity's universal render pipeline.
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray) Draw spray to 3D model with Unity.
 * [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
-* [unity_coneofsightfx](https://github.com/joscanper/unity_coneofsightfx) This project shows how to implement Commandos cone of sight fx in Unity3D.
 * [DMDecalBuffer](https://github.com/DMeville/DMDecalBuffer) Rendering decals to an offscreen buffer in URP for shader effects
 * [SkinnedMeshDecals](https://github.com/naelstrof/SkinnedMeshDecals) An example of rendering decals on SkinnedMesh Renderers in Unity.
 #### OutLine
@@ -1003,12 +1002,15 @@ Other.....
 * [hedera](https://github.com/radiatoryang/hedera) paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
 #### BleedingEdge
 * [BleedingEdgeEffects_GDC_2020](https://github.com/asaia/BleedingEdgeEffects_GDC_2020) Demo Project for Bleeding Edge Effects on Mobile 2020 GDC talk
+#### Cone Light
+* [GPU-Line-of-Sight](https://github.com/EntroPi-Games/GPU-Line-of-Sight) GPU Line of Sight / Field of View visualization for Unity
+* [unity_coneofsightfx](https://github.com/joscanper/unity_coneofsightfx) This project shows how to implement Commandos cone of sight fx in Unity3D.
+* [VisionConeDemo](https://github.com/phanshaw/VisionConeDemo) A demo of using URP RenderFeatures to add a vision cone rendering pass
 #### VFXGraph
 * [HDRP-Fluvio](https://github.com/miketucker/HDRP-Fluvio) Some early tests of FluvioFX with VFX Graph and HDRP
 #### Compute Shader Effect
 * [FinalAudition](https://github.com/bonzajplc/FinalAudition) A complete remake of 2005 demo "Final Audition" by Plastic
 #### Others
-* [GPU-Line-of-Sight](https://github.com/EntroPi-Games/GPU-Line-of-Sight) GPU Line of Sight / Field of View visualization for Unity
 * [Anime-Speed-Lines](https://github.com/MirzaBeig/Anime-Speed-Lines) Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.
 
 ## Tools
