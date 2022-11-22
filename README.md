@@ -816,6 +816,7 @@ Other.....
 * [bc7enc](https://github.com/richgel999/bc7enc) Single source file BC1-5 and BC7 encoders and BC1-5/7 decoders with MIT or Public Domain licenses
 * [bcdec](https://github.com/iOrange/bcdec) Small header-only C library to decompress any BC compressed image
 * [astc-encoder](https://github.com/ARM-software/astc-encoder) This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
+* [brotli_g_sdk](https://github.com/GPUOpen-LibrariesAndSDKs/brotli_g_sdk) Brotli-G SDK provides an improved lossless compression ratio with GPU decompression support than the standard Brotli compression algorithm maintained by the IETF (also known as RFC7932)
 * [betsy](https://github.com/darksylinc/betsy) Betsy aims to be a GPU compressor for various modern GPU compression formats such as BC6H, purposedly written in GLSL so that it can be easily incorporated into OpenGL and Vulkan projects.
 * [Goofy](https://github.com/SergeyMakeev/Goofy) Goofy - Realtime DXT1/ETC1 encoder
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
