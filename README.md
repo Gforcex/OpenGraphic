@@ -589,6 +589,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Lowpoly-Water-Unity](https://github.com/danielzeller/Lowpoly-Water-Unity) Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley.  
 * [FlatShader](https://github.com/cjurjiu/FlatShader) A very simple shader which performs flatshading without the need for duplicating vertices when building the geometry.
 #### Voxel
+* [Magicavoxel](https://github.com/ephtracy/ephtracy.github.io/releases) http://ephtracy.github.io/
 * [UE4VoxelTerrain](https://github.com/bw2012/UE4VoxelTerrain) Unreal Engine 4: Smooth voxel terrian 
 * [VoxelPlugin](https://github.com/Phyronnaz/VoxelPlugin) Voxel plugin for Unreal Engine
 * [voxelizer](https://github.com/karimnaaji/voxelizer)  Header only mesh voxelizer in c99 
