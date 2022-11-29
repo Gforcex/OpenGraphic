@@ -164,6 +164,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [MAGE](https://github.com/matt77hias/MAGE) Game and rendering engine featuring both forward and deferred PBR (physically-based rendering) pipelines with optional indirect illumination using Voxel Cone Tracing.
 * [VoxelConeTracing](https://github.com/domme/VoxelConeTracing) An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin
 * [VCTGI](https://github.com/rdinse/VCTGI) GPU-based real-time global illumination renderer based on voxel cone tracing
+* [DXE](https://github.com/LanLou123/DXE) A voxel cone traced realtime Global Illumination rendering engine in dx12, wip
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
