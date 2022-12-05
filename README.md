@@ -604,6 +604,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [unity-voxel](https://github.com/mattatz/unity-voxel) Mesh voxelization for Unity.
 * [tsdf-fusion](https://github.com/andyzeng/tsdf-fusion) Fuse multiple depth frames into a TSDF voxel volume.
 * [Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain) Marching Cubes terrain implementation in Unity using the Job System and the Burst compiler
+* [smoothvoxels](https://github.com/jel-app/smoothvoxels) 
 
 ## Volume Rendering
 #### RayMarch
