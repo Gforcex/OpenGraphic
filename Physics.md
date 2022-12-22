@@ -76,9 +76,9 @@
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
 * [Fusion](https://github.com/Ninjajie/Fusion) Unity Physics on GPU
 * [opencloth](https://github.com/mmmovania/opencloth) A collection of source codes implementing cloth simulation algorithms in OpenGL 
-* [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About
-Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
+* [GPUClothSimulationInUnity](https://github.com/voxell-tech/GPUClothSimulationInUnity) About Trying to replicate what this legend did: https://youtu.be/kCGHXlLR3l8
 * [sheen](https://github.com/sciecode/sheen) GPGPU cloth simulation
+* [simulator](https://github.com/sutongkui/simulator) It's a GPU-based real time cloth simulator and interactive.
 * [ClothSimulation](https://github.com/johnBuffer/ClothSimulation) Basic cloth simulation using Verlet integration
 
 ### Softbodie
