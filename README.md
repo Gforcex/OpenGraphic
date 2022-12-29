@@ -103,6 +103,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [etx-tracer](https://github.com/serhii-rieznik/etx-tracer) Physically-based CPU and GPU ray-tracer
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
+* [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
 * [fermat](https://github.com/NVlabs/fermat) a high performance research oriented physically based rendering system, trying to produce beautiful pictures following the mathematician’s principle of least time
 
@@ -924,7 +925,6 @@ Other.....
 
 ## Util
 * [stb](https://github.com/nothings/stb)
-* [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [debug-draw](https://github.com/glampert/debug-draw)
 #### GPGPU
 * [arrayfire](https://github.com/arrayfire/arrayfire) ArrayFire: a general purpose GPU library.
