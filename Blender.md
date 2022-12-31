@@ -1,3 +1,4 @@
+* [awesomeblend](https://github.com/Davetmo/awesomeblend) A curated list of awesome Blender add-ons, tools, tutorials and resources for 3D Artists, Hobbyists, Developers, Researchers. Focused mostly open source and free resources. Blender 2.8+ compatible list.
 
 * [MB-Lab](https://github.com/animate1978/MB-Lab) MB-Lab is a character creation tool for Blender 2.80, based off ManuelBastioniLAB https://www.mblab.dev
 * [DreamUV](https://github.com/leukbaars/DreamUV) DreamUV is a collection of tools that allow you to manipulate UVs in the 3D viewport.
