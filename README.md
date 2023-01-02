@@ -281,6 +281,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Precomputed-Shadow-Fields-for-Dynamic-Scenes](https://github.com/nblintao/Precomputed-Shadow-Fields-for-Dynamic-Scenes) A realization of computing soft shadow by shadow fields
 * [voxelized-shadows-improved](https://github.com/loinesg/voxelized-shadows-improved) Construction and sampling of precomputed shadows in a compressed voxel octree
 * [DeepShadowMap](https://github.com/ecidevilin/DeepShadowMap) Real-Time Deep Shadow Maps for Unity3D
+* [CachedShadowMaps](https://github.com/aivclab/CachedShadowMaps) Cached Shadow Map Solution for Unity
 
 ## PostProcessing 
 #### Collection
@@ -678,6 +679,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
 #### Octree&Quadtree
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
+* [NativeTrees](https://github.com/bartofzo/NativeTrees) Burst compatible Octree and Quadtree for Unity
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
 * [ECS-Octree](https://github.com/Antypodish/ECS-Octree) Unity ECS based octree.
 * [ooc_svo_builder](https://github.com/Forceflow/ooc_svo_builder) Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation
@@ -783,11 +785,12 @@ Other.....
 ## Image&Color
 #### Noise
 * [procedural-tileable-shaders](https://github.com/tuxalin/procedural-tileable-shaders) Collection of tileable procedural textures such as: cellular noise, fbm, voronoi, perlin and other.
-* [FastNoise](https://github.com/Auburns/FastNoise) Fast C++ Noise Library. Others Version: C++/C#/SIMD/Unity/Unreal
+* [FastNoiseLite](https://github.com/Auburn/FastNoiseLite) Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL
+* [FastNoise2](https://github.com/Auburn/FastNoise2) Modular node graph based noise generation library using SIMD, C++17 and templates
 * [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) [libnoise](http://libnoise.sourceforge.net/index.html) Coherent noise library for Unity, a port of LibNoise
 * [webgl-noise](https://github.com/stegu/webgl-noise) :star: Procedural Noise Shader Routines compatible with WebGL
-* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
 * [Wombat](https://github.com/BrianSharpe/Wombat) An efficient texture-free GLSL procedural noise library
+* [GPU-Noise-Lib](https://github.com/BrianSharpe/GPU-Noise-Lib) Optimized GPU noise functions and utilities http://briansharpe.wordpress.com/
 * [NoiseShader](https://github.com/keijiro/NoiseShader) Noise shader library for Unity
 * [OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2) Successors to OpenSimplex Noise, plus updated OpenSimplex.
 * [Accidental Noise Library](http://accidentalnoise.sourceforge.net/) generating Perlin noise and other forms of noise in a modular fashion.
@@ -1084,6 +1087,7 @@ Other.....
 * [texture-defrag](https://github.com/maggio-a/texture-defrag) Texture Defragmentation for Photo-Reconstructed 3D Models 
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
+* [tracy](https://github.com/wolfpld/tracy) A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.
 * [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [LPGPU2-CodeXL](https://github.com/codeplaysoftware/LPGPU2-CodeXL) LPGPU2 CodeXL power performance analysis and feedback tool for GPUs
 * [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
@@ -1109,6 +1113,10 @@ Other.....
 * [HiDT](https://github.com/saic-mdal/HiDT) Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 * [MODNet](https://github.com/ZHKKKe/MODNet) A Trimap-Free Portrait Matting Solution in Real Time [AAAI 2022]
 * [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) Segmentation models with pretrained backbones. PyTorch.
+* [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) Stable Diffusion web UI
+* [dream-textures](https://github.com/carson-katri/dream-textures) Stable Diffusion built-in to the Blender shader editor
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+* [lama-cleaner](https://github.com/Sanster/lama-cleaner) Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
 ## SDK&Tutorial
 #### SDK Samples
