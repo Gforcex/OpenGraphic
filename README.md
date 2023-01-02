@@ -867,10 +867,12 @@ Other.....
 * [voronoi](https://github.com/JCash/voronoi) A C implementation for creating 2D voronoi diagrams
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes  [poly2tri-cs](https://github.com/MaulingMonkey/poly2tri-cs)  
 * [CDT](https://github.com/artem-ogre/CDT) C++ library for constrained Delaunay triangulation (CDT)
+* [delaunator](https://github.com/mapbox/delaunator) An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 * [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D) Ruppert's Delaunay Refinement Algorithm in Unity
 * [unity-delaunay-triangulation](https://github.com/komietty/unity-voronoi) Voronoi mesh generator
 * [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation) Constrained Delaunay Triangulation (CDT) of a random surface domain.
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) Hull, Delaunay and Voronoi algorithms in Unity
+* [BurstTriangulator](https://github.com/andywiecko/BurstTriangulator) 2d Delaunay triangulation with mesh refinement for Unity with Burst compiler
 #### Hull
 * [3d-quickhull](https://github.com/karimnaaji/3d-quickhull) Header only 3d quickhull in c99 http://www.karim.naaji.fr/projects/quickhull
 * [qhull](https://github.com/qhull/qhull) Qhull development for www.qhull.org
@@ -1116,6 +1118,7 @@ Other.....
 * [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) Stable Diffusion web UI
 * [dream-textures](https://github.com/carson-katri/dream-textures) Stable Diffusion built-in to the Blender shader editor
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+* [TecoGAN](https://github.com/thunil/TecoGAN) a TEmporally COherent GAN for video super-resolution.
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
 ## SDK&Tutorial
