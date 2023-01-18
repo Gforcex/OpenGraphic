@@ -885,6 +885,7 @@ Other.....
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) Open source mesh slicing/fracturing utility for Unity
 #### Slicer
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice) An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
+* [Unity-Plane-Mesh-Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter) Split large meshes in Unity into smaller submeshes
 #### Modeling
 * [Dust3D](https://github.com/huxingyi/dust3d) :thumbsup: a cross-platform 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one. https://dust3d.org/  
 * [meshlab](https://github.com/cnr-isti-vclab/meshlab) MeshLab is mostly based on the mesh processing library VCGlib
