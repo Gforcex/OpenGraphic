@@ -5,6 +5,7 @@
 * [nvjob-boids](https://github.com/nvjob/nvjob-boids) #NVJOB Simple Boids (Flocks of Birds, Fish and Insects). Flocking Simulation. nvjob.github.io/unity/nvjob-boids
 * [DragonSpace-Demo](https://github.com/Appleguysnake/DragonSpace-Demo) A simple boids simulation to show the difference between spatial partitioning structures
 * [Unity-Flocking-CPU-GPU](https://github.com/CristianQiu/Unity-Flocking-CPU-GPU) CPU and GPU flocking implementations in the Unity game engine. Based on Unity's ECS implementation using DOTS, presented by Mike Acton.
+* [unity-jobsystem-boids](https://github.com/komietty/unity-jobsystem-boids) Superfast CPU boids for Unity
 
 #### WaveFunctionCollapse
 * [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) Walk through an infinite, procedurally generated city
