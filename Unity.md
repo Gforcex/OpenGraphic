@@ -63,6 +63,7 @@
 * [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)  Free and open-source library that improves unity inspector. 
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
 * [UnityFoldoutDecorator](https://github.com/giuliano-marinelli/UnityFoldoutDecorator) Foldout as a Decorator for group variables in Unity Script Inspector
+* [InspectorFoldoutGroup](https://github.com/PixeyeHQ/InspectorFoldoutGroup) Group variables in Unity 3d inspector with style!
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) A Unity Editor extension for customizing inspector layout with attributes.
 * [MyBox](https://github.com/Deadcows/MyBox) MyBox is a set of attributes, tools and extensions for Unity
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
