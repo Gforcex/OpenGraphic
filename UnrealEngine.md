@@ -14,3 +14,4 @@
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) Unreal Engine 4 .NET 5 integration
 * [optick](https://github.com/bombomby/optick) C++ Profiler For Games
 * [HLSLMaterial](https://github.com/Phyronnaz/HLSLMaterial) HLSL Material for Unreal Engine
+* [UEMaterials](https://github.com/DarknessFX/UEMaterials) DarknessFX Collection of Unreal Engine Materials
