@@ -24,6 +24,13 @@
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
 * [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Il2CppInspector helps you to reverse engineer IL2CPP applications, providing the most complete analysis currently available.
+#### Disassembly
+* [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+* [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
+* [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
+* [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Powerful automated tool for reverse engineering Unity IL2CPP binaries www.djkaty.com
+* [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) Work-in-progress tool to reverse unity's IL2CPP toolchain.
 #### Profiler
 * [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
 * [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
@@ -52,8 +59,6 @@
 * [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
 #### Others
 * [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
-
-* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
 
 * [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)  A NuGet Package Manager for Unity
