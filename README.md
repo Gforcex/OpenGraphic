@@ -1164,10 +1164,11 @@ Other.....
 * [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) open source c++ 3d skeletal animation library and toolset
 * [DMotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
+* [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker) Animation Texture Baker for Unity
+* [VertexAnimation](https://github.com/Maximilian-Winter/VertexAnimation) Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
 * [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
-* [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker) Animation Texture Baker for Unity
 * [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
 * [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
