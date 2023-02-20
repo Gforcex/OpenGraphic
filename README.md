@@ -318,6 +318,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Tone Mapping
 * [tonemapper](https://github.com/tizian/tonemapper)
 * [aces-dev](https://github.com/ampas/aces-dev)  AMPAS Academy Color Encoding System Developer Resources http://www.oscars.org/aces
+* [tony-mc-mapface](https://github.com/h3r2tic/tony-mc-mapface) Takes HDR Rec.709/sRGB stimulus, and maps it to LDR. It's tranquil and collected, and won't set your eyes ablaze.
 #### ImageProcess
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
