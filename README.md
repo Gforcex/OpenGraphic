@@ -319,15 +319,17 @@ Graphic Engine &amp; Game Engine open source list！
 * [tonemapper](https://github.com/tizian/tonemapper)
 * [aces-dev](https://github.com/ampas/aces-dev)  AMPAS Academy Color Encoding System Developer Resources http://www.oscars.org/aces
 * [tony-mc-mapface](https://github.com/h3r2tic/tony-mc-mapface) Takes HDR Rec.709/sRGB stimulus, and maps it to LDR. It's tranquil and collected, and won't set your eyes ablaze.
-#### ImageProcess
-* [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects)
+#### ProceduralProcessing
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
 * [Procedural-painting](https://github.com/IRCSS/Procedural-painting) Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms
 * [Waifu2xBarracuda](https://github.com/keijiro/Waifu2xBarracuda) Waifu2x Unity Barracuda implementation
 * [barracuda-style-transfer](https://github.com/UnityLabs/barracuda-style-transfer) Companion code for the Unity Style Transfer blog post, showcasing realtime style transfer using Barracuda. 
 * [triangle](https://github.com/esimov/triangle) Convert images to computer generated art using delaunay triangulation
+#### ImageFilter
+* [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects) Post Processing Effects for Unity
 * [android-gpuimage](https://github.com/cats-oss/android-gpuimage) Android filters based on OpenGL (idea from GPUImage for iOS)
+* [NonuniformBlur](https://github.com/StarsX/NonuniformBlur) A very fast approximation to large-kernel Gaussian blur with nonuniform blur radii, by making use of box-filtered mip maps V-cycle 
 #### Compression
 * [JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D](https://github.com/JanMalitschek/JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D) This package aims to accurately recreate the effect of JPEG/MP4 compression as a PostProcessing Effect
 
@@ -430,6 +432,7 @@ Graphic Engine &amp; Game Engine open source list！
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
 * Eric.Bruneton's paper "an improved version using an FFT method to synthesize the surface."
 [Eric.Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/)  [Brunetons-Ocean](https://github.com/Scrawk/Brunetons-Ocean)
+* [tgda](https://github.com/eiszapfen2000/tgda) A real-time capable implementation of Tessendorf's choppy wave algorithm [Tessendorf1999a], augmented with wave spectrum models from oceanographic research
 #### Snow
 * [Unity-IndentShader](https://github.com/wacki/Unity-IndentShader) http://wacki.me/blog/2017/01/dynamic-snow-sand-shader-for-unity/
 * [SnowDeformation](https://github.com/vanish87/SnowDeformation) To create a snow accumulation and deformation effect along with physical based rendering
@@ -945,6 +948,8 @@ Other.....
 * [Halide](https://github.com/halide/Halide) a language for fast, portable data-parallel computation  halide-lang.org
 * [warp](https://github.com/NVIDIA/warp) A Python framework for high performance GPU simulation and graphics
 * [drjit](https://github.com/mitsuba-renderer/drjit) Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
+#### GPU
+* [perftest](https://github.com/sebbbi/perftest) GPU texture/buffer performance tester
 
 ## VFX
 * [UnityExperiments](https://github.com/MaxSigma/UnityExperiments) Collection of experimental Unity Projects
