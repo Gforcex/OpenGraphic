@@ -60,6 +60,7 @@
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
 * [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) physically-based simulation of fluids.
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
+* [blub](https://github.com/Wumpf/blub) 3D fluid simulation experiments in Rust, using WebGPU-rs (WIP)
 * [RealTimeFluids](https://github.com/IshanRanade/RealTimeFluids) An open-source repository featuring real-time Eulerian fluid simulation and rendering 
 * [FluidSimulation](https://github.com/amandaghassaei/FluidSimulation) WebGL shader for mixed grid-particle fluid simulation
 * [Fluid_Simulation](https://github.com/kbladin/Fluid_Simulation) Self advection, external force and pressure solve to a velocity field represented by a MaC grid.
