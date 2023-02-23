@@ -390,6 +390,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering) Micro Detail Fabric Shader
 #### Silk
 #### Fur
+* [UnityFurURP](https://github.com/hecomi/UnityFurURP) Fur shader implementation for URP
 * [FurRendering](https://github.com/jose-villegas/FurRendering) Fur rendering in Unity with Shell Texturing
 * [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
 * [GIFT_PorterDoll](https://github.com/marza-realtime/GIFT_PorterDoll) PorterDoll Asset wtih "THE GIFT"
