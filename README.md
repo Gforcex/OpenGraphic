@@ -144,6 +144,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer) undergraduate student course project in Zhejiang University
 #### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
+* [RealTimeGI](https://github.com/PolyAH/RealTimeGI) Real-Time Global Illumination - University of Leeds MSc Project.
+* [Precomputed-Light-Field-Probes](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes) Real-Time Global Illumination using Precomputed Light Field Probes
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
 #### VPL
 #### VSGL
