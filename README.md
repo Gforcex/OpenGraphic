@@ -147,8 +147,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [RealTimeGI](https://github.com/PolyAH/RealTimeGI) Real-Time Global Illumination - University of Leeds MSc Project.
 * [Precomputed-Light-Field-Probes](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes) Real-Time Global Illumination using Precomputed Light Field Probes
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
+* [LuxGI](https://github.com/flwmxd/LuxGI) Hybrid GI solution, based on DDGI ( include Ray-Tracing and SDF-Tracing )
 #### VPL
-#### VSGL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
 #### RSM
 #### Imperfect Shadow Maps
