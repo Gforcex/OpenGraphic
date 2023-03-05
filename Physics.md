@@ -43,6 +43,7 @@
 * [unity-cip-flow](https://github.com/komietty/unity-cip-flow) Fast fluid simulator with CIP scheme
 * [Flooid](https://github.com/CedricGuillemet/Flooid) Flooid is a node based fluid simulator.
 * [LiquidSimulator](https://github.com/jongallant/LiquidSimulator)  [Cellular Automaton 2D Liquid Simulator for Unity](http://www.jgallant.com/2d-liquid-simulator-with-cellular-automaton-in-unity/)
+* [GMFlux](https://github.com/Fanatrick/GMFlux) "Blazingly fast", customizable, GPU-based fluid simulation solver.
 
 #### Lagrangian
 * [ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) CPU and GPU implementations of a particle-based physics simulation based on Macklin et. al's "Unified Particle Physics for Real-Time Application".
@@ -68,6 +69,7 @@
 * [GPUMPM](https://github.com/kuiwuchn/GPUMPM) GPU Optimization of Material Point Methods
 * [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
 * [MPM2D](https://github.com/Elias-Gu/MPM2D) 2D Material Point Method
+* [uaamg](https://github.com/kaust-csg-uaamg/uaamg) A Fast Unsmoothed Aggregation Algebraic Multigrid Framework for the Large-Scale Simulation of Incompressible Flow
 
 ### Finite Element
 * [mfem](https://github.com/mfem/mfem) Lightweight, general, scalable C++ library for finite element methods.  mfem.org  
