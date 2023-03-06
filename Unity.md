@@ -4,6 +4,8 @@
 #### Shader
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
+* [shader-variant-explorer](https://github.com/needle-tools/shader-variant-explorer) Shader Variant Explorer lets you peek into Unity's shader compilation process to better understand the composition of shader files.
+* [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper) Modular utilities for shader stripping to drastically improve Unity build times
 * [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [ShaderDebugger](https://github.com/arigo/ShaderDebugger) Simple Unity framework to debug shader code
 #### TexturePainter
