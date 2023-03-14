@@ -19,6 +19,7 @@
 * [AssetStudio](https://github.com/Perfare/AssetStudio)  :thumbsup:  A tool for exploring, extracting and exporting assets and assetbundles
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  :thumbsup: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them
+* [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) This tool finds unreferenced assets by scanning all files in your Unity project.
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 * [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
