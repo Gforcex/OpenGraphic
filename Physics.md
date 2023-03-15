@@ -33,6 +33,13 @@
 * [creamystrand](https://github.com/nepluno/creamystrand) A Multi-Scale Model for Coupling Strands with Shear-Dependent Liquid
 * [Bimocq](https://github.com/ziyinq/Bimocq) Efficient and Conservative Fluids Using Bidirectional Mapping
 
+#### Shallow Water
+
+* [WaterSurfaceWavelets](https://github.com/lecopivo/WaterSurfaceWavelets) Water Surface Wavelets (SIGGRAPH 2018) http://visualcomputing.ist.ac.at/publications/2018/WSW/
+* [FSWW](https://github.com/schreckc/FSWW) Fundamental Sources for Water Wave Animation
+* [UnityTerrainErosionGPU](https://github.com/bshishov/UnityTerrainErosionGPU) Hydraulic and thermal erosion with shallow water equations implemented in Unity using compute shaders.
+* [DynamicWaterDemo](https://github.com/CaptainProton42/DynamicWaterDemo) A real-time dynamic water simulation with object interaction made entirely within the Godot Engine.
+
 #### Eulerian
 * [FluidX3D](https://github.com/ProjectPhysX/FluidX3D) The fastest and most memory efficient lattice Boltzmann CFD software, running on any GPU via OpenCL.
 * [Trinity](https://github.com/portsmouth/Trinity) :thumbsup:  Programmable 3D GPU (WebGL) fluid simulator
