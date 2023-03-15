@@ -404,10 +404,8 @@ Graphic Engine &amp; Game Engine open source list！
 ### Nature
 #### Water
 * [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity  
-* [WaterSurfaceWavelets](https://github.com/lecopivo/WaterSurfaceWavelets) Water Surface Wavelets (SIGGRAPH 2018) http://visualcomputing.ist.ac.at/publications/2018/WSW/
-* [FSWW](https://github.com/schreckc/FSWW) Fundamental Sources for Water Wave Animation
 * [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
-* [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4
+* [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4 [Environment-Project](https://github.com/UE4-OceanProject/Environment-Project)     
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
 * [UE4_Dynamic_Water_Project](https://github.com/marvelmaster/UE4_Dynamic_Water_Project) Unreal Engine 4 Dynamic Water Project by marvelmaster
 * [WaveWorks](https://github.com/NvPhysX/UnrealEngine/tree/WaveWorks) WaveWorks is a library for simulating wind-driven waves on large bodies of water, in real time, using GPU acceleration.
@@ -428,8 +426,6 @@ Graphic Engine &amp; Game Engine open source list！
 
 * [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
 * [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
-* [UnityTerrainErosionGPU](https://github.com/bshishov/UnityTerrainErosionGPU) Hydraulic and thermal erosion with shallow water equations implemented in Unity using compute shaders.
-* [DynamicWaterDemo](https://github.com/CaptainProton42/DynamicWaterDemo) A real-time dynamic water simulation with object interaction made entirely within the Godot Engine.
 
 * Jerry Tessendorf's paper "Simulating Ocean Water".  
 [fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
