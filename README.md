@@ -1173,6 +1173,7 @@ Other.....
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker) Animation Texture Baker for Unity
 * [VertexAnimation](https://github.com/Maximilian-Winter/VertexAnimation) Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
+* [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation) Simple but very fast GPU vertex shader based animation system for Unity.Entities
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
 * [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
 * [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
