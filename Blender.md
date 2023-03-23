@@ -24,3 +24,4 @@
 * [dream-textures](https://github.com/carson-katri/dream-textures) Stable Diffusion built-in to the Blender shader editor
 * [AI-Render](https://github.com/benrugg/AI-Render) Stable Diffusion in Blender
 * [glslTexture](https://github.com/patriciogonzalezvivo/glslTexture) Blender addon to create 2D textures from GLSL. 
+* [Blender-Lightsheet](https://github.com/markus-ebke/Blender-Lightsheet) Add-on for Blender3D to create caustics for Cycles and EEVEE
