@@ -75,6 +75,7 @@
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) A Unity Editor extension for customizing inspector layout with attributes.
 * [MyBox](https://github.com/Deadcows/MyBox) MyBox is a set of attributes, tools and extensions for Unity
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
+* [LucidEditor](https://github.com/AnnulusGames/LucidEditor) Powerful Editor Extensions for Unity
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer) ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
 * [ThryEditor](https://github.com/Thryrallo/ThryEditor)  :thumbsup:  General Unity Shader Inspector/Editor with focus on vrchat
@@ -88,6 +89,7 @@
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
 * [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) Extend the Unity Toolbar with your own Editor UI code.
 * [dear-imgui-unity-dev](https://github.com/realgamessoftware/dear-imgui-unity-dev) Dear ImGui integration into Unity 
+* [UnityDynamicPanels](https://github.com/yasirkula/UnityDynamicPanels) Draggable, resizable, dockable and stackable UI panel solution for Unity 3D
 #### Editor Util
 * [UndoPro](https://github.com/Seneral/UndoPro) UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
 
