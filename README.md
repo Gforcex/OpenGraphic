@@ -333,6 +333,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [UnityImageEffects](https://github.com/hiroakioishi/UnityImageEffects) Post Processing Effects for Unity
 * [android-gpuimage](https://github.com/cats-oss/android-gpuimage) Android filters based on OpenGL (idea from GPUImage for iOS)
 * [NonuniformBlur](https://github.com/StarsX/NonuniformBlur) A very fast approximation to large-kernel Gaussian blur with nonuniform blur radii, by making use of box-filtered mip maps V-cycle 
+#### SuperResolution
+* [FidelityFX-FSR2](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) FidelityFX Super Resolution 2
+* [FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)  FidelityFX Super Resolution 
+* [Anime4K](https://github.com/bloc97/Anime4K) A High-Quality Real Time Upscaler for Anime Video
+* [Magpie](https://github.com/Blinue/Magpie) Magpie 是一个轻量级的窗口缩放工具，内置了多种高效的缩放算法和滤镜。它主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等。
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
+#### CheckerboardRendering
+* [mosaiikki](https://github.com/pezcode/mosaiikki) Checkerboard rendering with Magnum and OpenGL
+* [DynamicCheckerboardRendering](https://github.com/GameTechDev/DynamicCheckerboardRendering) Checkerboard Rendering and Dynamic Resolution Rendering in the DX12 MiniEngine  
 #### Compression
 * [JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D](https://github.com/JanMalitschek/JPEG-MP4-Compression-PostProcessing-Effect-for-Unity3D) This package aims to accurately recreate the effect of JPEG/MP4 compression as a PostProcessing Effect
 
@@ -533,6 +542,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GPU-Fog-Particles](https://github.com/MirzaBeig/GPU-Fog-Particles) Textureless fog particles using a highly customizable shader to attenuate noise values.
 ## Render Path
 * [VolumeTiledForwardShading](https://github.com/jpvanoosten/VolumeTiledForwardShading) :thumbsup: Volume Tiled Forward Shading. This technique is based on Tiled and Clustered Forward Shading (Olsson, 2012)
+* [Cluster](https://github.com/pezcode/Cluster) Clustered shading implementation with bgfx
 * [HybridRenderingEngine](https://github.com/Angelo1211/HybridRenderingEngine) Clustered Forward/Deferred renderer with Physically Based Shading, Image Based Lighting and a whole lot of OpenGL.  
 * [ClusteredShadingAndroid](https://github.com/GameTechDev/ClusteredShadingAndroid) and [IntelForwardClusteredShading](https://software.intel.com/en-us/articles/forward-clustered-shading) Clustered shading on Android sample  
 * [clustered_forward_demo](https://gitlab.com/efficient_shading/clustered_forward_demo) Ola Olsson. 
