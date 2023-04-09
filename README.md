@@ -755,7 +755,7 @@ Other.....
 * [jrender](https://github.com/Jittor/jrender) Jrender 2.0 (Jittor渲染库)
   
 ## Math
-* [Eigen](https://github.com/eigenteam/eigen-git-mirror) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
+* [Eigen](https://gitlab.com/libeigen/eigen) :star: linear algebra: matrices, vectors, numerical solvers, and related algorithms. [Eigen](http://eigen.tuxfamily.org/)
 * [MathGeoLib](https://github.com/juj/MathGeoLib) :thumbsup: A C++ library for linear algebra and geometry manipulation for computer graphics
 * [GeometricTools](https://github.com/davideberly/GeometricTools) :thumbsup: A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
 * [CGAL](https://github.com/CGAL/cgal) geometric algorithms in the form of a C++ library.
@@ -767,6 +767,7 @@ Other.....
 * [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
+* [geometry-central](https://github.com/nmwsharp/geometry-central) Applied 3D geometry in C++, with a focus on surface meshes.
 * [geogram](https://github.com/BrunoLevy/geogram) a programming library with geometric algorithms
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
@@ -776,6 +777,7 @@ Other.....
 * [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu 
 * [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) Math.NET Numerics numerics.mathdotnet.com
 * [Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
+* [SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University.
 * [MathUtilities](https://github.com/zalo/MathUtilities) :thumbsup: A collection of some of the neat math and physics tricks that I've collected over the last few years. 
 * [just_math](https://github.com/ramakarl/just_math) Just Math - A collection of pure math demos for computer graphics.
 #### MathInShader
