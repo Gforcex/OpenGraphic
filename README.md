@@ -991,8 +991,11 @@ Other.....
 * [DynamicShadowProjectorExtensionForLWRP](https://github.com/nyahoon-games/DynamicShadowProjectorExtensionForLWRP)
 #### Decal
 * [driven-decals](https://github.com/Anatta336/driven-decals) A mesh-based PBR decal system for Unity's universal render pipeline.
+* [MeshDecal](https://github.com/Fewes/MeshDecal) A simple mesh decal component for Unity
 * [ProjectionSpray](https://github.com/sugi-cho/ProjectionSpray) Draw spray to 3D model with Unity.
 * [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
+* [UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader) Unity unlit screen space decal shader for URP.
+* [kDecals](https://github.com/Kink3d/kDecals) Projection Decals for Unity's Universal Render Pipeline.
 * [DMDecalBuffer](https://github.com/DMeville/DMDecalBuffer) Rendering decals to an offscreen buffer in URP for shader effects
 * [SkinnedMeshDecals](https://github.com/naelstrof/SkinnedMeshDecals) An example of rendering decals on SkinnedMesh Renderers in Unity.
 #### OutLine
