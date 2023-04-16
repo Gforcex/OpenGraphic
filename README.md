@@ -287,6 +287,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [DeepShadowMap](https://github.com/ecidevilin/DeepShadowMap) Real-Time Deep Shadow Maps for Unity3D
 * [CachedShadowMaps](https://github.com/aivclab/CachedShadowMaps) Cached Shadow Map Solution for Unity
 
+* [Unity-Capsule-Shadows](https://github.com/frostbone25/Unity-Capsule-Shadows) A work in progress solution for capsule shadows in Unity.
+* [Analytic Soft Shadows (Built-In/URP)](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/analytic-soft-shadows-built-in-urp-189680) Analytic Soft Shadows is a real-time soft shadowing solution with shadows defined by Spheres, Capsules and Boxes
+
 ## PostProcessing 
 #### Collection
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing) Post Processing Stack
