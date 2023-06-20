@@ -121,7 +121,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
 * [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
 * [RetroWarp](https://github.com/Themaister/RetroWarp) The GPU is implemented with "pure" software rendering
-* [SoftRas](https://github.com/ShichenLiu/SoftRas)  Project page of paper "Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning"
 * [grr](https://github.com/kecho/grr) Gpu Renderer and Rasterizer - for python
 * [virglrenderer](https://gitlab.freedesktop.org/virgl/virglrenderer/) VirGL virtual OpenGL renderer
 * [AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) AMD Open Source Driver For Vulkan
@@ -756,6 +755,7 @@ Other.....
 * [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  Vulkan-based renderer on real-time transparency
 
 ## Differentiable
+* [SoftRas](https://github.com/ShichenLiu/SoftRas)  Project page of paper "Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning"
 * [redner](https://github.com/BachiLi/redner) Differentiable rendering without approximation.
 * [nvdiffrast](https://github.com/NVlabs/nvdiffrast) Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering.
 * [jrender](https://github.com/Jittor/jrender) Jrender 2.0 (Jittor渲染库)
