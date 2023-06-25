@@ -1213,6 +1213,7 @@ Other.....
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
 * [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 * [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) Simple fake Physics for UnrealEngine4 & 5
+* [Procedural-Rigging-in-Unity](https://github.com/Wenzy--/Procedural-Rigging-in-Unity) An experiment about procedural rigging. 
 #### IK
 * [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
 #### Skin
