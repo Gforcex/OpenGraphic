@@ -846,6 +846,7 @@ Other.....
 * [blaze](https://github.com/aurimasg/blaze) Multi-threaded, CPU-based vector graphics rasterizer.
   
 #### TextureCompressed
+* [DirectXTex](https://github.com/microsoft/DirectXTex) DirectXTex texture processing library [walbourn.github.io/directxtex/](https://walbourn.github.io/directxtex/)
 * [nv_dds](https://github.com/paroj/nv_dds) DDS image loader for OpenGL/ OpenGL ES2 http://paroj.github.io/nv_dds/
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) Texture processing tools with support for Direct3D 10 and 11 formats. 
 * [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
@@ -1219,6 +1220,7 @@ Other.....
 #### Skin
 * [DQ-skinning-for-Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity) DQ-skinning
 * [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
+* [d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) d4rkpl4y3r's VRChat avatar 3.0 optimizer that aims to reduce skinned mesh & material count.
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
