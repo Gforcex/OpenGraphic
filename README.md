@@ -841,12 +841,12 @@ Other.....
 * [psd_sdk](https://github.com/MolecularMatters/psd_sdk) A C++ library that directly reads Photoshop PSD files. 
 * [hdrview](https://github.com/wkjarosz/hdrview) High-dynamic range image viewer with an emphasis on examining and comparing images, and including minimalistic tonemapping capabilities.
 * [Luminance HDR](https://github.com/LuminanceHDR/LuminanceHDR) A complete workflow for HDR imaging.
+* [DirectXTex](https://github.com/microsoft/DirectXTex) DirectXTex texture processing library [walbourn.github.io/directxtex/](https://walbourn.github.io/directxtex/)
 #### VectorGraphics
 * [vg-renderer](https://github.com/jdryg/vg-renderer)  A vector graphics renderer for bgfx, based on ideas from NanoVG and ImDrawList (Dear ImGUI)    
 * [blaze](https://github.com/aurimasg/blaze) Multi-threaded, CPU-based vector graphics rasterizer.
   
 #### TextureCompressed
-* [DirectXTex](https://github.com/microsoft/DirectXTex) DirectXTex texture processing library [walbourn.github.io/directxtex/](https://walbourn.github.io/directxtex/)
 * [nv_dds](https://github.com/paroj/nv_dds) DDS image loader for OpenGL/ OpenGL ES2 http://paroj.github.io/nv_dds/
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) Texture processing tools with support for Direct3D 10 and 11 formats. 
 * [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
