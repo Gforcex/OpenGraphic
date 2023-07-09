@@ -313,6 +313,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DLAA](https://github.com/ForserX/DLAA) (DLAA) Directionally Localized antiAliasing
 * [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques
 * [UE4 DLSS](https://github.com/NvRTX/UnrealEngine) DLSS Plugin for Unreal Engine
+* [Fast-Adaptive-AA](https://github.com/grebord/Fast-Adaptive-AA) This is a modification of Timothy Lottes' PC FXAA v3 with a different Edge Detection algorithm that prevents blurring and catches edges better. For Reshade
 #### Denoising 
 * [oidn](https://github.com/OpenImageDenoise/oidn) Intel(R) Open Image Denoise library http://www.openimagedenoise.org/
 * [NvidiaAIDenoiser](https://github.com/DeclanRussell/NvidiaAIDenoiser) A simple implementation of Nvidia's AI denoiser
@@ -324,7 +325,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [SE-Natural-Bloom-Dirty-Lens](https://github.com/sonicether/SE-Natural-Bloom-Dirty-Lens) (Legacy) post-processing effect for Unity.
 * [Unity_StarGlow](https://github.com/XJINE/Unity_StarGlow)  This is an implementation of Kawase's light-streak.
 #### Tone Mapping
-* [tonemapper](https://github.com/tizian/tonemapper)
+* [tonemapper](https://github.com/tizian/tonemapper) A tool for exploring and applying various tonemapping operators.
+* [prod80-ReShade-Repository](https://github.com/prod80/prod80-ReShade-Repository) Highly advanced Color Effects created for Reshade  
 * [aces-dev](https://github.com/ampas/aces-dev)  AMPAS Academy Color Encoding System Developer Resources http://www.oscars.org/aces
 * [tony-mc-mapface](https://github.com/h3r2tic/tony-mc-mapface) Takes HDR Rec.709/sRGB stimulus, and maps it to LDR. It's tranquil and collected, and won't set your eyes ablaze.
 #### ProceduralProcessing
@@ -1158,12 +1160,13 @@ Other.....
 ## SDK&Tutorial
 #### SDK Samples
 * [DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
+* [dxsdk](https://github.com/apitrace/dxsdk) Collection of DirectX SDK headers to facilitate the build of Apitrace
 * [directx-sdk-samples](https://github.com/walbourn/directx-sdk-samples) This repo contains C++ samples from the DirectX SDK updated to build using the Windows 8.x SDK or Windows 10 SDK
 * [Zombie-Direct3D-Samples](https://github.com/marselas/Zombie-Direct3D-Samples) June 2010 SDK updated to build with the latest version of Windows and Visual Studio
 * [IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan) Source code examples for "API without Secrets: Introduction to Vulkan" tutorial 
-* [VulkanTutorial](https://github.com/Overv/VulkanTutorial)
-* [Vulkan](https://github.com/SaschaWillems/Vulkan)
-* [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk)
+* [VulkanTutorial](https://github.com/Overv/VulkanTutorial) Tutorial for the Vulkan graphics and compute API
+* [Vulkan](https://github.com/SaschaWillems/Vulkan)  Examples and demos for the new Vulkan API
+* [vulkan-sdk for android](https://github.com/ARM-software/vulkan-sdk) ARM-software
 * [nvpro-samples](https://github.com/nvpro-samples) NVIDIA DesignWorks Samples
 * [NVIDIA Direct3D SDK 11](https://developer.nvidia.com/dx11-samples)
 * [NVIDIA Direct3D SDK 10](http://developer.download.nvidia.com/SDK/10/direct3d/samples.html) 
@@ -1172,7 +1175,7 @@ Other.....
 * [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)
 * [GPUOpen-Effects](https://github.com/GPUOpen-Effects)
 * [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)
-* [opengl-es-sdk-for-android](https://github.com/ARM-software/opengl-es-sdk-for-android)
+* [opengl-es-sdk-for-android](https://github.com/ARM-software/opengl-es-sdk-for-android) OpenGL ES SDK for Android
 * [powervr-graphics](https://github.com/powervr-graphics)
 * [GodComplex](https://github.com/Patapom/GodComplex)
 #### Book Code
