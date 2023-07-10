@@ -2,7 +2,13 @@
 * [qLib](https://github.com/qLab/qLib) A procedural asset library for SideFX Houdini. http://qlab.github.com/qLib
 * [Aelib](https://github.com/Aeoll/Aelib) A library of Digital Assets, Tools and Scripts for SideFX Houdini.
 * [egLib](https://github.com/eglaubauf/egLib) A collection of scripts for SideFx Houdini
-
+* [Houdini_Scripts](https://github.com/LewisOrton/Houdini_Scripts) Personal Houdini scripts
+* [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Package for Houdini software
+* 
+## Tools
+* [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools 
+* [MLOPs](https://github.com/Bismuth-Consultancy-BV/MLOPs) Machine Learning Toolset for Houdini
+* 
 # Material
 * [egMatLib](https://github.com/eglaubauf/egMatLib) About Material Library for Houdini Mantra, Redshift and Arnold
 
@@ -15,3 +21,6 @@
 * [Houdini](https://github.com/kiryha/Houdini) Houdini pipeline and learning database
 * [vex_tutorial](https://github.com/jtomori/vex_tutorial)  A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
 * [FeELib-for-Houdini](https://github.com/Fe-Elf/FeELib-for-Houdini) www.zhihu.com/people/wxjl/posts
+
+## Others
+* [presentation-houdini-vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
