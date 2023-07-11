@@ -940,7 +940,7 @@ Other.....
 * [Compressonator](https://github.com/GPUOpen-Tools/Compressonator) Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs  
 * [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds. 
  #### Reconstruction
- * [meshroom](https://github.com/alicevision/meshroom) 3D Reconstruction Software based on the (AliceVision)[https://github.com/alicevision/AliceVision] framework.
+ * [meshroom](https://github.com/alicevision/meshroom) :star: 3D Reconstruction Software based on the [AliceVision](https://github.com/alicevision/AliceVision) framework.
  * [openMVG](https://github.com/openMVG/openMVG)  open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 #### Direction fields 
 * [fieldgen](https://github.com/GeometryCollective/fieldgen) Generates high-quality, optimally smooth tangent direction fields on triangle meshes.
