@@ -191,6 +191,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
 * [PSRayTracing](https://github.com/define-private-public/PSRayTracing) A (modern) C++ implementation of the first two books of the Peter Shirley Ray Tracing mini-books
 * [rayn](https://github.com/termhn/rayn) A small path tracing renderer written in Rust.
+* [TrueTrace-Unity-Pathtracer](https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer)  A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
@@ -500,6 +501,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity
 * [UnlitClouds](https://github.com/AlexStrook/UnlitClouds) A unity cloud shader, using vertex colors and tessellation for a simple stylized look.
 #### Sky
+* [Dante83/A-Starry-Sky](https://github.com/Dante83/A-Starry-Sky) A Realistic Skybox for A Frame! :D
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader) 
 * [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
 * [sun-sky](https://github.com/andrewwillmott/sun-sky) Various sun/sky models, convolution of theta/gamma-parameterised models
@@ -778,6 +780,7 @@ Other.....
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
 * [geometry-central](https://github.com/nmwsharp/geometry-central) Applied 3D geometry in C++, with a focus on surface meshes.
+* [GeometRi.CSharp](https://github.com/RiSearcher/GeometRi.CSharp) Simple and lightweight computational geometry library for .Net 
 * [geogram](https://github.com/BrunoLevy/geogram) a programming library with geometric algorithms
 * [geomc](https://github.com/trbabb/geomc) A c++ linear algebra template library  
 * [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) [geometry4Sharp](https://github.com/NewWheelTech/geometry4Sharp) C# library for 2D/3D geometric computation, mesh algorithms, and so on
