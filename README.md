@@ -144,7 +144,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SHTest](https://github.com/dwilliamson/SHTest) Spherical Harmonic Lighting (Direct/Shadowed/Indirect/Subsurface)
 * [SphericalHarmonicLighting](https://github.com/jan-van-bergen/SphericalHarmonicLighting) Global Illumination using Spherical Harmonics
 * [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting) Testing spherical harmonic lighting based on the spherical-harmonic-lighting.pdf
-* [precomputed-radiance-transfer](https://github.com/pramanc/precomputed-radiance-transfer) undergraduate student course project in Zhejiang University
+* [PRT](https://github.com/lvjiahui/PRT) Precomputed Radiance Transfer in OpenGL
 #### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RealTimeGI](https://github.com/PolyAH/RealTimeGI) Real-Time Global Illumination - University of Leeds MSc Project.
