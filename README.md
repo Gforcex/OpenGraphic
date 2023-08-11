@@ -507,6 +507,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SkyModels](https://github.com/diharaw/SkyModels) A collection of various Sky Models implemented with OpenGL compute shaders suitable for real-time rendering.
 * [sun-sky](https://github.com/andrewwillmott/sun-sky) Various sun/sky models, convolution of theta/gamma-parameterised models
 * [nvjob-sky-shader-simple-and-fast](https://github.com/nvjob/nvjob-sky-shader-simple-and-fast) #NVJOB Dynamic Sky. Sky Shaders. Free Unity Asset.
+* [sun-sky](https://github.com/andrewwillmott/sun-sky) Various sun/sky models, convolution of theta/gamma-parameterised models
 #### Rain
 * [Unity-Raindrops](https://github.com/ya7gisa0/Unity-Raindrops) raindrops shader
 * [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) Rain Drop Effect2: Effective, Fast and Flexible Rain Distortion Effect for Unity
