@@ -1014,6 +1014,7 @@ Other.....
 * [Splatoonity](https://github.com/SquirrelyJones/Splatoonity) Splatoon like painting in Unity 3D
 * [UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader) Unity unlit screen space decal shader for URP.
 * [kDecals](https://github.com/Kink3d/kDecals) Projection Decals for Unity's Universal Render Pipeline.
+* [AirSticker](https://github.com/CyberAgentGameEntertainment/AirSticker) Air Sticker is a decal system that addresses the limitations of URP decals and has a low impact on performance.
 * [DMDecalBuffer](https://github.com/DMeville/DMDecalBuffer) Rendering decals to an offscreen buffer in URP for shader effects
 * [SkinnedMeshDecals](https://github.com/naelstrof/SkinnedMeshDecals) An example of rendering decals on SkinnedMesh Renderers in Unity.
 #### OutLine
