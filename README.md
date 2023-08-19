@@ -956,7 +956,9 @@ Other.....
 * [herebedragons](https://github.com/kosua20/herebedragons) A basic 3D scene implemented with various engines, frameworks or APIs.
 * [glfw](https://github.com/glfw/glfw) A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 * [MoltenVK](https://github.com/KhronosGroup/MoltenVK) Vulkan graphics and compute API, that runs on Apple's Metal graphics framework
-* [dxvk](https://github.com/doitsujin/dxvk) Vulkan-based D3D11 implementation for Linux / Wine  
+* [dxvk](https://github.com/doitsujin/dxvk) Vulkan-based D3D11 implementation for Linux / Wine
+* [angle](https://github.com/google/angle) A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
+* [Vita3K](https://github.com/Vita3K/Vita3K) Experimental PlayStation Vita emulator vita3k.org/
 
 ## UI
 * [imgui](https://github.com/ocornut/imgui) :star: Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies  
