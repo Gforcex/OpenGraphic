@@ -803,7 +803,8 @@ Other.....
 #### SH
 * [sh-lib](https://github.com/andrewwillmott/sh-lib)  Spherical/zonal harmonics library
 * [spherical-harmonics](https://github.com/google/spherical-harmonics)  Spherical harmonics library
-* [sht](https://github.com/rlk/sht)  Spherical Harmonic Tools  
+* [sht](https://github.com/rlk/sht)  Spherical Harmonic Tools
+* [shtns](https://bitbucket.org/nschaeff/shtns)  Spherical Harmonic Transform library aimed at high performance numerical simulations in spherical geometries. It is very fast.
 * [IntegralSH](https://github.com/belcour/IntegralSH)  Integrating Clipped Spherical Harmonics Expansions
 * [HLSL-Spherical-Harmonics](https://github.com/sebh/HLSL-Spherical-Harmonics)  A collection of HLSL functions one can include to use spherical harmonics in shaders.
 * [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS) SHTOOLS - Spherical Harmonic Tools https://shtools.github.io/SHTOOLS/
