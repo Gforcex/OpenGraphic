@@ -9,7 +9,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Engine**
 
-  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [Offline PathTracing](#Offline-Path-Tracing) &nbsp;&nbsp; [Real-time PathTracing](#Real-time-Path-Tracing) &nbsp;&nbsp; [SoftRenderer](#soft-renderer)  &nbsp;&nbsp; [RenderingDesign](#rendering-design) 
+  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [OfflinePathTracing](#Offline-Path-Tracing) &nbsp;&nbsp; [RealTimePathTracing](#Real-time-Path-Tracing) &nbsp;&nbsp; [SoftRenderer](#soft-renderer)  &nbsp;&nbsp; [RenderingDesign](#rendering-design) 
   
 >**Rendering**
 
@@ -48,11 +48,11 @@ Graphic Engine &amp; Game Engine open source list！
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * ARM [ARM-software](https://github.com/ARM-software)
 * PowerVR [powervr-graphics](https://github.com/powervr-graphics)
-* [The Khronos Group](https://github.com/KhronosGroup) https://www.khronos.org/
-* [Academy Software Foundation](https://github.com/AcademySoftwareFoundation) https://www.aswf.io/
-* [Pixar Animation Studios](https://github.com/PixarAnimationStudios) http://graphics.pixar.com
-* SideEfects [sideeffects](https://github.com/sideeffects) Hodini
-* [id-Software](https://github.com/id-Software)
+* TheKhronosGroup [The Khronos Group](https://github.com/KhronosGroup) https://www.khronos.org/
+* AcademySoftwareFoundation [Academy Software Foundation](https://github.com/AcademySoftwareFoundation) https://www.aswf.io/
+* Pixar [Pixar Animation Studios](https://github.com/PixarAnimationStudios) http://graphics.pixar.com
+* SideEfects [sideeffects](https://github.com/sideeffects) 
+* IdSoftware [id-Software](https://github.com/id-Software)
 * [InteractiveComputerGraphics](https://github.com/InteractiveComputerGraphics)
 
 ## Engine
