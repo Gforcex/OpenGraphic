@@ -9,7 +9,7 @@ Graphic Engine &amp; Game Engine open source list！
   
 >**Engine**
 
-  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [OfflineEngine](#Offline-Engine) &nbsp;&nbsp; [SoftRenderer](#soft-renderer)  &nbsp;&nbsp; [RenderingDesign](#rendering-design) 
+  [Engine](#engine) &nbsp;&nbsp; [EnginePlugin](#engine-plugin) &nbsp;&nbsp; [Offline PathTracing](#Offline-Path-Tracing) &nbsp;&nbsp; [Real-time PathTracing](#Real-time-Path-Tracing) &nbsp;&nbsp; [SoftRenderer](#soft-renderer)  &nbsp;&nbsp; [RenderingDesign](#rendering-design) 
   
 >**Rendering**
 
@@ -70,6 +70,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [stride](https://github.com/stride3d/stride)  Stride Game Engine (formerly Xenko)
 * [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine) AnKi 3D Engine - OGL/Vulkan backends, modern renderer, scripting, physics and more 
 * [SpartanEngine](https://github.com/PanosK92/SpartanEngine) Game engine with an emphasis on architectual quality and performance
+* [DummyEngine](https://github.com/sergcpp/DummyEngine) Small cross platform Vulkan/OpenGL 3d engine for personal experimentation
 * [ETEngine](https://github.com/Illation/ETEngine) Realtime 3D Game-Engine with a focus on space sim. Written in C++ 14
 * [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) Flax Engine – multi-platform 3D game engine. https://flaxengine.com/
@@ -89,7 +90,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [RenderPipeline](https://github.com/tobspr/RenderPipeline) -PBR and Deferred Rendering for the Panda3D game engine 
 * [ray-mmd](https://github.com/ray-cast/ray-mmd) physically-based rendering at mikumikudance
 
-## Offline Engine
+## Offline Path Tracing
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
 * [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
 * [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
@@ -107,7 +108,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
 * [fermat](https://github.com/NVlabs/fermat) a high performance research oriented physically based rendering system, trying to produce beautiful pictures following the mathematician’s principle of least time
+* [gatling](https://github.com/pablode/gatling) Hydra-enabled GPU path tracer that supports MaterialX and MDL
 
+## Real-time Path Tracing
+* [Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) Real-time path tracing library and sample
+* [Candela](https://github.com/swr06/Candela) Pathtraced Realtime Engine
+* [Lumen](https://github.com/yuphin/Lumen) A Vulkan Raytracing framework for various bidirectional path tracing techniques
+    
 ## Soft Renderer
 * [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
 * [miaow](https://github.com/VerticalResearchGroup/miaow) An open source GPU based off of the AMD Southern Islands ISA.
