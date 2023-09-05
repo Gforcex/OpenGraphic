@@ -1108,6 +1108,7 @@ Other.....
 * [graphicsfuzz](https://github.com/google/graphicsfuzz) A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
 * [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) A .NET Standard 2.1 library to run C# code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders
 * [SPIRV-VM](https://github.com/dfranx/SPIRV-VM) Virtual machine for executing SPIR-V
+* [Shader_Minifier](https://github.com/laurentlb/Shader_Minifier) Minify and obfuscate GLSL or HLSL code
 * Shader HighLighting: [HlslTools](https://github.com/tgjones/HlslTools) [nshader](https://github.com/samizzo/nshader) [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) 
 #### ShaderToy
 * [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) Console-based GLSL Sandbox for 2D/3D shaders shaders
