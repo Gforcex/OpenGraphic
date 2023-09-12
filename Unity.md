@@ -110,6 +110,11 @@
 * [UnityGeneticAlgorithmMaze](https://github.com/createthis/UnityGeneticAlgorithmMaze)  Modern reimplementation in Unity of Bob's Map from AI Techniques for Game Programming
 * [hierarchical-pathfinding](https://github.com/hugoscurti/hierarchical-pathfinding) Implementation of Near-Optimal Hierarchical Pathfinding (HPA*) algorithm in Unity, tested with maps from Dragon Age: Origins
 
+## Tween
+* [dotween](https://github.com/Demigiant/dotween) A Unity C# animation engine. HOTween v2
+* [unity-tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
+* [MagicTween](https://github.com/AnnulusGames/MagicTween)  Extremely fast tween library implemented in Unity ECS 
+
 ## Utils
 * [ProceduralToolkit ](https://github.com/Syomus/ProceduralToolkit)  Procedural generation library for Unity 
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections)  Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
