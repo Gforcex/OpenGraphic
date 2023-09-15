@@ -957,6 +957,7 @@ Other.....
 * [monster-mash](https://github.com/google/monster-mash) A new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. 
 #### Optimization
 * [meshoptimizer](https://github.com/zeux/meshoptimizer) Mesh optimization library that makes indexed meshes more GPU-friendly
+* [NvTriStrip](https://github.com/turbulenz/NvTriStrip) NvTriStrip library and NvTriStripper tool  
 #### Compress
 * [Compressonator](https://github.com/GPUOpen-Tools/Compressonator) Tool suite for Texture and 3D Model Compression, Optimization and Analysis using CPUs, GPUs and APUs  
 * [draco](https://github.com/google/draco) compressing and decompressing 3D geometric meshes and point clouds. 
