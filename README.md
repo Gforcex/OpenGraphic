@@ -984,8 +984,9 @@ Other.....
 * [AnttWeakbar](https://sourceforge.net/projects/anttweakbar/)  a light and intuitive GUI into OpenGL or DirectX based programs to interactively tweak parameters on-screen.
 
 ## Util
-* [stb](https://github.com/nothings/stb)
-* [debug-draw](https://github.com/glampert/debug-draw)
+* [raylib](https://github.com/raysan5/raylib) A simple and easy-to-use library to enjoy videogames programming
+* [stb](https://github.com/nothings/stb) single-file public domain (or MIT licensed) libraries for C/C++
+* [debug-draw](https://github.com/glampert/debug-draw) Immediate-mode, renderer agnostic, lightweight debug drawing API.
 #### GPGPU
 * [arrayfire](https://github.com/arrayfire/arrayfire) ArrayFire: a general purpose GPU library.
 * [hipSYCL](https://github.com/illuhad/hipSYCL) Implementation of SYCL for CPUs, AMD GPUs, NVIDIA GPUs
