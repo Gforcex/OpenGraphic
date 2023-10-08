@@ -417,6 +417,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [vkhr](https://github.com/CaffeineViking/vkhr) Real-Time Hybrid Hair Rendering using Vulkan™
 * [WetaHair](https://github.com/zhoub/WetaHair) Implementation of "Importance Sampling for Physically-Based Hair Fiber Models"
 * [libWetHair](https://github.com/nepluno/libWetHair) A Multi-Scale Model for Simulating Liquid-Hair Interactions http://libwethair.info
+* [Realtime-Vulkan-Hair](https://github.com/clach/Realtime-Vulkan-Hair) University of Pennsylvania, CIS 565: GPU Programming and Architecture, Final Project
 #### Colth
 * [libwetcloth](https://github.com/nepluno/libwetcloth) A Multi-Scale Model for Simulating Liquid-Fabric Interactions
 * [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering) Micro Detail Fabric Shader
@@ -883,6 +884,7 @@ Other.....
 * [brotli_g_sdk](https://github.com/GPUOpen-LibrariesAndSDKs/brotli_g_sdk) Brotli-G SDK provides an improved lossless compression ratio with GPU decompression support than the standard Brotli compression algorithm maintained by the IETF (also known as RFC7932)
 * [betsy](https://github.com/darksylinc/betsy) Betsy aims to be a GPU compressor for various modern GPU compression formats such as BC6H, purposedly written in GLSL so that it can be easily incorporated into OpenGL and Vulkan projects.
 * [Goofy](https://github.com/SergeyMakeev/Goofy) Goofy - Realtime DXT1/ETC1 encoder
+* [UnityGPUTexCompression](https://github.com/aras-p/UnityGPUTexCompression/) How to do DXT/BCn texture compression in Unity using compute shaders
 * [GPURealTimeBC6H](https://github.com/knarkowicz/GPURealTimeBC6H) Real-time BC6H compression on GPU
 * [ISPCTextureCompressor](https://github.com/GameTechDev/ISPCTextureCompressor) ISPC Texture Compressor
 * [tev](https://github.com/Tom94/tev) High dynamic range (HDR) image comparison tool for graphics people with an emphasis on OpenEXR images.
