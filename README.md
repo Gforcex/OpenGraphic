@@ -185,6 +185,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### SSGI
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
+* [mfssgi](https://github.com/MFrankfort84/mfssgi)
 #### DFGI
 #### Lighting Grid 
 * [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
