@@ -75,9 +75,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [nebula](https://github.com/gscept/nebula) Nebula is an open-source and free-to-use modern C++ game engine.
 * [Granite](https://github.com/Themaister/Granite)  personal Vulkan renderer
 * [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) Flax Engine – multi-platform 3D game engine. https://flaxengine.com/
-* [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
-* [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
-* [igl](https://github.com/facebook/igl/) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).  
 * [island](https://github.com/tgfrerer/island) Project Island is an experimental, hot-reloading Vulkan renderer/proto-engine for Linux, written in C/C++.
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level 3D graphics library http://diligentgraphics.com/diligent-engine/ 
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
@@ -975,6 +972,10 @@ Other.....
 * [fieldgen](https://github.com/GeometryCollective/fieldgen) Generates high-quality, optimally smooth tangent direction fields on triangle meshes.
 
 ## Platform
+* [bgfx](https://github.com/bkaradzic/bgfx) :star: -Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library 
+* [igl](https://github.com/facebook/igl/) Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
+* [The-Forge](https://github.com/ConfettiFX/The-Forge) The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
+    
 * [herebedragons](https://github.com/kosua20/herebedragons) A basic 3D scene implemented with various engines, frameworks or APIs.
 * [glfw](https://github.com/glfw/glfw) A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 * [MoltenVK](https://github.com/KhronosGroup/MoltenVK) Vulkan graphics and compute API, that runs on Apple's Metal graphics framework
