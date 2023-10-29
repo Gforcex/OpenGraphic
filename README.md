@@ -221,6 +221,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
 #### ReSTIR
 * [VolumetricReSTIRRelease](https://github.com/DQLin/VolumetricReSTIRRelease) SIGGRAPH Asia 2021 paper "Fast Volume Rendering with Spatiotemporal Reservoir Resampling"
+* [ReSTIR-Vulkan](https://github.com/lukedan/ReSTIR-Vulkan) Vulkan implementation of ReSTIR
+* [Reservoir-Spatio-Temporal-Importance-Resampling-ReSTIR](https://github.com/tatran5/Reservoir-Spatio-Temporal-Importance-Resampling-ReSTIR) Reservoir Spatio Temporal Importance Resampling
+* [ReSTIR_PT](https://github.com/DQLin/ReSTIR_PT) Source Code for SIGGRAPH 2022 Paper "Generalized Resampled Importance Sampling: Foundations of ReSTIR"
 #### Metropolis Light Transport
 #### PhotonMapping
 * [CPMFIGIOTVVD](https://github.com/ResearchDaniel/Correlated-Photon-Mapping-for-Interactive-Global-Illumination-of-Time-Varying-Volumetric-Data) Correlated Photon Mapping for Interactive Global Illumination of Time-Varying Volumetric Data by Daniel Jönsson and Anders Ynnerman
