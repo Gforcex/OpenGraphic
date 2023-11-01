@@ -106,7 +106,6 @@ Graphic Engine &amp; Game Engine open source list！
 ## Offline Path Tracing
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
 * [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
-* [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
 * [mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) :thumbsup:  Mitsuba 3: A Retargetable Forward and Inverse Renderer http://mitsuba-renderer.org/
 * [appleseed](https://github.com/appleseedhq/appleseed) A modern open source rendering engine for animation and visual effects https://appleseedhq.net/
@@ -114,7 +113,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [LuxCoreRender](https://github.com/LuxCoreRender) https://www.luxcorerender.org
 * [ospray](https://github.com/ospray/ospray) A Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
-* [lighthouse2](https://github.com/jbikker/lighthouse2)  Lighthouse 2 framework for real-time ray tracing
 * [etx-tracer](https://github.com/serhii-rieznik/etx-tracer) Physically-based CPU and GPU ray-tracer
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
 * [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
@@ -124,6 +122,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [gatling](https://github.com/pablode/gatling) Hydra-enabled GPU path tracer that supports MaterialX and MDL
 
 ## Real-time Path Tracing
+* [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
+* [lighthouse2](https://github.com/jbikker/lighthouse2)  Lighthouse 2 framework for real-time ray tracing
 * [Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) Real-time path tracing library and sample
 * [Candela](https://github.com/swr06/Candela) Pathtraced Realtime Engine
 * [Lumen](https://github.com/yuphin/Lumen) A Vulkan Raytracing framework for various bidirectional path tracing techniques
