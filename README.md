@@ -292,6 +292,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [StochasticScreenSpaceReflection](https://github.com/cCharkes/StochasticScreenSpaceReflection)
 * [Unity-Screen-Space-Reflection](https://github.com/MaxwellGengYF/Unity-Screen-Space-Reflection) Clearly Screen Space Reflection
 * [UnitySSR](https://github.com/Xerxes1138/UnitySSR) Open source screen space reflection for Unity 5
+* [Unity-ScreenSpaceReflections-URP](https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP) SSR solution for Unity URP  
 * [synthese_image](https://github.com/theFrenchDutch/synthese_image) author's [blog](http://thomasdeliot.wixsite.com/blog/single-post/2018/04/26/Small-project-OpenGL-engine-and-PBR-deferred-pipeline-with-SSRSSAO)
 * [URP_ScreenSpacePlanarReflections](https://github.com/Steven-Cannavan/URP_ScreenSpacePlanarReflections) Simple example of implementing screen space planar reflections as a RenderFeature for URP
 * [UnityURP-MobileScreenSpacePlanarReflection](https://github.com/ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection) A simple and fast ScreenSpacePlanarReflection(SSPR) as a standalone reusable RendererFeature in URP.
