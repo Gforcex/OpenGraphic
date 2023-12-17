@@ -4,11 +4,12 @@
 * [egLib](https://github.com/eglaubauf/egLib) A collection of scripts for SideFx Houdini
 * [Houdini_Scripts](https://github.com/LewisOrton/Houdini_Scripts) Personal Houdini scripts
 * [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Package for Houdini software
-* 
+* [ntLib](https://github.com/nitzan-treg/ntLib) Digital Assets for Houdini FX
+  
 ## Tools
 * [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools 
 * [MLOPs](https://github.com/Bismuth-Consultancy-BV/MLOPs) Machine Learning Toolset for Houdini
-* 
+  
 # Material
 * [egMatLib](https://github.com/eglaubauf/egMatLib) About Material Library for Houdini Mantra, Redshift and Arnold
 
