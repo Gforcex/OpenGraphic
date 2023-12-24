@@ -734,8 +734,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [gl_vk_meshlet_cadscene](https://github.com/nvpro-samples/gl_vk_meshlet_cadscene) This OpenGL/Vulkan sample illustrates the use of "mesh shaders" for rendering CAD models.
 
 ## Spatial Data Structures
-* [aardvark.algodat](https://github.com/aardvark-platform/aardvark.algodat) Aardvark.Algodat is part of the open-source Aardvark platform for visual computing, real-time graphics and visualization
-* [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
 * [HashDAG](https://github.com/Phyronnaz/HashDAG) Interactively Modifying Compressed Sparse Voxel Representations
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
@@ -744,8 +742,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [NativeTrees](https://github.com/bartofzo/NativeTrees) Burst compatible Octree and Quadtree for Unity
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
 * [ECS-Octree](https://github.com/Antypodish/ECS-Octree) Unity ECS based octree.
+#### SparseVoxelOctree
 * [ooc_svo_builder](https://github.com/Forceflow/ooc_svo_builder) Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation
 * [SparseVoxelOctree](https://github.com/AdamYuan/SparseVoxelOctree) A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+* [unity-sparse-voxel-octrees](https://github.com/xandergos/unity-sparse-voxel-octrees) A sparse voxel octree renderer, made for use with Unity.
 #### KDTree
 * [KDTree](https://github.com/viliwonka/KDTree) Fast KDTree for Unity, with thread-safe querying.
 * [KdTree](https://github.com/codeandcats/KdTree) A fast, generic, multi-dimensional Binary Search Tree written in C#
@@ -758,16 +758,15 @@ Graphic Engine &amp; Game Engine open source list！
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
 * [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
-* [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH) 
+* [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH)
+#### SpatialHashing
+* [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
 #### SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
-* [SDFr](https://github.com/xraxra/SDFr) Unity. ECS. Many rays intersect in triangles 
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Unity. Computer Shader. JFD Generate SDF in realtime
-* [Signed-Distance-Field-Generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) Unity. Computer Shader. Find the nearest distance of the triangle
+* [unity-sdf-generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.
 * [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
-* [Typogenic](https://github.com/Chman/Typogenic) Signed-distance field text rendering for Unity
-* [SDF](https://github.com/memononen/SDF) Signed Distance Field Builder for Contour Texturing
 * [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
 * [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 * [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
