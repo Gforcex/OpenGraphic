@@ -702,6 +702,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [pipeline](https://github.com/nvpro-pipeline/pipeline) nvpro-pipeline is a research rendering pipeline
 * [IndirectOcclusionCulling](https://github.com/JJoosten/IndirectOcclusionCulling) Indirect Occlusion Culling
 * [melt](https://github.com/karimnaaji/melt) Automatic conservative mesh occluder generation by box filling
+* [EveryCulling](https://github.com/SungJJinKang/EveryCulling) This library integrates multiple culling methods into one library.
 #### Bounding
 * [bounding-mesh](https://github.com/gaschler/bounding-mesh) Implementation of the bounding mesh and bounding convex decomposition algorithms for single-sided mesh approximation
 #### Soft Occlusion Culling
@@ -1008,6 +1009,7 @@ Other.....
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 * [moderngpu](https://github.com/moderngpu/moderngpu) Patterns and behaviors for GPU computing
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) ILGPU JIT Compiler for high-performance .Net GPU programs   www.ilgpu.net
+* [gpu-io](https://github.com/amandaghassaei/gpu-io) A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 #### JIT
 * [taichi](https://github.com/taichi-dev/taichi)  Productive & portable high-performance programming in Python.  taichi-lang.org
 * [Halide](https://github.com/halide/Halide) a language for fast, portable data-parallel computation  halide-lang.org
@@ -1198,6 +1200,9 @@ Other.....
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 * [TecoGAN](https://github.com/thunil/TecoGAN) a TEmporally COherent GAN for video super-resolution.
 * [lama-cleaner](https://github.com/Sanster/lama-cleaner) Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+#### ML Unity
+* [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) Toy Gaussian Splatting visualization in Unity
+* [FernSDGraph](https://github.com/FernRP/FernSDGraph) Stable Diffusion Graph Tool in Unity
 
 ## SDK&Tutorial
 #### SDK Samples
@@ -1227,6 +1232,7 @@ Other.....
 * [GPUZen](https://github.com/wolfgangfengel/GPUZen)
 * [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems)
 * [jgt-code](https://github.com/erich666/jgt-code) Code developed for articles in the "Journal of Graphics Tools"
+* [Mastering-Graphics-Programming-with-Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan)  Mastering Graphics Programming with Vulkan, published by Packt
 #### Graphics Awesome
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) a list of graphic programming resources  
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics) Curated list of computer graphics tutorials and resources  
