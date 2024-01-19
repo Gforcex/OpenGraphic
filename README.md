@@ -328,6 +328,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Collection
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing) Post Processing Stack
 * [reshade-shaders](https://github.com/crosire/reshade-shaders) A collection of post-processing shaders written for ReShade. https://reshade.me
+* [CobraFX](https://github.com/LordKobra/CobraFX) CobraFX comprises SirCobra's contribution of shaders for ReShade.  
 * [OtisFX](https://github.com/FransBouma/OtisFX) A small set of effects for Reshade   
 * [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing) various post-processing effects for Unity
 * [Unity5Effects](https://github.com/i-saint/Unity5Effects) Unity5 用エフェクト置き場  
