@@ -5,6 +5,7 @@
 * [Houdini_Scripts](https://github.com/LewisOrton/Houdini_Scripts) Personal Houdini scripts
 * [MASSEParmUtilities](https://github.com/viktors-a/MASSEParmUtilities) Package for Houdini software
 * [ntLib](https://github.com/nitzan-treg/ntLib) Digital Assets for Houdini FX
+* [LV-Tools](https://github.com/lukevanlukevan/LV-Tools) A collection of HDAs
   
 ## Tools
 * [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools 
