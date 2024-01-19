@@ -1171,17 +1171,13 @@ Other.....
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [tracy](https://github.com/wolfpld/tracy) A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.
-* [CodeXL](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
-* [LPGPU2-CodeXL](https://github.com/codeplaysoftware/LPGPU2-CodeXL) LPGPU2 CodeXL power performance analysis and feedback tool for GPUs
-* [perfdoc](https://github.com/ARM-software/perfdoc) A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
+* [GPUOpen-Tools](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [agi](https://github.com/google/agi) Android GPU Inspector
 * [gapid](https://github.com/google/gapid) Graphics API Debugger by google
 * [microprofile](https://github.com/zeux/microprofile) embeddable CPU/GPU profiler
-* [vogl](https://github.com/ValveSoftware/vogl) OpenGL capture / playback debugger by valve
 * [apitrace](https://github.com/apitrace/apitrace) Tools for tracing OpenGL, Direct3D, and other graphics APIs
 * [GPUVis](https://github.com/mikesart/gpuvis) GPU Trace Visualizer
-* [Remotery](https://github.com/Celtoys/Remotery) Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
-* [BuGLe](https://sourceforge.net/projects/bugle/) BuGLe combines a graphical OpenGL debugger with a selection of filters on the OpenGL command stream. 
+* [Remotery](https://github.com/Celtoys/Remotery) Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer 
 * Other: **gDEBugger**, **NVIDIA Nsight**, **Microsoft PIX**
 
 #### ML Modeling
