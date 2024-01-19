@@ -25,3 +25,4 @@
 
 ## Others
 * [presentation-houdini-vis](https://github.com/anopara/presentation-houdini-vis) Houdini files of visualizations from my presentation "Place like I do! Example-based procedural placements in a dialogue system"
+* [Assorted-Houdini-Demos](https://github.com/jakericedesigns/Assorted-Houdini-Demos) Toy projects I play with during weekends :)
