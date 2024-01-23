@@ -1,18 +1,14 @@
 ## Physics
 ### Library
 * [PhysX](https://github.com/NVIDIA-Omniverse/PhysX) NVIDIA PhysX SDK
+* [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [ODE](https://www.ode.org/) Open Dynamics Engine
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
-* [simbody](https://github.com/simbody/simbody) High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleto
-* [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
 * [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev) OpenFOAM Foundation development repository. https://openfoam.org/  
-* [delfem2](https://github.com/nobuyuki83/delfem2) Research prototyping framework for physics simulation written in C++
-* [PixelFlow](https://github.com/diwi/PixelFlow) A Processing/Java library for high performance GPU-Computing (GLSL). Fluid Simulation + SoftBody Dynamics + Optical Flow + Rendering + Image Processing + Particle Systems + Physics
-* [gpu-physics-unity](https://github.com/jknightdoeswork/gpu-physics-unity) Through this configuration, no per voxel data is transferred between the GPU and the CPU at runtime.
 
 ### Collision Detection
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
@@ -97,6 +93,7 @@
 * [Softbody_Physics_UE5](https://github.com/asaia/Softbody_Physics_UE5) Implementation of the "A Constraint-based Formulation of Stable Neo-Hookean Materials" paper in UE5
 
 ### Verlet MassSpring
+* [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) Simple fake Physics for UnrealEngine4 & 5
 * [verlet-js](https://github.com/subprotocol/verlet-js) A simple Verlet physics engine written in javascript
 * [FastMassSpring](https://github.com/sam007961/FastMassSpring) Interactive cloth simulator using the method described in the SIGGRAPH paper "Fast Simulation of Mass-Spring Systems"
 
