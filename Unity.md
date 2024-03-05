@@ -4,9 +4,8 @@
 #### Shader
 * [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
-* [shader-variant-explorer](https://github.com/needle-tools/shader-variant-explorer) Shader Variant Explorer lets you peek into Unity's shader compilation process to better understand the composition of shader files.
+* [SocoTools](https://github.com/crossous/SocoTools) Crossous's unity tools，currently contains shader variant stripper tools
 * [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper) Modular utilities for shader stripping to drastically improve Unity build times
-* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor)  Define the structure, assign values to shader parameters using C# reflection,work in unity
 * [ShaderDebugger](https://github.com/arigo/ShaderDebugger) Simple Unity framework to debug shader code
 #### TexturePainter
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
@@ -71,21 +70,22 @@
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
 * [Tri-Inspector](https://github.com/codewriter-packages/Tri-Inspector)  Free and open-source library that improves unity inspector. 
 * [UnityDrawers](https://github.com/fishtopher/UnityDrawers)  :thumbsup: A collection of property and decorator drawers for Unity
-* [UnityFoldoutDecorator](https://github.com/giuliano-marinelli/UnityFoldoutDecorator) Foldout as a Decorator for group variables in Unity Script Inspector
-* [InspectorFoldoutGroup](https://github.com/PixeyeHQ/InspectorFoldoutGroup) Group variables in Unity 3d inspector with style!
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) A Unity Editor extension for customizing inspector layout with attributes.
 * [MyBox](https://github.com/Deadcows/MyBox) MyBox is a set of attributes, tools and extensions for Unity
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
 * [LucidEditor](https://github.com/AnnulusGames/LucidEditor) Powerful Editor Extensions for Unity
+* [UnityFoldoutDecorator](https://github.com/giuliano-marinelli/UnityFoldoutDecorator) Foldout as a Decorator for group variables in Unity Script Inspector
+* [InspectorFoldoutGroup](https://github.com/PixeyeHQ/InspectorFoldoutGroup) Group variables in Unity 3d inspector with style!
 * [UnityExtensions.ArrayDrawer](https://github.com/garettbass/UnityExtensions.ArrayDrawer) ArrayDrawer is a base class like PropertyDrawer, but for arrays and lists.
 * [Unity-Reorderable-List](https://github.com/cfoulston/Unity-Reorderable-List) An attempt to mimic the ReorderableList within Unity while adding some extended functionality.
-* [ThryEditor](https://github.com/Thryrallo/ThryEditor)  :thumbsup:  General Unity Shader Inspector/Editor with focus on vrchat
+* [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) Keeps your screen real-estate clean with refined, compact UX.
+* [UnityRuntimePreviewGenerator](https://github.com/yasirkula/UnityRuntimePreviewGenerator) Generate preview textures (thumbnails) for your GameObject's or materials on the fly in Unity
+* [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) Lightweight Unity Plugin transforming the Hierarchy into what it should be. Adds headers, styles, icons and more.
+* [ThryEditor](https://github.com/Thryrallo/ThryEditor)  General Unity Shader Inspector/Editor with focus on vrchat
 * [LWGUI](https://github.com/JasonMa0012/LWGUI) A Lightweight, Flexible, Powerful Shader GUI System for Unity.
 * [ConfigurableShaders](https://github.com/supyrb/ConfigurableShaders)  You can expose a lot of different shader settings through attributes!
 * [ShaderUtilsForSRP](https://github.com/stalomeow/ShaderUtilsForSRP) Utilities for SRP shaders.  
-* [ShaderAccessor](https://github.com/JiongXiaGu/ShaderAccessor) Define the structure, assign values to shader parameters using C# reflection,work in unity
-* [Smart-Inspector](https://github.com/neon-age/Smart-Inspector) Keeps your screen real-estate clean with refined, compact UX.
-* [UnityRuntimePreviewGenerator](https://github.com/yasirkula/UnityRuntimePreviewGenerator) Generate preview textures (thumbnails) for your GameObject's or materials on the fly in Unity
+
 ## Gizmos
 * [gizmos](https://github.com/popcron/gizmos)  Used for drawing runtime gizmos in builds and editor (Unity3D) 
 ## Editor
