@@ -463,13 +463,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [WaveWorks](https://github.com/NvPhysX/UnrealEngine/tree/WaveWorks) WaveWorks is a library for simulating wind-driven waves on large bodies of water, in real time, using GPU acceleration.
 * [crest-oceanrender](https://github.com/huwb/crest-oceanrender) :thumbsup: Crest is a technically advanced ocean renderer implemented in Unity3D
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
-* [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
-* [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
-* [fft-ocean](https://github.com/jbouny/fft-ocean) WebGL FFT (Fast Fourier transform) ocean rendering for Three.js 
+* [Water](https://github.com/GarrettGunnell/Water) Sum of sines and fft fluid simulation with a physically based water shader
+* [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  [Ocean-URP](https://github.com/gasgiant/Ocean-URP) FFT ocean for Unity
 * [EncinoWaves](https://github.com/blackencino/EncinoWaves) Implementation of "Empirical Directional Wave Spectra for Computer Graphics" paper by Christopher Horvath
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 * [WaveParticle](https://github.com/AtwoodDeng/WaveParticle) A project for testing the wave particle
 * [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
+* [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
+* [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
   
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
 * [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
