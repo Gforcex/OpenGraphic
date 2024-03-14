@@ -88,7 +88,8 @@
 * [ShaderUtilsForSRP](https://github.com/stalomeow/ShaderUtilsForSRP) Utilities for SRP shaders.  
 
 ## Gizmos
-* [gizmos](https://github.com/popcron/gizmos)  Used for drawing runtime gizmos in builds and editor (Unity3D) 
+* [gizmos](https://github.com/popcron/gizmos)  Used for drawing runtime gizmos in builds and editor (Unity3D)
+* [ReGizmo](https://github.com/Refsa/ReGizmo)  Immediate-Mode Gizmos for unity
 ## Editor
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
