@@ -20,13 +20,14 @@
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  :thumbsup: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them
 * [unity-reference-viewer](https://github.com/ina-amagami/unity-reference-viewer) It's a tool for searching asset references on Unity and displaying them on the window.  
 * [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) This tool finds unreferenced assets by scanning all files in your Unity project.
-* [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 * [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
-* [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity. 
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
 * [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Il2CppInspector helps you to reverse engineer IL2CPP applications, providing the most complete analysis currently available.
+* [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer) Heap Explorer is a Memory Profiler, Debugger and Analyzer for Unity.
+* [Microsoft.Unity.Analyzers](https://github.com/microsoft/Microsoft.Unity.Analyzers) Roslyn analyzers for Unity game developers
+* [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 #### Disassembly
 * [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 * [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
