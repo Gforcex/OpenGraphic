@@ -171,15 +171,13 @@ Graphic Engine &amp; Game Engine open source list！
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
 * [RealTimeGI](https://github.com/PolyAH/RealTimeGI) Real-Time Global Illumination - University of Leeds MSc Project.
 * [Precomputed-Light-Field-Probes](https://github.com/Global-Illuminati/Precomputed-Light-Field-Probes) Real-Time Global Illumination using Precomputed Light Field Probes
-* [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTX Global Illumination (RTXGI) SDK
+* [RTXGI-DDGI](https://github.com/NVIDIAGameWorks/RTXGI-DDGI) RTX Global Illumination (RTXGI) SDK
 * [LuxGI](https://github.com/flwmxd/LuxGI) Hybrid GI solution, based on DDGI ( include Ray-Tracing and SDF-Tracing )
 * [PRT](https://github.com/lvjiahui/PRT) Precomputed Radiance Transfer in OpenGL
 #### VPL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
-#### RSM
 #### Imperfect Shadow Maps
 * [qt5-shadow-maps](https://github.com/tatsy/qt5-shadow-maps) Shadow mapping implementation with Qt5 and OpenGL
-#### Instant Radiosity
 #### LPV
 * [Light-Propagation-Volumes](https://github.com/djbozkosz/Light-Propagation-Volumes)
 * [GI-LPV](https://github.com/innovation-cat/GI-LPV) Implement global illumination with OCaml, using light propagation volumes
@@ -330,7 +328,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [CobraFX](https://github.com/LordKobra/CobraFX) CobraFX comprises SirCobra's contribution of shaders for ReShade.  
 * [OtisFX](https://github.com/FransBouma/OtisFX) A small set of effects for Reshade   
 * [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing) various post-processing effects for Unity
-* [Unity5Effects](https://github.com/i-saint/Unity5Effects) Unity5 用エフェクト置き場  
 #### AA
 * [CMAA2](https://github.com/GameTechDev/CMAA2)  Conservative Morphological Anti-Aliasing 2.0
 * [MSAAFilter](https://github.com/TheRealMJP/MSAAFilter)  MSAA and Temporal AA Sample
