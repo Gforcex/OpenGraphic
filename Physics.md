@@ -54,6 +54,7 @@
 * [pcisph](https://github.com/cerrno/pcisph) Predictive-Corrective Smoothed Particle Hydrodynamics (SPH) implementation in 2D for CS4167 final project
 * [pysph](https://github.com/pypr/pysph) A framework for Smoothed Particle Hydrodynamics in Python
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
+* [flut](https://github.com/pablode/flut) OpenGL SPH fluid simulation and rendering
 
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
