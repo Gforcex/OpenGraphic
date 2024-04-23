@@ -157,6 +157,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [graphene](https://github.com/ApoorvaJ/graphene) Vulkan render graph shenanigans
 * [FrameGraph](https://github.com/skaarj1989/FrameGraph) Renderer agnostic frame graph library  [Example](https://github.com/skaarj1989/FrameGraph-Example)
 * [LegitEngine](https://github.com/Raikiri/LegitEngine) A rendergraph-based graphical framework for Vulkan
+* [PathFinder](https://github.com/man-in-black382/PathFinder) An attempt to build a modern renderer using modern graphic APIs. Pillars of the architecture are Bindless Resources and Render Graph.
 
 ## GI
 ### Collection
