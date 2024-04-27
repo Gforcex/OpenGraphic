@@ -179,6 +179,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [PRT](https://github.com/lvjiahui/PRT) Precomputed Radiance Transfer in OpenGL
 #### VPL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
+* [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
+* [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 #### Imperfect Shadow Maps
 * [qt5-shadow-maps](https://github.com/tatsy/qt5-shadow-maps) Shadow mapping implementation with Qt5 and OpenGL
 #### LPV
@@ -201,15 +203,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 * [mfssgi](https://github.com/MFrankfort84/mfssgi)
-#### DFGI
-#### Lighting Grid 
-* [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
-#### Point Based GI
-* [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
-#### Radiosity
-* [instant_radiosity](https://github.com/cache-tlb/instant_radiosity) Some (simple) global illumination algorithms
-* [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
-* [GIGL](https://github.com/vgfx/GIGL) Tiny Global Illumination OpenGL Renderer
 #### Ray tracing
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
@@ -218,7 +211,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [rayn](https://github.com/termhn/rayn) A small path tracing renderer written in Rust.
 * [TrueTrace-Unity-Pathtracer](https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer)  A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
 * [RVPT](https://github.com/GraphicsProgramming/RVPT) Realtime Vulkan path tracer from scratch kind of thing 
-
 * [simple-bidirectional-pathtracer](https://github.com/githole/simple-bidirectional-pathtracer)
 * [edubpt](https://github.com/githole/edubpt)
 * [Volumetric-Path-Tracer](https://github.com/sergeneren/Volumetric-Path-Tracer) Volumetric path tracer using cuda
@@ -282,7 +274,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [LightmapperToy](https://github.com/candycat1992/LightmapperToy) This project is a hobby lightmapper completely based on Houdini geometry nodes. Basically it grew out of a re-implementation of Matt's The Baking Lab with some modification. 
 #### MLGI
 * [DeepIllumination](https://github.com/CreativeCodingLab/DeepIllumination) Code and examples from our paper "Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Networks," by Manu Mathew Thomas and Angus Forbes
-
+#### Others
+* [LGHDemo](https://github.com/DQLin/LGHDemo)  Real-Time Rendering with Lighting Grid Hierarchy I3D 2019 Demo
+* [PBGI](https://github.com/XT95/PBGI) Point Based Global Illumination
+  
 ### GI Simulation
 #### Diffuse inter-reflection
 #### Caustic
