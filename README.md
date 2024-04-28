@@ -774,7 +774,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 * [rust_test](https://github.com/sebbbi/rust_test) :thumbsup: 
 * [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL
-* [Signed](https://github.com/markusmoenig/Signed) Signed will be an GPL licensed editor and renderer for procedural Signed Distance Functions (SDFs). 
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)  JCGT / I3D paper, "A Dataset and Explorer for 3D Signed Distance Functions".
 
 ## Transparency
@@ -927,6 +926,7 @@ Other.....
 #### Subdivision
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) An Open-Source subdivision surface library. http://graphics.pixar.com/opensubdiv
 #### Simplification
+* [CWF](https://github.com/Xrvitd/CWF) Consolidating Weak Features in High-quality Mesh Simplification
 * [Fast-Quadric-Mesh-Simplification](https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification) Mesh triangle reduction using quadrics
 * [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier) Mesh simplification for Unity.  
 * [simplify](https://github.com/fogleman/simplify) Implementation of Surface Simplification Using Quadric Error Metrics, SIGGRAPH 97, written in Go.
