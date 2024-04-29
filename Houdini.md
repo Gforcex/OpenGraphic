@@ -7,7 +7,8 @@
 * [ntLib](https://github.com/nitzan-treg/ntLib) Digital Assets for Houdini FX
 * [LV-Tools](https://github.com/lukevanlukevan/LV-Tools) A collection of HDAs
 * [DASH](https://github.com/probiner/DASH) Quality of Life utilities package for SideFX Houdini.
-* [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package 
+* [BeeHou](https://github.com/simonreeves/BeeHou) Houdini Package
+* [MOPS](https://github.com/toadstorm/MOPS) Motion OPerators for Houdini, a motion graphics toolkit. 
   
 ## Tools
 * [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools 
