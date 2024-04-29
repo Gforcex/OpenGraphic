@@ -62,10 +62,8 @@
 * [GPU-Spline-Deformation](https://github.com/RoyTheunissen/GPU-Spline-Deformation) Baking spline deformation to a texture then applying it to a mesh via a shader.
 * [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
 #### Others
-* [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
-
-* [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)  A NuGet Package Manager for Unity
+* [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
 
 ## InspectorGUI
 * [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) :thumbsup:  Attribute Extensions for Unity
@@ -107,7 +105,7 @@
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing) Extension for Unity game engine to work with diced sprites
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
 * [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
-
+* [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
 ## AI
 * [unity-movement-ai](https://github.com/antonpantev/unity-movement-ai)  A Unity library for common movement AI
 * [UnityGeneticAlgorithmMaze](https://github.com/createthis/UnityGeneticAlgorithmMaze)  Modern reimplementation in Unity of Bob's Map from AI Techniques for Game Programming
@@ -123,7 +121,8 @@
 * [MagicTween](https://github.com/AnnulusGames/MagicTween)  Extremely fast tween library implemented in Unity ECS 
 
 ## Utils
-* [ProceduralToolkit ](https://github.com/Syomus/ProceduralToolkit)  Procedural generation library for Unity 
+* [ProceduralToolkit ](https://github.com/Syomus/ProceduralToolkit)  Procedural generation library for Unity
+* [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
 * [NativeCollections](https://github.com/jacksondunstan/NativeCollections)  Native Collection Types for Unity https://jacksondunstan.com/articles/tag/native-collection
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting)  Unity Scripting in C++ https://jacksondunstan.com/articles/3938
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation)  Front end visualisation of 40 common easing equations.
