@@ -4,6 +4,7 @@
 * [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
+* [Gaia](https://github.com/AnkaChan/Gaia) Gaia Physics Engine
 * [ODE](https://www.ode.org/) Open Dynamics Engine
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
