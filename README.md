@@ -852,6 +852,7 @@ Other.....
 
 ## Image&Color
 #### Noise
+* [fastnoise](https://github.com/electronicarts/fastnoise) Filter-adapted Spatiotemporal Sampling for Real-Time Rendering
 * [procedural-tileable-shaders](https://github.com/tuxalin/procedural-tileable-shaders) Collection of tileable procedural textures such as: cellular noise, fbm, voronoi, perlin and other.
 * [FastNoiseLite](https://github.com/Auburn/FastNoiseLite) Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL
 * [FastNoise2](https://github.com/Auburn/FastNoise2) Modular node graph based noise generation library using SIMD, C++17 and templates
@@ -867,8 +868,6 @@ Other.....
 * [CloudNoiseGen](https://github.com/Fewes/CloudNoiseGen)  A static utility class for Unity which handles generating and loading periodic, cloud-like (perlin-worley) 3D noise textures on the GPU.
 * [BlueNoiseGenerator](https://github.com/bartwronski/BlueNoiseGenerator) an implementation of a Siggraph 2016 paper "Blue-noise Dithered Sampling" by Iliyan Georgiev and Marcos Fajardo from Solid Angle
 * [LowDiscBlueNoise](https://github.com/dcoeurjo/LowDiscBlueNoise) generate 2D point sets which have both low discrepancy and Blue-Noise properties. 
-* [glsl-curl-noise](https://github.com/cabbibo/glsl-curl-noise) [CurlNoise](https://github.com/rajabala/CurlNoise)
-* [Noice](https://github.com/kecho/Noice) Noise generator utility.
 * [psrdnoise](https://github.com/stegu/psrdnoise) Tiling simplex flow noise in 2-D and 3-D compatible with GLSL 1.20 (WebGL 1.0) and above.
 #### Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) Open Source Computer Vision Library. C# Wrapper [opencvsharp](https://github.com/shimat/opencvsharp)
