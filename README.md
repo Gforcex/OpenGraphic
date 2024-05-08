@@ -1166,6 +1166,7 @@ Other.....
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [tracy](https://github.com/wolfpld/tracy) A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.
+* [nvtop](https://github.com/Syllo/nvtop) GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * [GPUOpen-Tools](https://github.com/GPUOpen-Tools) a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 * [agi](https://github.com/google/agi) Android GPU Inspector
 * [gapid](https://github.com/google/gapid) Graphics API Debugger by google
