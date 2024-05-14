@@ -756,6 +756,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
 * [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
+* [nbvh](https://github.com/WeiPhil/nbvh) Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 * [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH)
 #### SpatialHashing
