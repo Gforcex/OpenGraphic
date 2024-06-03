@@ -127,6 +127,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) Real-time path tracing library and sample
 * [Candela](https://github.com/swr06/Candela) Pathtraced Realtime Engine
 * [Lumen](https://github.com/yuphin/Lumen) A Vulkan Raytracing framework for various bidirectional path tracing techniques
+* [IDKEngine](https://github.com/BoyBaykiller/IDKEngine) OpenGL Toy-"Engine" with Wavefront Path Tracer and Rasterizer Pipeline with Voxel Cone Tracing/Global Illumination
     
 ## Soft Renderer
 * [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
@@ -177,6 +178,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [RTXGI-DDGI](https://github.com/NVIDIAGameWorks/RTXGI-DDGI) RTX Global Illumination (RTXGI) SDK
 * [LuxGI](https://github.com/flwmxd/LuxGI) Hybrid GI solution, based on DDGI ( include Ray-Tracing and SDF-Tracing )
 * [PRT](https://github.com/lvjiahui/PRT) Precomputed Radiance Transfer in OpenGL
+#### SurfelGI
+* [SurfelGI](https://github.com/W298/SurfelGI) Real-Time dynamic global illumination based on surfel. This project is based on GIBS presented at SIGGRAPH 2021.
 #### VPL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
 * [simple-instant-radiosity](https://github.com/githole/simple-instant-radiosity)
@@ -759,6 +762,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nbvh](https://github.com/WeiPhil/nbvh) Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 * [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH)
+* [VkLBVH](https://github.com/MircoWerner/VkLBVH) GPU LBVH builder implemented in Vulkan and GLSL.
 #### SpatialHashing
 * [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
 #### SDF
