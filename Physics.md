@@ -2,6 +2,7 @@
 ### Library
 * [PhysX](https://github.com/NVIDIA-Omniverse/PhysX) NVIDIA PhysX SDK
 * [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
+* [JoltPhysicsUnity](https://github.com/seep/JoltPhysicsUnity) Jolt Physics bindings for Unity
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
 * [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 * [Gaia](https://github.com/AnkaChan/Gaia) Gaia Physics Engine
