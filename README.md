@@ -740,6 +740,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
 #### Octree&Quadtree
+* [i-octree](https://github.com/zhujun3753/i-octree) [ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
 * [NativeTrees](https://github.com/bartofzo/NativeTrees) Burst compatible Octree and Quadtree for Unity
 * [NativeQuadtree](https://github.com/marijnz/NativeQuadtree) A Quadtree Native Collection for Unity DOTS
