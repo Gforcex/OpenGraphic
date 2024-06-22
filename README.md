@@ -135,12 +135,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer)  A brief computer graphics / rendering course
 * [coco3d](http://coco3d.codeplex.com/) Coco3D is a real-time 3D software renderer for Windows PCs and mobile devices
-* [muli3d](https://sourceforge.net/projects/muli3d/)  implements features of current graphics hardware in software. The focus is on ease of use and clear code
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
 * [mesa](https://gitlab.freedesktop.org/mesa/mesa) :thumbsup: https://www.mesa3d.org
 * [renderer](https://github.com/zauonlok/renderer)  A shader-based software renderer written from scratch in C89 https://zauonlok.github.io/renderer/
 * [SoftwareRenderer](https://github.com/Angelo1211/SoftwareRenderer) Software rendering engine with PBR. Built from scratch on C++.
-* [Tyler](https://github.com/NotCamelCase/Tyler) Tile-based SW rasterizer 
 * [RetroWarp](https://github.com/Themaister/RetroWarp) The GPU is implemented with "pure" software rendering
 * [grr](https://github.com/kecho/grr) Gpu Renderer and Rasterizer - for python
 * [virglrenderer](https://gitlab.freedesktop.org/virgl/virglrenderer/) VirGL virtual OpenGL renderer
