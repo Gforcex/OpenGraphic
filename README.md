@@ -785,6 +785,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Dithering-Unity3d](https://github.com/mcraiha/Dithering-Unity3d)  Dithering algorithms for Unity3d
 * [PreMulAlpha](https://github.com/dtrebilco/PreMulAlpha)  Pre-Multiplied blend mode  
 #### OIT
+* [lucid](https://github.com/nadult/lucid) real-time GPU software rasterizer for exact OIT
 * [Order-Independent-Trasparency](https://github.com/PixelClear/Order-Independent-Trasparency)
 * [OIT_Lab](https://github.com/candycat1992/OIT_Lab)
 * [oitDemo](https://github.com/turol/oitDemo) Order Independent Transparency In OpenGL 4.x
@@ -1163,7 +1164,9 @@ Other.....
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer)  High efficient and fast 2D bin packing tool
 * [Unity3D-TextureAtlasSlicer](https://github.com/toxicFork/Unity3D-TextureAtlasSlicer)
 * [VaTexAtlas](https://github.com/ufna/VaTexAtlas)  plugin for Unreal Engine 4 that makes texture atlases simpler to use with UMG system.
-* [RectangleBinPack](https://github.com/juj/RectangleBinPack) Source code for performing 2d rectangular bin packing. 
+* [rectpack2D](https://github.com/TeamHypersomnia/rectpack2D) A header-only, very efficient 2D rectangle packing library. Used in Assassin's Creed and Skydio drones. 2 scientific references
+* [RectangleBinPack](https://github.com/juj/RectangleBinPack) Source code for performing 2d rectangular bin packing.
+* [dp_rect_pack](https://github.com/danpla/dp_rect_pack) Rectangle packing library for C++
 * [UnityRuntimeSpriteSheetsGenerator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator) Unity – generate SpriteSheets at runtime!
 * [pack-spheres](https://github.com/mattdesl/pack-spheres)  Brute force circle/sphere packing in 2D or 3D
 * [texture-defrag](https://github.com/maggio-a/texture-defrag) Texture Defragmentation for Photo-Reconstructed 3D Models 
