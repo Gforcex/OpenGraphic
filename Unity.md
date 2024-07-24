@@ -15,7 +15,9 @@
 * [Prefabshop](https://github.com/Raptorij/Prefabshop) Prefab painter for Unity
 * [PrefabPainter](https://github.com/Roland09/PrefabPainter) Tool for conveniently and flexibly adding huge amounts of prefabs to your Unity scene.
 #### AssetsAnalyzer
+* [AssetRipper](https://github.com/AssetRipper/AssetRipper) GUI Application to work with engine assets, asset bundles, and serialized files
 * [AssetStudio](https://github.com/Perfare/AssetStudio)  :thumbsup:  A tool for exploring, extracting and exporting assets and assetbundles
+* [AssetStudio New Ver](https://github.com/zhangjiequan/AssetStudio) [AssetStudioMod](https://github.com/aelurum/AssetStudio)
 * [UtinyRipper](https://github.com/mafaca/UtinyRipper) GUI and API library for working with Engine assets, serialized and bundle files
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  :thumbsup: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them
 * [unity-reference-viewer](https://github.com/ina-amagami/unity-reference-viewer) It's a tool for searching asset references on Unity and displaying them on the window.  
