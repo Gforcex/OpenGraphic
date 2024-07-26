@@ -762,6 +762,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
 * [UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy) Unity Bounding Volume Heirachy (BVH)
 * [VkLBVH](https://github.com/MircoWerner/VkLBVH) GPU LBVH builder implemented in Vulkan and GLSL.
+* [HIP-BVH-Construction](https://github.com/Niravaana/HIP-BVH-Construction) experiments with BVH build algorithms on GPU.
 #### SpatialHashing
 * [Unity_GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) Spatial Hashing Algorithm with GPU Acceleration
 #### SDF
