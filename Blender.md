@@ -31,4 +31,5 @@
 * [jmesh-tools](https:github.com/jayanam/jmesh-tools) Blender 2.8/2.9 mesh and hard surface utilities addon
 * [WrapBaker](https://github.com/JoeShu0/WrapBaker) Personal Blender Addons
 * [blender_vertex_color_master](https://github.com/andyp123/blender_vertex_color_master) Blender addon for working more precisely with vertex colours
-* [engon](https://github.com/polygoniq/engon)
+* [engon](https://github.com/polygoniq/engon) https://blendermarket.com/products/engon
+* [ucupaint](https://github.com/ucupumar/ucupaint) Ucupaint is Blender addon to manage texture layers for Eevee and Cycles renderer.
