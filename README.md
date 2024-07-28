@@ -737,6 +737,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [HashDAG](https://github.com/Phyronnaz/HashDAG) Interactively Modifying Compressed Sparse Voxel Representations
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
+#### CBT
+* [large_cbt](https://github.com/AnisB/large_cbt)  Concurrent Binary Trees for Large-Scale Game Components, at Siggraph 2024
 #### Octree&Quadtree
 * [i-octree](https://github.com/zhujun3753/i-octree) [ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
 * [UnityOctree](https://github.com/Nition/UnityOctree) A dynamic, loose octree implementation for Unity written in C#
