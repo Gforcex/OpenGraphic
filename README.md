@@ -258,6 +258,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [RTAO](https://github.com/boksajak/RTAO) Ray Traced Ambient Occlusion (RTAO) implemented using DirectX Raytracing (DXR)
 * [BNAO](https://github.com/Fewes/BNAO) A tiny, GPU-based Bent Normal and Ambient Occlusion baker for Unity.
 * [dxr-ao-bake](https://github.com/Twinklebear/dxr-ao-bake) A demo of ambient occlusion map baking using DXR
+* [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
+* [VertexColorBaker](https://github.com/Fewes/VertexColorBaker) An AssetPostprocessor for Unity that can bake ambient occlusion and curvature information into mesh vertex color channels.
 #### Bent Normal
 * [ssbn](https://github.com/KageKirin/ssbn) Screen Space Bent Normals
 #### Radiosity Normal Mapping
@@ -324,6 +326,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VolFx](https://github.com/NullTale/VolFx) Selective Post Processing with buffer system
 * [PostProcessing](https://github.com/Unity-Technologies/PostProcessing) Post Processing Stack
 * [reshade-shaders](https://github.com/crosire/reshade-shaders) A collection of post-processing shaders written for ReShade. https://reshade.me
+* [GShade](https://github.com/Mortalitas/GShade) GShade is a highly modified ReShade fork & utility package with numerous improvements and settings autodetection for over 300 games.
 * [CobraFX](https://github.com/LordKobra/CobraFX) CobraFX comprises SirCobra's contribution of shaders for ReShade.  
 * [OtisFX](https://github.com/FransBouma/OtisFX) A small set of effects for Reshade   
 * [Cat-PostProcessing](https://github.com/JoachimCoenen/Cat-PostProcessing) various post-processing effects for Unity
@@ -557,6 +560,7 @@ Graphic Engine &amp; Game Engine open source list！
 
 ## Environment
 #### VolumetricLight
+* [Unity-Baked-Volumetrics](https://github.com/frostbone25/Unity-Baked-Volumetrics) A work in progress graphics solution for completely baked volumetric lighting, meant to be very lightweight and inexpensive.
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) Volumetric Lights for Unity
 * [LightShafts](https://github.com/robertcupisz/LightShafts) A light shafts (volumetric shadows) effect for Unity.
 * [VolumetricLighting](https://github.com/NVIDIAGameWorks/VolumetricLighting) NVIDIA Gameworks Volumetric Lighting
@@ -1066,6 +1070,7 @@ Other.....
 * [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.
 #### Motion
 * [AmplifyMotion](https://github.com/AmplifyCreations/AmplifyMotion) Amplify Motion was the first Full-scene Motion Blur extension for Unity
+* [URP-Simple-Per-Object-Motion-Blur](https://github.com/Estradel/URP-Simple-Per-Object-Motion-Blur) A simple implementation of a Per-object motion blur effect for Unity URP
 * [ProceduralMotion](https://github.com/keijiro/ProceduralMotion) A collection of procedural motion scripts for Unity
 #### Portal
 * [unity-portal-rendering](https://github.com/pr0g/unity-portal-rendering) Super small example of using offscreen render targets to achieve a portal effect in Unity
@@ -1122,6 +1127,10 @@ Other.....
 * [VFXGraphSandbox](https://github.com/fuqunaga/VFXGraphSandbox) Unity VFX Graph technical experiment.
 * [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
 * [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
+#### Baker
+* [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
+* [Unity-PivotBaking](https://github.com/Gaxil/Unity-PivotBaking) Pivot baking in unity
+* [pbr_baker](https://github.com/hypernewbie/pbr_baker) PBR Baker - open source multi-functional baking tool for BRDF related work
 #### Shader
 * [Pyramid](https://github.com/jbarczak/Pyramid) :thumbsup: Pyramid Shader Analyzer
 * [shader-playground](https://github.com/tgjones/shader-playground) :thumbsup: Shader compilers http://shader-playground.timjones.io
@@ -1156,7 +1165,6 @@ Other.....
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) generate normal, height, specular or ambient occlusion textures from a single image
 * [NormalmapGenerator](https://github.com/Theverat/NormalmapGenerator)  A simple program that converts images into normal maps
 * [Imogen](https://github.com/CedricGuillemet/Imogen) GPU Texture Generator
-* [aobaker](https://github.com/prideout/aobaker) ambient occlusion baking tool
 * [TextureGenerator](https://github.com/mtwoodard/TextureGenerator) 3D and 2D Noise/Texture generation using the compute shaders within the Unity engine.
 #### Atlas 
 * [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) Boundary First Flattening (BFF) is a free and open source application for surface parameterization.
