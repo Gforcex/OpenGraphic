@@ -22,6 +22,7 @@
 * [UnityNativeCollision](https://github.com/jeffvella/UnityNativeCollision) SAT Collision in C# for Unity3D Burst Compiler
 * [parry](https://github.com/dimforge/parry) 2D and 3D collision-detection library for Rust.rs
 * [cpa] (https://github.com/memononen/cpa) Distance, Time-of-Impact, and Closest-Point-of-Approach between Convex 2D Shapes
+* [fcpw](https://github.com/rohan-sawhney/fcpw) fast distance and ray intersection queries
 
 ### Fluid
 * [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)  Fluid simulation engine for computer graphics applications https://fluidenginedevelopment.org/
@@ -57,11 +58,11 @@
 * [pysph](https://github.com/pypr/pysph) A framework for Smoothed Particle Hydrodynamics in Python
 * [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
 * [flut](https://github.com/pablode/flut) OpenGL SPH fluid simulation and rendering
-
 * [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) physically-based simulation of rigid bodies, deformable solids and fluids.
 * [PositionBasedFluids](https://github.com/JAGJ10/PositionBasedFluids) CUDA/C++ implementation of several papers in the spirit of developing a small demo similar to Nvidia's FleX framework
 * [PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity) A PBD fluid in unity running on the GPU
-* [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering". 
+* [RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) Implementation of the i3D2018 paper "A Narrow-Range Filter for Screen-Space Fluid Rendering".
+* [RealTimeParticles](https://github.com/axoloto/RealTimeParticles) Minimalist real-time 3D particles simulator (Boids, Fluids) based on OpenGL/OpenCL frameworks
 
 #### Hybrid Lagrangian-Eulerian
 * [Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) :thumbsup:  FLIP Fluids is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender
