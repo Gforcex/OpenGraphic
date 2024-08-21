@@ -47,6 +47,7 @@ Graphic Engine &amp; Game Engine open source list！
 * NVIDIA [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  &nbsp;&nbsp; [nvpro-samples](https://github.com/nvpro-samples)  &nbsp;&nbsp; [NVIDIA](https://github.com/NVIDIA)  &nbsp;&nbsp;  [NVlabs](https://github.com/NVlabs)  
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * ARM [ARM-software](https://github.com/ARM-software)
+* Snapdragon [SnapdragonStudios](https://github.com/SnapdragonStudios)
 * PowerVR [powervr-graphics](https://github.com/powervr-graphics)
 * TheKhronosGroup [The Khronos Group](https://github.com/KhronosGroup) https://www.khronos.org/
 * AcademySoftwareFoundation [Academy Software Foundation](https://github.com/AcademySoftwareFoundation) https://www.aswf.io/
@@ -708,7 +709,9 @@ Graphic Engine &amp; Game Engine open source list！
 #### Bounding
 * [bounding-mesh](https://github.com/gaschler/bounding-mesh) Implementation of the bounding mesh and bounding convex decomposition algorithms for single-sided mesh approximation
 #### Soft Occlusion Culling
-* [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull)
+* [MaskedOcclusionCulling](https://github.com/GameTechDev/MaskedOcclusionCulling) Example code for the research paper "Masked Software Occlusion Culling"; implements an efficient alternative to the hierarchical depth buffer algorithm.
+* [snapdragon-oc](https://github.com/SnapdragonStudios/snapdragon-oc) Snapdragon™ Occlusion Culling (SDOC)
+* [intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull) Intel's Software Occlusion Culling demo with my modifications
 * [Image-Space-Occlusion-Culling-Engine](https://github.com/lebarba/Image-Space-Occlusion-Culling-Engine) Image Space Occlusion Culling Engine optimized to perform occlusion culling in CPU.
 * [Janua](https://github.com/gigc/Janua) Open Source occlusion culling engine for 3D Scenes
 * [OcclusionCulling](https://github.com/GameTechDev/OcclusionCulling) software (CPU) based approach to occllusion culling using multi-threading and SIMD instructions to improve performance.
