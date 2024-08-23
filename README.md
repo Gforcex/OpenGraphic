@@ -202,6 +202,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [DXE](https://github.com/LanLou123/DXE) A voxel cone traced realtime Global Illumination rendering engine in dx12, wip
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### SSGI
+* [SSRT3](https://github.com/cdrinmatane/SSRT3) Real-time global illumination using screen-space information for Unity HDRP
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 * [mfssgi](https://github.com/MFrankfort84/mfssgi)
@@ -250,8 +251,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [MiniEngineAO](https://github.com/keijiro/MiniEngineAO) SSAO image effect from Microsoft MiniEngine, ported to Unity.
 * [NNAO](https://github.com/simeonradivoev/NNAO) Neural Network Ambien Occlusion
 * [dssdo](https://github.com/kayru/dssdo) Deferred Screen Space Directional Occlusion http://kayru.org/articles/dssdo/
-* [ssgi](https://github.com/jdupuy/ssgi) Screen space global illumination demo: SSAO vs SSDO
-* [SSRT](https://github.com/cdrinmatane/SSRT) Real-time indirect diffuse illuminaton using screen-space information for Unity.
 * [AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) Full source-code for Amplify Occlusion plugin for Unity [AmplifyOcclusion-URP](https://github.com/neon-age/AmplifyOcclusion-URP)
 * [Unity-Ground-Truth-Ambient-Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion) A physically based screen space ambient occulsion post processing effect  
 * [Unity-GeoAO](https://github.com/nezix/Unity-GeoAO) Fast ambien occlusion in Unity at runtime
