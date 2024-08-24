@@ -47,7 +47,7 @@ Graphic Engine &amp; Game Engine open source list！
 * NVIDIA [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  &nbsp;&nbsp; [nvpro-samples](https://github.com/nvpro-samples)  &nbsp;&nbsp; [NVIDIA](https://github.com/NVIDIA)  &nbsp;&nbsp;  [NVlabs](https://github.com/NVlabs)  
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
 * ARM [ARM-software](https://github.com/ARM-software)
-* Snapdragon [SnapdragonStudios](https://github.com/SnapdragonStudios)
+* Qualcomm [SnapdragonStudios](https://github.com/SnapdragonStudios)
 * PowerVR [powervr-graphics](https://github.com/powervr-graphics)
 * TheKhronosGroup [The Khronos Group](https://github.com/KhronosGroup) https://www.khronos.org/
 * AcademySoftwareFoundation [Academy Software Foundation](https://github.com/AcademySoftwareFoundation) https://www.aswf.io/
@@ -203,6 +203,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### SSGI
 * [SSRT3](https://github.com/cdrinmatane/SSRT3) Real-time global illumination using screen-space information for Unity HDRP
+* [UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP) Screen Space Global Illumination for Unity URP (Universal Render Pipeline).
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 * [mfssgi](https://github.com/MFrankfort84/mfssgi)
