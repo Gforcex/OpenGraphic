@@ -177,6 +177,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [RTXGI-DDGI](https://github.com/NVIDIAGameWorks/RTXGI-DDGI) RTX Global Illumination (RTXGI) SDK
 * [LuxGI](https://github.com/flwmxd/LuxGI) Hybrid GI solution, based on DDGI ( include Ray-Tracing and SDF-Tracing )
 * [PRT](https://github.com/lvjiahui/PRT) Precomputed Radiance Transfer in OpenGL
+#### Radiance Cache
+* [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI) RTXGI v2.0 Update including Neural Radiance Cache and Spatial Hash Radiance Cache
+* [BrixelizerGi](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/tree/main/samples/brixelizergi) FidelityFX Brixelizer GI is a simplified implementation of AMD GI-1.0
+* [Capsaicin](https://github.com/GPUOpen-LibrariesAndSDKs/Capsaicin)
 #### SurfelGI
 * [SurfelGI](https://github.com/W298/SurfelGI) Real-Time dynamic global illumination based on surfel. This project is based on GIBS presented at SIGGRAPH 2021.
 #### VPL
@@ -230,6 +234,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Helios](https://github.com/diharaw/Helios) Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 * [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) A beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
 #### ReSTIR
+* [RTXDI](https://github.com/NVIDIAGameWorks/RTXDI) RTX Dynamic Illumination is a framework that facilitates the implementations of efficient direct light sampling in real-time renderers
 * [VolumetricReSTIRRelease](https://github.com/DQLin/VolumetricReSTIRRelease) SIGGRAPH Asia 2021 paper "Fast Volume Rendering with Spatiotemporal Reservoir Resampling"
 * [ReSTIR-Vulkan](https://github.com/lukedan/ReSTIR-Vulkan) Vulkan implementation of ReSTIR
 * [Reservoir-Spatio-Temporal-Importance-Resampling-ReSTIR](https://github.com/tatran5/Reservoir-Spatio-Temporal-Importance-Resampling-ReSTIR) Reservoir Spatio Temporal Importance Resampling
