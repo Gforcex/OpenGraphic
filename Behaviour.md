@@ -9,5 +9,8 @@
 * [Unity-Flocking-CPU-GPU](https://github.com/CristianQiu/Unity-Flocking-CPU-GPU) CPU and GPU flocking implementations in the Unity game engine. Based on Unity's ECS implementation using DOTS, presented by Mike Acton.
 * [unity-jobsystem-boids](https://github.com/komietty/unity-jobsystem-boids) Superfast CPU boids for Unity
 
+#### Collision Avoidance
+* [RVO2-CS](https://github.com/snape/RVO2-CS) Optimal Reciprocal Collision Avoidance (C#)
+
 #### WaveFunctionCollapse
 * [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) Walk through an infinite, procedurally generated city
