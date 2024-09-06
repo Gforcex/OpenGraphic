@@ -10,6 +10,7 @@
 #### TexturePainter
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
 * [TexturePaint](https://github.com/IRCSS/TexturePaint) Painting directly in mesh textures in Unity 3d with shaders
+* [LightMap-Painting-Tool-Unity](https://github.com/Louis1351/LightMap-Painting-Tool-Unity) A tool which allows to paint on light map.
 #### PerfabPainter
 * [prefab-painter](https://github.com/alexander-ameye/prefab-painter) A basic prefab painter for the Unity3D game engine.
 * [Prefabshop](https://github.com/Raptorij/Prefabshop) Prefab painter for Unity
