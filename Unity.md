@@ -40,8 +40,11 @@
 * [Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) Work-in-progress tool to reverse unity's IL2CPP toolchain.
 #### Profiler
 * [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
-* [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
 * [ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler) Unity 特效性能分析工具
+#### Stats Monitor
+* [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
+* [graphy](https://github.com/Tayx94/graphy) Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
+* [MemoryInfoPlugin](https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity) A set of tools for Unity to allow handling memory info for Android and iOS.
 #### VisualEdit
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 * [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
@@ -103,7 +106,6 @@
 
 ## UI
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
-* [graphy](https://github.com/Tayx94/graphy) Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
 * [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
 * [SpriteDicing](https://github.com/Elringus/SpriteDicing) Extension for Unity game engine to work with diced sprites
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
