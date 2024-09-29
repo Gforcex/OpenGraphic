@@ -462,13 +462,12 @@ Graphic Engine &amp; Game Engine open source list！
 
 ### Nature
 #### Water
-* [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity  
-* [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
-* [OceanProject](https://github.com/UE4-OceanProject/OceanProject) An Ocean Simulation project for Unreal Engine 4 [Environment-Project](https://github.com/UE4-OceanProject/Environment-Project)     
+* [crest](https://github.com/wave-harmonic/crest) :thumbsup:  A class-leading water system implemented in Unity
+* [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity
+* [GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) FFT-based ocean-wave rendering, implemented in Godot
+* [Environment-Project](https://github.com/UE4-OceanProject/Environment-Project) An Environment Simulation project for Unreal Engine 4.
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
-* [UE4_Dynamic_Water_Project](https://github.com/marvelmaster/UE4_Dynamic_Water_Project) Unreal Engine 4 Dynamic Water Project by marvelmaster
-* [WaveWorks](https://github.com/NvPhysX/UnrealEngine/tree/WaveWorks) WaveWorks is a library for simulating wind-driven waves on large bodies of water, in real time, using GPU acceleration.
-* [crest-oceanrender](https://github.com/huwb/crest-oceanrender) :thumbsup: Crest is a technically advanced ocean renderer implemented in Unity3D
+* [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
 * [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
 * [Water](https://github.com/GarrettGunnell/Water) Sum of sines and fft fluid simulation with a physically based water shader
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  [Ocean-URP](https://github.com/gasgiant/Ocean-URP) FFT ocean for Unity
@@ -477,6 +476,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [WaveParticle](https://github.com/AtwoodDeng/WaveParticle) A project for testing the wave particle
 * [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
 * [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
+* [UE4_Dynamic_Water_Project](https://github.com/marvelmaster/UE4_Dynamic_Water_Project) Unreal Engine 4 Dynamic Water Project by marvelmaster
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
   
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
