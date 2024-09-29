@@ -504,6 +504,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Sand
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) An Unity project to reproduce the sand rendering in Journey's style
 #### Grass
+* [GodotGrass](https://github.com/2Retr0/GodotGrass) Per-blade grass rendering inspired by "Ghost of Tsushima", implemented in Godot
 * [KvantGrass](https://github.com/keijiro/KvantGrass) Animating grass shader for Unity
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) https://roystan.net/articles/grass-shader.html
 * [GLGrassRenderer](https://github.com/LesleyLai/GLGrassRenderer)  implementation of Responsive Real-Time Grass Rendering for General 3D Scenes
