@@ -417,8 +417,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
 * [Probulator](https://github.com/kayru/Probulator) Experimentation framework for probe-based lighting
 * [PBR](https://github.com/Nadrin/PBR) An implementation of physically based shading model & image based lighting in various graphics APIs.
-* [IBLGGX](https://github.com/tuccio/IBLGGX) Sample implementation of UE4/Frostbite image based lighting method based on GGX convolution of HDR environment maps.
-* [IntegrateDFG](https://github.com/knarkowicz/IntegrateDFG) DFG LUT generator
 * [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
 #### AreaLight
 * [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
@@ -505,6 +503,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) An Unity project to reproduce the sand rendering in Journey's style
 #### Grass
 * [GodotGrass](https://github.com/2Retr0/GodotGrass) Per-blade grass rendering inspired by "Ghost of Tsushima", implemented in Godot
+* [UnityURP-InfiniteGrassField](https://github.com/Youssef-Afella/UnityURP-InfiniteGrassField) An Infinite GPU Instanced Grass Field that doesn't require storing trillions of positions in memory
 * [KvantGrass](https://github.com/keijiro/KvantGrass) Animating grass shader for Unity
 * [UnityGrassGeometryShader](https://github.com/IronWarrior/UnityGrassGeometryShader) https://roystan.net/articles/grass-shader.html
 * [GLGrassRenderer](https://github.com/LesleyLai/GLGrassRenderer)  implementation of Responsive Real-Time Grass Rendering for General 3D Scenes
