@@ -13,6 +13,7 @@
 ## Tools
 * [hipie](https://github.com/igor-elovikov/hipie) Houdini Tools 
 * [MLOPs](https://github.com/Bismuth-Consultancy-BV/MLOPs) Machine Learning Toolset for Houdini
+* [hpaint](https://github.com/aaronsmithtv/hpaint) HPaint is a viewport drawing utility for Houdini, allowing you to digitally paint on any geometry.
   
 # Material
 * [egMatLib](https://github.com/eglaubauf/egMatLib) About Material Library for Houdini Mantra, Redshift and Arnold
