@@ -697,6 +697,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [compute_rasterizer](https://github.com/m-schuetz/compute_rasterizer) Rendering Point Clouds with Compute Shaders
 * [potree](https://github.com/potree/potree) WebGL point cloud viewer for large datasets
 * [point2mesh](https://github.com/ranahanocka/point2mesh) Reconstruct Watertight Meshes from Point Clouds [SIGGRAPH 2020]
+* [point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 #### Shear-warp
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools. [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
@@ -774,6 +775,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Fast-BVH](https://github.com/brandonpelfrey/Fast-BVH) A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
+* [tinybvh](https://github.com/jbikker/tinybvh) Single-header BVH construction and traversal library.
 * [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
 * [nbvh](https://github.com/WeiPhil/nbvh) Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
@@ -1268,11 +1270,12 @@ Other.....
 * [DMotion](https://github.com/gamedev-pro/dmotion) DMotion - A high level Animation Framework for Unity DOTS
 * [Mesh-Animation](https://github.com/codewriter-packages/Mesh-Animation) Mesh Animation is lightweight library for rendering hundreds of meshes in one draw call with GPU instancing.
 * [Animation-Texture-Baker](https://github.com/sugi-cho/Animation-Texture-Baker) Animation Texture Baker for Unity
+* [GPUInstance](https://github.com/mkrebser/GPUInstance) Instancing & Animation library for Unity3D
 * [VertexAnimation](https://github.com/Maximilian-Winter/VertexAnimation) Vertex animation baking tool, shaders and animation system for Unity DOTS/ECS.
 * [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation) Simple but very fast GPU vertex shader based animation system for Unity.Entities
 * [acl](https://github.com/nfrechette/acl) Animation Compression Library
 * [cal3d](https://sourceforge.net/projects/cal3d/) Askeletal based 3d character animation library written in C++ in a platform-/graphic API-independent way.
-* [GPUSkinning](https://github.com/chengkehan/GPUSkinning)
+* [GPUSkinning](https://github.com/chengkehan/GPUSkinning) GPUSkinning to improve performance
 * [UE4_MotionMatching-](https://github.com/Hethger/UE4_MotionMatching-) Early Implementation of Motion Matching tech
 * [skeleton-builder](https://github.com/alecjacobson/skeleton-builder)
 * [hazumu](https://github.com/emily-vo/hazumu) Raytracing Skeletal Animation
