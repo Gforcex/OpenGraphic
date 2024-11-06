@@ -107,3 +107,10 @@
 ### Demo
 * [GamePhysicsCookbook](https://github.com/gszauer/GamePhysicsCookbook) 《Game Physics Cookbook》for Unity
 * [SimplePhysicsDemo](https://github.com/LotteMakesStuff/SimplePhysicsDemo) A simple lil demo showing a jobified physics system
+
+### Simulation 
+* [Kratos](https://github.com/KratosMultiphysics/Kratos) Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software
+* [delfem2](https://github.com/nobuyuki83/delfem2) Research prototyping framework for physics simulation written in C++
+* [elmerfem](https://github.com/elmercsc/elmerfem) Official git repository of Elmer FEM software
+* [mfem](https://github.com/mfem/mfem) Lightweight, general, scalable C++ library for finite element methods
+* [precice](https://github.com/precice/precice) A coupling library for partitioned multi-physics simulations, including, but not restricted to fluid-structure interaction and conjugate heat transfer simulations.
