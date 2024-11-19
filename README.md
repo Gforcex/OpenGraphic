@@ -546,7 +546,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Raymarch-Clouds](https://github.com/Flafla2/Raymarch-Clouds) Unity Iq's Clouds.
 * [droplet-render](https://github.com/jaelpark/droplet-render) Volumetric cloud modeling and rendering for Blender.
 * [Mesh-Cloud-Rendering](https://github.com/maajor/Mesh-Cloud-Rendering) Reimplement Sea of Thieves's Cloud in Unity
-* [UnlitClouds](https://github.com/AlexStrook/UnlitClouds) A unity cloud shader, using vertex colors and tessellation for a simple stylized look.
+* [godot_volumetric_smoke](https://github.com/HungryProton/godot_volumetric_smoke) A tiny experiment to recreate the volumetric smoke for Counter Strike 2 in Godot
 #### Sky
 * [Dante83/A-Starry-Sky](https://github.com/Dante83/A-Starry-Sky) A Realistic Skybox for A Frame! :D
 * [SkyboxPanoramicShader](https://github.com/Unity-Technologies/SkyboxPanoramicShader) 
@@ -876,6 +876,11 @@ Other.....
 * [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
 * [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
 #### Sampling
+* [SamplinSafari](https://github.com/wkjarosz/SamplinSafari)  :thumbsup:  Samplin' Safari is a research tool to visualize and interactively inspect high-dimensional (quasi) Monte Carlo samplers.
+* [libsampling](https://github.com/thu-vis/libsampling) A library of sampling algorithms
+* [poisson-disc-sampling](https://github.com/udit/poisson-disc-sampling) Poisson Disc Sampling in GDScript for Godot
+* [stochastic-generation](https://github.com/Andrew-Helmer/stochastic-generation)  C++ implementation of "Stochastic Generation of (t,s) Sample Sequences", by Helmer, Christensen, and Kensler (2021)
+* [LindeBuzoGrayStippling](https://github.com/MarcSpicker/LindeBuzoGrayStippling) An interactive demo application for the algorithm proposed in our SIGGRAPH Asia 2017 technical paper.
 * [SampleZoo](https://github.com/Atrix256/SampleZoo) Simple implementations of sampling patterns, with objective tests to compare them
 #### Random
 * [pcg-cpp](https://github.com/imneme/pcg-cpp) PCG Random Number Generation
@@ -1200,7 +1205,8 @@ Other.....
 * [dp_rect_pack](https://github.com/danpla/dp_rect_pack) Rectangle packing library for C++
 * [UnityRuntimeSpriteSheetsGenerator](https://github.com/DaVikingCode/UnityRuntimeSpriteSheetsGenerator) Unity – generate SpriteSheets at runtime!
 * [pack-spheres](https://github.com/mattdesl/pack-spheres)  Brute force circle/sphere packing in 2D or 3D
-* [texture-defrag](https://github.com/maggio-a/texture-defrag) Texture Defragmentation for Photo-Reconstructed 3D Models 
+* [texture-defrag](https://github.com/maggio-a/texture-defrag) Texture Defragmentation for Photo-Reconstructed 3D Models
+* [smol-atlas](https://github.com/aras-p/smol-atlas) 2D rectangular bin packing with option for item removal  
 #### GPU Debug
 * [renderdoc](https://github.com/baldurk/renderdoc) A stand-alone graphics debugging tool. https://renderdoc.org
 * [tracy](https://github.com/wolfpld/tracy) A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.
