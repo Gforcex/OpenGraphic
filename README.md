@@ -212,6 +212,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Voxel_Cone_Tracing](https://github.com/kbladin/Voxel_Cone_Tracing)  [Voxel-Cone-Tracing](https://github.com/Cigg/Voxel-Cone-Tracing)    easy to understand
 #### SSGI
 * [SSRT3](https://github.com/cdrinmatane/SSRT3) Real-time global illumination using screen-space information for Unity HDRP
+* [URP_SSR](https://github.com/EricHu33/URP_SSR) Screen space reflection for Unity 2022 and Unity6
 * [UnitySSGIURP](https://github.com/jiaozi158/UnitySSGIURP) Screen Space Global Illumination for Unity URP (Universal Render Pipeline).
 * [SSGI-URP](https://github.com/demonixis/SSGI-URP) Screen Space Global Illumination for Unity Universal Render Pipeline
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
