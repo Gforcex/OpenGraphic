@@ -223,6 +223,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Path tracing
 * [minpt](https://github.com/hi2p-perim/minpt) A path tracer in 300 lines of C++
 * [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) :thumbsup: A GLSL Path Tracer
+* [path_tracer](https://github.com/MomentsInGraphics/path_tracer) :thumbsup:  An educational path tracer written in C using Vulkan to supplement a lecture series on path tracing.
 * [PSRayTracing](https://github.com/define-private-public/PSRayTracing) A (modern) C++ implementation of the first two books of the Peter Shirley Ray Tracing mini-books
 * [rayn](https://github.com/termhn/rayn) A small path tracing renderer written in Rust.
 * [TrueTrace-Unity-Pathtracer](https://github.com/Pjbomb2/TrueTrace-Unity-Pathtracer)  A passion projects that has been going on for awhile, finally at a place where I feel comfortable tentatively uploading it to Github for others
@@ -231,6 +232,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [edubpt](https://github.com/githole/edubpt)
 * [Volumetric-Path-Tracer](https://github.com/sergeneren/Volumetric-Path-Tracer) Volumetric path tracer using cuda
 * [simple-spectral](https://github.com/imallett/simple-spectral) A Simple Spectral Renderer
+* [HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer) Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing renderer
 #### RTX
 * [Q2RTX](https://github.com/NVIDIA/Q2RTX)  NVIDIA’s implementation of RTX ray-tracing in Quake II [zyanidelab/Q2RTX](https://github.com/zyanidelab/Q2RTX)
 * [Quartz](https://github.com/Nadrin/Quartz)  Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language.
@@ -783,6 +785,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [bvh](https://github.com/madmann91/bvh) A modern C++ BVH construction and traversal library
 * [bvh](https://github.com/shinjiogaki/bvh) BVH STAR in Japanese
 * [tinybvh](https://github.com/jbikker/tinybvh) Single-header BVH construction and traversal library.
+* [unity-tinybvh](https://github.com/andr3wmac/unity-tinybvh) An example implementation for tinybvh in Unity and a foundation for building compute based raytracing solutions.
 * [bvh_article](https://github.com/jbikker/bvh_article) Code accompanying the blog post on bvh construction.
 * [nbvh](https://github.com/WeiPhil/nbvh) Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 * [ComputeShaderBVHMeshHit](https://github.com/fuqunaga/ComputeShaderBVHMeshHit) Unity ComputeShader implementation of BVH(Bounding Volume Hierarchy) based mesh hit checking.
