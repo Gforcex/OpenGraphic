@@ -174,6 +174,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [SphericalHarmonicLighting](https://github.com/jan-van-bergen/SphericalHarmonicLighting) Global Illumination using Spherical Harmonics
 * [Urho3D-1.4-SphericalHarmonicLighting](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting) Testing spherical harmonic lighting based on the spherical-harmonic-lighting.pdf
 ####  Irradiance Environment Maps
+* [Probulator](https://github.com/kayru/Probulator)  :thumbsup:  Experimentation framework for probe-based lighting
+* [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
 * [envtools](https://github.com/rlk/envtools) Utilities to manipulate spherical images
 #### Irradiance Probes/Voxels
 * [webgl-deferred-irradiance-volumes](https://github.com/pyalot/webgl-deferred-irradiance-volumes)  An implementation of deferred irradiance volumes in WebGL
@@ -423,9 +425,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### IBL
 * [IBLBaker](https://github.com/derkreature/IBLBaker)  Light probe generation and BRDF authoring for physically based shading.
 * [cmftStudio](https://github.com/dariomanesku/cmftStudio)  cross-platform open-source cubemap filtering tool.
-* [Probulator](https://github.com/kayru/Probulator) Experimentation framework for probe-based lighting
 * [PBR](https://github.com/Nadrin/PBR) An implementation of physically based shading model & image based lighting in various graphics APIs.
-* [hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly.
 #### AreaLight
 * [LTC_BRDF_Fit](https://github.com/EvgeniiG/LTC_BRDF_Fit)  BRDF fitting code for LTC Area Lights by Heitz et al.
 * [ltc_code](https://github.com/selfshadow/ltc_code) Code for "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines"
