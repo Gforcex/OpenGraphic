@@ -928,6 +928,7 @@ Other.....
 * [blaze](https://github.com/aurimasg/blaze) Multi-threaded, CPU-based vector graphics rasterizer.
   
 #### TextureCompressed
+* [RTXNTC](https://github.com/NVIDIA-RTX/RTXNTC) NVIDIA Neural Texture Compression SDK 
 * [nv_dds](https://github.com/paroj/nv_dds) DDS image loader for OpenGL/ OpenGL ES2 http://paroj.github.io/nv_dds/
 * [nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) Texture processing tools with support for Direct3D 10 and 11 formats. 
 * [crunch](https://github.com/BinomialLLC/crunch)  Advanced DXTc texture compression and transcoding library http://binomial.info
