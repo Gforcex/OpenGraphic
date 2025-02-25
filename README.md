@@ -843,6 +843,7 @@ Other.....
 * [GlmSharp](https://github.com/Philip-Trettner/GlmSharp) Open-source semi-generated GLM-flavored math library for .NET/C#
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
 * [klein](https://github.com/jeremyong/klein) :thumbsup:  P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library https://jeremyong.com/klein
+* [oneMath](https://github.com/uxlfoundation/oneMath) oneAPI Math Library (oneMath)  
 * [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [polyscope](https://github.com/nmwsharp/polyscope) A prototyping-oriented UI for geometric algorithms https://polyscope.run
