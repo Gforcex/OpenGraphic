@@ -842,7 +842,7 @@ Other.....
 * [cglm](https://github.com/recp/cglm)  Highly Optimized Graphics Math (glm) for C
 * [GlmSharp](https://github.com/Philip-Trettner/GlmSharp) Open-source semi-generated GLM-flavored math library for .NET/C#
 * [GEOS](http://trac.osgeo.org/geos) Geometry Engine
-* [klein](https://github.com/jeremyong/klein) :thumbsup:  P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library https://jeremyong.com/klein
+* [klein](https://github.com/jeremyong/klein) P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library https://jeremyong.com/klein
 * [oneMath](https://github.com/uxlfoundation/oneMath) oneAPI Math Library (oneMath)  
 * [MTL](https://svn.simunova.com/svn/mtl4/trunk) Matrix Template Library,  a linear algebra library for C++ programs.
 * [DirectXMath](https://github.com/Microsoft/DirectXMath) DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
@@ -884,6 +884,7 @@ Other.....
 #### Sampling
 * [SamplinSafari](https://github.com/wkjarosz/SamplinSafari)  :thumbsup:  Samplin' Safari is a research tool to visualize and interactively inspect high-dimensional (quasi) Monte Carlo samplers.
 * [libsampling](https://github.com/thu-vis/libsampling) A library of sampling algorithms
+* [poisson-disk-generator](https://github.com/corporateshark/poisson-disk-generator) Poisson disk points generator in C++ in a single file
 * [poisson-disc-sampling](https://github.com/udit/poisson-disc-sampling) Poisson Disc Sampling in GDScript for Godot
 * [stochastic-generation](https://github.com/Andrew-Helmer/stochastic-generation)  C++ implementation of "Stochastic Generation of (t,s) Sample Sequences", by Helmer, Christensen, and Kensler (2021)
 * [LindeBuzoGrayStippling](https://github.com/MarcSpicker/LindeBuzoGrayStippling) An interactive demo application for the algorithm proposed in our SIGGRAPH Asia 2017 technical paper.
