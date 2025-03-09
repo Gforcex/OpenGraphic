@@ -391,8 +391,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [android-gpuimage](https://github.com/cats-oss/android-gpuimage) Android filters based on OpenGL (idea from GPUImage for iOS)
 * [NonuniformBlur](https://github.com/StarsX/NonuniformBlur) A very fast approximation to large-kernel Gaussian blur with nonuniform blur radii, by making use of box-filtered mip maps V-cycle 
 #### SuperResolution
-* [FidelityFX-FSR2](https://github.com/GPUOpen-Effects/FidelityFX-FSR2) FidelityFX Super Resolution 2
-* [FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)  FidelityFX Super Resolution 
+* [FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR)  FidelityFX Super Resolution
+* [OptiScaler](https://github.com/cdozdil/OptiScaler) OptiScaler bridges upscaling/frame gen across GPUs. 
 * [Anime4K](https://github.com/bloc97/Anime4K) A High-Quality Real Time Upscaler for Anime Video
 * [Magpie](https://github.com/Blinue/Magpie) Magpie 是一个轻量级的窗口缩放工具，内置了多种高效的缩放算法和滤镜。它主要用于提升游戏画质和让不支持全屏化的游戏也能全屏显示等。
 * [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
