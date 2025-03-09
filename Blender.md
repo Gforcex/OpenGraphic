@@ -1,4 +1,5 @@
 * [awesomeblend](https://github.com/Davetmo/awesomeblend) A curated list of awesome Blender add-ons, tools, tutorials and resources for 3D Artists, Hobbyists, Developers, Researchers. Focused mostly open source and free resources. Blender 2.8+ compatible list.
+* [BlenderProc](https://github.com/DLR-RM/BlenderProc) A procedural Blender pipeline for photorealistic training image generation
 * [MB-Lab](https://github.com/animate1978/MB-Lab) MB-Lab is a character creation tool for Blender 2.80, based off ManuelBastioniLAB https://www.mblab.dev
 * [TexTools-Blender](https://github.com/SavMartin/TexTools-Blender) http://renderhjs.net/textools/blender/
 * [DreamUV](https://github.com/leukbaars/DreamUV) DreamUV is a collection of tools that allow you to manipulate UVs in the 3D viewport.
@@ -34,3 +35,4 @@
 * [blender_vertex_color_master](https://github.com/andyp123/blender_vertex_color_master) Blender addon for working more precisely with vertex colours
 * [engon](https://github.com/polygoniq/engon) https://blendermarket.com/products/engon
 * [ucupaint](https://github.com/ucupumar/ucupaint) Ucupaint is Blender addon to manage texture layers for Eevee and Cycles renderer.
+* [camera_shakify](https://github.com/EatTheFuture/camera_shakify) An addon for Blender that lets you easily add realistic camera shake to your cameras.
