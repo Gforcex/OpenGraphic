@@ -220,6 +220,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [FSSGI](https://github.com/bloc97/FSSGI) Fast Screen Space Global Illumination
 * [mfssgi](https://github.com/MFrankfort84/mfssgi)
 #### Radiance Cascades
+* [src-dgi](https://github.com/mxcop/src-dgi) Surfel Radiance Cascades Diffuse Global Illumination
 * [RadianceCascadesUnity](https://github.com/Youssef-Afella/RadianceCascadesUnity) A simple 2D implementation of Radiance Cascades by Alexander Sannikov in Unity
 * [Unity-2D-Radiance-Cascade-Demo](https://github.com/ZY4N/Unity-2D-Radiance-Cascade-Demo) Demo 2D implementation of radiance cascade global illumination in Unity.
 #### Path tracing
