@@ -454,6 +454,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [libWetHair](https://github.com/nepluno/libWetHair) A Multi-Scale Model for Simulating Liquid-Hair Interactions http://libwethair.info
 * [Realtime-Vulkan-Hair](https://github.com/clach/Realtime-Vulkan-Hair) University of Pennsylvania, CIS 565: GPU Programming and Architecture, Final Project
 * [VHair](https://github.com/kennux/VHair) A highly experimental hair rendering and simulation solution for the Unity game engine
+* [Hair-Renderer-2](https://github.com/AEspinosaDev/Hair-Renderer-2) Vulkan-based strand-level hair renderer    
 #### Colth
 * [libwetcloth](https://github.com/nepluno/libwetcloth) A Multi-Scale Model for Simulating Liquid-Fabric Interactions
 * [fabric-micro-detail-scattering](https://github.com/bradweiers/fabric-micro-detail-scattering) Micro Detail Fabric Shader
