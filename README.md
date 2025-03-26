@@ -377,7 +377,9 @@ Graphic Engine &amp; Game Engine open source list！
 * [Unity_StarGlow](https://github.com/XJINE/Unity_StarGlow)  This is an implementation of Kawase's light-streak.
 #### Tone Mapping
 * [tonemapper](https://github.com/tizian/tonemapper) A tool for exploring and applying various tonemapping operators.
-* [AgX-Tonemapping-Unity](https://github.com/FairplexVR/AgX-Tonemapping-Unity) AgX Tonemapping for Unity
+* [glsl-tone-map](https://github.com/dmnsgn/glsl-tone-map) A collection of tone mapping functions available both as ES modules strings and as GLSL files for use with glslify
+* [ToneMapping](https://github.com/KhronosGroup/ToneMapping) A collection of tone mappers for the display of 3D graphics
+* [AgXc](https://github.com/MrLixm/AgXc) Fork of Troy.S AgX, a display rendering transform available via OCIO and more
 * [prod80-ReShade-Repository](https://github.com/prod80/prod80-ReShade-Repository) Highly advanced Color Effects created for Reshade  
 * [aces-dev](https://github.com/ampas/aces-dev)  AMPAS Academy Color Encoding System Developer Resources http://www.oscars.org/aces
 * [tony-mc-mapface](https://github.com/h3r2tic/tony-mc-mapface) Takes HDR Rec.709/sRGB stimulus, and maps it to LDR. It's tranquil and collected, and won't set your eyes ablaze.
