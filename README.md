@@ -42,7 +42,7 @@ Graphic Engine &amp; Game Engine open source list！
 ---
 
 ## Official
-* Unity [Unity-Technologies](https://github.com/Unity-Technologies)  &nbsp;&nbsp; [unity3d-jp](https://github.com/unity3d-jp)  &nbsp;&nbsp;  [UnityLabs](https://github.com/UnityLabs)  &nbsp;&nbsp;  [UnityTech](https://github.com/unitytech)
+* Unity [Unity-Technologies](https://github.com/Unity-Technologies)  &nbsp;&nbsp; [unity3d-jp](https://github.com/unity3d-jp)  &nbsp;&nbsp;  [UnityLabs](https://github.com/UnityLabs)  &nbsp;&nbsp;  [Unity-China](https://github.com/Unity-China)
 * AMD  [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  &nbsp;&nbsp; [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  &nbsp;&nbsp;  [GPUOpen-Effects](https://github.com/GPUOpen-Effects)  &nbsp;&nbsp;  [GPUOpen-Drivers](https://github.com/GPUOpen-Drivers)
 * NVIDIA [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  &nbsp;&nbsp; [nvpro-samples](https://github.com/nvpro-samples)  &nbsp;&nbsp; [NVIDIA](https://github.com/NVIDIA)  &nbsp;&nbsp;  [NVlabs](https://github.com/NVlabs)  
 * Intel [Intel GameTechDev](https://github.com/GameTechDev) https://software.intel.com/gamedev
@@ -590,6 +590,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) ighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
 * [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
 * [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
+* [Unity-URP-Volumetric-Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light) Adds support to render volumetric lighting for both the main and additional lights in URP. Compatible with URP render graph in Unity 6.
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog) A volumetric fog implementation in Unity
 #### FakeVolumetricLight
 * [VolumetricTracer](https://github.com/Fewes/VolumetricTracer) A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.
