@@ -5,6 +5,7 @@
 * [UModel](https://github.com/gildor2/UModel) Viewer and exporter for Unreal Engine 1-4 assets (UE Viewer).
 * [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) Embed Python in Unreal Engine 4
 * [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) Unreal Engine 4 plugin component for rendering runtime generated content. http://ue4rmc.koderz.io
+* [ProceduralDungeon](https://github.com/BenPyton/ProceduralDungeon) This is an Unreal Engine 4/5 plugin to generate procedural dungeon.
 * [Unreal-Library](https://github.com/EliotVU/Unreal-Library) UE Explorer's library for parsing data from games built with the Unreal Engine.
 * [CoverSystem](https://github.com/GlassBeaver/CoverSystem) Real-Time Dynamic Cover System for Unreal Engine 4
 * [UE4ShaderPluginDemo](https://github.com/Temaran/UE4ShaderPluginDemo) A tutorial project that shows how to implement HLSL Pixel and Compute shaders in UE4
