@@ -33,7 +33,7 @@
 * [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) Roslyn Analyzer for Unity3D 
 #### Disassembly
 * [ILSpy](https://github.com/icsharpcode/ILSpy) .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-* [dnSpy](https://github.com/dnSpy/dnSpy) .NET debugger and assembly editor
+* [dnSpy](https://github.com/dnSpyEx/dnSpy) .NET debugger and assembly editor
 * [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 * [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) Unity il2cpp reverse engineer
 * [Il2CppInspector](https://github.com/djkaty/Il2CppInspector) Powerful automated tool for reverse engineering Unity IL2CPP binaries www.djkaty.com
@@ -49,13 +49,6 @@
 * [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
 * [xNode](https://github.com/Siccity/xNode) Lets you view and edit node graphs inside Unity
 * [Sleipnir](https://github.com/red-owl-games/Sleipnir) A graph editor framework for Unity's new UIElements system https://redowlgames.com/Sleipnir
-#### FileFormat
-* [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
-* [GLTFUtility](https://github.com/Siccity/GLTFUtility) Lightweight GLTF importer for Unity
-* [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
-#### Serializer
-* [unity-atoms](https://github.com/unity-atoms/unity-atoms) Tiny modular pieces utilizing the power of Scriptable Objects
-* [odin-serializer](https://github.com/TeamSirenix/odin-serializer) Fast, robust, powerful and extendible .NET serializer built for Unity
 #### Texture
 * [UnityPackedColor](https://github.com/Leopotam/UnityPackedColor) Packer for already packed textures at unity game engine - up to 3 times less space.
 * [unity-texture-packer](https://github.com/andydbc/unity-texture-packer)   Utility to combine color channels from different textures into a single output.
@@ -67,6 +60,8 @@
 * [Path-Creator](https://github.com/SebLague/Path-Creator)  Path creation asset for Unity game development 
 * [GPU-Spline-Deformation](https://github.com/RoyTheunissen/GPU-Spline-Deformation) Baking spline deformation to a texture then applying it to a mesh via a shader.
 * [unity-nurbs](https://github.com/komietty/unity-nurbs) Unity base NURBS spline and surface module
+#### HotUpdate
+* [hybridclr](https://github.com/focus-creative-games/hybridclr) HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
 #### Others
 * [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)  A NuGet Package Manager for Unity
 * [FastScriptReload](https://github.com/handzlikchris/FastScriptReload) Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
@@ -95,6 +90,7 @@
 ## Gizmos
 * [gizmos](https://github.com/popcron/gizmos)  Used for drawing runtime gizmos in builds and editor (Unity3D)
 * [ReGizmo](https://github.com/Refsa/ReGizmo)  Immediate-Mode Gizmos for unity
+  
 ## Editor
 * [CategoryTool](https://github.com/Demkeys/CategoryTool) Unity Editor tool to create Categories in the Hierarchy. The Categories work as dividers between GameObjects.
 * [RapidGUI](https://github.com/fuqunaga/RapidGUI) Unity OnGUI(IMGUI) extensions for Rapid prototyping/development
@@ -103,7 +99,8 @@
 * [UnityDynamicPanels](https://github.com/yasirkula/UnityDynamicPanels) Draggable, resizable, dockable and stackable UI panel solution for Unity 3D
 #### Editor Util
 * [UndoPro](https://github.com/Seneral/UndoPro) UndoPro is a command-based undo system integrated into Unity's default system. This allows devs to use actions for their undo/redo operations without forcing the user into a new undo-workflow!
-
+* [AsmdefHelper](https://github.com/naninunenoy/AsmdefHelper) Unity assembly definition utilities.
+  
 ## UI
 * [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) HSV color picker for Unity UI
 * [UIEffect](https://github.com/mob-sakai/UIEffect) UIEffect is an effect component for uGUI element in Unity
@@ -111,6 +108,7 @@
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) Create 2D shapes in an instant with the PolyMesh editor! 
 * [Unity-MeshMask](https://github.com/leoin2012/Unity-MeshMask)  effient,easy use Mask Component compare to Unity Mask, cost less drawcall and lower pixel fill rate.
 * [com.pixelwizards.utilities](https://github.com/PixelWizards/com.pixelwizards.utilities) Some Unity utilities (UV tools, resource checker etc) packaged for Unity's Package Manager
+  
 ## AI
 * [unity-movement-ai](https://github.com/antonpantev/unity-movement-ai)  A Unity library for common movement AI
 * [UnityGeneticAlgorithmMaze](https://github.com/createthis/UnityGeneticAlgorithmMaze)  Modern reimplementation in Unity of Bob's Map from AI Techniques for Game Programming
@@ -120,11 +118,6 @@
 * [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) Toy Gaussian Splatting visualization in Unity
 * [Stable-Diffusion-Unity-Integration](https://github.com/dobrado76/Stable-Diffusion-Unity-Integration) Stable-Diffusion-Unity-Integration 
 
-## Tween
-* [dotween](https://github.com/Demigiant/dotween) A Unity C# animation engine. HOTween v2
-* [unity-tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
-* [MagicTween](https://github.com/AnnulusGames/MagicTween)  Extremely fast tween library implemented in Unity ECS 
-
 ## Utils
 * [ProceduralToolkit ](https://github.com/Syomus/ProceduralToolkit)  Procedural generation library for Unity
 * [Graphmesh](https://github.com/Siccity/Graphmesh)  Graph-based mesh modifiers.
@@ -132,9 +125,23 @@
 * [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting)  Unity Scripting in C++ https://jacksondunstan.com/articles/3938
 * [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation)  Front end visualisation of 40 common easing equations.
 * [Graphics-Raycast](https://github.com/Jonny10/Graphics-Raycast) GPU-based raycaster for Unity which raycasts against MeshRenderers, rather than colliders. 
-
+#### Tween
+* [dotween](https://github.com/Demigiant/dotween) A Unity C# animation engine. HOTween v2
+* [unity-tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
+* [MagicTween](https://github.com/AnnulusGames/MagicTween)  Extremely fast tween library implemented in Unity ECS
+#### FileFormat
+* [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
+* [GLTFUtility](https://github.com/Siccity/GLTFUtility) Lightweight GLTF importer for Unity
+* [EncodeToTGA](https://github.com/phwitti/EncodeToTGA)  Texture2D.EncodeToTGA (Unity)
+#### Serializer
+* [unity-atoms](https://github.com/unity-atoms/unity-atoms) Tiny modular pieces utilizing the power of Scriptable Objects
+* [odin-serializer](https://github.com/TeamSirenix/odin-serializer) Fast, robust, powerful and extendible .NET serializer built for Unity
+    
 ## Rendering
 * [SpecularProbes](https://github.com/zulubo/SpecularProbes) Bake specular highlights into Unity Reflection Probes, allowing baked lights to cast sharp specular highlights for free
 * [OcclusionProbes](https://github.com/0lento/OcclusionProbes)  Unofficial Occlusion Probes Package, requires Unity 2019.1+
 * [WaterByBakeDepth](https://github.com/AsehesL/WaterByBakeDepth)
 * [realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) Realtime-CSG, CSG level editor for Unity https://realtimecsg.com
+
+## ECS
+* [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) A Unity DOTS framework for my personal projects
