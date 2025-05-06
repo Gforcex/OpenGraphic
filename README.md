@@ -970,6 +970,7 @@ Other.....
 
 ## Mesh
 #### IO
+* [ufbx](https://github.com/ufbx/ufbx)  :thumbsup:  Single source file FBX loader
 * [assimp](https://github.com/assimp/assimp) A library to import and export various 3d-model-formats   
 * [open3mod](https://github.com/acgessler/open3mod) Open 3D Model Viewer - A quick and powerful 3D model viewer  
 * [DirectXMesh](https://github.com/Microsoft/DirectXMesh)   DirectXMesh geometry processing library
