@@ -661,8 +661,10 @@ Graphic Engine &amp; Game Engine open source list！
 * [DanbaidongRP](https://github.com/danbaidong1111/DanbaidongRP) ToonRenderPipeline Unity6 RayTracing
 * [NPR_Lab](https://github.com/candycat1992/NPR_Lab) Test some NPR in Unity.
 * [UnityChanToonShader](https://github.com/Unity-Technologies/com.unity.toonshader) Unity Toon Shader ( an experimental package )
+* [URP_Toon](https://github.com/ChiliMilk/URP_Toon) A Toon Shader in Unity Universal Render Pipeline
 * [lilToon](https://github.com/lilxyzw/lilToon) Feature-rich shaders for avatars
-* [JasonMaToonRenderPipeline](https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline) JTRP : Unity HDRP ToonShading Render Pipeline (Preview) 
+* [MooaToon](https://github.com/JasonMa0012/MooaToon) The Ultimate Solution for Cinematic Toon Rendering in UE5 [mooatoon.com](https://mooatoon.com/)
+* [JTRP](https://github.com/JasonMa0012/JTRP) JTRP : Unity HDRP ToonShading Render Pipeline (Preview) 
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
 * [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [FernRPExample](https://github.com/FernRP/FernRPExample) This project is the implementation of FernRP Package, Include NPR/PBR.
