@@ -666,7 +666,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [MooaToon](https://github.com/JasonMa0012/MooaToon) The Ultimate Solution for Cinematic Toon Rendering in UE5 [mooatoon.com](https://mooatoon.com/)
 * [JTRP](https://github.com/JasonMa0012/JTRP) JTRP : Unity HDRP ToonShading Render Pipeline (Preview) 
 * [UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
-* [ToonShading](https://github.com/Kink3d/ToonShading) A collection of "Toon" shaders for Unity based on a stepped PBR approximation.
 * [FernRPExample](https://github.com/FernRP/FernRPExample) This project is the implementation of FernRP Package, Include NPR/PBR.
 * [kamakura-shaders](https://github.com/kayac/kamakura-shaders) NPR for Unity with a bunch of features and adjustable parameters in a user-friendly interface.
 * [MToon](https://github.com/Santarh/MToon) Toon Shader with Unity Global Illumination
