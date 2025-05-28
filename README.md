@@ -593,6 +593,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [VolumetricLighting](https://github.com/Unity-Technologies/VolumetricLighting) ighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights
 * [Aura](https://github.com/raphael-ernaelsten/Aura) Volumetric Lighting for Unity
 * [Vapor](https://github.com/ArthurBrussee/Vapor) Volumetric Fog for Unity
+* [VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) Nextgen voxel based light probes replacement for VRChat
 * [Unity-URP-Volumetric-Light](https://github.com/CristianQiu/Unity-URP-Volumetric-Light) Adds support to render volumetric lighting for both the main and additional lights in URP. Compatible with URP render graph in Unity 6.
 * [unity-volumetric-fo](https://github.com/SiiMeR/unity-volumetric-fog) A volumetric fog implementation in Unity
 #### FakeVolumetricLight
