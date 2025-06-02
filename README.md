@@ -626,6 +626,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [nTiled](https://github.com/BeardedPlatypus/nTiled) nTiled - forward and deferred openGL renderer with support for Tiled Shading, Clustered Shading and Hashed Shading
 * [DeferredTexturing](https://github.com/TheRealMJP/DeferredTexturing) A rendering sample that demonstrates bindless deferred texturing using D3D12
 * [SweetTexelShading](https://github.com/julhe/SweetTexelShading) Texel-Shading (experimental!) with Unity's ScriptableRenderPipeline
+* [real-time-seamless-object-space-shading](https://github.com/WeakKnight/real-time-seamless-object-space-shading) Eurographics 2024 Short Paper "Real-time Seamless Object Space Shading"  
 
 ## Camera 
 #### Physically Based Camera
