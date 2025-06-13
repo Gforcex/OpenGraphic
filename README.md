@@ -1020,6 +1020,7 @@ Other.....
 * [Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library) mesh processing techniques in computer graphics published at ACM SIGGRAPH in 1992–1998  
 * [pmp-library](https://github.com/pmp-library/pmp-library) The Polygon Mesh Processing Library
 * [PyMesh](https://github.com/qnzhou/PyMesh) a rapid prototyping platform focused on geometry processing https://pymesh.readthedocs.io
+* [Clipper2](https://github.com/AngusJohnson/Clipper2) Polygon Clipping and Offsetting - C++, C# and Delphi
 * [trimesh](https://github.com/mikedh/trimesh) Python library for loading and using triangular meshes.  
 * [libigl](https://github.com/libigl/libigl) Simple C++ geometry processing library.
 * [libmesh](https://github.com/libMesh/libmesh) libMesh github repository [libmesh.github.io](https://libmesh.github.io/)
