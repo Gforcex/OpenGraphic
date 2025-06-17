@@ -995,6 +995,7 @@ Other.....
 * [voronoi](https://github.com/JCash/voronoi) A C implementation for creating 2D voronoi diagrams
 * [poly2tri](https://github.com/greenm01/poly2tri) Fast and Robust Simple Polygon Triangulation With/Without Holes  [poly2tri-cs](https://github.com/MaulingMonkey/poly2tri-cs)  
 * [CDT](https://github.com/artem-ogre/CDT) C++ library for constrained Delaunay triangulation (CDT)
+* [CDT](https://github.com/MarcoAttene/CDT) CDT - Constrained Delaunay Tetrahedrization made robust and practical
 * [delaunator](https://github.com/mapbox/delaunator) An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 * [unity-triangulation2D](https://github.com/mattatz/unity-triangulation2D) Ruppert's Delaunay Refinement Algorithm in Unity
 * [unity-delaunay-triangulation](https://github.com/komietty/unity-voronoi) Voronoi mesh generator
@@ -1031,6 +1032,7 @@ Other.....
 * [mmg](https://github.com/MmgTools/mmg) open source software for bidimensional and tridimensional remeshing http://www.mmgtools.org
 * [Directional](https://github.com/avaxman/Directional) Directional is a C++ library for creating, manipulating and visualizing directional fields on 3D meshes
 * [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
+* [VolumeMesher](https://github.com/MarcoAttene/VolumeMesher) Convex Polyhedral Meshing for Robust Solid Modeling 
 #### Sketch
 * [monster-mash](https://github.com/google/monster-mash) A new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. 
 #### Optimization
