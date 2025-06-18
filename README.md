@@ -583,6 +583,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) Test of a frosted glass material in Unity.
 #### Gem
 * [UnityRayTracingGem](https://github.com/Sorumi/UnityRayTracingGem)  Ray tracing gem shader for Unity
+#### Liquid
+* [UTC_LiquidShader](https://github.com/UniversalToolCompiler/UTC_LiquidShader)Dynamic liquid shader for UE5 using Substrate material.
 
 ## Environment
 #### VolumetricLight
@@ -1032,7 +1034,8 @@ Other.....
 * [mmg](https://github.com/MmgTools/mmg) open source software for bidimensional and tridimensional remeshing http://www.mmgtools.org
 * [Directional](https://github.com/avaxman/Directional) Directional is a C++ library for creating, manipulating and visualizing directional fields on 3D meshes
 * [Easy3D](https://github.com/LiangliangNan/Easy3D) A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data
-* [VolumeMesher](https://github.com/MarcoAttene/VolumeMesher) Convex Polyhedral Meshing for Robust Solid Modeling 
+* [VolumeMesher](https://github.com/MarcoAttene/VolumeMesher) Convex Polyhedral Meshing for Robust Solid Modeling
+* [Computational-geometry](https://github.com/Habrador/Computational-geometry) Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc
 #### Sketch
 * [monster-mash](https://github.com/google/monster-mash) A new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. 
 #### Optimization
