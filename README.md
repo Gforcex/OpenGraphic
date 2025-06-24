@@ -1285,6 +1285,7 @@ Other.....
 * [NVIDIA Direct3D SDK 9](https://developer.download.nvidia.com/SDK/9.5/Samples/samples.html) [download all](https://www.nvidia.com/de-de/drivers/sdk-9/)
 * [NVIDIA GameWorks Graphics Samples](https://github.com/lyntel/GraphicsSamples) GameWorks cross-platform graphics API samples
 * [opengl-es-sdk-for-android](https://github.com/ARM-software/opengl-es-sdk-for-android) OpenGL ES SDK for Android
+* [MetalSampleCode](https://developer.apple.com/metal/sample-code/) Metal sample code
 * [powervr-graphics](https://github.com/powervr-graphics)  PowerVR by Imagination
 * [GodComplex](https://github.com/Patapom/GodComplex) it's more of an all-purpose dev. framework...
 #### Book Code
