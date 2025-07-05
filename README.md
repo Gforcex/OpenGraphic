@@ -487,6 +487,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [Water](https://github.com/GarrettGunnell/Water) Sum of sines and fft fluid simulation with a physically based water shader
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  [Ocean-URP](https://github.com/gasgiant/Ocean-URP) FFT ocean for Unity
 * [EncinoWaves](https://github.com/blackencino/EncinoWaves) Implementation of "Empirical Directional Wave Spectra for Computer Graphics" paper by Christopher Horvath
+* [HigWaterSystem2](https://github.com/Higgins-PT/HigWaterSystem2) Hig Water System 2.0 is an advanced, user-friendly, and realistic ocean surface rendering solution focused on simulating lifelike visuals.
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 * [WaveParticle](https://github.com/AtwoodDeng/WaveParticle) A project for testing the wave particle
 * [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
