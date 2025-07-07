@@ -90,7 +90,8 @@
 * [sheen](https://github.com/sciecode/sheen) GPGPU cloth simulation
 * [simulator](https://github.com/sutongkui/simulator) It's a GPU-based real time cloth simulator and interactive.
 * [ClothSimulation](https://github.com/johnBuffer/ClothSimulation) Basic cloth simulation using Verlet integration
-
+* [libwetcloth](https://github.com/nepluno/libwetcloth) A Multi-Scale Model for Simulating Liquid-Fabric Interactions
+  
 ### Softbodie
 * [Softbodies](https://github.com/Ideefixze/Softbodies) Softbodies, jiggly items and other slimy stuff in Unity
 * [CPDeform](https://github.com/lester0866/CPDeform) [ICLR 2022] Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
