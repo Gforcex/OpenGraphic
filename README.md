@@ -723,6 +723,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Other
 * [OpenVDB](https://github.com/dreamworksanimation/openvdb) Sparse volume data structure and tools. [OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity)
 * [unreal-vdb](https://github.com/eidosmontreal/unreal-vdb)  [thilamb forked](https://github.com/thilamb/unreal-vdb) This repo is a non-official Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.
+* [unity-nanovdb-renderer](https://github.com/andersblomqvist/unity-nanovdb-renderer) A proof of concept renderer for NanoVDB in Unity 6
 * [openvkl](https://github.com/openvkl/openvkl) Intel® Open Volume Kernel Library (Intel® Open VKL) is a collection of high-performance volume computation kernels
 
 ## Acceleration
@@ -908,6 +909,7 @@ Other.....
 
 ## Image&Color
 #### Noise
+* [SteerablePerlinNoise](https://github.com/jakericedesigns/SteerablePerlinNoise) Implementations of "Steerable Perlin Noise" as presented at Siggraph 2025
 * [fastnoise](https://github.com/electronicarts/fastnoise) Filter-adapted Spatiotemporal Sampling for Real-Time Rendering
 * [procedural-tileable-shaders](https://github.com/tuxalin/procedural-tileable-shaders) Collection of tileable procedural textures such as: cellular noise, fbm, voronoi, perlin and other.
 * [FastNoiseLite](https://github.com/Auburn/FastNoiseLite) Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL
