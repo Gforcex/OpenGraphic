@@ -1327,13 +1327,15 @@ Other.....
 #### ML
 * [AI4Animation](https://github.com/sebastianstarke/AI4Animation) Character Animation in Unity3D using Deep Learning and Artificial Intelligence
 #### Bone
+* [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) unity bone cloth spring system,base by jobs
 * [uSpringBone](https://github.com/EsProgram/uSpringBone) High performance SpringBone using ECS and JobSystem in Unity.
 * [UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone) UnityChan Sping Bone System for lightweight secondary animations
 * [SPCRJointDynamics](https://github.com/SPARK-inc/SPCRJointDynamics) 布風骨物理エンジン
 * [EZSoftBone](https://github.com/EZhex1991/EZSoftBone) A simple kinetic simulator for Unity, you can use it to simulate hair/tail/breast/skirt and other soft objects
-* [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 * [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) Simple fake Physics for UnrealEngine4 & 5
-* [Procedural-Rigging-in-Unity](https://github.com/Wenzy--/Procedural-Rigging-in-Unity) An experiment about procedural rigging. 
+* [Procedural-Rigging-in-Unity](https://github.com/Wenzy--/Procedural-Rigging-in-Unity) An experiment about procedural rigging.
+#### Extract Bones
+* [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 #### IK
 * [SimpleIK](https://github.com/ditzel/SimpleIK) Unity Inverse Kinematics made easy
 #### Skin
