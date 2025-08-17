@@ -81,6 +81,7 @@
 ### Finite Element
 * [mfem](https://github.com/mfem/mfem) Lightweight, general, scalable C++ library for finite element methods.  mfem.org  
 * [FEMcy](https://github.com/mo-hanxuan/FEMcy) a finite element solver based on Taichi, being parallel (CPU/GPU), portable and open-source
+* [polyfem](https://github.com/polyfem/polyfem) A polyvalent C++ FEM library
 
 ### Cloth
 * [GPU-Cloth-Simulation](https://github.com/JUSTIVE/GPU-Cloth-Simulation)  GPU Mass-Spring Simulation Cloth in Unity
