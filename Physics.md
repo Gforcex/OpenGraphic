@@ -91,6 +91,7 @@
 * [sheen](https://github.com/sciecode/sheen) GPGPU cloth simulation
 * [simulator](https://github.com/sutongkui/simulator) It's a GPU-based real time cloth simulator and interactive.
 * [ClothSimulation](https://github.com/johnBuffer/ClothSimulation) Basic cloth simulation using Verlet integration
+* [Velvet](https://github.com/vitalight/Velvet) A CUDA-accelerated cloth simulation engine based on Extended Position Based Dynamics (XPBD).
 * [libwetcloth](https://github.com/nepluno/libwetcloth) A Multi-Scale Model for Simulating Liquid-Fabric Interactions
   
 ### Softbodie
