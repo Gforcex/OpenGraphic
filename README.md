@@ -1007,6 +1007,7 @@ Other.....
 * [Constrained_Delaunay_Triangulation](https://github.com/Samson-Mano/Constrained_Delaunay_Triangulation) Constrained Delaunay Triangulation (CDT) of a random surface domain.
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) Hull, Delaunay and Voronoi algorithms in Unity
 * [BurstTriangulator](https://github.com/andywiecko/BurstTriangulator) 2d Delaunay triangulation with mesh refinement for Unity with Burst compiler
+* [delaunator-sharp](https://github.com/nol1fe/delaunator-sharp) Fast Delaunay triangulation of 2D points implemented in C#.
 #### Hull
 * [3d-quickhull](https://github.com/karimnaaji/3d-quickhull) Header only 3d quickhull in c99 http://www.karim.naaji.fr/projects/quickhull
 * [qhull](https://github.com/qhull/qhull) Qhull development for www.qhull.org
