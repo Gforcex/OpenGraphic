@@ -508,14 +508,19 @@ Graphic Engine &amp; Game Engine open source list！
 [Eric.Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/)  [Brunetons-Ocean](https://github.com/Scrawk/Brunetons-Ocean)
 * [tgda](https://github.com/eiszapfen2000/tgda) A real-time capable implementation of Tessendorf's choppy wave algorithm [Tessendorf1999a], augmented with wave spectrum models from oceanographic research
 #### Snow
+* [UnrealSnow](https://github.com/bneukom/UnrealSnow) Unreal Engine snow simulation for large terrains using Compute Shaders for GPU paralellization.
+* [snow](https://github.com/Azmisov/snow)  OpenGL and Houdini snow simulation (material point method)
+* [SnowSimulation](https://github.com/hubi037/SnowSimulation) GPU Snow Simulation for Unity and Direct3D
+#### DynamicSnow
+* [unity-footprints](https://github.com/edualvarado/unity-footprints) Real-Time Locomotion on Soft Grounds with Dynamic Footprints - 2022 - Frontiers in Virtual Reality
+* [Sand-Shader-Unity-URP-for-Mobile](https://github.com/TheodorKnab/Sand-Shader-Unity-URP-for-Mobile) Mobile friendly Unity sand/snow shader using the Universal Render Pipeline - Uses Unity Version 2020.1.2f1
+* [SnowSimulation](https://github.com/TheBeach54/SnowSimulation)
 * [Unity-IndentShader](https://github.com/wacki/Unity-IndentShader) http://wacki.me/blog/2017/01/dynamic-snow-sand-shader-for-unity/
 * [SnowDeformation](https://github.com/vanish87/SnowDeformation) To create a snow accumulation and deformation effect along with physical based rendering
-* [UnrealSnow](https://github.com/bneukom/UnrealSnow) Unreal Engine snow simulation for large terrains using Compute Shaders for GPU paralellization.
 * [DeepSnowFootprint](https://github.com/ZGeng/DeepSnowFootprint) A unity shader solution to generate footprint on thick snow surfaces.
 * [unity-deformablesnow](https://github.com/thnewlands/unity-deformablesnow) Repository for online PIGSquad workshop on deformable snow in Unity.
-* [SnowSimulation](https://github.com/hubi037/SnowSimulation) GPU Snow Simulation for Unity and Direct3D 
-* [snow](https://github.com/Azmisov/snow)  "A Material Point Method for Snow Simulation" (Stomakhin et al., 2013).
-* [SnowSimulation](https://github.com/TheBeach54/SnowSimulation)
+
+
 #### Sand
 * [JourneySand](https://github.com/AtwoodDeng/JourneySand) An Unity project to reproduce the sand rendering in Journey's style
 #### Grass
@@ -1294,10 +1299,11 @@ Other.....
 * [GodComplex](https://github.com/Patapom/GodComplex) it's more of an all-purpose dev. framework...
 #### Book Code
 * [d3d12book](https://github.com/d3dcoder/d3d12book) Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
-* [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode)
-* [GraphicsGems](https://github.com/erich666/GraphicsGems)
-* [GPUZen](https://github.com/wolfgangfengel/GPUZen)
-* [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems)
+* [OpenGLInsightsCode](https://github.com/OpenGLInsights/OpenGLInsightsCode) Source code for OpenGL Insights
+* [jgt-code](https://github.com/erich666/jgt-code) Code developed for articles in the "Journal of Graphics Tools"
+* [GraphicsGems](https://github.com/erich666/GraphicsGems) Code for the "Graphics Gems" book series
+* [GPUZen](https://github.com/wolfgangfengel/GPUZen) contains the source code accompanying the book GPU Zen.
+* [ray-tracing-gems](https://github.com/Apress/ray-tracing-gems) Source Code for "Ray Tracing Gems: High-Quality and Real-Time Rendering with DXR and Other APIs" by Eric Haines and Tomas Akenine-Möller
 * [jgt-code](https://github.com/erich666/jgt-code) Code developed for articles in the "Journal of Graphics Tools"
 * [Mastering-Graphics-Programming-with-Vulkan](https://github.com/PacktPublishing/Mastering-Graphics-Programming-with-Vulkan)  Mastering Graphics Programming with Vulkan, published by Packt
 #### Graphics Awesome
