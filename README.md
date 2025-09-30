@@ -49,6 +49,7 @@ Graphic Engine &amp; Game Engine open source list！
 * ARM [ARM-software](https://github.com/ARM-software)
 * Qualcomm [SnapdragonStudios](https://github.com/SnapdragonStudios)
 * PowerVR [powervr-graphics](https://github.com/powervr-graphics)
+* Microsoft [microsoft](https://github.com/microsoft)
 * TheKhronosGroup [The Khronos Group](https://github.com/KhronosGroup) https://www.khronos.org/
 * AcademySoftwareFoundation [Academy Software Foundation](https://github.com/AcademySoftwareFoundation) https://www.aswf.io/
 * Pixar [Pixar Animation Studios](https://github.com/PixarAnimationStudios) http://graphics.pixar.com
@@ -387,6 +388,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [prod80-ReShade-Repository](https://github.com/prod80/prod80-ReShade-Repository) Highly advanced Color Effects created for Reshade  
 * [aces-dev](https://github.com/ampas/aces-dev)  AMPAS Academy Color Encoding System Developer Resources http://www.oscars.org/aces
 * [tony-mc-mapface](https://github.com/h3r2tic/tony-mc-mapface) Takes HDR Rec.709/sRGB stimulus, and maps it to LDR. It's tranquil and collected, and won't set your eyes ablaze.
+* [flim](https://github.com/bean-mhm/flim) flim - Filmic Color Transform
 #### ProceduralProcessing
 * [NeuralNetworkPostProcessing](https://github.com/maajor/NeuralNetworkPostProcessing) Unity Post Processing with Convolution Neural Network
 * [RunwayML-for-Unity](https://github.com/runwayml/RunwayML-for-Unity) RunwayML for Unity 🎯 https://runwayml.com/integrations
@@ -817,17 +819,15 @@ Graphic Engine &amp; Game Engine open source list！
 #### SDF
 * [Discregrid](https://github.com/InteractiveComputerGraphics/Discregrid) A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 * [IsoMesh](https://github.com/EmmetOT/IsoMesh) A group of related tools for Unity for converting meshes into signed distance field data, raymarching signed distance fields, and extracting signed distance field data back to meshes via surface nets or dual contouring.
+* [mesh_to_sdf](https://github.com/Azkellas/mesh_to_sdf) A Mesh to SDF converter, written in rust
 * [MeshToSDF](https://github.com/aman-tiwari/MeshToSDF) Unity. Computer Shader. JFD Generate SDF in realtime
 * [unity-sdf-generator](https://github.com/danielshervheim/Signed-Distance-Field-Generator) A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.
 * [msdfgen](https://github.com/Chlumsky/msdfgen) Multi-channel signed distance field generator
 * [SDFGen](https://github.com/christopherbatty/SDFGen) A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes
 * [DeepSDF](https://github.com/facebookresearch/DeepSDF) Learning Continuous Signed Distance Functions for Shape Representation
 * [sdfu](https://github.com/termhn/sdfu) Signed Distance Field Utilities https://crates.io/crates/sdfu
-* [mTec](https://github.com/xx3000/mTec)   Rendering the World Using a Single Triangle:Efficient Distance Field Rendering
 * [distance-occlusion](https://github.com/andrewwillmott/distance-occlusion) A library of distance and occlusion generation routines
-* [pb_CSG](https://github.com/karl-/pb_CSG) Constructive Solid Geometry (CSG) [csg.js](https://evanw.github.io/csg.js/)
 * [rust_test](https://github.com/sebbbi/rust_test) :thumbsup: 
-* [snelly](https://github.com/portsmouth/snelly) A system for physically-based SDF (signed distance field) pathtracing in WebGL
 * [sdf-explorer](https://github.com/tovacinni/sdf-explorer)  JCGT / I3D paper, "A Dataset and Explorer for 3D Signed Distance Functions".
 
 ## Transparency
