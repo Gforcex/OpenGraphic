@@ -4,13 +4,14 @@
 * [JoltPhysics](https://github.com/jrouwe/JoltPhysics) A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 * [JoltPhysicsUnity](https://github.com/seep/JoltPhysicsUnity) Jolt Physics bindings for Unity
 * [bullet](https://github.com/bulletphysics/bullet3) Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc
-* [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
+* [newton](https://github.com/newton-physics/newton) An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 * [Gaia](https://github.com/AnkaChan/Gaia) Gaia Physics Engine
 * [ODE](https://www.ode.org/) Open Dynamics Engine
 * [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics/) Newton Dynamics is an integrated solution for real time simulation of physics environments.
 * [chrono](https://github.com/projectchrono/chrono) C++ library for multi-physics simulation
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
-* [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev) OpenFOAM Foundation development repository. https://openfoam.org/  
+* [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev) OpenFOAM Foundation development repository. https://openfoam.org/
+* [zeno](https://github.com/zenustech/zeno) ZEn NOde system https://zenustech.com/
 
 ### Collision Detection
 * [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d) Open source C++ physics engine library in 3D
