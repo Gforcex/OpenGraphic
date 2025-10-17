@@ -73,6 +73,7 @@
 * [SaintsField](https://github.com/TylerTemp/SaintsField) A Unity Inspector extension tool focusing on script fields inspector enhancement
 * [Markup-Attributes](https://github.com/gasgiant/Markup-Attributes) A Unity Editor extension for customizing inspector layout with attributes.
 * [MyBox](https://github.com/Deadcows/MyBox) MyBox is a set of attributes, tools and extensions for Unity
+* [orels-Unity-Shaders](https://github.com/orels1/orels-Unity-Shaders)       [shaders.orels.sh](https://shaders.orels.sh/)
 * [Unity-Editor-Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
 * [LucidEditor](https://github.com/AnnulusGames/LucidEditor) Powerful Editor Extensions for Unity
 * [UnityFoldoutDecorator](https://github.com/giuliano-marinelli/UnityFoldoutDecorator) Foldout as a Decorator for group variables in Unity Script Inspector
