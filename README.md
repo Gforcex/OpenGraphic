@@ -1001,6 +1001,11 @@ Other.....
 #### Deform  
 * [UnityPenetrationTech](https://github.com/naelstrof/UnityPenetrationTech) A gpu-based deformation system for mapping penetrators along orifice paths.
 * [Deform](https://github.com/keenanwoodall/Deform) A framework for deforming meshes in the editor and at runtime in Unity.
+#### Partitioning 
+* [METIS](https://github.com/KarypisLab/METIS) METIS - Serial Graph Partitioning and Fill-reducing Matrix Ordering
+* [scotch](https://gitlab.inria.fr/scotch/scotch) Package for graph and mesh/hypergraph partitioning, graph clustering, and sparse matrix ordering.
+* [kahypar](https://github.com/kahypar/kahypar) KaHyPar is a multilevel hypergraph partitioning framework providing direct k-way and recursive bisection based partitioning algorithms that compute solutions of very high quality.
+* [KaHIP](https://github.com/KaHIP/KaHIP) KaHIP -- Karlsruhe HIGH Quality Partitioning.
 #### DelaunayTriangulation
 * [Triangle.NET](https://github.com/wo80/Triangle.NET)  :thumbsup:  C# / .NET version of Jonathan Shewchuk's Triangle mesh generator. [Triangle.Net-for-Unity](https://github.com/Nox7atra/Triangle.Net-for-Unity)   
 * [voronoi](https://github.com/JCash/voronoi) A C implementation for creating 2D voronoi diagrams
