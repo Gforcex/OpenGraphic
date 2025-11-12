@@ -192,6 +192,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [BrixelizerGi](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/tree/main/samples/brixelizergi) FidelityFX Brixelizer GI is a simplified implementation of AMD GI-1.0
 * [Capsaicin](https://github.com/GPUOpen-LibrariesAndSDKs/Capsaicin)
 #### SurfelGI
+* [SurfelPlus](https://github.com/WANG-Ruipeng/SurfelPlus) [SIGGRAPH 25 Poster] A realtime global illumination renderer using Surfels as scene cache.
 * [SurfelGI](https://github.com/W298/SurfelGI) Real-Time dynamic global illumination based on surfel. This project is based on GIBS presented at SIGGRAPH 2021.
 #### VPL
 * [VSGL](https://github.com/yusuketokuyoshi/VSGL) Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights
