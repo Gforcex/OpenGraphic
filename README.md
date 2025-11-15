@@ -104,6 +104,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [angle](https://github.com/google/angle) A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 * [Vita3K](https://github.com/Vita3K/Vita3K) Experimental PlayStation Vita emulator vita3k.org/
 * [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) vkd3d-proton is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan. The project serves as the development effort for Direct3D 12 support in Proton.
+* [Tellusim_Core_SDK](https://github.com/Tellusim/Tellusim_Core_SDK) Cross-platform C++ SDK for graphics, compute, and simulation. Supports GPU-accelerated algorithms, meshes, images, and UI, with bindings for C#, Rust, Swift, and Python. Prebuilt builds and docs available.
 
 ## Offline Path Tracing
 * [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
@@ -133,10 +134,11 @@ Graphic Engine &amp; Game Engine open source list！
 * [IDKEngine](https://github.com/BoyBaykiller/IDKEngine) OpenGL Toy-"Engine" with Wavefront Path Tracer and Rasterizer Pipeline with Voxel Cone Tracing/Global Illumination
     
 ## Soft Renderer
+* [tinyrenderer](https://github.com/ssloy/tinyrenderer)  A brief computer graphics / rendering course
+* [foolrenderer](https://github.com/cadenji/foolrenderer) A tiny software renderer implemented from scratch without the use of graphics API, used to understand how GPUs work.
 * [OpenSWR](http://openswr.org/) A High Performance, Highly Scalable Software Rasterizer for OpenGL
 * [miaow](https://github.com/VerticalResearchGroup/miaow) An open source GPU based off of the AMD Southern Islands ISA.
 * [SalviaRenderer](https://github.com/wuye9036/SalviaRenderer) SALVIA is the rasterizer based software renderer. The goal of SALVIA is capacity of Direct3D 10+.
-* [tinyrenderer](https://github.com/ssloy/tinyrenderer)  A brief computer graphics / rendering course
 * [coco3d](http://coco3d.codeplex.com/) Coco3D is a real-time 3D software renderer for Windows PCs and mobile devices
 * [swiftshader](https://github.com/google/swiftshader) high-performance CPU-based implementation of the OpenGL ES and Direct3D 9 graphics APIs
 * [mesa](https://gitlab.freedesktop.org/mesa/mesa) :thumbsup: https://www.mesa3d.org
