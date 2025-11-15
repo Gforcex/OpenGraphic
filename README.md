@@ -1087,6 +1087,9 @@ Other.....
 * [moderngpu](https://github.com/moderngpu/moderngpu) Patterns and behaviors for GPU computing
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) ILGPU JIT Compiler for high-performance .Net GPU programs   www.ilgpu.net
 * [gpu-io](https://github.com/amandaghassaei/gpu-io) A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
+#### Shader Library
+* [common-shaders](https://github.com/libretro/common-shaders) Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.
+* [lygia](https://github.com/patriciogonzalezvivo/lygia) LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal, WGSL, WEGL and CUDA) shader library designed for performance and flexibility
 #### JIT
 * [taichi](https://github.com/taichi-dev/taichi)  Productive & portable high-performance programming in Python.  taichi-lang.org
 * [Halide](https://github.com/halide/Halide) a language for fast, portable data-parallel computation  halide-lang.org
