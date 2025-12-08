@@ -472,9 +472,7 @@ Graphic Engine &amp; Game Engine open source list！
 #### Silk
 #### Fur
 * [UnityFurURP](https://github.com/hecomi/UnityFurURP) Fur shader implementation for URP
-* [FurRendering](https://github.com/jose-villegas/FurRendering) Fur rendering in Unity with Shell Texturing
 * [UnityFurShader](https://github.com/Sorumi/UnityFurShader)  Fur shader for Unity.
-* [GIFT_PorterDoll](https://github.com/marza-realtime/GIFT_PorterDoll) PorterDoll Asset wtih "THE GIFT"
 * [ShellFurGodot](https://github.com/Arnklit/ShellFurGodot) Add-on that adds a fur node to the Godot engine, using a shell based approach to imitate fur strands.
 #### Glint 
 * [specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020)
