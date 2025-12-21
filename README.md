@@ -1195,6 +1195,7 @@ Other.....
 #### DataExchange
 * [Unity-AlembicToVAT](https://github.com/Gaxil/Unity-AlembicToVAT) Alembic to VAT (Vertex Animation Texture) mini tool
 * [Unity3D-VATUtils](https://github.com/Bonjour-Interactive-Lab/Unity3D-VATUtils) Extension of VAT shader form sideFX houdini with various utils for Unity
+* [VatBaker](https://github.com/fuqunaga/VatBaker) A tool to bake VAT (Vertex Animation Texture) from AnimationClip with sample shaders for Unity.
 * [VFXGraphSandbox](https://github.com/fuqunaga/VFXGraphSandbox) Unity VFX Graph technical experiment.
 * [alembic](https://github.com/alembic/alembic) Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/
 * [AlembicImporter](https://github.com/unity3d-jp/AlembicImporter) Alembic importer and exporter plugin for Unity
