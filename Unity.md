@@ -24,7 +24,6 @@
 * [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)  :thumbsup: Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them
 * [unity-reference-viewer](https://github.com/ina-amagami/unity-reference-viewer) It's a tool for searching asset references on Unity and displaying them on the window.  
 * [Unity-Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter) This tool finds unreferenced assets by scanning all files in your Unity project.
-* [AssetsReporter](https://github.com/wotakuro/AssetsReporter) [Unity] Report System for Asset Import Settings
 * [unitysizeexplorer](https://github.com/aschearer/unitysizeexplorer) Visualize how much space each asset in your Unity game takes
 * [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer)  A graph editor for viewing all UnityEvents at a glance
 * [Unity-AssetDependencyGraph](https://github.com/Unity-Harry/Unity-AssetDependencyGraph)  An Asset Dependency Graph for Unity
@@ -42,6 +41,7 @@
 #### Profiler
 * [ScreenshotToUnityProfiler](https://github.com/wotakuro/ScreenshotToUnityProfiler)
 * [ParticleEffectProfiler](https://github.com/sunbrando/ParticleEffectProfiler) Unity 特效性能分析工具
+* [VertexProfilerTool](https://github.com/SaberZG/VertexProfilerTool) 一个Unity中可用的顶点密度debug工具，部分调试类型可导出密度信息
 #### Stats Monitor
 * [VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage.
 * [graphy](https://github.com/Tayx94/graphy) Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
