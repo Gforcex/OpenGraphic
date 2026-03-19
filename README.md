@@ -902,7 +902,7 @@ Other.....
 * [VkFFT](https://github.com/DTolm/VkFFT) Vulkan Fast Fourier Transform library
 * [GLFFT](https://github.com/Themaister/GLFFT) A C++11/OpenGL library for the Fast Fourier Transform
 * [dj_fft](https://github.com/jdupuy/dj_fft) Header only FFT library
-#### Sampling
+#### Sampling & Reconstruction
 * [SamplinSafari](https://github.com/wkjarosz/SamplinSafari)  :thumbsup:  Samplin' Safari is a research tool to visualize and interactively inspect high-dimensional (quasi) Monte Carlo samplers.
 * [libsampling](https://github.com/thu-vis/libsampling) A library of sampling algorithms
 * [poisson-disk-generator](https://github.com/corporateshark/poisson-disk-generator) Poisson disk points generator in C++ in a single file
@@ -910,6 +910,7 @@ Other.....
 * [stochastic-generation](https://github.com/Andrew-Helmer/stochastic-generation)  C++ implementation of "Stochastic Generation of (t,s) Sample Sequences", by Helmer, Christensen, and Kensler (2021)
 * [LindeBuzoGrayStippling](https://github.com/MarcSpicker/LindeBuzoGrayStippling) An interactive demo application for the algorithm proposed in our SIGGRAPH Asia 2017 technical paper.
 * [SampleZoo](https://github.com/Atrix256/SampleZoo) Simple implementations of sampling patterns, with objective tests to compare them
+* [lanczos-2d](https://github.com/pixelflinger/lanczos-2d) Correct application of the Lanczos filter in 2D
 #### Random
 * [pcg-cpp](https://github.com/imneme/pcg-cpp) PCG Random Number Generation
 
