@@ -1,11 +1,11 @@
 # OpenUnity
 
 ## Tools
-#### Shader
-* [ShaderForge](https://github.com/FreyaHolmer/ShaderForge) unity shader node editor.
+#### ShaderVariant
 * [ShaderVariantCollector](https://github.com/lujian101/ShaderVariantCollector) 一种Shader变体收集和打包编译优化的思路
 * [SocoTools](https://github.com/crossous/SocoTools) Crossous's unity tools，currently contains shader variant stripper tools
-* [UnityShaderStripper](https://github.com/SixWays/UnityShaderStripper) Modular utilities for shader stripping to drastically improve Unity build times
+#### RenderingDebugger
+* [stencil-debugger](https://github.com/alexanderameye/stencil-debugger) Utility for visualizing the stencil buffer in Unity
 * [ShaderDebugger](https://github.com/arigo/ShaderDebugger) Simple Unity framework to debug shader code
 #### TexturePainter
 * [InkPainter](https://github.com/EsProgram/InkPainter) Texture-Paint on Unity. https://esprogram.github.io/InkPainterDocument/
