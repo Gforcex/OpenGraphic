@@ -912,6 +912,7 @@ Other.....
 * [LindeBuzoGrayStippling](https://github.com/MarcSpicker/LindeBuzoGrayStippling) An interactive demo application for the algorithm proposed in our SIGGRAPH Asia 2017 technical paper.
 * [SampleZoo](https://github.com/Atrix256/SampleZoo) Simple implementations of sampling patterns, with objective tests to compare them
 * [lanczos-2d](https://github.com/pixelflinger/lanczos-2d) Correct application of the Lanczos filter in 2D
+* [qaws](https://github.com/soufianekhiat/qaws) A dependency-free C11 library for creating, evaluating, sampling, traversing, and inspecting parametric curves and surfaces in 2D and 3D. One source, four backends: C, HLSL, GLSL, Halide
 #### Random
 * [pcg-cpp](https://github.com/imneme/pcg-cpp) PCG Random Number Generation
 
