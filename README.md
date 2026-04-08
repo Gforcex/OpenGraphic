@@ -483,10 +483,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [crest](https://github.com/wave-harmonic/crest) :thumbsup:  A class-leading water system implemented in Unity
 * [Ceto](https://github.com/Scrawk/Ceto) :thumbsup: Ceto: Ocean system for Unity
 * [GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) FFT-based ocean-wave rendering, implemented in Godot
-* [Environment-Project](https://github.com/UE4-OceanProject/Environment-Project) An Environment Simulation project for Unreal Engine 4.
-* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) Next gen iteration of the unity community ocean shader
-* [VaOcean](https://github.com/ufna/VaOcean) Ocean Surface Simulation Plugin for Unreal Engine 4
-* [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
 * [Water](https://github.com/GarrettGunnell/Water) Sum of sines and fft fluid simulation with a physically based water shader
 * [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)  [Ocean-URP](https://github.com/gasgiant/Ocean-URP) FFT ocean for Unity
 * [EncinoWaves](https://github.com/blackencino/EncinoWaves) Implementation of "Empirical Directional Wave Spectra for Computer Graphics" paper by Christopher Horvath
@@ -494,22 +490,18 @@ Graphic Engine &amp; Game Engine open source list！
 * [water-wave-packets](https://github.com/jeschke/water-wave-packets) Sandbox binary and source code for the Siggraph 2017 paper "Water Wave Packets" by Stefan Jeschke (NVIDIA) and Chris Wojtan (IST Austria)
 * [WaveParticle](https://github.com/AtwoodDeng/WaveParticle) A project for testing the wave particle
 * [Wave-Particles-with-Interactive-Vortices](https://github.com/ACskyline/Wave-Particles-with-Interactive-Vortices) A dx12 river renderer using wave particles with interactive vortices.
+* [HPWater](https://github.com/AshenOneArt/HPWater) HP Water Rendering System for Unity HDRP
 * [BoatAttack](https://github.com/Verasl/BoatAttack) com.verasl.water-system Gerstner waves water.
-* [UE4_Dynamic_Water_Project](https://github.com/marvelmaster/UE4_Dynamic_Water_Project) Unreal Engine 4 Dynamic Water Project by marvelmaster
 * [RealtimeWater](https://github.com/hpatjens/RealtimeWater) implemented based on "Fast Water Simulation for Games Using Height Fields".
-  
 * [UnityWaveEquation](https://github.com/AsehesL/UnityWaveEquation) unity实现二维波方程交互水面与实时焦散
-* [WaterCaustics](https://github.com/pabennett/WaterCaustics) Water caustic rendering experiments in OpenGL with Python
 * [threejs-caustics](https://github.com/martinRenou/threejs-caustics) Caustics computation using ThreeJS
 * [water-demo](https://github.com/shanecelis/water-demo) A port of Evan Wallace's "Water Demo" for WebGL to Unity.
-
-* [Ocean_mobile_with_boat_physic](https://github.com/laurentClave/Ocean_mobile_with_boat_physic) Ocean mobile with boat physic controller
-* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity
-
-* Jerry Tessendorf's paper "Simulating Ocean Water".  
-[fftocean](https://github.com/deiss/fftocean)  [ocean-simulation](https://github.com/klantz81/ocean-simulation)  [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean)
-* Eric.Bruneton's paper "an improved version using an FFT method to synthesize the surface."
-[Eric.Bruneton](http://evasion.inrialpes.fr/~Eric.Bruneton/)  [Brunetons-Ocean](https://github.com/Scrawk/Brunetons-Ocean)
+* [Unity-WaterBuoyancy](https://github.com/dbrizov/Unity-WaterBuoyancy) Water Buoyancy Simulation for Unity 
+* [fftocean](https://github.com/deiss/fftocean) Ocean Simulation Using FFT — C++, OpenGL, glut
+* [ocean-simulation](https://github.com/klantz81/ocean-simulation) An ocean simulation based on the paper by Jerry Tessendorf.
+* [Phillips-Ocean](https://github.com/Scrawk/Phillips-Ocean) A ocean using Phillips spectrum in Unity
+* [Brunetons-Ocean](https://github.com/Scrawk/Brunetons-Ocean) Brunetons ocean in Unity
+* [whitecaps](https://github.com/jdupuy/whitecaps)  Real-time Animation and Rendering of Ocean Whitecaps
 * [tgda](https://github.com/eiszapfen2000/tgda) A real-time capable implementation of Tessendorf's choppy wave algorithm [Tessendorf1999a], augmented with wave spectrum models from oceanographic research
 #### Snow
 * [UnrealSnow](https://github.com/bneukom/UnrealSnow) Unreal Engine snow simulation for large terrains using Compute Shaders for GPU paralellization.
