@@ -153,6 +153,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [SoftGLRender](https://github.com/keith2018/SoftGLRender) Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
 * [raster2mesh](https://github.com/sylefeb/raster2mesh) This project demonstrates a fun and intriguing approach to rasterize anything towards a mesh, using only GPU pixel shaders and rasterization on OpenGL 4.2.  
 * [PortableGL](https://github.com/rswinkle/PortableGL) An implementation of OpenGL 3.x-ish in clean C
+* [GLimpSW](https://github.com/dubiousconst282/GLimpSW) Real time Physically Based Rendering on the CPU using AVX512  
 
 ## Rendering Design
 * [FrameGraph](https://github.com/azhirnov/FrameGraph) vulkan abstraction layer that represent frame as a task graph
@@ -776,6 +777,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [HashDAG](https://github.com/Phyronnaz/HashDAG) Interactively Modifying Compressed Sparse Voxel Representations
 * [aabo](https://github.com/bryanmcnett/aabo) Axis Aligned Bounding Octahedron
 * [Transvoxel-XNA](https://github.com/BinaryConstruct/Transvoxel-XNA) Transvoxel implementation in C# for XNA
+* [NeighborSearchGridBurst](https://github.com/nezix/NeighborSearchGridBurst) Neighbor search using a grid based approach + C# job system + Burst
 #### CBT
 * [large_cbt](https://github.com/AnisB/large_cbt)  Concurrent Binary Trees for Large-Scale Game Components, at Siggraph 2024
 #### Octree&Quadtree
@@ -1025,6 +1027,7 @@ Other.....
 * [ScamScatter](https://github.com/danbystrom/ScamScatter) Open Source Real time procedural mesh destruction for Unity3D
 * [unity-destruction](https://github.com/williambl/unity-destruction) An open-source script to destroy objects realistically in Unity3D.
 * [OpenFracture](https://github.com/dgreenheck/OpenFracture) Open source mesh slicing/fracturing utility for Unity
+* [niagara-destruction-driver](https://github.com/eanticev/niagara-destruction-driver) Turn CHAOS destructibles (Geometry Collection assets) into very performant GPU simulated destructible static meshes driven by Niagara particles.
 #### Slicer
 * [ezy-slice](https://github.com/DavidArayan/ezy-slice)  :thumbsup:  An open source mesh slicer framework for Unity3D Game Engine. Written in C#.
 * [Unity-Plane-Mesh-Splitter](https://github.com/artnas/Unity-Plane-Mesh-Splitter) Split large meshes in Unity into smaller submeshes
@@ -1355,6 +1358,7 @@ Other.....
 * [DQ-skinning-for-Unity](https://github.com/ConstantineRudenko/DQ-skinning-for-Unity) DQ-skinning
 * [dem-bones](https://github.com/electronicarts/dem-bones) An automated algorithm to extract the linear blend skinning (LBS) from a set of example poses
 * [d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) d4rkpl4y3r's VRChat avatar 3.0 optimizer that aims to reduce skinned mesh & material count.
+* [MeshDeformUnity](https://github.com/PacosLelouch/MeshDeformUnity) Real-time mesh skinning with Direct Delta Mush algorithm implemented in Unity 2020.3.13.
 
 ## Particle
 * [XParticle](https://github.com/antoinefournier/XParticle)
