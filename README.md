@@ -297,8 +297,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [seamoptimizer](https://github.com/ands/seamoptimizer) A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.
 * [BakingLab](https://github.com/TheRealMJP/BakingLab) A D3D11 application for experimenting with Spherical Gaussian lightmaps
 * [GPULightmass](https://github.com/AlanIWBFT/GPULightmass) Luoshuang's GPULightmass for UE4
-* [trianglepacker](https://github.com/ray-cast/trianglepacker) Triangle packer for light map
-* [HDR_Lightmapper](https://github.com/Naxela/HDR_Lightmapper)  Implements a cycles based lightmapper with denoiser
 * [The_Lightmapper](https://github.com/Naxela/The_Lightmapper) Fast and easy baked GI Lightmaps for Blender and Cycles
 * [LightmapperToy](https://github.com/candycat1992/LightmapperToy) This project is a hobby lightmapper completely based on Houdini geometry nodes. Basically it grew out of a re-implementation of Matt's The Baking Lab with some modification. 
 #### MLGI
