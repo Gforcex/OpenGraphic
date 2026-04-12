@@ -107,7 +107,6 @@ Graphic Engine &amp; Game Engine open source list！
 * [Tellusim_Core_SDK](https://github.com/Tellusim/Tellusim_Core_SDK) Cross-platform C++ SDK for graphics, compute, and simulation. Supports GPU-accelerated algorithms, meshes, images, and UI, with bindings for C#, Rust, Swift, and Python. Prebuilt builds and docs available.
 
 ## Offline Path Tracing
-* [embree](https://github.com/embree/embree)  A collection of high-performance ray tracing kernels, developed at Intel.
 * [openmoonray](https://github.com/dreamworksanimation/openmoonray) MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer
 * [RadeonRays RadeonProRender](https://github.com/GPUOpen-LibrariesAndSDKs) ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
 * [mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) :thumbsup:  Mitsuba 3: A Retargetable Forward and Inverse Renderer http://mitsuba-renderer.org/
@@ -118,11 +117,14 @@ Graphic Engine &amp; Game Engine open source list！
 * [tungsten](https://github.com/tunabrain/tungsten) High performance physically based renderer in C++11
 * [etx-tracer](https://github.com/serhii-rieznik/etx-tracer) Physically-based CPU and GPU ray-tracer
 * [nori](https://github.com/wjakob/nori) Nori: an educational ray tracer https://wjakob.github.io/nori
-* [nanort](https://github.com/lighttransport/nanort)  single header only modern ray tracing kernel.
 * [yocto-gl](https://github.com/xelatihy/yocto-gl) Yocto/GL: Tiny C++ Libraries for Physically-based Graphics
 * [SORT](https://github.com/JerryCao1985/SORT)  Simple Open-source Ray Tracer https://agraphicsguy.wordpress.com/
-* [fermat](https://github.com/NVlabs/fermat) a high performance research oriented physically based rendering system, trying to produce beautiful pictures following the mathematician’s principle of least time
 * [gatling](https://github.com/pablode/gatling) Hydra-enabled GPU path tracer that supports MaterialX and MDL
+
+#### Ray Tracing Kernels
+* [embree](https://github.com/RenderKit/embree) Embree ray tracing kernels repository.
+* [HIPRT](https://github.com/GPUOpen-LibrariesAndSDKs/HIPRT) HIP RT is a ray tracing library for HIP, making it easy to write ray-tracing applications in HIP. The APIs and library are designed to be minimal, lower level, and simple to use and integrate into any existing HIP applications.
+* [nanort](https://github.com/lighttransport/nanort) NanoRT, single header only modern ray tracing kernel.
 
 ## Real-time Path Tracing
 * [kajiya](https://github.com/EmbarkStudios/kajiya)  Experimental real-time global illumination renderer
